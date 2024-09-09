@@ -1,4 +1,4 @@
-first time scraping a website:
+first time scraping a website:\
 run in order:
     scrape_from_web.py - generate pdf_links.txt, which has all the links of the pdf (scraped from the web) to be downloaded;
     scrape_pdf.py - generate directory output_pdfs, download all the pdf following pdf_links into it;

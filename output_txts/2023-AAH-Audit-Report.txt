@@ -1,0 +1,844 @@
+      
+CONTRACT AND ENROLLMENT REVIEW – SAN FRANCISCO  
+AUDITS AND INVESTIGATIONS  
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+Alameda Alliance  for Health  
+ 
+2023 
+ 
+Contract Number:  
+  
+04-35399  
+Audit Period:  
+   
+Dates of Audit: 
+   
+Report Issued: 
+ April 1, 2022  
+    Through 
+March  31,2023  
+ 
+April 17, 2023 
+    Through 
+April 28, 2023 
+ 
+October 20, 2023  
+ 
+  
+   
+TABLE  OF CONTENTS  
+    I. INTRODUCTION  .............................................................................. 1 
+II. EXECUTIVE SUMMARY  ................................................................. 2 
+III. SCOPE/AUDIT  PROCEDURES ....................................................... 5 
+IV. COMPLIANCE AUDIT  FINDINGS  
+Category  1 – Utilization  Management  .............................................. 7 
+Category  2 – Case  Management  and Coordination of Care  ............. 9 
+Category  3 – Access and Availability  of Care  ................................. 13 
+Category  4 – Member’s  Rights  ....................................................... 19 
+ 
+1 of 33   I. INTRODUCTION 
+  Alameda Alliance for Health (Plan) is a public, non- profit Managed Care Health Plan 
+with the objective to provide quality health care services to low -income residents of 
+Alameda County. The Alameda County Board of Supervisors established the Plan in 1994 in accordance with the Welfare  and Institutions  Code,  section 14087.54.  While  it is 
+a part of the county’s health system, the Plan is an independent entity that is separate from the county.  
+ The Plan was established to operate the local initiative for Alameda County under the State Department of Health Services’ Strategic Plan for expanding Medi -Cal Managed 
+Care. The Plan was initially licensed by the Department of Corporations in September 
+1995 and contracted with the California  Department  of Health  Care  Services  (DHCS)  in 
+November 1995. The Plan began operations in January 1996 as the first Two- Plan 
+Model health plan to be operational.  
+ As of March  31, 2023, the Plan had 355, 716 members. There were 349,991 (98.39 
+percent)  Medi -Cal members  and 5,725 (1.61 percent) group care commercial members . 
+ 
+ 
+2 of 33   II. EXECUTIVE SUMMARY 
+  This report  presents the audit findings of the Department of Health Care Services 
+(DHCS)  medical audit for the audit  period of April 1, 2022 through March 31, 2023. The 
+audit was conducted from April 17, 2023 through April 28, 2023.  The audit  consisted  of 
+document  review,  verification  studies,  and interviews with Plan representatives.  
+ An Exit Conference with the Plan was held on September  26, 2023 . The Plan was 
+allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the Exit Conference. The results of DHCS’ evaluation of the Plan’s response are reflected in this report.  
+ The audit  evaluated six categories  of performance:  Utilization  Management  (UM),  Case 
+Management and Coordination of Care, Access and Availability of Care, Member’s Rights, Quality Improvement (Q I), and Administrative and Organizational Capacity.  
+ The prior DHCS medical  audit  (for the period of April 1, 2021 through March  31, 2022) 
+was issued on September 9, 2022. This audit examined documentation for Contract compliance and assessed implementation of the Plan’s 2022  Corrective Action Plan 
+(CAP).  
+ Findings  denoted as repeat  findings  are uncorrected deficiencies  substantially  similar  to 
+those identified in previous audits.  
+ The summary  of findings  by category  follows:  
+ Category 1 – Utilization Management  
+ Category  1 includes  procedures  and requirements  for the Plan’s  UM program,  including 
+delegation of UM, prior authorization review and the prior authorization appeal process.  
+ 
+The Plan is required to provide members and providers with written notice of an adverse 
+benefit determination using the appropriate DHCS -developed standardized Notice of 
+Action (NOA) templates. The Plan did not ensure Community Health Center Network 
+(CHCN), a delegate, sent NOA letters to providers and members.  
+  
+Category 2 – Case  Management  and Coordination of Care  
+ Category  2 includes  requirements  for Complex  Case  Management  (CCM), Health  Risk 
+Assessments (HRA), Initial Health Assessments (IHA), Behavioral Health Treatment (BHT), and coordination of mental health services.  
+  
+3 of 33    The Plan is required to cover and ensure the provision of an IHA, which consists of a comprehensive history and physical examination, and preventive services . The Plan did 
+not ensure that a complete IHA was provided for new members.  
+ The Plan is required to provide medically necessary BHT  services as stated in a 
+member’s treatment plan. A Plan approved behavioral treatment plan is required to include but  is not limited to the following criteria: the member’s current level of need, 
+date of introduction, estimated date of mastery, and crisis plan. The Plan did not ensure members’ BHT treatment plans contained all the required elements.  
+ Category 3 – Access and Availability  of Care  
+ Category 3 includes requirements regarding member access to care, and the adjudication of claims  for emergency  services  and family  planning services,  and 
+provisions for Non- Emergency Medical Transportation (NEMT) and Non- Medical 
+Transportation (NMT).  
+ The Plan’s policies and procedures are required to ensure that a member’s first prenatal visit be available within two weeks upon request.  The Plan's policies and procedures did 
+not ensure a first prenatal visit for a pregnant member was a vailable within two weeks 
+upon request .  
+ The Plan is required to pay for emergency services at the less er of usual charges to the 
+public, maximum Medi -Cal fee -for-service rate or  negotiated rate. The Plan did not pay 
+non-contracted providers at the appropriate Medi -Cal fee -for-service rate.  
+ The Plan is required to pay qualified family planning providers a fixed add- on amount for 
+specified family planning services as required by All Plan Letter ( APL) 22-011. The Plan 
+did not distribute add- on payments for specified family planning services as required.  
+ The Plan is required to use a DHCS approved Physician Certification Statement (PCS) 
+form to determine the appropriate level of service for members needing NEMT services. The Plan did not ensure PCS forms were on file for members receiving NEMT services.  
+ The Plan is required to comply with the enrollment requirements set forth in APL 19- 004 
+or any superseding APL. The Plan may allow NEMT and NMT providers to participate in its network for up to 120 days . If the NEMT or NMT providers are unable to successfully 
+enroll in Medi -Cal, the Plan cannot cont inue to contract with the providers during the 
+period in which the provider resubmits its enrollment application. The Plan did not ensure all transportation providers were enrolled in the Medi -Cal program.  
+ Category 4 – Member’s Rights  
+ 
+Category 4 includes  requirements to protect member’s rights by properly handling 
+grievances  and reporting suspected security  incidents  of Protected Health  Information .  
+4 of 33    The Plan is required to provide written acknowledgement to members within five calendar days and written notice of resolution within 30 calendar days of receipt of a grievance. The Plan did not send acknowledgement and resolution letters within the required timeframes.  
+ The Plan is required to provide fully translated member information in identified threshol d languages, including grievance letters, to members at no cost. The Plan did 
+not send acknowledgement, resolution delay , and resolution letters in threshold 
+languages.  
+ The Plan is required to notify members in writing of the grievance status and the 
+estimated date of resolution should the resolution not be reached within 30 calendar 
+days. Plans are restricted from applying a federal 14 calendar day extension timeframe as a standard. The Plan did not send delay  letters for grievances that were not resolved 
+within 30 calendar days and did not resolve grievances by the estimated completion date specified in the delay  letters sent. The Plan inappropriately utilized a 14- calendar  
+day delay timeframe for grievance resolutions.  
+ The Plan is required to resolve al l exempt grievances by close of the next business day. 
+The Plan did not resolve exempt grievances by close of the next business day.  
+ The Plan is required to process all complaints as grievances. An inquiry is a request for information that does not include an expression of dissatisfaction. The Plan did not process and resolve all member expressions of dissatisfaction as grievances.  
+ Category 5 – Quality  Management  
+ Category 5 includes procedures and requirements to monitor, evaluate, and take effective  action to address  any needed improvements  in the quality  of care delivered by 
+providers.  
+ There were  no deficiencies  identified in this category.  
+ Category 6 – Administrative and Organizational  Capacity  
+ Category 6 includes a review of the Plan’s administrative and management arrangements or procedures, as well as a mandatory compliance plan, which are designed to guard against fraud and abuse.  
+ There were  no deficiencies  identified in this category.  
+ 
+5 of 33   III. SCOPE/AUDIT  PROCEDURES  
+  
+SCOPE  
+ This audit was conducted by the DHCS  Contract and Enrollment Review Division to 
+ascertain that medical  services provided to Plan members  comply  with federal  and state 
+laws, Medi -Cal regulations and guidelines, and the state Contract.  
+ 
+PROCEDURE  
+ The audit  was conducted from April 17, 2023  through April 28, 2023. The audit  included  
+a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+ The following verification  studies  were  conducted:  
+ Category 1 – Utilization  Management  
+ Prior  Authorization R equests:  12 medical  prior authorization requests  were reviewed for 
+timeliness, consistent application of criteria, and appropriate review.  
+ Prior Authorization Appeal Procedures: 12 medical prior authorization appeals  were 
+reviewed for appropriate and timely adjudication.  
+ Delegated Prior Authorization Requests: 28 medical prior authorization requests were 
+reviewed for appropriate and timely adjudication.  
+ Category 2 – C ase Management  and Coordination of Care  
+ HRA:  15 files were  reviewed  to confirm  coordination of care and fulfillment  of HRA 
+requirements.  
+ CCM: Ten  Plan CCM files were reviewed to confirm the performance of services.  
+ BHT: 15 Plan BHT files were reviewed to confirm the performance of services  and 
+complete case file elements .  
+ IHA: 15 Plan member  files were  reviewed  to confirm  the performance of the assessment.  
+ Category 3 – Access and Availability of Care  
+ Claims:  20 emergency  services and 20 family  planning claims  were  reviewed for 
+appropriate and timely adjudication.  
+6 of 33    NMT:  30 claims  were  reviewed for timeliness  and appropriate adjudication.  Twenty -four 
+contracted NMT providers were reviewed for Medi -Cal enrollment.  
+ NEMT:  30 claims  were  reviewed for timeliness  and appropriate adjudication.  Sixteen  
+contracted NEMT providers were reviewed for Medi -Cal enrollment.  
+ Category 4 – Mem ber’s Rights  
+ Grievance Procedures:  53 standard grievances, three expedited grievances, ten 
+exempt, and ten call inquiries  were  reviewed for timely  resolution, response to 
+complainant, and submission to the appropriate level for review.  The 53 standard 
+grievance cases included 40 quality of service and 13 quality of care grievances.  
+ Confidentiality  Rights:  Ten Health  Insurance Portability  and Accountability  Act (HIPAA) 
+cases were reviewed for appropriate reporting and processing.  
+ Category 5 – Quality  Management  
+ Potential  Quality  Issues  (PQI):  Six PQI cases  were  reviewed for timely  evaluation and 
+effective action taken to address needed improvements . 
+ Provider Qualifications: 15 new provider training records were reviewed for the timeliness of Medi -Cal Managed Care program training.  
+ 
+Category 6 – Administrative and Organizational  Capacity  
+ Fraud and Abuse:  Ten fraud and abuse cases were  reviewed for appropriate reporting 
+and processing.  
+  A description of the findings  for each category  is contained in the following  report . 
+7 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+CATEGORY 1 - UTILIZATION  MANAGEMENT  
+ 
+1.5 DELEGATION OF UTILIZATION MANAGEMENT  
+ 1.5.1 Notice of Action  Letters 
+ The Plan is accountable for all functions and responsibilities, including UM, that are delegated to subcontractors. The Plan is required to maintain a system to ensure accountability for delegated activities that at a minimum ensures a delegate meets standards set forth by the Plan and DHCS. ( Contract, Exhibit A, Attachment 4(6) (A and 
+B)) 
+ The Plan is required to provide members  and providers  with written notice of an adverse 
+benefit determination using the appropriate DHCS -developed standardized NOA 
+templates.  (APL 21 -011 Grievance and appeal requirements, notice and “your rights” 
+templates)  
+ Plan p olicy, UM-054 Notice of Action (revised 2/21/2023) , stated the Plan provides 
+members and providers with written notifications of UM decisions. These include NOA letters for denials, modifications, and deferrals/delays in easily understandable language to be able to understand the decision and decide whether to appeal the decision.  
+ Plan p olicy, UM-060 Delegation of Utilization Management (revised 2/21/2023) , stated 
+that the Plan monitors delegated functions through routine reporting and annual audits, which include file reviews. It also stated that focused audits may occur between annual audits if the Plan determines the need to evaluate the delegate’s performance in 
+specific areas.  
+ The Delegation Agreement between the Plan and Community Health Center Network (CHCN)  (signed 4/27/2018) , stated the NOA must be consistent with the Plan’s policies 
+and procedures, state regulations, and National Committee of Quality Assurance 
+standards. It also stated that the Plan’s oversight included an annual review of relevant UM policies and procedures as well as file review of randomly selected denial authorization files.  
+ Finding: The Plan did not ensure CHCN sent NOA letters to providers and members.  
+ A verification study showed that in 12 of 28 cases CHCN did not send NOA letters to 
+members and providers.   
+8 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   In an interview, CHCN  acknowledged it did not send NOA letters for 435 member 
+service requests due to a computer system update which caused a gap in time for which NOA letters were not sent. As a resul t, some NOA letters processed after the 
+update were not sent to the CHCN’s  vendor to be mailed.  
+ In interviews and written statements, the Plan stated that during the DHCS audit 
+preparation it discovered that NOA letters were missing in the files submitted by CHCN. 
+The Plan confirmed the NOA letters were not sent due to a computer system  update. 
+The Plan acknowledged the systemic failure began occurring in October 2021.  
+ The Plan conducted an annual delegation audit of CHCN that covered the period of  
+July 1, 2021 through June 30, 2022. The Plan’s audit was not effective in detecting the NOA letter deficiency.  
+ If NOA letters are not sent to members and providers, they wi ll not receive the 
+necessary information to exercise their rights.  
+ Recommendation: Implement policies and procedures to ensure that delegated 
+entities send required NOA letters.  
+ 
+ 
+9 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+CATEGORY 2 – CASE MANAGEMENT  AND COORDINATION OF CARE  
+ 
+2.1 INITIAL  HEALTH ASSESSMENT  
+ 2.1.1 Provision of an Initial Health Assessment   
+ The Plan is required to cover and ensure the provision of an IHA . An IHA consists of a 
+history and physical examination and an Individual Health Education Behavioral Assessment that enables a provider of primary care services to comprehensively 
+assess the m ember’s current acute, chronic and preventive health needs and identify 
+those members whose health needs require coordination with appropriate community 
+resources and other agencies for services not covered under this C ontract.  (Contract, 
+Exhibit A, Attachment 10 (3) ) 
+ The Plan is required to follow the latest edition of the Guide to Clinical Preventive Services published by the United States Preventive Services Task Force (USPSTF) to provide preventive services to asymptomatic, healthy adult members. All preventive services identified as USPSTF “A” and “B” recommendations must be provided,  and the 
+status must be documented. (Contract, Exhibit A, Attachment 10(6) (B) (1) ) 
+ Plan policy , QI-124 Initial Health Appointment (IHA)  (approved 3/21/2023),  stated that a 
+primary care physician is  required to perform an IHA with a member within 120 days of 
+enrollment . The IHA will be comprised of comprehensive history and exam, preventive 
+services, diagnosis , and plan of care.  The Plan monitors IHA completion through routine 
+Facility Site Reviews and at least annually review 30 member records to ensure all required components have been completed. Failure to meet all of the IHA requirements may result in the issuance of a CAP.  
+ Finding: The Plan did not ensure the provision of a complete IHA for  new member s.  
+ A verification study showed that four  of 15 member records did not contain a complete 
+IHA. 
+ • One of four  member record s did not document a comprehensive history and physical 
+examination.   
+• Two of four  member records did not document d epression and h epatitis C 
+screenings were offered to the member s or that the member s had declined them. 
+The USPSTF A and B recommendations include screening for depression in the general adult population and hepatitis C virus infection in adults aged 18 to 79 years.  
+10 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+• Two of four  member records did not document that colorectal cancer and h epatitis 
+C screenings were offered to the member or that the member had declined it. The USPSTF A and B recomm endations include screening for  colorectal cancer in all 
+adults aged 50 to 75 years  and hepatitis C virus infection in adults aged 18 to 79 
+years.  
+ In a written response, the Plan cited ongoing challenges from the Covid- 19 public 
+health emergency, including staffing shortages and limited access to care, as barriers to IHA completion.   Subsequent to the Exit Conference, the Plan provided additional information regarding challenges with ensuring IHAs were completed. The Plan stated it did not adequately monitor provider compl etion of IHAs for new members. In addition, the Plan attributed 
+the finding to providers’ lack of  knowledge of preventive screenings and member 
+outreach requirements.  
+ When the Plan does not ensure the provision of a complete IHA, members may not receive important screenings for mental, physical, psychological, and preventative health needs.  
+ Recommendation: Implement policies and procedures to ensure the provision of a 
+complete IHA to each new member.  
+ 
+  
+11 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+2.3  BEHAVORIAL  HEALTH TREATMENT  
+ 2.3.1 Behavioral Health Treatment Plan Elements  
+ The Plan is required to provide medically necessary BHT  services as stated in the 
+member’s treatment plan and/or continuation of BHT services under continuity of care 
+with the member’s BHT provider . (Contract, Exhibit A, Attachment 10(5)(G))  
+ The Plan- approved behavioral treatment plan is required to include but is not limited to 
+the following criteria: the member’s current level of need (baseline, behavior 
+parent/guardian is expected to demonstrate, including condition under which it must be demonstrated and master y criteria ), date of introduct ion, estimated date of mastery,  and 
+crisis plan.  (APL 19 -014 Responsibilities for Behavioral Health Treatment Coverage for 
+Members under the Age of 21)  
+ Plan policy , UM-062 Behavioral Health Treatment  (revised 6/28/22) , stated  that BHT 
+services must be provided, observed, and directed under the Plan’s behavioral treatment plan. The approved BHT  plan must  include but is not limited to the following 
+criteria: an estimated date of mastery and a crisis plan.  
+ The Delegation A greem ent between the Plan and Beacon Health Strategies LLC  
+(signed 9/9/22) , stated Behavioral Health Services shall further include BHT services as 
+set forth in the DHCS Contract and DHCS APL  15-025 (Superseded by APL 19- 014).  
+ Finding:  The Plan did not ensure members’ BHT treatment plans contained all the 
+required elements . 
+ A verification study showed in five of 15 BHT treatment plans the following deficiencies:  
+ • Three samples did not contain an estimated date of mastery for goals.  
+ 
+• Two samples did not contain a crisis plan.  
+ 
+In a written response, the Plan submitted a narrative from Beacon Health Strategies LLC that acknowledged some of the samples  with missing  estimated dates of mastery 
+and a crisis plan from their BHT treatment plans.  Beacon Health Strategies LLC stated 
+for one sample that a behavioral intervention plan covered the requirement of a crisis plan. However, the behavioral intervention plan covers only ways to decrease 
+challenging behaviors and does not address crisis interv entions. The BHT record 
+showed that a crisis plan was not created and would be created if warranted.    
+  
+12 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   When the Plan does not ensure BHT treatment plans contain all the required elements,  members may not receive individualized care to maintain or improve emotional, 
+behavioral, and physical health needs.  
+ Recommendation: Implement policies and procedures to ensure member’s BHT 
+treatment plans contain all the required elements .  
+   
+13 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+CATEGORY 3 – ACCESS AND  AVAILABILITY  OF CARE 
+ 
+3.1 APPOINTMENT  PROCEDURES AND MONITORING  WAITING  TIMES  
+ 3.1.1 First Prenatal Visit  
+ The Plan is required to implement and maintain procedures for members to obtain appointments for prenatal care. The Plan is required to ensure the first prenatal visit for a pregnant member will be available within two weeks upon request. ( Contract , Exhibit 
+A, Attachment 9 (3) (A and B )) 
+ Plan policy , QI-114 Monitoring of Access and Availability Standards ( approved 
+3/21/2023) , state d the Plan annually conducts a survey to ensure its network providers 
+are in compliance with the DHCS first prenatal visit standard within ten business days of 
+request.  
+ Finding:  The Plan's policies and procedures for  a first prenatal visit for a pregnant 
+member is not compliant with the standard of  two weeks upon request.  
+ Review of the Plan’s 2021 Timely Access Surv ey showed the Plan monitored the first 
+prenatal visit using the contractually  required two- week standard from a member’s 
+request. However, the Plan’s policies used ten business days as a standard for  a first 
+prenatal visit.  
+ In a written response, the Plan stated it followed a ten business day appointment 
+availability s tandard in accordance with California Code of Regulations ( CCR) , Title 28, 
+section 1300. 67.2.2. However, the CCR regulation does not include a standard for 
+prenatal visit appointment availability. In addition, ten business days is less strict  than 
+two weeks.  
+ If Plan policies and procedures are not in compliance with the appointment availability standard for the first prenatal visit, members may not receive timel y care.  
+ Recommendation:  Revise and implement polic ies and procedures to ensure member s 
+receive timely access to first prenatal visits . 
+  
+14 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+3.6 EMERGENCY SERVICES AND FAMILY PLANNING CLAIMS  
+ 3.6.1 Non- Contracted Provider Payments  
+ The Plan is required to pay for emergency services received by a member from non-contracting providers. (Contract, Exhibit A, Attachment 8 (13)(C))  
+ The Plan is required to cover and pay for emergency services as described in CCR, 
+Title 22,  section 53855. (Contract Exh ibit A, Attachment  10(8)(E)(2)(a))  
+ The Plan is required to pay for emergency services at the less er of usual charges to the 
+general public, maximum Medi -Cal fee -for-service rate or  negotiated rate. (CCR, Title 
+22, section 53855)   
+ Plan policy , CLM -003 Emergency Services Claims Processing (revised 9/27/22) , stated 
+the Plan will reimburse out -of-plan providers at the Medi -Cal rate based on the service 
+provided.  
+ Finding: The Plan did not pay non- contracted providers  at the appropriate Medi -Cal 
+fee-for-service rate.  
+ A verification study found one of 20 e merg ency services claims was not paid 
+appropriately. The Plan did not pay a non- contracted emergency service claim, 
+procedure code 99285, at the required Medi -Cal fee -for-service rate. The claim was 
+paid at  85 percent  the Medi -Cal fee -for-service rate.  
+ During the interview, the Plan stated the claim was not  paid at the required Medi -Cal 
+fee-for-service rate as the provider was a mid -level practitioner. In a written statement, 
+the Plan stated all  non-contracted and contracted mid- level providers are paid at 85 
+percent  of the Medi -Cal fee-for-service rate.  However, Medi -Cal does not pay reduced 
+fee-for-service rates for mid -level practitioners.  
+ If the Plan does not appropriately pay e mergency services claims, then providers may 
+be discouraged from participating in the Medi -Cal program and mem bers may not 
+receive needed services . 
+ Recommendation:  Implement policies  and revise procedures to ensur e emergency 
+services claims are  paid at the appropriate rate.   
+    
+15 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   3.6.2 Proposition 56 Family Planning Payments  The Plan is required to reimburse non- contracting family planning providers at no less 
+than the appropriate Medi -Cal fee-for-service rate. (Contract, Exhibit A, Attachment 
+8(9))  
+ The Plan shall comply with all existing final policy letters and AP L issued by DHCS. 
+(Contract, Exhibit E, Attachment 2 (E))  
+ The Plan is required to directly, or through their delegated entities, pay qualified family planning providers a fixed add- on amount for specified family planning services listed in 
+APL 22 -011, usi ng Proposition 56 appropriated funds. This payment obligation applies 
+to contracted and non -contracted providers. The unifor m dollar add- on amounts for the 
+services listed are in addition to whatever other payments eligible providers would normally receive from the Plan. Federally Qualified Health Centers, Rural Health Clinics, 
+American Indian Health Service Programs, and Cost -Based Reimbursement Clinics are 
+not eligible to receive this add- on payment. (APL 22 -011 Proposition 56 Directed 
+Payments for Family  Planning Services ) 
+ Plan policy , CLM -001 Claims Processing (revised 11/23/21) , stated all claims must be 
+processed in accordance with federal and state laws and regulations governing the Plan’s programs, plus all other applicable laws, regulations, and contractual stipulations pertaining to the Plan’s standards.  
+ Finding: The Plan d id not distribute add- on payment s for institutional family planning 
+service  claim s as required by APL 22- 011. 
+ A ver ification study found in one of seven family planning claims the Plan did not 
+distribute an add- on payment to an eligible provider accordi ng to APL 22- 011.  
+ In written statements, the Plan stated it does not distribute add-on payments for  
+institutional provider claims, such  as hospital s. However, APL 22- 011 does not place 
+limits on family planning add- on payments for institutional claims or any other type of 
+claim.  
+ When the Plan does not distribute applicable payments, providers may be discouraged from participating with the Plan,  which may limit members’ access to care.  
+ Recommendation:  Implement policies and revise procedures  to distribute f amily 
+planning s ervice add- on payments  according to APL 22- 011. 
+ 
+  
+16 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+3.8 NON- EMERGENCY MEDICAL TRANSPORTATION (NEMT)  
+NON- MEDICAL TRANSPORTATION (NMT)  
+ 3.8.1 Physician Certification Statement  (PCS) Forms  
+ The Plan is required to cover transportation services as required in this Contract and directed in APL 17- 010 (superseded by APL 22- 008) to ensure members have access 
+to all medically necessary services. The Plan is required to cover NEMT services required by members to access Medi -Cal services, as provided for in CCR, Title 22,  
+section 51323, subject to Plan’s PCS form being completed by the member’s provider. 
+(Contract, Amendment 27, Exhibit A, Attachment 10, 8H(2) ) 
+ 
+The Plan is required to ensure that a copy of the PCS form is on file for all members receiving NEMT services and that all fields are filled out by the provider.  The PCS form 
+is used to determine the appropriate level of service for members.  In addition, each 
+Managed Care Plan must have a mechanism to capture and submit data from the PCS 
+form to DHCS. (APL 22 -008 Non- Emergency Medical and Non- Medical Transportation 
+Services and Related Travel Expense)   
+ 
+Plan policy , UM-016 Transportation Guideline (revised 2/21/2023) , stated the Plan 
+ensures that a copy of the PCS form is on file for all members receiving NEMT services and that all fields are filled out by the provider. The Plan has a mechanism to capture and submit data fr om the PCS form to DHCS.  
+ 
+Finding: The Plan did not ensure PCS form s were  on file for members receiving NEMT 
+services.  
+ 
+A verification study found the following deficiencies in 14 of 30 NEMT samples:  
+ 
+• Seven of 14 samples showed the Plan made attempts to obtain the PCS forms but 
+was unsuccessful.  
+ 
+• In the remaining seven of 14 samples, PCS forms were not received for the transportation dates of service. The Plan submitted PCS forms covering transportation trips after the date of service.   
+ 
+As a corrective action to  the prior year finding,  the Plan educated providers on the PCS 
+requirements, trained Plan and transportation vendor  staff, and conducted a quarterly 
+review of its vendor to ensure PCS forms were obtained . However, the Plan’s corrective 
+action did not address the prior year finding.  In an interview, the Plan stated as of March 
+20, 2023 the PCS form acquisition was no longer the responsibility of its vendor. The Plan is now responsible for all PCS form acquis ition.  
+17 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   This is a Repeat Finding of 2021 and 2022 finding 3.8.1 PCS Forms.  
+ Without PCS forms, members may be subject ed to an inappropriate mode of 
+transportation that may result in unsafe conditions.  
+ Recommendation: Implement polic ies and procedures to ensure the PCS forms are 
+used to determine the appropriate level of services and maintained on file.  
+ 3.8.2 Transportation P rovider s’ Medi -Cal Enrollment Status  
+ The Plan is required to cover transportation services as required in this Contract  and 
+directed in APL 17- 010 (superseded by APL 22- 008) to ensure members have access 
+to all medically necessary services. ( Contract, Amendment 27, Exhibit A, Attachment 
+10, 8H(2) ) 
+ All NEMT and NMT providers must comply with the enrollment requirements set fort h in 
+APL 19 -004 or any superseding APL. The Plan may allow NEMT and NMT providers to 
+participate in its network for up to 120 days, pending the outcome of the enrollment process. However, the Plan must terminate its contract with a NEMT or NMT provider upon notification from DHCS that the provider has been denied enrollment in the Medi -
+Cal program, or upon expiration of the one 120- day period. If the NEMT or NMT 
+providers are unable to successf ully enroll in Medi -Cal, the Plan  cannot continue to 
+contract wi th the providers during the period in which the provider resubmits its 
+enrollment application to DHCS or with the Plan. The Plan  can only re- initiate a contract 
+upon the provider’s successful enrollment as a Medi -Cal provider. (APL 22 -008 Non-
+Emergency Medical and Non- Medical Transportation Services and Related Travel 
+Expense)  
+ Plan policy , VMG -005 Transportation Providers R egistration with Department of Healt h 
+Care Services (r evised 9/27/2022) , stated if transportation providers are not enrolled 
+with PAVE (Medi -Cal’s Provider Application and Validation) , they cannot provide 
+transportation to Plan members. If the transportation provider is not enrolled with PAVE 
+and currently has an application in process, the Plan and the transportation vendor will monitor the transportation provider to ensure the application is approved. Transportation 
+providers with applications in process can provide transportation to Plan members for 
+120 days, or until the application has been finalized with DHCS. If their application is 
+denied by DHCS, or if 120 days  have passed, the transportation vendor will notify the 
+Plan and cease providing transportati on to Plan members.  Quarterly the Plan will 
+request from the transportation vendor a listing of providers and verify enrollment in the Medi -Cal program. The Plan will notify the vendor of any providers who should not be 
+transporting Plan members.  
+  
+18 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   Finding:  The Plan did not ensure all transportation providers were enrolled in the Medi -
+Cal program.   
+ A verification study found one of 16 NEMT providers and eight of 24 NMT providers were not enrolled in the Medi -Cal program but remained in the Plan’s network . 
+ • One of 16 NEMT providers' Medi -Cal applications was denied, but continued 
+transporting members while a second application was in process. The Plan sent a letter to its transportation vendor to terminate this provider as they are not to transport members due to the application status. The letter was sent 335 days after 
+the first application was denied.  
+ 
+• Six of 24 NMT providers' Medi -Cal applications were denied, but continued 
+transporting members while subsequent applications were in process. The Plan sent letters to its transportation vendor to terminate the providers as they are not to 
+transport members due to the application status. The letters were not sent until 
+between 121 days and 473 days after the first application were denied.  
+ 
+• One of 24 NMT providers' Medi -Cal applications was denied, but continued 
+transporting members while subsequent applications were in process. The Plan was notified by its vendor that the provider closed their business and terminated the provider’s contract; however, the provider remained contracted with the Plan for 1,176 days after the first application was denied.   
+ 
+• One of 24 NMT providers with a Medi -Cal application in- progress over 120 days 
+continued transporting members. The Plan sent a letter to its transportation vendor to terminate this provider as they are not to transport members due to the application 
+status. The let ter was sent 118 days after the 120- day temporary enrollment period 
+had expired.  
+ In an interview, the Plan could not explain why it did not disenroll providers after denial 
+of a DHCS application or after the 120- day temporary enrollment period elapsed.  
+ When the Plan does not ensure transportation providers are enrolled in the Medi -Cal 
+program, members may not receive services from qualified providers in accordance with state regulations.  
+ Recommendation: Implement polic ies and procedures to ensure t hat transportation  
+providers  are enrolled in the Medi -Cal program . 
+ 
+  
+19 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   
+CATEGORY 4 – MEMBER’S RIGHTS  
+ 
+4.1 GRIEVANCE SYSTEM   
+ 4.1.1 Grievance Acknowledgement and Resolution Letter Timeframes  The Plan is required to have a system in place in accordance with Code of Federal Regulations ( CFR) , Title 42, section 438.402 -424 which refers to grievance and appeals 
+requirements. (Contract, Exhibit A, Attachment 14(1)(2))  
+ The Plan is required to provi de written acknowledgement to the member that is dated 
+and postmarked within five calendar days of receipt of the grievance. The Plan must comply with the state’s established timeframe of 30 calendar days for grievance resolution. (APL 21 -011 Grievance and Appeals Requirements, revised 8/31/22)  
+ Plan policy , G&A- 003 Grievance and Appeals Receipt, Review and Resolution (revised 
+11/18/22) , stated the Plan provides a written acknowledgement that is dated and 
+postmarked within five calendar days of receipt. The Plan provides a written resolution within 30 calendar days of receipt.  
+ Plan policy , Grievance & Appeal Intake Guide (revised 2/17/23), stated if no provider 
+response is received after three attempts by Plan staff,  the grievance is escalated to the 
+Medical Director by day 23.   Finding:  The Plan did not send acknowledgement and resolution letters within the 
+required timeframes.  
+ A verif ication study revealed in 33 of 53 standard grievances the following deficiencies:  
+ • Three quality of care and two quality of service standard grievances did not have acknowledgement letters sent within five calendar days.  The acknowledgement 
+letters were sent between seven and 62 days after receipt.  
+ 
+• Eight quality of care and 24 quality of service standard grievances  did not have 
+resolution letters sent with 30 calendar days. The resolution letters were sent 
+between 36 and 240 days after receipt.  
+ In a written statement, the Plan stated staff error s caused the acknowledgement letters 
+to be sent late. In addition, the Plan stated staffing shortages and a lack of case follow -
+up for resolutions beyond the 30 calendar  days  caused the delay.  
+20 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   As a corrective action to the prior year finding the Plan provided training to the 
+Grievance & Appeals staff to review the regulatory requirements for mailing of acknowl edgement and resolution letters. Additionally, the Plan reviewed daily reports of 
+grievances  for timely acknowledgment and resolution letters, and conducted monthly 
+audits to ensure grievance coordinators sent timely letters.  However, the Plan’s  
+corrective actions did not resolve the prior year audit finding.  
+ This is a Repeat Finding of the 2018 audit finding 4.1.2 Grievance 
+Resolution/Grievance Process, the 2019 audit finding 4.1.4 Grievance Resolution/ Grievance Process, the 2021 audit finding 4.1.3 Grievance Notification and Letter Timeframes, and the 2022 audit finding, 4.1.1 Grievance Acknow ledgement and 
+Resolution Letter Timeframes.  
+ When the Plan does not notify members in a timely manner of the status of their grievance, members may be deprived of information that could affect their health care 
+decisions.  
+ Recommendation:  Revise and implem ent procedures to ensure that acknowledgement 
+and resolution letters are sent to members within the required timeframes.  
+ 4.1.2 Grievance Letters in Threshold Languages  
+ The Plan is required to comply with CFR, Title 42, section 438.10(d)(4)  Information 
+Requirements for language and format, and provide fully translated member information including grievance acknowledgement and resolution letters at no cost. The Plan is required to provide translated written information to all monolingual or l imited English 
+proficient members that speak the identified threshold languages or concentration standard languages. (Contract, Exhibit A, Attachment 9 (14)(B)(2))  
+ The Plan is required to comply with all existing final Policy Letters (PLs) and APLs 
+issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+ If a resolution of a standard grievance is not reached within 30 calendar days as 
+required, the Plan is required to notify  the member in writing of the status of the 
+grievance and the estimated date of r esolution. (APL 21 -011 Grievance and Appeals 
+Requirements, revised 8/31/22)  
+ Plan policy , CLS- 003 Language Assistance Services (approved 3/21/23) , stated the 
+Plan provides members written informing materials in the Plan’s threshold languages 
+based on the m ember’s language of preference. Informing materials include all notices 
+related to grievances including grievance acknowledgement and resolution letters.  
+  
+21 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   The Plan’s , Grievance and Appeal Intake Guide (revised 2/17/23) , stated that standard 
+grievance acknowledgement letters and resolution letters are to be sent in threshold languages . Resolution letters are sent to the Plan’s vendor for translation prior to 
+sending to members.  
+ Finding:  The Plan did not send acknowledgement, resolution delay , and resolution 
+letters in threshold languages.  
+ A verification study revealed in seven of ten standard grievances requiring translation 
+into a threshold language the following deficiencies:  
+ • Four grievances did not have a translated delay  letter or resolution letter sent in the 
+member’s threshold language.  
+ 
+• One grievance did not have a translated acknowledgement letter or resolution letter sent in the member’s threshold language.  
+ 
+• One grievanc e did not have a translated resolution letter sent in the member’s 
+threshold language.  
+ 
+• One grievance did not have a translated delay  letter sent in the member’s threshold 
+language.  
+ In a written statement, the Plan acknowledged grievance staff did not follow Plan processes to have acknowledgement, resolution delay , and resolution letters translated 
+due to an increase in grievance numbers. The backlog of cases led to decreased oversight in grievance processing.  
+ As a corrective action to the prior year finding the Plan updated its system to capture 
+the dates the resolution letter was submitted for translation and the date it was mailed to the member. The Plan provided training to the Grievance & Appeals staff on the updates made to the system. The Plan conducted monthly audits to ensure grievance coordinators sent translated letters. However, the Plan’s corrective actions did not resolve the prior year audit finding.  
+ This is a Repeat Finding of the 2021 audit finding 4 .1.4 Grievance Letters in 
+Threshold Languages and 2022 audit finding, 4.1.2 Grievance Letters in Threshold Languages.  
+ If the Plan does not  send translated grievance letters in the members’ threshold 
+languages, members may not understand all information needed to make informed health care decisions.  
+22 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   Recommendation:  Revise and implement procedures to ensure acknowledgement , 
+resolution delay,  and resolution letters are translated in the members’ threshold 
+language.  
+ 4.1.3 Written Notification of Grievance Resolution Delays 
+ The Plan is required to have a system in place in accordance with CFR, Title 42, section 438.402- 424, which refers to grievance and appeals requirements. (Contract, Exhibit A, 
+Attachment 14(1)(2))  
+ The Plan is required to compl y with all existing final PLs and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(1)(D))  
+ CFR, Title 42, section 438.408(c)  Extension of Timeframes allows for a 14- calendar  day 
+extension for standard and expedited appeals ; however, this allowance does not apply 
+to grievances. If  a resolution of a standard grievance is not reached within 30 calendar 
+days as required, the Plan must notify the member in writing of the status of the grievance and the estimated date of resolution. (APL 21 -011 Grievance and Appeals 
+Requirements, revised 8/31/22)  
+ Plan policy , G&A- 003 Grievance and Appeals Receipt, Review and Resolution (revised 
+11/18/22) , stated that in the event a resolution is not reached withi n 30- calendar days, 
+the Plan will notify the complainant in writing that the complaint was received, 
+investigated, provide the status of the grievance,  and provide an estimated completion 
+date of resolution.  
+ Finding: The Plan did not notify members of resolution delays in writing for grievances 
+not resolved within 30 calendar days and did not resolve grievances by the estimated resolution date in the delay letter s.  
+ A verification study revealed in 21 of 24 standard quality of service grievances and in six 
+of eight quality of care s amples , which required delay letters, the following:  
+ • Eight  grievances were not resolved within 30 calendar days, delay  letter s were  not 
+sent to member s. 
+ 
+• In 19 grievances delay letter s were sent; however , the Plan failed to resolve the 
+case s by the estimated date of res olution in the delay  letter s. Grievances were 
+resolved between six and 150 days after the estimated resolution date.  
+   
+23 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   In a written statement, t he Plan acknowledged grievance staff did not follow Plan 
+processes to send delay  letters due to an increase in grievance numbers. The backlog 
+of cases led to decreased oversight in grievance processing.  
+ As a corrective action to the prior year finding the Plan updated its policy and provided 
+training to the Grievance & Appeals staff regarding the new resolution deadline from the delay  letter. The Plan conducted monthly audits of grievance processes.  However, the 
+Plan’s corrective act ions did not resolve the prior year audit finding.   
+ This is a Repeat Finding of 2022 4.1.3 Grievance Extension Letter Timeframes.  
+ If the Plan does not comply with the timeframes for extended grievance resolution this 
+may lead to delays in care for member s. 
+ Recommendation:  Implement policies and procedures to ensure the Plan sends delay  
+letters for grievances not resolved within 30 calendar days and resolves grievances by the estimated date of resolution in the delay  letter.  
+ 4.1.4 Grievance Delay  Timeframes  
+ The Plan is required to have a system in place in accordance with CFR, Title 42, section 438.402- 424, which refers to grievance and appeals requirements. (Contract, Exhibit A, 
+Attachment 14(1)(2))  
+ The Plan is required to comply with all exist ing final PLs and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(1)(D))  
+ CFR, Title 42, section 438.408(c) allows for a 14- calendar  day extension for  standard 
+and expedited appeals;  however, this allowance does not apply to grievances. If  a 
+resolution of a standard grievance is not reached within 30 calendar days as required, the Plan must notify the member in writing of the status of the grievance and the estimated date of resolution. (APL 21 -011 Grievance and Appeals Requirements, 
+revised 8/31/22)  
+ Plan policy , G&A- 003 Grievance and Appeals Receipt, Review and Resolution (revised 
+11/18/22) , stated that in the event a resolution is not reached withi n 30- calendar days, 
+the Plan will notify the member  in writing that the complaint was received, inves tigated, 
+provide the status of the grievance,  and provide an estimated completion date of 
+resolution.  
+ Finding:  The Plan inappropriately utilized a 14- calendar  day delay timeframe for 
+grievance resolutions.  
+24 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   A verification study revealed that 11 of 24 standard quality of service grievances and three of eight quality of care grievances, which required resolution delay  letters, 
+contained a 14-calendar  day estimated date of resolution.  
+ The Board of Governors Meeting Minutes (dated 11/11/22) showed the Plan discussing 
+grievance delay  letters within the context of a 14- calendar day standard.  The Plan also 
+conducted monthly audits to ensure grievance coordinators sent resolution letters within 14 days  of the delay  letter rather than the estimated date of resolution.  The Contract  
+ prohibits the use of a 14-calendar  day extension and requires Plans to provide an 
+estimated day of resolution based on the member’s grievance.  
+ In a written statement, the Plan acknowledged it had misinterpreted APL 21- 011. The 
+Plan allowed a 14- calendar  day extension as the Plan’s estimat ed date of grievance 
+completion if the grievance was not resolved within 30 calendar days.  
+ If the Plan does not comply with the timeframes for extended grievance resolution this may lead to delays in care for members.  
+ Recommendation:  Revise policies and procedures to ensure the Plan utilizes an 
+appropriate grievance resolution timeframe.  
+ 4.1.5 Exempt Grievance Resolution  
+ The Plan is required to have a system in place in accordance with CFR, Title 42, section 438.402- 424 which refers  to grievance and appeals requirements. (Contract, Exhibit A, 
+Attachment 14(1)(2))  
+ The Plan is required to comply with all existing final PLs and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+ The Plan is required to comply with all state laws pertaining to exempt grievance 
+handling. Grievances received over the telephone that are not coverage disputes or disputed health care services involving medical necessity or experimental or investigational treatment, and that are resolved by the close of the next business day, are exempt from the requirement to send a written acknowledgment and response.  
+(APL 21 -011 Grievance and Appeals Requirements, revised 8/31/22)  
+  
+25 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   Plan policy , MBR- 024 Exempt Grievances  (revised 1/11/23),  stated Member Services 
+staff will review the complaint and provide a resolution to the member or authorized representative within the close of the next business day. If the complaint cannot be  
+resolved within the close of the next business day, the complaint will be forwarded to the Grievance and Appeals  Unit to process as a standard grievance.  
+ Plan policy , Member Services Exempt Grievances guide rev. (12/28/22) , listed timely 
+access and provider/staff attitude grievances as exempt grievances that should be referred for PQIs.  
+ Finding: The Plan did not resolve exempt grievances by close of the next business day . 
+ A verification study revealed in three of ten exemp t grievances the following 
+deficiencies:  
+ • In one grievance, the member complained the clinic rescheduled the member’s 
+appointment without the member’s consent and that the doctor and staff were rude.  
+The Plan’s resolution was to change the member’s primar y care provider.   
+ 
+• In a second grievance, the member complained they could not schedule a timely appointment with the provider.  The Plan’s resolution involved providing other primary 
+care provider  information within the member’s area.  
+ 
+• In a third grievance, the member complained they could not  reach staff at the 
+provider’s office during office hours. The member did not rec eive a call back from the 
+provider after leaving voice messages. The Plan staff attempted to contact the primary care provider’s  office but was unable to reach the provider’s office and did 
+not follow up. The member declined the Plan’s offer for reassignment to a new primary care provider.  
+ 
+In a written statement, The Plan stated the grievances were categorized and closed 
+according to the Member Service Exempt Grievance Guide. However, the Plan did not 
+provide an explanation as to why the grievances were closed without resolution and the 
+guide did not address resolution of grievances.  
+ Incomplete resolution of member grievances may result in missed opportunities for improved health care delivery and poor health outcomes for members.  
+ Recommendation: Revise and implement procedures to ensure all grievances are 
+appropriately resolved.  
+  
+26 of 26  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Alameda Alliance for Health  
+AUDIT  PERIOD:  April  1, 2022 through March 31, 2023 
+DATES OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+   4.1.6 Grievance Identification 
+ The Plan is required to have a system in place in accordance with CFR, Title 42, section 438.402- 424 which refers to grievance and appeals requirements . (Contract, Exhibit A, 
+Attachment 14(1)(2))  
+ The Plan is required to comply with all existing final PLs and APLs issued by DHCS.  (Contract, Exhibit E, Attachment 2(1)(D))  
+ A complaint is the  same as a grievance. If the Plan is unable to distinguish between a 
+grievance and an inquiry, it must be cons idered a grievance. An inquiry is a request for 
+information that does not include an expression of dissatisfaction. Inquiries may include, but are not limited to, questions pertaining to eli gibility, benefits, or other Plan 
+processes. (APL 21 -011 Grievance and Appeals Requirements, revised 8/31/22)  
+ Plan policy , G&A- 001 Grievance and Appeals System Description (revised 11/23/21) , 
+stated an “ inquiry” is a request for information that does not include an expression of  
+ dissatisfaction. Inquiries may include,  but are not limited to, questions pertaining to 
+eligibility, benefits, or other Plan processes. Where the P lan is unable to distinguish 
+between a grievance and an inquiry, it shall be considered a grievance.   Finding: The Plan did not process and resolve all member expressions of 
+dissatisfaction as grievances.  
+ A verification study revealed the following deficiencies in  four of ten call inquires :  
+ • In one call, the member expressed dissatisfaction with the Plan’s transportation provider . 
+ 
+• In the remaining three calls, the members expressed dissatisfaction with timely access to appointments and not being notified of a prior authorization denial.   
+ In a written statement, the Plan acknowledged grievance staff did not follow Plan policies and procedures.  
+ When member expressions of dissatisfactions are not processed as grievances, members will not receive notice of members’ rights and their complaints may not be fully resolved.  
+ Recommendation:  Implement procedures to ensure all member expressions of 
+dissatisfaction are appropriately processed and resolved.  
+       
+CONTRACT AND ENROLLMENT REVIEW – SAN FRANCISCO  
+AUDITS AND INVESTIGATIONS 
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+Alameda Alliance  for Health  
+ 
+2023 
+ 
+Contract Number:   
+  
+03-75793  
+State Supported Services  
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ April 1, 2022  
+    Through 
+March  31,2023  
+ 
+April 17, 2023 
+    Through 
+April 28, 2023 
+ 
+October 20, 2023  
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ Il. COMPLIANCE AUDIT FINDINGS ................................................... 2 
+   
+1 of 2 I. INTRODUCTION  
+  This report presents the audit findings of the Alameda Alliance for Health (Plan) State Supported Services  contract  No. 03-75793.  The State  Supported Services  Contract  covers 
+contracted abortion services with the Plan.  
+ The audit  was conducted from April 17, 2023  through April 28, 2023.  The audit  period is 
+April 1, 2022 through March 31, 2023 and consisted of document review, verification 
+study, and interviews with the Plan.  
+ An Exit Conference with the Plan was held on September 26, 2023.  The Plan was allowed 
+15 calendar days from the date of the Exit Conference to prov ide supplemental information 
+addressing the draft audit report findings. The Plan submitted a response after the Exit Conference. The results of the Department of Health Care Services’ (DHCS) evaluation of the Plan’s response are reflected in this report.  
+ Twenty  State  Supported Services  claims  were reviewed for appropriate and timely  
+adjudication.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Alameda Alliance for Health  
+ 
+AUDIT PERIOD:  April  1, 2022 through March 31, 2023 
+DATES  OF AUDIT:  April  17, 2023 through April  28, 2023 
+ 
+2 of 2   
+STATE SUPPORTED SERVICES  
+ SSS.1 Minimum Proposition 56 Payments  
+ The Plan is bound by all applicable terms and conditions of the Primary Contract as of the effective date of the State Supported Service Contract. (Hyde Contract, Exhibit E(1))  
+ The Plan is required to comply with all existing final policy letters and All Plan Letters (APL) issued by DHCS. (Contract, Exhibit E, Attachment 2 (E))  
+ The Plan is required to pay the individual rendering providers that are qualified to provide and bill for medical pregnancy termination services with dates of service on or after July 1, 2017, using Proposition 56 appropriated funds. The Plan must pay at l east 
+the rate for Current Procedural Terminology (CPT) –  4th Edition (CPT -4) code 59840 in 
+the amount of $400. This payment obligation applies to contracted and non- contracted 
+providers. (APL 19 -013 Proposition 56 Hyde Reimbursement Requirements for 
+Specified Services)  
+ Plan policy, CLM -001 Claims Processing (revised 11/23/21),  stated all claims must be 
+processed in accordance with federal and state laws and regulations governing the Plan’s programs, plus all other applicable laws, regulations, and contractual stipulations pertaining to the Plan’s standards.  
+ Finding: The Plan did not distribute minimum payments for a State Supported Services 
+claim as described in APL 19- 013. 
+ A verification study of 20 claims revealed one sample where the Plan did not make the 
+minimum payment for a contracted provider. The Plan paid procedure code 59840 at a rate of $179.  
+ During the interview, the Plan stated the minimum APL 19- 013 payments are set within 
+the Plan’s claim system and paid as part of it s normal process. The Plan stated the fee 
+schedule used for the sample was for contracted clinics. The Plan acknowledged that the rate for procedure code 59840 was inaccurate and not at the required amount of $400 per APL 19- 013. 
+ When the Plan does not di stribute applicable payments, this may discourage providers 
+from participating with the Plan and limit members’ access to care.  
+ Recommendation:  Implement policies and procedures to distribute State Supported 
+Services payments in compliance with state regulation.  

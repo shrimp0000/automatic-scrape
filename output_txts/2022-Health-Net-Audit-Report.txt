@@ -1,0 +1,865 @@
+       
+MEDICAL REVIEW  – SOUTHERN  SECTION  V 
+AUDITS AND INVESTIGATIONS 
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+HEALTH NET COMMUNITY SOLUTIONS, INC.  
+ 
+2022  
+ 
+ 
+Contract Number:    
+03-76182, 07- 65847, 09- 86157, 
+and 12- 89334 
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ April 1, 2021  
+    Through 
+March 31, 2022  
+ 
+March 21, 2022  
+    Through 
+April 1, 2022  
+October 31, 2022 
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ II. EXECUTIVE SUMMARY  ................................................................. 2 
+ III. SCOPE/AUDIT PROCEDURES  ...................................................... 5 
+ IV. COMPLIANCE AUDIT FINDINGS 
+ Category 1 – Utilization Management  .............................................. 7 
+ Category 2 – Case Management and Coordination of Care .......... 17 
+ Category 3 – Access and Availability of Care  ................................ 23 
+ Category 4 – Member’s Rights  ...................................................... 26 
+    
+1 of 27 I. INTRODUCTION  
+ Health Net Community Solutions, Inc. (Plan), a wholly owned subsidiary of Centene Corporation, is a managed care organization that delivers managed health care services through heal th plans and government -sponsored Managed Care Plans.  
+ The Plan operates largely as a delegated group network model. Services are delivered to members through the Plan’s p articipating provider groups, Independent Physician 
+Association network, or directly  contracted primary care and specialty care practitioners.  
+ The Plan delivers care to Medi -Cal members under the Two- Plan Contracts covering 
+Los Angeles, Kern, San Joaquin, Stanislaus, and Tulare C ounties; and Geographic 
+Managed Care Plan Contracts covering Sacramento and San Diego C ounties.  
+ As of February 2022,  the Plan’s enrollment totals for the Medi -Cal line of business was 
+1,529,399. Membership composition by County was 1,024,675 for Los Angeles ; 81,959,  
+for Kern 24,744,  for San Joaquin; 65,270  for Stanislaus; 121,250 for Tulare; 126,973 for 
+Sacramento; and 84,528 for San Diego.  
+  
+2 of 27 II. EXECUTIVE SUMMARY  
+ This report presents the audit findings of the Department of Health Care Services (DHCS) medical audit for the period of April 1, 2021, through March 31, 2022. The audit was conducted from March 21, 2022 through April 1, 2022. The audit consisted of 
+document review, verification studies, and interviews with Plan representatives.  
+ An Exit C onference with the Plan was held on September 30, 2022. The Plan was 
+allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. On October 14, 2022, the Plan 
+submitted a response. The results of our evaluation of the Plan’s response are reflected in this report.  
+ The audit evaluated six categories of performance: Utilization Management (UM), Case Management and Coordination of Care, Access and Availability of Care, Member’s Rights, Quality Management, and Administrative and Organizational Capacity.  
+ The prior DHCS medical audit, for the period May 1, 201 9, through March 31, 2021, 
+was issued on September 3, 2021.  This audit examined the Plan’s compliance with its 
+DHCS Contract and assessed implementation of its pending prior year’s Corrective 
+Action Plan (CAP).  
+ The summary of the findings by category follows:  
+ Category 1 – Utilization Management  
+ 
+The Plan is required to integrat e UM activities into the Quality Improvement System 
+(QIS), including a process to integrate r eports on the review of the number and types of 
+appeals, denials, deferrals, and modifications to the appropriate QIS staff.  The Plan did 
+not integrate UM activity data for all services into the QIS including reports reviewing t he 
+number and types of appeals, denials, deferrals, and modifications , and did not refer 
+this to the appropriate QIS staff .  
+ The Plan is required to process and notify the requesting member of any decision to deny, approve, modify, or delay a P rior Authorization (PA) within the  required 
+timeframes. The Plan did not consistently render and communicate to the member the 
+Plan’s medical PA decision within the required timeframes.  
+ The Plan is required to have a set of written criteria or guidelines for utilization review 
+that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated. The Plan did not ensure the consistent application of a set of written 
+criteria or guide lines for utilization review.  
+ The Plan is required to ensure that qualified health care professionals review its UM  
+program, such as PA review procedures. A  qualified pharmacist, holding a valid 
+certificate issued by the California Board of Pharmacy , may approve, defer, modify, or 
+3 of 27 deny PAs for pharmaceutical services . The Plan’s pharmacy UM activities  were 
+reviewed, approved, or denied by pharmacists  that did not hold a current or valid license 
+issued by the California Board of Pharmacy.  
+ The Plan and its delegates are required to comply with the UM requirements for PA services. The Plan did not ensure that one of its delegated entities complied with UM requirements.  
+ Category 2 – Case Management and Coordination of Care 
+ The Plan is requir ed to ensure the coordination of services and joint case management  
+for members eligible for C alifornia Children’s Services (CCS)  program . The Plan did not 
+fully implement its policy to ensure coordination of services and joint case management between its PCPs, the CCS specialty providers, and the local CCS program . 
+ The Plan is required to provide, observe, and direct B ehavioral Health Treatment (BHT) 
+services under a M anaged Care Plan-approved behavioral treatment plan. The 
+approved behavioral treatment plan must meet 11- point standardized criteria, including 
+an Exit Plan/criteria  in which only a determination that services are no longer medically 
+necessary under the Early and Periodic Screening, Diagnosis, and Treatment (EPSDT) standard can be used to reduce or eliminate services.  The Plan did not ensure that an 
+Exit Plan/criteria included a determination when services were no longer medically 
+necessary.  
+ The Plan is required to provide C ontinuity of Care (COC) with an out -of-network 
+provider using DHCS criteria . The Plan did not provide  COC with an out -of-network 
+provider for a member who met the conditions.  
+ The Plan is required to notify members upon approval of a COC request , of the duration 
+of the COC arrangement; the process to transition member’s care at the end of the 
+COC period; and the member’s right to choose a different provider from the Plan’s network within seven calendar days.  The Plan did not ensure that, within seven 
+calendar days upon approval of a COC request, members were sent a Written Decision Notification  containing a transition plan and the member’s right to choose a different 
+provider from the Plan’s network.  
+ Category 3 – Access and Availability of Care  
+ The Plan is required to use a DHCS approved Physician Certification Statement (PCS) form to determine the appropriate level of service for Medi -Cal members before 
+providing Non- Emergency Medical Transportation (NEMT) services. The Plan d id not 
+use an approved PCS form to determine the appropriate level of service before 
+providing NEMT services.   
+ The Plan is required to ensure its NEMT and Non -Medical Transportation (NMT) 
+providers are enrolled in the Med- Cal program . The Plan did not ensure that its NEMT 
+4 of 27 and NMT subcontractors or vendors were enrolled in the Medi -Cal program . 
+ Category 4 – Member’s Rights  
+ The Plan’s written response to a member’s grievance is required to contain a clear and concise explanation of the Plan’s decision. The Plan’s resolution letters did not include a clear and concise explanation of the Plan’s decision.   
+ Category 5 – Quality Management  
+ No findings were noted for the audit period.  
+ Category 6 – Administrative and Organizational Capacity  
+ No findings were noted for the audit period.    
+5 of 27 III. SCOPE/AUDIT PROCEDURES  
+ 
+SCOPE  
+ This audit was conducted by the DHCS Medical Review to ascertain that medical 
+services provided to Plan members comply with federal and state laws, Medi -Cal 
+regulations and guidelines, and the state Contract.  
+ 
+PROCEDURE  
+ DHCS conducted the audit of the Plan from March 21, 2022 through April 1, 2022. The audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ PA R equests : 25 medical and 25 pharmacy PA requests were reviewed for timely 
+decision making, consistent application of criteria, and appropriate review.  
+ Appeals: 16 medical and five pharmacy appeals were reviewed for appropriateness and 
+timely adjudication.   Delegated PA R equests: 16 medical PA requests were reviewed for appropriate and 
+timely adjudication.  
+ Category 2 – Case Management and Coordination of Care 
+ CCS: Ten medical records were reviewed for appropriate CCS identification, referral to 
+the CCS program, and coordination of care for non- eligible CCS conditions.  
+ Initial Health Assessment (IHA): 34 medical records were reviewed for appropriate 
+documentation, timely completion, and fulfillment of all required IHA components.  
+ Complex Case Management: 23 medical records were reviewed for  continuous 
+tracking, monitoring, and coordination of services.  
+ BHT: 21 medical records were reviewed for coordination, completeness, and 
+compliance with BHT provision requirements.  
+ COC: 24 medical records were reviewed to evaluate timeliness and appropriateness of 
+COC request determination.  
+ 
+6 of 27 Category 3 – Access and Availability of Care  
+ Claims: 15 emergency services and 15 family planning claims were reviewed for 
+appropriate and timely adjudication.  
+ NEMT: Ten claims were reviewed for timeliness and compliance with NEMT 
+requirements.  
+ NMT: Ten claims were reviewed for timeliness and compliance with NMT requirements.  
+ Category 4 – Member’s Rights  
+ Grievance Procedures : 91 grievances, including 34 quality of service , 20 QOC , 26 
+expedited, and 11 exempt, were reviewed for timely resolution, response to 
+complainant, and appropriate level of review and medical decision- making.  
+ Confidentiality Rights: Ten Health Insurance Portability and Accountability Act cases 
+were reviewed for appropriate reporting and processing.  
+ Category 5 – Quality Management  
+ Provider Training: Ten  newly contracted providers were reviewed for timely Medi -Cal 
+Managed Care program training.  
+ Potential Quality Issues: 19 cases were reviewed for timely evaluation and effective 
+action taken to address improvements.  
+ Category 6 – Administrative and Organizational Capacity  
+ Fraud and Abuse: 20 fraud and abuse cases were reviewed for processing and 
+appropriate reporting.  
+ A description of the findings for each category is contained in the following report.  
+ 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+7 of 27  
+ 
+CATEGORY 1 - UTILIZATION MANAGEMENT  
+ 
+ 
+1.1  
+UTILIZATION MANAGEMENT PROGRAM  
+ 1.1.1 Integration of Utilization Management (UM) Activities  
+ The Plan is accountable for all quality improvement functions and responsibilities (e.g. UM, Credentialing, and Site Review) that are delegated to subcontractors. If the Plan 
+delegates UM activities, it is required to comply with requirements for Delegation of Quality Improvement Activities. ( Contract, Exhibit A, Attachments 4 (6) and Attachment  
+5 (5)) 
+ The Plan is required to ensure that the UM program includes the integration of UM 
+activities into the QIS, including a process to integrate reports on review of the number and types of appeals , denials, deferrals, and modifications to the appropri ate QIS staff.  
+(Contract, Exhibit A, Attachment 5 (1)(G) ) 
+ The Plan must provide PA for Intravenous Fluids ( IV) sedation and general anesthesia 
+for dental services and must assist providers and beneficiaries with the PA process as a form of care coordination to avoid situations where services are unduly delayed. The Plan is  responsible to ensure that their subcontractors adhere to the policy. ( All Plan 
+Letter ( APL) 15-012) 
+ The Plan maintains the responsibility of ensuring that delegates are, and continue to be, in compliance with all applicable Medi -Cal, state and federal laws, and contractual 
+requirements. (APL 17-004) 
+ Plan Policy and Procedure, CA.UM.63V3 , Dental Service and IV Sedation and General 
+Anesthesia (Revised 04/04/2020), stated that the Plan covers m edically necessary IV 
+sedation and General Anesthesia services administered in connection with non- covered 
+dental services, when such services are not provided by dentists or dental anesthesiologists . The Plan will produce IV Sedation and General Anesthesia PA 
+reports as described and directed by the Department.  
+ Plan Policy and Procedure,  HNCS DO -103, Delegated Entity Evaluation and Del egation 
+Determination (Revised 11/22/2021) , stated that the Plan may delegate to certain 
+contracted entities the responsibility including , but not limited to, UM activities . The Plan 
+retains accountability for all care and service delivered to members .  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+8 of 27 Finding:  The Plan did not integrate UM activity data for all services into the QIS , 
+including reports reviewing t he number and types of appeals, denials, deferrals, and 
+modifications , and did not refer this to the appropriate QIS staff .  
+ For example,  the Plan collect ed statistical data from its internal network and the 
+delegated network regarding the provision of Dental Anesthesia services subject to the PA process. However , there was no process for the integration of this UM activity data 
+into the QIS provided by the Plan.  
+ Plan’s Policy and Procedure, CA.UM.63V3, Dental Service and IV Sedation and General Anesthesia ( Revised 04/04/2020) , did not reference specific QI activity or 
+aggregated data analysis to further monitor and evaluate the provision of these specific 
+services for appropriate compliance or systemic quality improvement .  
+ In a written response, the Plan stated that they moni tor the data via the PA requirement 
+and c ases are reviewed/monitored on a case -by-case basis through PA. The Plan ’s 
+response addressed only the PA process for Dental Anesthesia and not an approach to 
+data analysis and QI for system improvements for this service  
+ If the Plan does not integrate UM activity data into QIS , this may adversely impact the 
+provision of medically necessary services received by members.  
+ Recommendation:  Revise and implement polic y and procedure to integrate reports 
+review ing the number and types of appeals , denials , deferrals , and modifications for all 
+UM activities into  the Plan’s QI including referral  to the appropriate QIS staff .  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+9 of 27  
+1.2  
+PRIOR AUTHORIZATION REVIEW  REQUIREMENTS  
+ 1.2.1 Prior Authorization Decisions  
+ The Plan is required to develop, implement, and continuously update and improve, a UM program that ensures appropriate processes are used to review and approve the provision of medical necessary covered services . The Plan is responsible to ensure that 
+the UM program includes communicating to health care practitioners  the procedures 
+and services that require PA and ensure that all contracting health care practitioners are 
+aware of the procedures  and timeframes necessary to obtain PA for these services. 
+(Contract , Exhibit A, Attachment 5( 1)(E)) 
+ The Plan is required to render a decision on a provider’s request for authorization of health care services for a member, and notify the provider and the member using the appropriate Notice of Action ( NOA)  template within the required timeframes and in 
+accordance with notification requirements in federal and state law. T he Plan must 
+approve, modify or deny a provider’s prospective or concurrent request for health care 
+services for a member within the shortest applic able timeframe that is appropriate for 
+the member’s condition, but no longer than five business days from the Plan ’s receipt of 
+information reasonably necessary and requested by the Plan  to make a determination, 
+not to exceed 14 calendar days following the Plan ’s receipt of the request for service.  
+Decisions to approve, modify, or deny requests, must be communicated by the Plan  to 
+the provider within 24 hours of the decision and to the member within two business days using the appropriate NOA template. ( APL 21 -011) 
+ Plan Policy and Procedure, CA.UM.57, Precertification and Prior Authorization Request 
+Procedure (Revised 08/22/2019),  established appropriate clinical timeframes and 
+standards for utilization determination in order to ensure timeliness of care. The PA 
+review process’s timing of decisions will be consistent with the urgency of the clinical situations and regulatory timeframes in accordance with federal, state, and regulatory guidelines. Furthermore, the Plan will notify members of a decision to deny, def er, or 
+modify requests for PA  by providing written notification to members and/or their 
+authorized representative. If the Plan fails to render a decision within the required timeframe, it shall be considered a denial and therefore constitutes an Adverse Benefit Determination on the date that the timeframe expires.   Finding: The Plan did not consistently  render and communicate to the member the 
+Plan’s  medical PA decision within the required timeframes. 
+ 
+In a verification study , 20 out of 25 medical PAs revealed the Plan did not render and 
+communicate a decision within the required timeframe. Additionally, a review of the 
+Plan’s universe log for medical PAs indicated 644 out of 9,710 PA determinations were 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+10 of 27 made and communicated  to the member s 50 days or more after receipt .  
+ In a written response, the Plan stated that they experienced several challenges that impacted the turnaround time for PAs. The challenges include d:  
+• Ten percent  increase in level of requests above the Plan’s typical volume.  
+• Staffing shortages related to COVID -19 related absences in excess of 15 percent  
+daily.  
+• Difficulty to recruit and timely backfill open positions with qualified candidates  
+impacted the Plan’s operations.  
+• Implementation of an enhanced authorization system resulted in short -term 
+productivity issues pending completion of training.  
+• The Plan de- delegated one of their contracted Participating Physician Groups 
+(PPG ) for PA, which  shifted approximately 50,000 memb ers back to the Plan’s 
+responsibility, which  resulted in additional volume.  
+ By not ensuring PA decisions are made and communicated within the required 
+timeframes, this may severely and adversely impact the ability of members to obtain medically necessary  services and delay the member potential opportunity to file an 
+appeal.   
+ Recommendation:  Implement  policy and procedure to ensure the Plan renders and 
+communicates PA decisions to members within the required timeframes. 
+ 
+ 
+1.2.2 Utilization Review Criteria  
+ The Plan is required to have a set of written criteria or guidelines for utilization review 
+that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated. ( Contract, Exhibit A, Attachment 5(D))  
+ The Plan is required to have written policies and procedures that ensure that decisions 
+based on medical necessity of proposed health care services are consistent with criteria or guidelines that are supported by clinical principles and processes. ( Health and Safety 
+Code (HSC) , section 1367.01(b )) 
+ Plan Policy and Procedure, CA.UM.64 V3, Consistent Application of Utilization 
+Management Criteria by Health Net Medical Directors/Inter Rater Reliability ( Revised 
+03/22/2021 ), stated  that the Plan evaluates the consistency with which Medical 
+Directors involved in UM  apply criteria in decision- making by following procedures:  
+1. Medical Directors will have access to New Hire InterQual Training and Refresher courses available for training as applicable for changes or updated to the InterQual criteria. 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+11 of 27 2. Medical Director decision- making will be tested annually using the applicable 
+InterQual Inter-Rated Reliability ( IRR) tool.  
+3. A record will be kept of all Medical Director IRR  testing and training s essions for 
+at least as long as is required by the applicable regulatory and accrediting agencies.  
+4. A score of at least 90 percent will be required for passing. Any Medical Director 
+scoring below 90 percent will complete a CAP to include refresher training and 
+retaking of the failed InterQual examination until a passing score is achieved.  
+ Plan Policy and Procedure, CA. CC.PHAR.01.04, Medication Prior Authorization 
+Oversight (Revised 01/2021) , stated the Pharmacy D epartment review findings from the 
+PA Pharmacy Quality Assurance / Inter -Rater Reliability quarterly reviews and present 
+the data to the UM  and Quality Improvement Oversight Committees. The Plan’s 
+Pharmacy Benefit Management  (PBM ) conducts an IRR testing annually to ensure that 
+decision makers consistently apply criteria/guidelines.  
+  
+Finding:  The Plan did not ensure the consistent application of a set of written criteria or 
+guidelines for utilization review.   For medical decision- makers, the Plan’s 2021 Retake IQ  IRR report identified medical 
+personnel who underwent reexamination during the audit period.  The report  indicated 
+that about  six percent , 35 out of 556 , of the IRR examiners received a passing grade 
+even though their recorded score was under 90 percent .  
+ In a written response, the Plan stated that  the report contained errors and it was the 
+Plan’s first year using the new Retake IQ IRR reporting system. The clinical managers monitor the IRR accuracy on the staff who did not pass. The monitoring is captured in clinical quality reviews performed by the managers . However,  the Plan did not provide 
+documentation to demonstrate that a CAP was implemented.  
+ For pharmacy decision- makers, t he Plan’s delegated PBM conduct ed an annual 
+Quarterly Quality Audits (QQA )/IRR with its pharmacists and pharmacist technicians 
+that review PAs to ensure consistency with their decision- making. The QQA/IRR 
+provided by the Plan was  a broad, high level , summary that d id not illustrate the 
+pharmacist and pharmacy technician’s individual IRR testing scores. Additionally, some of the categories in the IRR showed: zero percent , partial ( five percent ), and some with 
+a total score of below 90 percent . According to the Pharmacy  and Therapeutics 
+Committee Executive Summary Report, the Plan discussed the overall IRR results and target goals but it did not address individuals who fail the IRR and what kind of follow -up 
+actions were taken, if any.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+12 of 27 The Plan d id not know whether 10 0 percent  of the pharmacy team took the IRR and the 
+Plan d id not receive detailed IRR reports that includes specific pharmacist, name, or 
+scores to that level. During the interview, the Plan stated that it is part of the delegation agreement with the PBM and that the PBM maintain a record of these details. 
+Therefore, the Plan assumed that the PBM would not leave any pharmacist or pharmacy technicians out of the IRR review. Additionally, when the IRR results demonstrated inconsistencies, t he Plan was unable to provide documentation showing 
+follow- up actions.  
+ By not ensuring consistent application of the PA criteria and guidelines through the IRR process, may adversely impact members’ access to medically necessary services.  
+ Recommendation:  Implement policies  and procedures to ensure the consistent 
+application of a set of written criteria or guidelines for utilization review.    
+ 1.2.3 Pharmacist License 
+ The Plan is required to ensure that its UM program, such as PA review procedures, are 
+reviewed by qualified health care professionals to supervise review decisions  and a 
+qualified physician will review all denials that are made, whole or in part, on the basis of medical necessity. A qualified physician or contractor’s pharmacist may approve, defer, 
+modify, or deny PAs for pharmaceutical services.  (Contract, Exhibit A, Attachment 
+5(2)(C))  
+ The Plan may enter into subcontracts with other entities in order to fulfill the obligations 
+of the Contract. The Plan is  required to ensure that all subcontracts shall be in 
+accordance with applicable federal and state laws and regulations.  (Contract, Exhibit A, 
+Attachment 6(14)(A) ) 
+ Policy Letter (PL)  provides clarification to the C ontract regarding the allowable scope of 
+practice in California licensed pharmacist performing pharmacy UM  activities on behalf 
+of the Plan. A  licensed pharmacist may approve, defer, approve as modified or deny 
+requests for pharmacy services.  (PL 08-013) 
+ A pharmacist shall hold a valid certificate issued by the California Board of Pharmacy 
+pursuant to Business and Professions Code  (BPC) , section 4085, or hold a similar valid 
+certificate issued by the State in which he practices in.  (California Code of Regul ations  
+(CCR) , Title 22, section 51227)  
+ 
+“Pharmacist” means a natural person to whom a license has been issued by the board, under section 4200, except as specifically provided otherwise in this chapter. The holder 
+of an unexpired and active pharmacist license issued by the board is entitled to practice pharmacy as defined by this chapter, wi thin or outside of a licensed p harmacy  as 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+13 of 27 authorized by this chapter . (BPC, section 4036)  
+ Plan’s PBM P olicy and P rocedure,  EPS.PHARM.03A, Medicaid Prior Authorization 
+Review Process ( Reviewed 02/2022) , state d that the PBM handle all Medicaid PA 
+requests in a manner and timeframe that complies with all f ederal and state laws and 
+regulations . 
+ Plan Policy and Procedure, CA. CC.PHAR.01.04, Healt h Net Medi -Cal Medication Prior 
+Authorization Oversight ( Revised 01/2021) , stated the Pharmacy Department will 
+ensure that the following guidelines are applied to Medi -Cal PA request reviews: A 
+licensed pharmacist or licensed physician reviews  all potential denials and makes the 
+decision to deny a request.  
+ Finding:  The Plan’s pharmacy UM activities  were reviewed, approved, or denied by 
+pharmacists  that did not hold a current or valid license issued by the California Board of 
+Pharmacy.  
+ The Plan delegated the pharmacy’s PA services to its PBM.  
+ In a verification study , 20 pharmacy PAs reviewed, four PAs were  denied, and one PA 
+was approved by  pharmacists that did not hold a valid or current license issued by  the 
+California State Board of Pharmacy . Based on the 20 verification studies sampled, four 
+individuals did not have an active California pharmacist license to practice in California. Additionally, according to the PBM ’s list of employe es that conducts PAs  on behalf of  
+the Plan, ten of the 13 (77 percent) pharmacists did not have a California license issued by the State Board of Pharmacy.  
+ In a written response, t he Plan prefers to us e California licensed pharmacists whenever 
+possible for PA requests. Furthermore, t he Plan stated  these reviewers may hold a 
+license out of state ; however, they are trained to review for the California Medi -Cal plan. 
+Therefore,  the Plan did  not require individuals that review PA requests for California 
+residents to be licensed in California and did not ensure that its delegated PBM 
+complie d with all state laws and regulations.  
+ When the Plan’s PBM uses non- California licensed pharmacists to perform  PA denials 
+and approvals , the Plan cannot ensure that the staff has sufficient knowledge to comply 
+with all California requirements  for medications approved or denied for California 
+patients . 
+ Recommendation:  Revise and implement policy and procedures to ensure that the 
+pharmacists who perform PAs have an active license with the California State Board of 
+Pharmacy.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+14 of 27  
+1.5  
+DELEGATION OF UTILIZATION MANAGEMENT  
+ 1.5.1 Delegation of Utilization Management Oversight of Prior Authorization Process  
+ The Plan is accountable for all quality improvement functions and responsibilities (e.g. UM, Credentialing, and Site Review) that are delegated to subcontractors. If the Plan 
+delegates UM activities, it is required to comply with requirements for Delegation of Quality Improvement Activities. ( Contract, Exhibit A, Attachments 4 (6) and Attachment 
+5 (5)) 
+ The Plan and any entity with which it contracts for services that include utilization review or UM functions, that prospectively, retrospectively, or concurrently reviews and 
+approves, modifies, delays, or denies, based in whole or in part on medical necessity, requests by providers prior to, retrospectively, or concurrent with the provision of health care services to enrollees, or that delegates these functions to medical groups or independent practice associations or to other contracting providers, shall comply with HSC, section 1367.01. In addition, the Plan is required to have written policies and procedures establishing the process,  by which it prospectively, retrospectively, or 
+concurrently reviews and approves, modifies, delays, or denies, based in whole or in part on medical necessity, requests by providers of health care services for plan members. These policies and procedures shall ensure that decisions based on the medical necessity of proposed health care services are consistent with criteria or guidelines that are supported by clinical principles and processes. ( HSC, section 
+1367.01 (a) and (b))  
+ 
+The Plan is required to ensure that its PA, concurrent review, and retrospective review procedures meet the following requirements set forth in Exhibit A,  Attachment 5:  1. 
+There is a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated, and 2. Reasons for decisions are clearly documented. ( Contract, Exhibit A, Attachment 5 
+(2D) and (2E))  
+ The Plan is required to notify members of a decision to deny, defer, or modify requests for PA, in accordance with Code of Federal Regulations (CFR),  Title 42, section 
+438.210(c) and CCR, Title 22, sections 51014.1 and 53894 by providing a NOA to 
+members and/or their authorized representative. ( Contract, Exhibit A, Attachment 13 
+(8)) 
+ The Plan is required to give members timely and adequate notice of an adverse benefit determination in writing consistent with the requirements of this section and section 438.10. ( CFR, Title 42, section 438.404(a))  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+15 of 27 The Plan must conduct ongoing oversight to monitor the effectiveness of this process. The requirements shall only pertain to decisions based in whole or in part on medical necessity. The Plan shall ensure that the NOA still provides a clear and concise 
+explanation of the reasons for the decision. ( APL 17 -006) 
+ The Plans are responsible for ensuring that their delegates comply with all applicable state and federal laws and regulations, C ontract requirements, and other DHCS 
+guidance including APL 17- 004, APL 17- 006, APL 19- 009, and APL 21- 011. 
+ Plan Policy and Procedure,  HNCS DO -103, Delegated Entity Evaluation and Delegation 
+Determination (Revised 11/22/2021) , stated that the Plan may delegate to certain 
+contracted entities the responsibility for specific activities including,  but not limited to: 
+UM, Credentialing and Re- credentialing, Complex Case Management, Special Needs 
+Plan Case Management, Cal MediConnect Case Management defi ned in the Model of 
+Care, Behavioral Health management and Claims Processing. The Plan retains 
+accountability for all care and service delivered to members . The Plan standards are in 
+agreement with the standards of the Centers for Medicare and Medicaid Ser vices, the 
+California DHCS, the California Department of Managed Healthcare, and the National 
+Committee for Quality Assurance.  
+ Finding:  The Plan did not ensure that one of its delegated entities complied with UM 
+and PA requirements.  
+ The Plan did not fully follow its policies regarding monitoring, review, and oversight of one of its delegates to ensure that delegated UM functions met Contract requirements.  
+ DHCS requested case files to conduct a verification study of the Plan’s complia nce 
+related to the oversight of this delegate’s PA  process; however, the Plan did not provide 
+any case file documentation.  
+ The Plan’s  Matrix of Delegated PPG Activities indicated that this delegate was 
+delegated for UM functions. The Plan responded that P A was not required for services 
+provided within this particular  delegated group’s delivery system or in- network specialty 
+care. The Plan explained that the delegated entity utilized an online electronic consultation system for review of medically indicated services including specialty 
+referral, service authorization requests, and care coordination between a PCP and a specialist. The tool functions to optimize the decision process regarding necessity for 
+medical services.  
+ During the interviews, t he Plan was  not able to demonstrate that the system  utilized by 
+the delegate complied with the requirements for written documentation related to 
+medical necessity decisions regarding denials, modifications, or delays in service decisions. Furthermore, no NOA letters were generated related to Adverse Benefit 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+16 of 27 Determinations to members and providers, and no corresponding “Your Rights” attachments were sent informing a member when a medical service had been denied, deferred, or modified. Members were not informed of 1.The action that the Plan or its contractor has taken or intends to take, 2. The reason for the action (medical decision making), 3. The member’s or provider’s right to file an appeal, 4. The member’s right to 
+request a State Fair Hearing, 5. Procedures for exercising the member’s rights to appeal or grieve, 6. Circumstances under which an expedited review is available and how to request it, 7. The member’s right to have benefit s continue pending the 
+resolution of the appeal, and 8. How to request benefits continuation.  
+ Another  issue was noted regarding member rights . During the interview, the Plan 
+revealed the existence of an additional a ppeal process at the delegate level outs ide of 
+the one reserved to the Plan pursuant to the delegation agreement  (appeals were not a 
+function delegated to the entity). No a ppeals related to the delegated UM function for 
+this delegated entity were noted in the appeals universes supplied by the Pl an and 
+specifics regarding details and numbers of appeals , if any, related to the UM functioning 
+of this delegate were not provided.  
+ Additionally, the Plan’s UM delegation and related QI oversight and monitoring processes did not include procedures to rev iew the delegated entity’s electronic 
+consultation system. During the interviews, the Plan stated that the system was not a specific part of their audit program or ongoing monitoring of the delegated entity’s UM 
+function.  
+ If the Plan does not effectively oversee the compliance of UM systems and processes related to notification of  members and providers , this may adversely impact members 
+and deprive them of information necessary to obtain medical services and to exercise 
+their rights.  
+ Recommendation:  Revise and implement UM delegation oversight processes and 
+procedures to ensure that the Plan and its delegated entity is compliant with all UM and PA requirements.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+17 of 27  
+ 
+CATEGORY 2 – C ASE MANAGEMENT AND COORDINATION OF CARE  
+ 
+ 
+2.1  
+CALIFORNIA CHILDREN’S SERVICES (CCS)  
+ 2.1.1 California Children’s Services (CCS) Coordination of Services 
+ Once eligibility for the CCS program is established for a m ember, the Plan is required to 
+continue to provide all medically necessary covered services that are not authorized by 
+CCS and ensure the coordination of services and joint case management between its PCPs , the CCS specialty p roviders, and the local CCS program.  (Contact, Exhibit A, 
+Attachment 11(5 )) 
+ Plan Policy and Procedure, CA.CM.02.13, California Children Services (CCS) ( Effective  
+11/01/2013 ), state d that upon CCS eligibility determination, the Plan is still responsible 
+for continuing to provide all medically necessary covered services that are not authorized by CCS and to ensure the coordination of services and joint case 
+management between its PCPs, the CCS specialty p roviders, and the local CCS 
+program. Members may participate in the Plan’s case management. Once case management is accepted, all activities and interventions related to case management are documented in the clinical documentation system that includes the following information: member demographics, Care Plan and goals, interventions, plans for follow up, patient and physician contacts, education provided to the m ember.   
+ Finding: The Plan did not fully implement its policy to ensure coordination of services  
+and joint case management between its PCPs, the CCS specialty providers, and the local CCS program .  
+ A verification study sample consisted of ten members with CCS conditions who participated in the Plan’s case management program. Verification study results revealed that for all ten member ’s records, including case management notes, the Plan did not 
+document case management activities such as,  
+• Individual Care Plan  
+• An assigned Plan Case Manager  
+• Evidence of joint case management.  For example, upon acceptance to the CCS 
+program, the Plan closed cases with no documentation of follow -up coordination 
+with the member or their provider. Additionally, for cases that remained open, the Plan only documented referral approvals and did not document care coordination and communication with the member and providers.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+18 of 27 In a written statement regarding coordination of care, referrals, and utilization of authorized services, the Plan acknowledged that it ultimately holds the member’s PCP as the responsible party for ensuring coordination of care for CCS services.   
+ The lack of  coordination and joint case management, may lead to potential member 
+harm due to delay or lack of medically necessary treatment . 
+ Recommendation: Implement policy and procedures  to ensure that CCS members 
+receive coordination of care and joint case management between the PCPs, CCS 
+specialty providers, and local CCS program.   
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+19 of 27  
+2.3  
+BEHAVIORAL HEALTH TREATMENT  
+ 2.3.1 Behavioral Health Treatment (BHT) Plan  
+ The Plan is required to provide, observe, and direct BHT services under a Managed Care Plan -approved behavioral treatment plan. The behavioral  treatment plan may be 
+modified or discontinued only if it is determined that the services are no longer medically  
+necessary under the EPSDT medical necessity standard.  The approved behavioral 
+treatment plan must meet 11- point standardized criteria, including an Exit Plan/criteria . 
+However,  only a determination that services are no longer medically necessary under 
+the EPSDT standard can be used to reduce or eliminate services . (APL 19 -014) 
+  
+Plan Policy and Procedure,  MHN.UM.01 , Administration of Applied ABA Behavioral 
+Analysis (ABA) Benefit ( Revised 12/08/2021) , stated that an approved behavioral 
+treatment plan shall include an E xit Plan/criteria  and only a determination that no longer 
+medically necessary under the EPSDT standard can be used to reduce or eliminate services.  
+ Finding:  The Plan did not ensure that an E xit Plan/criteria included  a determination 
+when services were  no longer  medically necessary . 
+ In a verification study,  seven out of seven files revealed the Plan’s clinical team utilize d 
+a Request for Service Authorization Form (Revised 09/22/21) that identified the 
+discharge criteria w ere based on mastery  skills  and not on services that were no longer 
+medically necessary under EPSDT medical necessity standard.  
+ 
+During the interview, the Plan stated that the clinical team was reviewing the transition plan for a lower level of care as an E xit Plan/criteria , however the medical necessity 
+standard was missing. Furthermore, the Plan stated that they did not notify vendors 
+about the APL19 -014 requirement  because Plan's process did not change.  The Plan did 
+not follow policy and procedure to include a determination that services are no longer medical ly necessary under EPSDT to reduce or eliminate services.  
+ If the Plan does not ensure that an exit plan/criteria includes a determination when 
+services were no longer medically necessary, member services may be improperly reduced or discontinued  Recommendation:  Implement  policy and procedure to ensure that an approved 
+behav ioral treatment plan exit plan/criteria includes a determination that services are no 
+longer medically necessary .  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+20 of 27  2.4.1 Continuity of C are with an Out-of-Network Provider  
+ The Plan is required to comply with all existing final Policy  Letters and APLs issued by 
+DHCS. All Policy Letters and APLs issued by DHCS subsequent to the effective date and during the term of the Contract shall provide clarification of the Plan’s obligations pursuant to the Contract, and may include instructions r egarding implementation of 
+mandated obligations pursuant to changes in state or federal statutes, regulations, or pursuant to judicial interpretation. ( Contract, Exhibit E, Attachment 2(1)(D) ) 
+ The Plan is required to give all Plan members with pre- existin g provider relationships 
+who make a COC request the option to continue treatment for up to 12 months with an 
+out-of-network Medi -Cal provider. These eligible members may require COC for 
+services they have been receiving through Medi -Cal Fee-for-Service ( FFS) or through 
+another Plan. ( APL 18 -008) 
+ The Plan is required to provide COC with an out -of-network Medi -Cal provider when the 
+member has an existing relationship with the provider , the provider is willing to accept 
+the higher of the Plan’s C ontract rates  or Medi -Cal FFS rates , the provider meets the 
+Plan’s applicable professional standards and has no disqualifying quality of care issues , 
+the provider is a California State Plan appr oved provider , and the provider supplies the 
+Plan with all relevant treatment information.  (APL 18 -008) 
+ Plan Policy and Procedure, CA.UM.20 Continuity of Care with Terminated/Non-Contracted (Revised 01/14/2021) , purpose is to ensure compliance with all regulatory 
+rules and guidance regarding COC and to outline the processes the Plan uses to 
+provide COC or completion of services assistance to Plan members who require it. Members with pre- existing provider relationship have the right to request COC and are 
+given the option to continue treatment for  up to 12 months with an out -of-network Medi -
+Cal provider.  
+ Finding:  The Plan did not provide COC with an out -of-network provider for a member 
+who met the conditions . 
+ DHCS reviewed the Plan’s policy and the COC Request Form and found that  the Plan 
+used a more restrictive criteria to approve COC request with an out of network provider. The Plan approves COC requests if the member meet s the preexisting relationship, and 
+one of the six elements such as:  schedule procedure/ surgery , acute condition, ser ious 
+chronic condition, terminal illness, p regnancy and immediate postpartum, and care of a 
+newborn.  The Plan’s additional six  elements  are not required in the APL.    
+2.4  
+CONTINUITY OF CARE  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+21 of 27 In an interview, the Plan stated that members must  fill out the Health Net COC Request 
+Form and state the reason for the COC request  using the more restrictive criteria.  
+ In the verification study , the Plan incorrectly denied a COC request because the 
+member did not have a serious long- term condition in one out of eight cases .  
+  
+When the Plan uses  a more restrictive  criteria to approve COC requests, it may impact 
+and delay  medically necessary services.  
+ Recommendation:  Revise  and implement policy and procedure to ensure the 
+appropriate criteria is used for approval of COC service request.  
+ 2.4.2 Continuity of Care Notification to Members 
+ Upon approval of a COC request, t he Plan is required to notify members of the following 
+within seven calendar days : the request approval , the duration of the COC 
+arrangement , the process that will occur to transition the member’s care at the end of 
+the COC period, and t he member’s right to choose a different provider from the Plan’s 
+provider network. ( APL 18- 008) 
+ Plan Policy and Procedure, CA.UM.20 Continuity of Care with Terminated/Non-
+Contracted (Revised 01/14/2021),  purpose is to ensure compliance with all regulatory 
+rules and guidance regarding COC and to outline the processes the Plan uses to 
+provide COC or completion of services assistance to Plan members who require it.  
+ Finding:  The Plan did not ensure that, within seven calendar days upon approval of a 
+COC request, members were sent a Written Decision N otification letters containing a 
+transition plan and the member’s right to choose a different provider from the Plan’s 
+network . 
+ In the verification study,  six out of seven approved cases, the letter s were  sent after 
+seven calendar days . In addition,  in all seven cases, the  letters did not include 
+information regarding the transition process and the member's rights to choose a different provider from the Plan's network . 
+ In an interview, the Plan stated that the Compliance Department was responsible for  
+updating and sending letters  to the member . However, the Plan was not aware that the 
+letter s were not sent out to members within the required timeframe and did not include 
+the required information.  
+  
+Without timely notification of approval of a COC request that includes information 
+regarding the transition process and the member's rights to choose a different provider, the member's access to medically necessary care may  be impact ed or delayed.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+22 of 27  Recommendation:  Revise  and implement policies and procedures to ensure timely 
+notification to members  upon approval of COC request that include s information on the 
+transition process and member's rights to choose a different provider.   
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+23 of 27  
+ 
+CATEGORY 3 – ACCESS AND AVAILABILITY OF CARE  
+ 
+ 
+3.8  
+NON- EMERGENCY MEDICAL TRANSPORTATION  
+NON- MEDICALTRANSPORTATION 
+ 3.8.1 Physician Certification Statement   
+The Plan, and its transportation brokers, is required use a DHCS approved PCS form to determine the appropriate level of services for Medi -Cal members. Once the member’s 
+treating physician prescribes the form of transportation, the Plan  cannot modify the 
+authorization. All NEMT PCS forms must include, at a mi nimum, the following 
+components: Function Limitations Justification, Date of Services Needed, Mode of Transportation Needed, and Certification Statement. The Plan must have a mechanism 
+to capture and submit data from the PCS form to DHCS. ( APL 17-010) 
+ Plan Policy and Procedure, CA.LTSS.15, Non- Medical Transportation (NMT) and Non-
+Emergency Medical Transportation (NEMT) for Medi -Cal Members ( Revised 
+08/24/2021) , stated that the Plan and transportation brokers use a DHCS approved 
+PCS form to determine the appropriate level of service for Medi -Cal members. Once the 
+member’s treating physician prescribes the form of transportation, the Plan cannot modify the author ization. Effective April 1, 2020, the member is given one roundtrip or 
+two one- way courtesy rides pending the PCS form from the provider. The first time a 
+member requests a ride, the Plan’s contracted transportation vendor will send out the PCS form to the  provider. Exceptions to the limit on courtesy rides will be made for 
+those members receiving services under Urgent Treatment Types. If the courtesy ride(s) have been exhausted and the PCS form has still not been received, the member’s request for transportation will be denied. The only exception for this scenario would be transportation for u rgent treatment types .  
+ Finding: The Plan failed to implement its  policies and procedures to ensure PCS forms 
+were  available and approved before the NEMT services were  rendered.  
+ A verification study revealed that seven out of  ten NEMT trips were missing a valid PCS 
+form prior to providing the services . Even when courtesy rides were exhausted, the 
+Plan, contrary to its policy and procedures, continued to approve NEMT service requests without PCS forms.   
+ The Plan did not require its transportation broker  to obtain and review the PCS forms 
+prior to providing NEMT services . During the audit period,  the Plan identified  
+deficienc ies with its PCS reviews and urged the broker to correct the deficiency 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+24 of 27 regarding missing PCS forms. However, the Plan did not take effective action to ensure the broker followed the policy and procedure. The Plan agreed  that the remediation 
+performed by the t ransportation broker was ineffective and the PCS process is deficient.  
+ Without obtaining PCS forms before providing NEMT trips, the Plan is unable to determine the appropriate level of service for Medi -Cal members.  
+ Recommendation:  Implement policy and procedures to ensure use of PCS forms 
+before the NEMT services.   3.8.2 Medi -Cal Enrol lment of NEMT and NMT Providers 
+ The Plan is required to develop and implement a managed care provider screening and enrollment process that meets the requirements of the APL, or they may direct their network providers to enroll through the DHCS or another state department with a recognized enrollment pathway. All Medi- Cal providers are required to enter into a 
+provider enrollment agreement with the state as a condition of parti cipating in the Medi -
+Cal program  and provide the applicant with a written determination. The Plan  may allow 
+providers to participate in their network for up to 120 days, pending the outcome of the screening process.  (APL 19- 004) 
+ The Plan is required  to screen and enroll, and periodic validation, of all network 
+providers of managed care organizations, prepaid inpatient health plans, and prepaid 
+ambulatory health plans, aligning with the FFS enrollment requirements described in CFR,  Title 42, part 455, su bparts B and E. These requirements apply to both existing 
+contracting network providers as well as prospective network providers.  (CFR,  Title 42, 
+section 438.602(b) ) 
+ Finding:  The Plan did not ensure that all contracted NEMT and NMT providers are 
+enrolled in the Medi -Cal program.  
+ In a verification study, two of ten NEMT trips were rendered by a provider, whose Medi -
+Cal program enrollment application was denied. Furthermore, th e provider carried Medi -
+Cal beneficiaries for approximately 2,500 trips in March 2022, three months after its 
+enrollment application was denied. Additional ly, two more providers were also denied 
+enroll ment in the Medi -Cal program , however  remained contracted with the Plan 
+through their transportation broker.  
+ The Plan did not promptly suspend the providers from its network who do not meet enrollment requirements.  The Plan failed to remain contractually responsible for the 
+completeness and accuracy of the screening and enrollment activities.    
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+25 of 27 The Plan revised Policy and Procedure, CA.LTSS.15, Non -Medical Transportation 
+(NMT) and Non- Emergency Medical Transportation (NEMT) for Medi -Cal Members 
+(Revised 08/24/2021),  to include Medi -Cal enrollment requirements according to APL 
+19-004 as part of prior year corrective action. The policy is pending approval.  
+ Medi -Cal members may be subject to inadequate and unsafe transportation conditions 
+from continually assigning NEMT services to  transportation providers  who were  denied 
+enroll ment  in the Medi -Cal program . 
+ This a repeat finding from prior audit finding 3.8.1 – Medi -Cal Enrollment of NEMT 
+and NMT Providers.  
+ Recommendation: Implement policies and procedures to ensure the Plan’s 
+transportation providers are enrolled in the Medi -Cal program and comply with all 
+requirements.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+26 of 27  
+ 
+CATEGORY 4 – MEMBER’S RIGHTS  
+ 
+ 
+4.1  
+GRIEVANCE SYSTEM  
+ 4.1.1 Quality of Care (QOC) Resolution Letters 
+ The Plan is required to have in place a system in accordance with CCR, T itle 28, 
+section 1300.68 and 1300.68.01, CCR, T itle 22, section 53858, Exhibit A, Attachment 
+13, Provision 4, paragr aph E.13, and CFR, Title  42, section 438.420.402- 424, the Plan 
+shall follow g rievance and a ppeal requirements, and use all notice templates included in 
+APL 17 -006. ( Contract, Exhibit A, Attachment 14(1) )  
+ The Plan’s written resolution of standard grievances is required to contain a clear and concise explanation of the Plan’s decision. Furthermore, the Plan is required to ensure adequate consideration of g rievances and appeals and rectification when appropri ate. If 
+multiple issues are presented by the beneficiary, the Plan must ensure that each issue is addressed and resolved. ( APL 21-011) 
+ The Plan is required to provide members  with written response to the grievance, with a 
+clear and concise explanation of the reasons for the P lan’s response. For grievances 
+involving the delay, denial, or modification of health care services, the P lan response is 
+required to describe the criterial used and the clinical reasons for its decision, including all criterial and clinical reasons related to medical necessity.  (HSC, section 1368(a)(5) )  
+ Plan Policy and Procedure, GA -201ML, Medi -Cal Grievance Process ( Revised 
+10/18/2021), stated that the Plan’s written resolution shall contain a clear and concise 
+explanation of the Plan’s decision .  
+ Finding:  The Plan’s QOC  resolution letters did not include a clear and concise 
+explanation of the Plan’s decision.  In the verification study,  18 out of 20 resolution letters  provided a standard response in 
+place of a clear and concise explanation of the Plan’s decision that stated the Plan was not allowed to disclose the specific results due to confidentiality and protected law . 
+ In an interview, the Plan acknowledged that the standard response  for the written 
+resolution letters  was due to peer review privacy protection. T he Plan incorrectly relied 
+on the peer review privacy protection as the reason why a clear and concise 
+explanation  of the Plan’s decision were  not included in the resolution letters.  
+ 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022 DATES OF AUDIT :  March 21, 2022 through April 1, 2022  
+ 
+27 of 27 Without a written explanation of the Plan’s decisions, members are not aware if their 
+issues are appropriately investigated and resolved.  
+ This a repeat finding from prior audit finding 4.1.2 – Grievance Resolution.  
+ Recommendation:  Implement policies and procedures that ensure the resolution 
+letters contain a clear and concise explanation of the Plan’s  decision.  
+       
+MEDICAL REVIEW  – SOUTHERN  SECTION  V 
+AUDITS AND INVESTIGATIONS  
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+HEALTH NET COMMUNITY SOLUTIONS, INC.  
+ 
+2022  
+ 
+Contract Number:     
+03-76208 , 07-65848, 09- 86158, 
+and 12- 89335 
+State Supported Services  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ April 1, 2021  
+    Through  
+March 31, 2022  
+ 
+March 21, 2022  
+    Through  
+April 1 , 2022  
+ 
+October 31, 2022  
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION .............................................................................1 
+ Il. COMPLIANCE AUDIT FINDINGS  ...................................................2 
+   
+1 of 2 I. INTRODUCTION 
+ This report presents the audit  of Health Net Community Solutions, Inc. (Plan) compliance 
+and implementation of the State Supported Services C ontracts with the State of California. 
+The Contracts cover abortion services for  the Plan.   
+ The audit was conducted from March 21, 2022  through April 1, 2022 . The audit covered 
+the audit period from April 1, 20 21 through March 31, 2022 . It consisted of document 
+reviews and interviews with the Plan’s staff.  
+ An Exit Conference with the Plan was held on September 30, 2022. There were no deficiencies  found for the audit  period of the Plan’s State Supported Services.  
+     
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Health Net Community Solutions, Inc.  
+ 
+AUDIT PERIOD:  April 1, 2021 through March 31, 2022  
+DATE S OF AUDIT:  March 21, 2022 through April 1, 2022  
+ 
+2 of 2  
+STATE SUPPORTED SERVICES  
+ The Plan is required to provide, or arrange to provide, to eligible members the  
+following  State Supported Services: Current Procedural Terminology Codes 59840 
+through 59857 and the Centers for Medicare and Medicaid Services Common Procedure Coding System Codes: X1516, X1518, X7724, X7726, Z0336. These codes are subject to change upon the Depar tment of Health Care Services implementation of 
+the Health Insurance Portability and Accountability Act of 1996 electronic transaction and code sets provisions. (State Supported Services Contract s, Exhibit A, (1 ))  
+ Plan Policy and P rocedure, CA.LTSS.18, P regnancy Termination (Reviewed 
+08/23/2021) , describe d the process by which Medi -Cal members may access and 
+obtain abortion services. The policy stated that abortion services and supplies are covered by the Plan. The Plan provides members timely access to a bortion services 
+from any qualified provider , or non- contracted provider,  without prior authorization.  
+ The Plan provided  information on covered services to new members through the 
+Evidence of Coverage. The information  stated  that abortion services  are available to 
+members without referral or authorization, member’s right to access services in a timely manner, and member’s freedom to choose any qualified provider.  
+ The Plan’s Provider Delegation Oversight Department monitor s their participating 
+provider groups to ensure authorization is not required for family planning services, 
+including abortion services.  
+ The verification study revealed the Plan appropriately processed abortion claims for payment and did not demonstrate any deficiencies related to Stat e Supported Services.  
+ Based on the review of the Plan’s documents, there were no deficiencies noted for the review period.  
+ Recommendation: None.  
+ 

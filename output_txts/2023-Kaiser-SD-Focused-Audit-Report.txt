@@ -1,0 +1,258 @@
+1 
+DHCS AUDITS AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+REPORT O N TH E FOCUSED AU DIT OF KP CA L, LLC 
+– KAISER P ERMANENTE GMC 2 023
+Contract N umber: 0 9-86159 San D iego 
+Audit Period: N ovember 1, 2 022 – October 3 1, 2023 
+Dates of A udit: October 31, 2023 – November 9 , 2023 
+Report I ssued: Augu st 30, 2024 
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 3  
+II. EXECUTIVE SUMMARY ...................................................................................... 5 
+III. SCOPE/AUDIT PROCEDURES .......................................................................... 7 
+IV. COMPLIANCE AUDIT FINDINGS Performance Area:  Behavioral Health  ...................................................... 8  
+Category 2 – Case Management and Coordination of Care  
+Performance Area:  Transportation  ............................................................  11  
+Category 3 – Access and Availability of Care  
+  
+3 
+ 
+I. INTRODUCTION  
+Background  
+In accordance with California Welfare and Institutions Code section 14456, the Department of Health Care Services (DHCS) may conduct additional reviews outside of the annual medical audit when DHCS determines there is good cause.  DHCS directed the Contract and Enrollment Review Division to conduct focused audits of all contracting Medi-Cal Managed Care Plans (Plans) to evaluate the current Plans’ performance in the areas of Behavioral Health and Transportation services.  
+These focused audits differ from DHCS’ regular annual medical audits in scope and depth. The annual medical audits evaluate the Plan’s organizational structures, policies and procedures, and systems for compliance with contractual requirements. The focused  
+audits examined the operational issues that may hinder appropriate and timely member access to medically necessary care. The focused audit engagement formally commenced in January 2023 through December 2023.                                                
+                                                                                         
+For the Behavioral Health section, the focused audit evaluated the Plan monitoring activities of specific areas such as Specialty Mental Health Services (SMHS), Non -
+Specialty Mental Health Services (NSMHS), and Substance Use Disorder Services (SUDS). The f ocused audit also reviewed potential issues that may contribute to the lack of 
+member access and oversight for SMHS, NSMHS, and SUDS.  
+The focused audit conducted a more in -depth look at current MCP operations/practices 
+for executing the delivery of transportation services. The audit examined potential causes for the systemic issues surrounding the Non-Emergency Medical Transportation (NEMT) and Non-Medical Transportation (NMT)  services, specifically when 
+transportation is delegated to a transportation broker.  
+Kaiser Foundation Health Plan, Inc. (KFHP) obtained its Knox -Keene license in November 
+1977, and contracted with DHCS in 1994, as a Geographic Managed Care (GMC) plan to provide health care services to Medi -Cal members in the GMC counties of Sacramento 
+and San Diego.  
+In 2005, KP Cal, LLC (Plan) was created and licensed as a Knox-Keene Plan to hold Kaiser's GMC Contracts. DHCS then transferred the GMC Contracts to the Plan. The Plan and KFHP entered into a management and administrative services agreement to delegate adm inistrative and operational functions such as quality improvement, 
+grievances, and appeals to KFHP. These two entities also entered into a health services agreement to provide health care services to Plan members through KFHP’s network of 
+4 
+ 
+providers and medical centers. KFHP offers a comprehensive health care delivery system including physicians, medical centers, hospitals, laboratories, and pharmacies.  KFHP divides its operations into Northern California and Southern California regions with corresponding responsibilities for the Sacramento and San Diego GMC Contracts.  
+The San Diego GMC service area includes San Diego County.  
+During the audit period, the Plan delegated NMT services to MTM, a transportation broker.  
+As of October 31, 2023, KFHP’s total direct GMC Contract membership was approximately 211,047. Medi -Cal membership composition was 69,579 for San Diego 
+GMC.   
+5 
+ 
+II. EXECUTIVE SUMMARY 
+ This report presents the audit findings of DHCS ’ focused  audit for the period of 
+November 1, 2021,  through October 31, 2022. The audit was conducted from February 
+6, 2023,  through February 17, 2023. The audit consisted of document review, surveys, 
+verification studies, and interviews and file reviews with Plan representatives.  
+An Exit Conference with the Plan was held on July 9, 2024. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the Exit Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+The focused audit evaluated the areas of performance for Behavioral Health and Transportation services.  
+The summary of findings by performance area follows:  
+Performance Area: Behavioral Health 
+Category 2 –  Case Management and Coordination of Care : 
+• Specialty Mental Health Services  
+• Non-Specialty Mental Health Services  
+• Substance Use Disorder Services  
+The Plan is required to arrange for member referrals to the county department responsible for substance use treatment, or other community resources when services are not available through counties for members identified as requiring alcohol or Substance Us e Disorder (SUD) treatment services. The Plan is required to make good 
+faith efforts to confirm whether members receive referred treatments, document when and where these treatments were received, and any next steps following treatment. If a member does no t receive referred treatments, the Plan must follow up with the member 
+to understand barriers and make adjustments to the referrals, if warranted. The Plan did not make good faith efforts to confirm whether members received referred treatments for SUD, fai led to document when and where these referred treatments were received, 
+and any next steps following treatment. The Plan did not follow up with members who did not receive referred treatments to understand barriers and make subsequent adjustments to referr als. 
+ 
+6 
+ 
+Performance Area: Transportation  
+Category 3 –  Access and Availability of Care  
+• Non-Emergency Medical Transportation  
+• Non-Medical Transportation  
+The Plan is required to have processes in place to ensure that door -to-door assistance is 
+being provided for all members receiving NEMT services. The Plan did not have a process in place to ensure that door-to -door assistance was being provided for all 
+members receiving NEMT services.  
+The Plan is responsible for monitoring and overseeing the transportation brokers to ensure that transportation brokers are complying with the requirements set forth in the All-Plan Letters (APL). The Plan must conduct monitoring activities of transportatio n 
+brokers no less than quarterly. The Plan did not conduct monitoring activities to verify NEMT providers were providing door-to -door assistance for members receiving NEMT 
+services, and the Plan did not conduct monitoring activities for the no -show rates o f 
+NEMT and NMT providers.  The Plan must have the ability to supplement its transportation network if a transportation broker’s network is not sufficient. The Plan did not have the ability to supplement its transportation network.   
+7 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+This focused audit was conducted by the DHCS, Contract and Enrollment Review Division to ascertain that the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+On November 3, 2022, DHCS informed Plan s that it will be conducting focused audits to 
+assess performance in certain identified high -risk areas. The focused audit was 
+concurrently scheduled with the annual medical audit of Plan s. The audit scope 
+encompasse d the following sections:  
+• Behavioral Health  – SMHS, NSMHS, and SUDS 
+• Transportation – NEMT and NMT services  
+The audit was conducted from October 31, 2023, through November 9, 2023. The audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+The following verification studies were conducted:  
+Category 2 –  Case Management and Coordination of Care  
+SMHS: Five samples were reviewed to evaluate whether there was member care 
+coordination between the Plan and the county Mental Health Plan (MHP), as well as compliance with APL requirements.  
+NSMHS: Five samples were reviewed to evaluate compliance with APL requirements.  
+SUDS: The Plan failed to provide a report of members who were referred for SUDS 
+during the audit period.  
+Category 3 –  Access and Availability of Care  
+NEMT: Five samples were reviewed to evaluate compliance with APL requirements.  
+NMT: Five samples were reviewed to evaluate compliance with APL requirements.  
+A description of the findings for each category is contained in the following report.  
+8 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Behavioral Health – SMHS, NSMHS, and 
+SUDS 
+Category 2 – Case  Management  and Coordination of Care  
+ 
+2.1 Confirmation of Referred Treatments for Substance Use Disorder 
+The Plan is required to arrange for member referrals to the county department responsible for substance use treatment, or other community resources when services are not available through counties, for members identified as requiring alcohol or SUD treatme nt services. If treatment slots are not available in the county alcohol and SUD 
+treatment programs within Plan’s service area, the Plan must pursue placement outside the area. The Plan is required to make good faith efforts to confirm whether members recei ve referred treatments, document when and where services are received, and any 
+next steps following treatment.  (APL 21-014 Alcohol and Drug Screening, Assessment, 
+Brief Interventions, and Referral to Treatment)  
+Plan policy  SC.HPHO.065  Alcohol and Drug Screening, Assessment, Brief Intervention, and 
+Referral to Treatment (effective April 24, 2023) states that the Plan will make good faith efforts to confirm whether Medi -Cal members receive referred treatments and 
+document when, where, and any next steps following treatment.  
+Finding: The Plan did not make good faith efforts to confirm whether members received 
+referred treatments for SUD and did not document when and where services were received, and any next steps following treatment.   Although Plan policy  SC.HPHO.065 Alcohol and Drug Screening, Assessment, Brief 
+Intervention, and Referral to Treatment (effective April 24, 2023) states that the Plan would make good faith efforts to confirm members receive referred treatments. The Plan did not follow this policy and procedure.  In a written response, the Plan stated that it does not maintain a tracking or referral log for SUD referrals because SUD is carved out of the Plan contract. The Plan did not send official SUD referrals to the county. The members requiring SUDS were usuall y provided 
+information about county services and in some instances, there may have been an attempt by Plan staff to warmly hand-off or transfer the member to the county MHP line while on the phone.   
+9 
+ 
+As part of the focused audit review, the Department requested a report of all members who received SUDS during the audit period to select a sample of members for a standard verification study. The Plan was not able to produce and provide a report or any ot her documentation of members who were referred for SUDS during the audit 
+period. Given the Plan’s lack of information, it could not demonstrate it made a good faith effort to confirm whether members received referred services, it could not validate it main tained documentation for when and where services were received, and any next 
+steps following treatment.  If the Plan does not make an effort to confirm whether members received referred treatments, then members may miss opportunities to improve their health which could result in negative health outcomes.  Recommendation : Implement policies and procedures to ensure that the Plan makes a 
+good faith effort to confirm whether members receive referred treatments, document when and where the treatments are received, and any next steps following treatment.  
+ 
+2.2 Follow Up for Referred Substance Use Disorder Treatments 
+The Plan is required to arrange for member referrals to the county department responsible for substance use treatment, or other community resources when services are not available through counties, for members identified as requiring alcohol or SUD treatme nt services. If treatment slots are not available in the county alcohol and SUD 
+treatment programs within Plan’s service area, the Plan must pursue placement outside the area. If a member does not receive referred treatments, the Plan must follow up with the member to understand barriers and make adjustments to the referrals, if warranted.  
+The Plan must also attempt to connect with the provider to whom the member was referred to facilitate a warm handoff to necessary treatment. (APL 21-014: Alcohol and Drug Screening, Assessment, Brief Interventions, and Referral to Treatment)  
+Plan policy  SC. HPHO.065 Alcohol and Drug Screening, Assessment, Brief Intervention, 
+and Referral to Treatment  (effective April 24, 2023),  states that if a member does not 
+receive referred treatments, the Plan will follow up with the member to understand barriers and make adjustments to the referrals if needed. The Plan will also attempt to connect with the provider to whom the member was referred to facilit ate a warm 
+handoff to necessary treatment.   
+10 
+ 
+Finding : The Plan did not follow up with members who did not receive referred 
+treatments to understand barriers and make subsequent adjustments to referrals.  
+Although Plan policy  SC.HPHO.065 Alcohol and Drug Screening, Assessment, Brief 
+Intervention, and Referral to Treatment  (effective April, 24 2023)  states that the Plan 
+would follow up with the Medi -Cal members to understand barriers and make 
+adjustments to the referrals if needed, the Plan did not follow this policy and procedure.  
+In a written response, the Plan stated that it does not maintain a tracking or referral log for SUD referrals because SUD is carved out. The Plan does not send official SUD referrals to the county. The members requiring SUD treatment are usually provided information about county services, and in some instances, there may have been an 
+attempt by Plan staff to warmly hand-off or transfer the member to the county MHP line while on the phone.   
+As part of the focused audit review, the Department requested a report of all members who received SUDS during the audit period to select a sample of members for a standard verification study. The Plan was not able to produce and provide a report or any ot her documentation of members who were referred for SUDS during the audit 
+period. Given the Plan’s lack of information, it could not validate it followed up with members who did not receive referred treatments to understand barriers and make subsequent adju stments.   
+If the Plan does not follow up with members who did not receive referred treatments, then members may miss opportunities to improve their health, which could result in negative health outcomes and member harm.  Recommendation : Implement policies and procedures to ensure the Plan awareness of 
+members who did not receive referred treatments to understand barriers and make subsequent adjustment to referrals as well as follow up with members who do not receive referred treatments.  
+ 
+ 
+11 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Transportation – NEMT and NMT  
+Category 3 –  Access and Availability of Care  
+ 
+3.1 Door -to-Door Assistance 
+The Plan is required to have processes in place to ensure door -to-door assistance is 
+being provided for all members receiving NEMT services. ( APL 22 -008 Non -Emergency 
+Medical and Non-Medical Transportation Services and Related Travel Expenses ) 
+Plan policy  California P&P SC.HPHO.015 Medi-Cal Transportation  (revised 1/9/23) states 
+that the Plan provides NEMT for members who cannot reasonably ambulate or are unable to stand or walk without assistance, including those using a walker or crutches. The Plan ensures door -to-door assistance for all members receivin g NEMT services.  
+Finding: The Plan did not have a process in place to ensure door -to-door assistance 
+was being provided for all members receiving NEMT services.  
+A verification study of five NEMT samples revealed two trips were completed and three trips were cancelled. One of the two trips states that the member requires supervision to protect from and prevent injury to self and or others. Written instructions state that the member needs a wheelchair to come directly to the door for pick -up. Door -to-door 
+assistance was not documented by the NEMT provider for these trips. The Plan did not provide documentation demonstrating that it enforced and monitored the provisio n of 
+door -to-door assistance.  
+During the interviews, the Plan stated all transportation vendors were required to provide door -to-door assistance and it ensured door -to-door assistance was being 
+provided through daily complaints and grievances within the Member Services system. The Plan  stated that time stamps indicate door -to-door service was provided; however, 
+the Plan did not explain how time stamps indicate actual delivery of door -to-door 
+assistance.  
+In response to the DHCS Survey, the Plan stated it monitored door -to-door on-time 
+performance through monthly Vehicle Response Performance reports that show transportation providers’ on -time performance for NEMT services. However, the reports 
+did not inclu de any verification of door -to-door assistance.  
+12 
+ 
+The Plan had five NEMT network providers for the Southern California region. The Plan provided only one signed contract that includes a provision requiring door -to-door 
+assistance. That contract states, “All transports shall be door -to-door service from 
+pickup and drop -off locations.” Review of the other four contracts identified the 
+following:  
+• One vendor contract is signed but did not include any provisions requiring door -to-door assistance.  
+• Two vendor contracts are for services outside of California.  
+• One vendor contract includes a provision requiring the door -to-door 
+assistance but is not signed.  
+If the Plan does not ensure door -to-door assistance is provided, then members who do 
+not receive the required assistance may be at risk of sustaining an injury and causing harm to themselves.  
+Recommendation: Revise and implement policies and procedures to have a process in 
+place to ensure door- to-door assistance is being provided for all members receiving 
+NEMT services.  
+ 
+3.2 Monitoring of Door -to-Door Assistance  
+The Plan is responsible for monitoring and overseeing their network providers and subcontractors and ensuring compliance with all applicable contract requirements, including APLs. The Plan must conduct monitoring activities no less than quarterly. Monitori ng activities may include but are not limited to verification that the NEMT 
+provider is providing door -to-door assistance for members receiving NEMT services. 
+(APL 22 -008 Non -Emergency Medical and Non-Medical Transportation Services and 
+Related Travel Expenses ) 
+Plan policy  SC.HPHO.015 Medi -Cal Transportation (revised 1/9/23) states that the Plan is 
+responsible for monitoring and overseeing its transportation brokers. Monitoring activities are conducted no less than quarterly and may include verification that the NEMT provider is providing door-to -door assistance for members receiving NEMT 
+services.  
+Finding: The Plan did not monitor or oversee its network transportation providers.  The 
+Plan did not have monitoring activities to ensure network providers were providing door -to-door assistance for members receiving NEMT services.  
+13 
+ 
+Plan policy did not include language for monitoring network transportation providers. Language only included monitoring for transportation brokers.  
+A verification study of five NEMT samples revealed two trips were completed and three trips were cancelled. One of the two completed trips states that the member requires supervision to protect from and prevent injury to self and others. Written instructio ns 
+state that the member needed a wheelchair to come directly to the door for pick -up. 
+Door -to-door assistance was not documented by the NEMT provider for these trips.  The 
+Plan did not provide documentation demonstrating that it enforced and monitored the provision of door -to-door assistance.  
+During the interviews, the Plan stated all transportation providers were required to provide door -to-door assistance and it ensured door -to-door assistance was being 
+provided through daily complaints and grievances within the Member Services system. The Pl an stated that time stamps indicate door -to-door assistance was provided; 
+however, the Plan did not explain how time stamps indicate actual delivery of door -to-
+door assistance.  
+The Plan’s monthly Vehicle Response Performance reports did not include any verification or monitor of door -to-door assistance. The Plan’s contracts for its five NEMT 
+providers in the Southern California region did not consistently include the provision requiring door -to-door assistance.  
+The Plan did not monitor or oversee its network transportation providers.  The Plan did 
+not have monitoring activities to ensure network providers were providing door -to-door 
+assistance for members receiving NEMT services.  If the Plan does not monitor or oversee its network transportation providers, then members may be at increased risk for not receiving entitled NEMT services.  
+Recommendation: Revise and implement policies and procedures to ensure the Plan is 
+responsible for monitoring their network transportation providers, including ensuring that network providers provide required door -to-door assistance.  
+ 
+3.3 Monitoring Transportation Provider Network  
+The Plan is responsible for ensuring that their network providers comply with all applicable state and federal laws and regulations, contract requirements, and other DHCS guidance, including APLs and Policy Letters. The Plan must conduct monitoring activit ies no less than quarterly. Monitoring activities may include, but are not limited to, 
+verification of the no show rates for NEMT and NMT  providers. (APL 22-008 Non -
+14 
+ 
+Emergency Medical and Non-Medical Transportation Services and Related Travel Expenses)  
+Plan policy California P&P SC.HPHO.015  Medi-Cal Transportation (revised 1/9/23) states 
+that the Plan is responsible for monitoring and overseeing their transportation brokers. The Plan conducts monitoring activities no less than quarterly. Monitoring activities may include, but are not limited to, verification of the  no-show rate for NEMT and NMT 
+providers.  
+Finding: The Plan did not monitor the no-show rates of NEMT and NMT transportation 
+providers.  
+During the interview, the Plan stated the dispatch team would have notes on no -show 
+trips. For no -shows or cancelled trips, the Plan worked on replacing the provider. If the 
+Plan is unable to find another provider, then the Regional Medical Transportation Department contacts the facility to see if the member can be seen later, and the Plan requests the member to reschedule their appointment. If that is not possible, then the Plan stated it encouraged the member to file a grievance and Member Services Depart ment is copied on that response. The effort to find another vendor is 
+documented in the vendor care system.  
+In written statements, the Plan explained it did not actively monitor no -shows for NEMT 
+and NMT services. The Plan stated it leveraged DHCS recommendations included in APL 22-008.   
+Without adequate monitoring of transportation providers’ no -show rates, members may 
+experience barriers to accessing health care. In addition, members may experience missed quality improvement opportunities.  
+Recommendation: Develop and implement policies and procedures to ensure the Plan 
+conducts monitoring activities for the no-show rates of NEMT and NMT providers.  
+ 
+3.4 Supplementing the Transportation Network  
+The Plan may subcontract with transportation brokers for the provision of the NEMT or NMT services. Transportation brokers may also have their own network of NEMT or NMT providers to provide rides to members. However, the Plan must have the ability to supp lement the transportation broker’s transportation network if a transportation 
+broker’s network is not sufficient. (APL 22-008 Non -Emergency Medical and Non-Medical 
+Transportation Services and Related Travel Expenses ) 
+15 
+ 
+Plan policy California P&P SC.HPHO.015 Medi-Cal Transportation  (revised 1/9/23) states 
+the Plan may subcontract with transportation brokers for the provision of the NEMT or NMT services. The Plan must also be able to supplement its transportation network if a transportation broker’s network is not sufficient.  Finding: The Plan did not have the ability to supplement its transportation broker’s 
+transportation network.  
+A verification study of five NEMT and five NMT samples revealed there was one NEMT and one NMT trip that were cancelled because no transportation provider was available to accept the trips. For the NEMT sample, the Plan was not able to find a bariatric transport, and the member missed their original appointment. The Plan’s internal system showed the Plan broadcasted the trip, and three providers cancelled the trip, and one provider declined the trip. For the NMT sample, the transportation broker stated the member agreed to cancel the trip after being informed there was no provider available.  During the interview, the Plan stated the transportation provider must be an approved supplier. The Plan will not use any provider that is not enrolled in Medi -Cal.  
+If the Plan does not have the ability to supplement its transportation broker’s transportation network, then members may not be able to secure their trip which may cause unnecessary delays in obtaining both transportation and health care services.  Recommendation: Develop and implement policies and procedures to ensure that the 
+Plan has the ability to supplement the broker’s transportation network.  

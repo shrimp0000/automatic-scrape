@@ -1,0 +1,466 @@
+ 
+ 
+ 
+ 
+California Department of Health Care Services                                                                    
+Managed Care Quality and Monitoring Division    
+P.O. Box 997413 | Sacramento , CA | 95899-7413  
+MS 4400  | Phone ( 916) 449-5000  | www. dhcs.ca.gov  State of California   
+Gavin Newsom, Governor  
+California Health and Human Services Agency  
+ 
+June 7, 2024 
+ Robert Franco, Chief Compliance Officer                                                      Via  E-mail 
+Gold Coast Health Plan  
+711 E. Daily Dr., Suite 106 Camarillo, CA 93010  
+ RE:  Department of Health Care Services Medical Audit  
+ 
+Dear  Mr. Franco : 
+ The Department of Health Care Services (DHCS), Audits and Investigations Division conducted an on-site Medical Audit of Gold Coast Health Plan, a Managed Care Plan (MCP), from July 31, 2023 through August 11, 2023. The audit covered the period from  
+July 1, 2022, through June 30, 2023. 
+  
+The items were evaluated, and DHCS accepted the MCP’s submitted Corrective Action 
+Plan (CAP). The CAP is hereby closed. The enclosed documents will serve as DHCS’ final response to the MCP’s CAP. Closure of this CAP does not halt any other processes in place between DHCS and the MCP regarding the d eficiencies in the audit report or 
+elsewhere, nor does it preclude the DHCS from taking additional actions it deems 
+necessary regarding these deficiencies.  
+ 
+Please be advised that in accordance with Health & Safety Code Section 1380(h) and the Public Recor ds Act, the final audit report and final CAP remediation document (final 
+Attachment A) will be made available on the DHCS website and to the public upon request.  
+  
+If you have any questions, please reach out to CAP Compliance personnel.  
+ Sincerely,  
+ [Signa ture on file]
+ 
+ Lyubov Poonka, Chief  
+Audit Monitoring Unit  
+  Process Compliance Section  
+DHCS - Managed Care Quality and Monitoring Division (MCQMD)  
+ Enclosures:  Attachment A (CAP Response Form)  
+ cc:      Stacy Nguyen , Chief                                                                                 Via E-mail 
+Managed Care Monitoring Branch  
+DHCS - Managed Care Quality and Monitoring Division (MCQMD)  
+ Grace McGeough,  Chief         Via E-mail 
+Process Compliance Section  
+Managed Care Monitoring Branch  
+DHCS - Managed Care Quality & Monitoring Division (MCQMD)  
+ 
+Maria Angel , Lead Analyst                                                                       Via  E-mail 
+Audit Monitoring Unit  
+Process Compliance Section  
+DHCS - Managed Care Quality & Monitoring Division (MCQMD)  
+ 
+Nicole Cortez , Unit Chief                                                                          Via  E-mail  
+Managed Care Contract Oversight Branch  
+DHCS – Managed Care Operations Division (MCOD)  
+ Gursimran Kaur, Contract Manager                                                         Via E-mail  
+Managed Care Contract Oversight Branch  
+DHCS – Managed Care Operations Division (MCOD)  
+  
+ATTACHMENT A  
+Corrective Action Plan  Response Form  
+ 
+Plan: Gold Coast Health Plan            Review Period: 07/01/2022 – 06/30/2023  
+Audit Type: Medical Audit                            On-site Review:  07/31/2023 – 08/11/2023  
+1 
+ 
+ 
+MCPs are required to provide a C orrective Action Plan (C AP) and respond to all documented deficiencies  included in  the medical audit report within 30 calendar 
+days unless an alternative timeframe is indicated in the CAP Request letter.  MCPs are required to submit the CAP in Word format , which will reduce the turnaround 
+time for DHCS to complete its review. According to ADA requirements , the document should be at least 12 pt.  
+ 
+The CAP submission must include a written statement identifying the deficiency and describing the plan of action taken to correct the deficiency, as well as the 
+operational results of that action.  The MCP shall directly address each deficiency component by completing the following columns provided for MCP res ponse: 1. 
+Finding  Number and Summary , 2. Action Taken, 3. Supporting  Documentation, and 4. Completion/Expected Completion Date. The MCP must  include a project 
+timeline with milestones in a separate document for each finding. Supporting documentation should accompany each Action Taken. If supporting documentation 
+is missing, the MCP submission will not be accepted.  For policies and other documentation tha t have been revised, please highlight the new relevant text and 
+include additional details, such as the title of the document, page number, revision date, etc.,  in the column “Supporting Documentation” to assist DHCS in 
+identifying any updates that were made by the plan. Implementing deficiencies requiring short -term corrective action  should be completed within 30 calendar 
+days. For deficiencies that may be reasonably determined to require long-term corrective action for a period longer than 30 days to reme dy or operationalize 
+completely , the MCP is to indicate that it has initiated remedial action and is on the way toward  achieving an acceptable level of compliance. In those instances, the 
+MCP must include the date when full compliance will be completed in addition to the above steps. Policies and procedures submitted during the CAP process must 
+still be sent to the MCP’s Contract Manager for review and approval, as applicable , according to  existing requirements.  
+ Please note that DHCS expects the plan to ta ke swift action to implement improvement interventions as proposed in the CAP; therefore, DHCS 
+encourages all remediation efforts to be in place no later than month 6 of the CAP unless DHCS grants prior approval for an extended implementation 
+effort . 
+ DHCS will communicate closely with the MCP throughout the CAP process and provide technical assistance to confirm that the MCP offers sufficient documentation to correct deficiencies. Depending on the number  and complexity of deficiencies identified, DHCS may require the MCP to provide weekly updates.  
+ 
+ 
+2 2. Case Management and Coordination of Care  
+Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+2.1.1 – Health Risk 
+Stratification for Seniors and Persons with Disabilities Beneficiaries   
+  The Plan did not ensure to perform health risk stratification for SPD beneficiaries within 44 days of enrollment.  GCHP is currently taking the following 
+actions to remediate:   
+  1. GCHP is updating HS -040 SPD Risk 
+Assessment Policy to include addition of health risk stratification for SPD members through the completion of HRA and/or risk stratification algorithm to ensure all members have identified risk levels within 44 days of enrollment with Plan. 
+ 2. Create a new “SPD Unable to 
+Reach Letter (UTR)” for member SPD outreach activities.  
+ 
+3. Update Member call out script for 
+all newly enrolled SPD Members to include language requesting that the Member return the HIFMET form.  
+ 
+4. Update the GCHP  Care 
+Management Department desktop 
+procedures to include use of the new  1. HS-040 SPD 
+Risk Assessment Policy revision by 2/1/2024.  
+ 2. Updated SPD 
+UTR letter revision by 3/1/2024.  
+ 
+3. Updated SPD 
+call script by 2/1/2024.  
+ 
+4. Updated 
+desktop procedure SPD members by 2/1/2024.  
+ 
+5. Creation of 
+SPD monitoring report by 
+3/01/2024  The following documentation supports the MCP’s efforts to correct this 
+finding:  
+  POLICIES AND PROCEDURES   
+ 
+• Updated P&P, “HS -040: Senior and Person with Disabilities Risk 
+Assessment” which states that the MCP’s Care Management staff will outreach to all newly enrolled SPD members to remind member to complete HIFMET and complete health risk stratification through the completion of HRA and/or risk stratification algorithm to ensure all members have identified risk level s within 44 days of enrollment by 
+making two telephone attempts. Two unsuccessful telephonic 
+attempts to reach the member will be followed by an unable to reach 
+letter. This letter will remind member to complete and return HIFMET form and provide the membe r with a telephone number where they 
+may contact the Care Management Department if they desire. The Plan identifies all newly enrolled SPD members as high risk. (HS -040 
+SPD Risk Assessment, Page 3).   
+ 
+• Letter Template, “SPD Unable to Reach Letter” in which the MCP has created for SPD member outreach. The letter states that the MCP has been unable to reach the member and has attempted two attempts by telephone. The letter also reminds the member to 
+complete and return the Health Information Form. (SPD UTR Let ter).  
+3 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+call script for all newly enrolled SPD 
+Members.  
+ 
+5. Update GCHP Care Management 
+Department desktop procedures for auditing outreach efforts to include use of the new call script for all newly enrolled SPD Members.  
+ 
+6. Develop reporting procedure for 
+monthly review of SPD members completion of HRA to include member enrollment date to ensure SPD members have completed HRA or has documentation of contact attempts and UTR letter.  
+ 
+7. Update interna l case audit 
+processes to include increased oversight for SPD members HRA completion and stratification.  
+ 
+8. Create monitoring report for 
+monthly review of SPD member  
+6. Updated 
+Monthly SPD member report by 3/1/2024.  
+ 
+7. Update 
+Internal case audit for updated SPD procedures 3/1/2024.  
+ 
+8. Creation of 
+monitoring report by 3/1/2024.  
+ 
+9. Monitoring 
+report of initial case audits by 4/1/2024.   
+  
+• Job Aid Manual, “SPD Referral Process” (03/06/24) which states that the MCP considers all newly enrolled SPD members as higher risk. The Care Management Coordinator (CMC) will attempt the first member contact using the CMC outreach SPD script within 15 days of receipt of the SPD program referral. If the member is not reached, the CMC will follow up with a second attempt 2 business days from the first outreach. (SPD Program Referral Process, Page 1).   
+ • Job Aid Manual, “Quarterly Audit Completion” which states that the MCP’s Care Management Coordinator (CMC) will perform a self -
+audit and a peer audit using the CMSPD Audit Tool. The Job Aid Manual reminds the CMC to complete both Peer Criteria and Clinical Criteria tabs in the CMSPD Audit Tool. (Audit Completion Procedure 
+JAM).  
+  
+  MONITORING AND OVERSIGHT   
+ • “SPD Member Tracker” (05/01/24) as evidence that the MCP will monitor that health stratification was performed for SPD beneficiaries within 44 days of enrollment. The SPD Member Tracker includes a column in which an initial assessment was completed within 44 Days. (SPD Member Tracker Updated).   
+ 
+4 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+completion of Health Risk 
+Assessments.  
+ 
+9. GCHP will complete process 
+deployment review by 4/1 to ensure 
+process implementation and 
+identification of any deficiencies.  • “CMSPD Audit Tool” (04/01/24) as evidence that the MCP updated 
+internal case audit processes to include increased oversight for SPD membe rs HRA completion and stratification. The CMSPD Audit Tool 
+tracks when the HRA was initiated and completed timely. (CMSPD Audit Tool Updated).   
+ • Updated P&P, “HS -040: Senior and Person with Disabilities Risk 
+Assessment” which states that the Care Management Staff will run a monthly monitoring report to include newly SPD enrolled members to track completion of HRA within 44 days of enrollment to include member’s enrollment date, all contact attempts including UTR letter, and completion status. Members without contact within the first 30 days of enrollment will be assigned to Care Management Staff for outreach within 2 business days. (HS -040 SPD Risk Assessment, Page 
+4).  
+ • “CCM Audit Tool” (04/01/24) as evidence that the MCP reviews on a monthly basis  the SPD member completion of HRAs. The CCM Audit 
+Tool tracks when the HRA was initiated and completed timely. (CCM Audit Tool).   
+  
+The corrective action plan for finding 2.1.1 is accepted.  
+2.1.2 – Health Risk 
+Assessment Survey 
+for Seniors and GCHP is currently taking the following 
+actions to remediate including the 
+actions lis ted under 2.1.1:   1. Updated SPD 
+Program referral 
+desktop The following documentation supports the MCP’s efforts to correct this 
+finding:  
+  
+5 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+Persons with 
+Disabilities Beneficiaries   
+  The Plan did not ensure HRA completion within 45 days for high -risk SPD 
+members and within 105 days for low -risk 
+SPD members.   
+  
+1. Update the SPD Program 
+referral desktop procedure to include monitoring for PCP assignment for all new SPD members.   
+2. Include information in GCHP 
+Member Newsletter to advise that all newly enrolled SPD Members complete and return the HIFME T.  
+3. Update internal audit processes 
+to include increased oversight for SPD members HRA completion and stratification.   
+4. Update website language to 
+include information that newly enrolled SPD members must complete and return HIF/MET forms.   
+5. Draft letter to accompany 
+HIFMET in New Member Packet to advise SPD members to complete and return HIFMET form and submit to DHCS for approval.   
+During next Member Handbook 
+review for 2025 EOC:   procedure by 
+2/1/2024  
+ 2. GCHP 
+Member Newslet ter 
+update by 3/1/2023 – 
+Newsletter release - TBD. 
+ 
+3. Updated 
+Internal case audit for updated SPD procedures 3/1/2024.  
+ 
+4. Updated 
+Public Website language for newly enrolled SPD members by 3/1/2024.  
+ POLICIES AND PROCEDURES   
+ 
+• Updated P&P, “HS -040: Senior and Person with Disabilities Risk 
+Assessment” which states that the MCP’s Care Management staff will outreach to all newly  enrolled SPD members to remind member to 
+complete HIFMET and complete health risk stratification through the completion of HRA and/or risk stratification algorithm to ensure all members have identified risk levels within 44 days of enrollment by making tw o telephone attempts. Two unsuccessful telephonic 
+attempts to reach the member will be followed by an unable to reach 
+letter. This letter will remind member to complete and return HIFMET form and provide the member with a telephone number where they may contact the Care Management Department if they desire. The Plan identifies all newly enrolled SPD members as high risk. (HS -040 
+SPD Risk Assessment, Page 3).   
+ • Updated website language, “HIFMET Website Language” which includes information for newly enrolled SPD members to complete 
+and return HIF/MET forms. (HIFMET website language).   
+ 
+• Job Aid Manual, “SPD Referral Process” (03/06/24) which states that the MCP considers all newly enrolled SPD members as higher risk. An attempt to contact these members will be made within 45 calendar 
+days of enrollment. The Care Management Coordinator (CMC) will 
+attempt the first member contact using the CMC outreach SPD script 
+6 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+1. Update Member handbook 
+language to include information that newly enrolled SPD members must complete and return HIF/MET forms as part of 2025 Evidence of Coverage release by DHCS and approval of GCHP 2025 EOC expected in 4
+th 
+quarter of 2025.  
+ 5. Revised 
+HIFMET new member letter by 3/1/2024.  within 15 days of receipt of the SPD program referral. If the member 
+is not reached, the CMC will follow up with a second attempt 2 business days from the first outreach. (SPD Program Referral Process, Page 1).   
+ • Job Aid Manual, “Quarterly Audit Completion” which states that the MCP’s Care Management Coordinator (CMC) will perform a self -
+audit and a peer audit using the CMSPD Audit Tool. The Job Aid 
+Manual reminds the CMC to complete both Peer Criteria and Clinical Criteria tabs in the CMSPD Audit Tool. (Audit Completion Procedure JAM).  
+  
+  MONITORING AND OVERSIGHT   
+ • “SPD Member Tracker” (05/01/24) as evidence that the MCP will monitor that health stratification was performed for SPD beneficiaries within 44 days of enrollment. The SPD Member Tracker includes a column in which an initial assessment was completed within 44 Days. (SPD Member Tracker Updated).  
+ 
+• “CMSPD Audit Tool” (04/01/24) as evidence that the MCP updated internal case audit processes to include increased oversight for SPD 
+members HRA completion and stratification. The CMSPD Audit Tool 
+7  Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+tracks when the HRA was initiated and co mpleted timely. (CMSPD 
+Audit Tool Updated).   
+ • Updated P&P, “HS -040: Senior and Person with Disabilities Risk 
+Assessment” which states that the Care Management Staff will run a monthly monitoring report to include newly SPD enrolled members to track complet ion of HRA within 44 days of enrollment to include 
+member’s enrollment date, all contact attempts including UTR letter, and completion status. Members without contact within the first 30 days of enrollment will be assigned to Care Management Staff for outreach within 2 business days. (HS -040 SPD Risk Assessment, Page 
+4).  
+ • “CCM Audit Tool” (04/01/24) as evidence that the MCP reviews on a monthly basis the SPD member completion of HRAs. The CCM Audit Tool tracks when the HRA was initiated and completed timely. (CCM Audit Tool).   
+  
+The corrective action plan for finding 2.1.2 is accepted.  
+8 3. Access and Availability of Care  
+Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+3.1.1 – Corrective  
+Action for Timely Access Deficiencies   
+  The Plan did not ensure prompt investigation and corrective actions are imposed to bring providers into compliance with access standards.   
+ GCHP is currently taking the following 
+actions to remediate:   
+  1. GCHP’s Provider Network 
+Operations Department conducted “Annual Access and Availability and After -Hours Survey” at the end of 
+December 2023 and will review results including enacted corrective actions for any repeat findings with Providers identified with deficiencies.  
+ 2. Update policy and procedures 
+specific to issuing and monitoring "Corrective Action Plans" with the development of a policy specific for “Corrective Action Plans,” to ensure standardized process for issuing and monitoring Corrective Action Plans for GCHP business units.  
+ 
+3. Update procedures for how 
+Network Providers are monitored for 
+Access and Availability requirements NO-009 Access 
+and Availabili ty 
+Standards Policy.  1. Annual 
+Access and Availability and After -Hours 
+Survey results by 2/01/2024.   
+ 
+2. Corrective 
+Action Plan Policy 
+by 2/1/2024.  
+ 
+3. Updated 
+Provider Access and Availability Monitoring Procedures by 2/1/2024.  
+ 
+4. Training to 
+Network Provider 
+Operations staff on updated procedures by 
+5/1/2024.  The following documentation supports the MCP’s efforts to correct this 
+finding:  
+  POLICIES AND PROCEDURES   
+  • Policy CO -XXX Corrective Actions was created by the  MCP to define 
+the process for corrective action for internal units and external subcontractors including network providers.   The policy includes the 
+process of issuing corrective and action to an entity by requiring a response with a corrective action pla n.  The policy also outlines the 
+MCP’s expectations for the content of the corrective plan.   (3.1.1 
+Corrective Actions Policy – Draft)   
+  • Policy NO -009 Access and Availability Standards outlines the MCP’s 
+monitoring of access and availability standards through office visits, telephone surveys, audits, enrollee satisfaction surveys and grievances.   (3.1.1 - NO-009 Access and Availability)   
+ • Policy NO -015 Provider Corrective Action Plan outlines the corrective 
+action process for providers that ar e out of compliance with access 
+standards.   (3.1.1 GCHP Provider Corrective Action Plan_040124)   
+  
+ 
+9 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+in accordance with policy NO -009 
+Access and Availability Standards.   
+ 
+4. Communication and training  to 
+Network Provider Operations staff on updated Access and Availability procedures.  
+ 
+5. Update CAP Tracking System to 
+include Corrective Action Plans issued by all GCHP areas to ensure timely tracking and escalation of Open CAPs.   
+5. Updated CAP 
+Tracking System by 5/1/2024.  
+  
+TRAINING   
+  • Provider Relations Weekly Meeting Agenda from 4/8/24 demonstrates the MCP went over Network Provider Access & Availability standards and the Provider Corrective Action Plan procedure. (3.1.1 - Provider Relations Meeting Agenda 4.09.2024)   
+ • Access and Availability Team Presentation details timely access requirements for different types of appointments and details the Provider Corrective Action Process for out of compliance providers. (3.1.1 - Access -Availability Team Presentation)   
+  MONITORING AND OVERSIGHT   
+  • The Annual Provider Access Report developed by the MCP’s vendor audits contracted providers to determine if they are adhering to contractual obligations regarding timely access.   (3.1.1 GCHP 
+Provider Access Report_2023_Final)   
+ 
+• CAP Tracker from April 2024 demonstrates that the MCP has updated 
+its tracking system to include CAPs from all areas to enable the tracking of open CAPs. (3. 8.1 - CAP Tracker - April 2024)   
+  
+The corrective action plan for finding 3.1.1 is accepted.  
+10 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+3.8.1 – Prompt 
+Corrective Action Plans  
+ The Plan did not ensure CAPs were promptly imposed to bring NEMT/NMT providers in compliance with timely access standards.  GCHP is currently taking the following 
+actions to remediate:  
+ 1. Ensure closure and monitoring of 
+Corrective Actions already issued for NEMT/NMT Providers timely access standards.  
+ 
+2. Update policy and procedures 
+specific to issuing and monitoring Corrective Action Plans “CAPs” with 
+the development of a policy specific for CAPs to ensure standardized process for issuing and monitoring CAPs for GCHP business units.  
+ 3. Develop procedures specific to 
+issuing and monitoring CAPs supporting the implementation of 
+Correction Action Plan Policy.  
+ 
+4. Update CAP Tracking System to 
+include Corrective Action Plans issued by all GCHP areas to ensure timely 
+tracking and escalation of open CAPs.  Gold Coast Health Plan Compliance Plan 2024  
+DO-001 
+Delegation Oversight Subcontracting Arrangements Policy  
+ DO-002 
+Sanctions Delegated Subcontractors  1. NEMT/NMT 
+Timely Access open CAP closure by 3/1/2024.  
+ 2. Corrective 
+Action Plan Policy by 2/1/2024.  
+ 
+3. Updated 
+Network Provider Access and Availability Monitoring  
+Procedures by 2/01/2024.  
+ 
+4. Updated CAP 
+Tracking System by 5/1/2024.  
+ 
+5. Completion 
+of The following documentation supports the M CP’s efforts to correct this 
+finding:  
+  POLICIES AND PROCEDURES   
+ • Plan policy “DO -002 Sanctions Delegated Subcontractors” 
+demonstrates the Plan’s corrective action plan process of when non -
+compliance is identified & imposing sanctions if a provider continues to be out of compliance, if necessary. (DO -002 Sanctions Delegated 
+Subcontractors, Procedure, pages 1 -4)  
+ • Plan procedure “Corrective Action Plan – Desktop Guide” offers 
+guidance to auditors from internal & external GCHP subcontractors or network  providers, as well as others who initiate a Corrective Action Plan 
+(CAP). The document details the identification of the CAP & reporting sources, as well as provides guidance on the timeliness of the CAP, tracking & monitoring until closure. (Corrective Action Plan – Desktop 
+Guide, B. - D., pages 1 -2)  
+ • “Corrective Actions Policy - draft” details the process of issuing, 
+monitoring, tracking & reporting CAPs. The procedure details the review process of the operations & performance of the ongoing compliance or implementation of the plan to correct deficiencies from Corrective Action. (IV. Procedure, A. - H., pages 2 – 5)  
+ 
+11 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+5. GCHP will release updated policy 
+and procedure updates and communications through the following:  
+- New/Updated Policy 
+Communication via email to GCHP staff and upload to GCHP Policy Database  
+- GCHP Compliance Committee 
+communication  
+- Focused department policy and 
+procedure CAP process updates communication and tr aining (if 
+necessary).  
+ 
+6. Continue to monitor timely access 
+reports form NEMT/NMT providers after CAP closure and work with NEMT/NMT providers if any monitoring report updates are needed.  communication 
+and training on updated CAP process by 5/1/2024.  
+ 
+6. NEMT/NMT 
+timely access monitoring reports and summary by 5/1/2024.  • “Compliance Plan 2024” describes the process for corrective action 
+plans for subcontractors & network providers. It emphasizes the importa nce of timely corrective action plans to ensure providers' 
+compliance with access standards. (GCHP Compliance Plan 2024, Oversight of Delegated Activities, pages 16 -18) 
+  MONITORING AND OVERSIGHT   
+  • “3.8.1 - IRM CAP Data Entry Form” illustrates the real-time tracking of 
+existing MCPs' imposed CAPs on providers. Each entry includes the date expected to close, the start date & a brief summary of the CAP’s current state. (IRM CAP Data Entry Form)   
+  • “3.8.1 - CAP Tracker – April 2024” demonstrates how th e Plan utilizes 
+the tracker to provide a quick overview of the status of all open CAPs. The tracker includes one current CAP with an expected close date of 10/16/2024.   
+  • “3.8.1 VTS (CAP) 1.23.2024_CAP Closure Letter” demonstrates the 
+Plan’s review & accep tance of a CAP & outlines the ongoing monitoring 
+of the provider’s progress. This includes weekly meetings, monthly monitoring through joint operations meetings & scorecard tracking. The letter notes that if the provider fails to meet its work plan milesto nes for 
+two consecutive months, the Plan may initiate a new CAP.  
+  
+12  Submitted by: Gold Coast Health Plan  
+Title:  Robert Franco – Chief Compliance Officer & Dr. Felix L. Nunez – Chief Medical Officer  
+ Signed by:  [Signature on File]  
+Date: January 3, 2024  Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+TRAINING   
+  • “3.8.1 - GCHP CAP Process Training Module Slides” confirms that the 
+Plan provided training to appropriate staff on the Corrective Action Process including; identifying issues th at require a corrective action plan, 
+issuing a corrective action plan, expectation of the entity receiving the CAP, recognizing an acceptable CAP response, CAP resolution, CAP closure, CAP response rejection, CAP failure to respond, CAP  monitoring & CAP   Tracking & Reporting. (Slide 2)  
+ 
+• “3.8.1 - CAP Process Training Completion Tracking Report” shows 
+which providers have been assigned the training and have completed it.   
+    
+The corrective action plan for finding 3.8.1 is accepted.  

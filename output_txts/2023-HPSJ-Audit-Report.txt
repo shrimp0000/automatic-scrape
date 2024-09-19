@@ -1,0 +1,749 @@
+  
+ 
+ 
+ 
+ 
+ 
+DEPARTMENT OF HEALTH CARE SERVICES 
+AUDITS AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+ SACRAMENTO SECTION 
+ 
+ 
+REPORT ON THE MEDICAL AUDIT OF 
+HEALTH PLAN OF SAN JOAQUIN 
+ 
+2023 
+ 
+Contract Number:  
+  
+04-35401 
+ 
+Audit Period:  
+ 
+ 
+ 
+Dates of Audit:  
+ 
+ 
+ 
+Report Issued:  
+ October 1, 2022 
+    Through 
+July 31, 2023 
+ 
+October 30, 2023 
+    Through 
+November 10, 2023 
+ 
+April 9, 2024 
+ 
+ 
+ TABLE OF CONTENTS  
+ 
+ 
+ 
+ 
+I. INTRODUCTION .............................................................................1 
+ 
+II. EXECUTIVE SUMMARY .................................................................2 
+ 
+III. SCOPE/AUDIT PROCEDURES ......................................................4 
+ 
+IV. COMPLIANCE AUDIT FINDINGS 
+ 
+ Category 1 – Utilization Management ..............................................5 
+ Category 2 – Case Management and Coordination of Care ............9 
+ Category 6 – Administrative and Organizational Capacity ............. 12 
+ 
+ 1 of 13 
+ I. INTRODUCTION  
+ 
+ 
+The Health Plan of San Joaquin (Plan) is a non-profit corporation headquartered in 
+French Camp, California and established in 1995. In 1996, the Plan received its Knox-
+Keene license and contracted with the State of California to provide health care services 
+to Medi-Cal members in San Joaquin County. 
+ 
+On January 12, 1995, the State of California contracted with the San Joaquin County 
+Board of Supervisors to serve as the Local Initiative under the Two-Plan Model, 
+pursuant to the California Welfare and Institutions Code, section 14087.31. On January 
+1, 2013, the Plan began to serve as the Stanislaus Local Initiative. The San Joaquin 
+County Health Commission governs the Plan through an 11-member commission 
+consisting of local government members, clinical, and non-clinical community 
+representatives. In June 2018 and June 2021 the Plan was awarded the National 
+Committee for Quality Assurance (NCQA) accreditation renewal. 
+ 
+Health care services are provided through contracts with independent medical groups 
+and individual physicians (1,000 plus network providers and specialists). Health care 
+services not provided directly by primary care physicians are arranged through 
+contracts with other medical groups/physicians, allied health service suppliers, and 
+hospitals. As of August 2023, the Plan had 457,053 Medi-Cal members. The Plan’s 
+Medi-Cal market share is about 89.4 percent in San Joaquin County and 70.8 percent in 
+Stanislaus County. 
+ 
+  
+ 2 of 13 
+ II. EXECUTIVE SUMMARY 
+ 
+This report presents the audit findings of the Department of Health Care Services 
+(DHCS) medical audit for the period of October 1, 2022, through July 31, 2023. The 
+audit was conducted from October 30, 2023, through November 10, 2023. The audit 
+consisted of document review, verification studies, and interviews with Plan and Carelon 
+(delegated entity) representatives.  
+ 
+An Exit Conference was held with the Plan on March 20, 2024. The Plan was allowed 
+15 calendar days from the date of the Exit Conference to provide supplemental 
+information addressing the draft audit report findings. On April 3, 2024, the Plan 
+submitted a response to address the audit findings. The results of the DHCS evaluation 
+of the Plan’s response are reflected in this report. 
+ 
+The audit evaluated four categories of performance: Utilization Management (UM), 
+Case Management and Coordination of Care, Member’s Rights, and Administrative and 
+Organizational Capacity.  
+ 
+The prior DHCS medical audit for the period July 1, 2021, through September 30, 2022, 
+was issued on May 30, 2023. This audit examined documentation for compliance and to 
+determine to what extent the Plan had operationalized its Corrective Action Plan. 
+ 
+The summary of findings by category follows:  
+ 
+Category 1 – Utilization Management 
+ 
+The Plan is required to maintain a system that ensures accountability for delegated 
+Quality Improvement (QI) activities. The Plan did not implement  policies to include a 
+behavioral health practitioner in the QI committee for oversight of the delegated 
+behavioral health program. 
+ 
+The Plan is responsible to ensure that the UM program includes: The integration of UM 
+activities into the Quality Improvement System (QIS), including a process to integrate 
+reports for review by the appropriate QIS staff. Integrated reports will be based on the 
+review of the number and types of appeals, denials, deferrals, and modifications. The 
+Plan did not ensure the delegate generated accurate integrated reports on its review of 
+the number and types of appeals, denials, deferrals, and modifications for the Plan’s 
+QI/UM evaluation. 
+ 
+The Plan is required to collect and review delegates’ ownership and control disclosure 
+information. Plan delegates are required to provide written disclosure of information on 
+ownership and control. The Plan did not collect and review ownership and control 
+disclosures of its delegates. 
+ 
+Category 2 – Case Management and Coordination of Care 
+ 
+The Plan is required to complete individualized Care Management Plans (CMPs) for 
+ 3 of 13 
+ members receiving Complex Case Management (CCM). The Plan did not complete 
+CMPs for all members receiving CCM. 
+ 
+The Plan is required to include a comprehensive assessment of the member’s condition 
+in accordance with all NCQA requirements. The Plan did not conduct a medication 
+review as part of the comprehensive assessment of CCM member conditions in 
+accordance with NCQA guidelines. 
+ 
+Category 4 – Member’s Rights  
+ 
+No findings were noted for the audit period. 
+ 
+Category 6 – Administrative and Organizational Capacity 
+ 
+The Plan is required to ensure prompt referral of any potential Fraud, Waste, or Abuse 
+(FWA) that the Plan identifies to the DHCS, Audits and Investigation Intake Unit within 
+ten working days. The Plan did not report all suspected fraud and abuse incidents to the 
+DHCS within ten working days of the date the Plan first became aware of, or was on 
+notice of, such activity. 
+ 
+ 
+  
+ 4 of 13 
+ III. SCOPE/AUDIT PROCEDURES 
+ 
+ 
+SCOPE 
+ 
+This audit was conducted by the DHCS Contract and Enrollment Review Division to 
+ascertain that the medical services provided to Plan members complied with federal and 
+state laws, Medi-Cal regulations and guidelines, and the state Contract. 
+ 
+PROCEDURE 
+ 
+The audit was conducted from October 30, 2023, through November 10, 2023, for the 
+audit period of October 1, 2022, through July 31, 2023. The audit included the review of 
+the Plan’s policies for providing services, the procedures used to implement the policies, 
+and the verification studies of the implementation and effectiveness of the policies. 
+Documents were reviewed and interviews were conducted with the Plan administrators, 
+staff, and its delegated entity. 
+ 
+The following verification studies were conducted: 
+ 
+Category 1 – Utilization Management 
+ 
+Prior Authorization (PA) Requests: 16 PA requests were reviewed for consistent 
+application of criteria, timeliness, appropriate review, and communication of results to 
+members and providers. 
+ 
+Category 2 – Case Management and Coordination of Care 
+ 
+Health Risk Assessment (HRA): 26 member files were reviewed to confirm coordination 
+of care and fulfillment of HRA requirements. 
+ 
+Continuity of Care (COC): Six member files were reviewed to confirm COC and 
+fulfillment of requirements. 
+ 
+Category 4 – Member’s Rights  
+ 
+Confidentiality Rights: 15 Health Insurance Portability and Accountability Act breach and 
+security incidents were reviewed for processing and timeliness requirements. 
+ 
+Category 6 – Administrative and Organizational Capacity  
+ 
+Fraud, Waste, and Abuse: 18 cases were reviewed for appropriate reporting and 
+processing within the required timeframes. 
+ 
+A description of the findings for each category is contained in the following report.
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 5 of 13 
+  
+ 
+CATEGORY 1 – UTILIZATION MANAGEMENT  
+ 
+ 
+1.5  
+DELEGATION OF UTILIZATION MANAGEMENT  
+ 
+1.5.1 Behavioral Health Program Oversight  
+ 
+The Plan is required to maintain a system to ensure accountability for delegated QI 
+activities that, includes the continuous monitoring, evaluation, and approval of the 
+delegated functions. (Contract, Exhibit A, Attachment 4(6)(B)(2))   
+ 
+Plan policy, CMP 31 Oversight of HPSJ Delegated Administrative Functions (revised 
+05/05/2023), stated that the Plan shall establish a Delegation Agreement with any 
+organization to which it delegates the authority to carry out a function that the Plan 
+would otherwise perform. The Plan shall remain accountable for all delegated activities, 
+even if the Plan delegates all or part of these activities. The policy delineated behavioral 
+health services as delegated functions that required Plan oversight. 
+ 
+Plan policy, QM 38 Quality Improvement and Health Equity Committee (QIHEC) 
+(revised 04/19/2023), designated the QIHEC as the Plan’s oversight body and stated 
+that the committee membership shall include behavioral health practitioners, behavioral 
+health county partners, and other non-clinical behavioral health providers as part of its 
+QIS.   
+ 
+The delegation agreement between the Plan and its delegate required the Plan to have 
+a behavioral health practitioner involved in the QIS to oversee behavioral health aspects 
+of the program.   
+ 
+Finding: The Plan did not implement its policies to include a behavioral health 
+practitioner in its QIHEC for oversight of the delegated behavioral health program.  
+ 
+Review of the QIHEC meeting minutes did not demonstrate that the Plan had a 
+behavioral health practitioner participating as a committee member.  
+ 
+In an interview, the Plan confirmed that its QIHEC did not have a designated behavioral 
+health practitioner who continuously monitored and evaluated the delegated UM 
+functions such as behavioral health services. The Plan stated its Quality 
+Management/Utilization Management committee used to have a county health physician 
+who served in an oversight role, but the physician left the position due to higher demand 
+for his services at the County.  
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 6 of 13 
+ When the Plan does not ensure a behavioral health practitioner is involved in the 
+behavioral health program, it may lead to a lack of delegate oversight and may have an 
+adverse impact on the delivery of medically necessary services.  
+ 
+Recommendation : Revise and implement the Plan’s policies and procedures to include 
+a behavioral health practitioner in the Plan’s QIHEC to ensure oversight and 
+accountability of the delegated behavioral health program. 
+ 
+1.5.2 Integration of Utilization Management Reports  
+ 
+The Plan is responsible to ensure that the UM program includes: The integration of UM 
+activities into the QIS, including a process to integrate reports on review of the number 
+and types of appeals, denials, deferrals, and modifications to the appropriate QIS staff. 
+(Contract, Exhibit A, Attachment 5(1)(G))  
+ 
+The Plan is required to maintain a system to ensure accountability for delegated QI 
+activities that includes the continuous monitoring, evaluation, and approval of the 
+delegated functions (Contract, Exhibit A, Attachment 4 (6)(B)(2)) . 
+ 
+Regardless of the relationship the Plan has with a delegate, whether direct or indirect 
+through additional layers of contracting or delegation, the Plan has the ultimate 
+responsibility for adhering to, and fully complying with, all terms and conditions of its 
+contract with the DHCS. ( All Plan Letter  (APL) 23-006, Delegation and Subcontractor 
+Network Certification)   
+ 
+Plan policy, CMP 31 Oversight of HPSJ Delegated Administrative Functions (revised 
+10/01/2023), stated that the Plan shall continually assess network providers’ and 
+contractors’ ability to perform delegated functions. The Plan shall assess through initial 
+reviews, ongoing monitoring, annual performance audits, analysis of data, and 
+utilization of benchmarks, by desktop review and/or by on-site review. The policy did not 
+address oversight to ensure the delivery of quality medical care and appropriateness of 
+medical decision making. 
+ 
+Finding: The Plan did not ensure its delegate generated accurate integrated reports in 
+the review of the number and types of appeals, denials, deferrals, and modifications for 
+the Plan’s QI/UM evaluation. 
+ 
+A verification study review of the Plan’s delegated entity revealed that 27 of 38 services 
+for eight members were incorrectly reported in its Applied Behavioral Analysis Prior 
+Authorization Log. All 38 services were documented as “modified” determinations. 
+However, only 11 services were modified, 25 were approved, and 2 were denied.  
+ 
+Although the policy stated that the Plan would continually assess delegated functions, 
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 7 of 13 
+ the policy did not address the process to ensure the delivery of quality medical care and 
+appropriateness of medical decision making. As part of its oversight process, the Plan 
+conducted a delegate annual review; however, the annual review did not verify the 
+accuracy of integrated reports for modified or denied pre-service and concurrent review 
+service determinations.  
+ 
+During an interview, the Plan stated that oversight of clinical decision making was 
+performed in the delegate’s annual audit. However, the annual audit did not identify 
+accuracy of the reporting for authorization determinations.  
+ 
+When the Plan does not ensure accurate data collection of prior authorizations, it may 
+lead to potential underutilization of medically necessary services, which can prevent 
+members from receiving adequate treatment. 
+ 
+Recommendation : Revise and implement policies and procedures to ensure the Plan 
+and its delegates generate accurate integrated reports on its review of the number and 
+types of appeals, denials, deferrals, and modifications for the Plan’s QI/UM evaluation. 
+ 
+1.5.3 Collection and Review of Delegate Ownership and Control 
+ 
+The Plan is required to collect and reviewsubcontractors’ ownership and control 
+disclosure information as set forth in Code of Federal Regulations, Title 42, section 
+455.104. Subcontractors are required to provide written disclosure of information on 
+subcontractors’ ownership and control. The review of ownership and control disclosures 
+applies to subcontractors contracting with the Plan. The Plan must make the 
+subcontractors’ ownership and control disclosure information available, and upon 
+request, this information is subject to audit by DHCS. (APL 17-004, Delegation and 
+Subcontractor Network Certification)  
+ 
+Plan policy, CMP 31 Oversight of HPSJ Delegated Functions (revised 10/01/2023),  
+stated that upon contracting and annually thereafter, network providers and contractors 
+shall provide a written disclosure of the information on ownership and control. This 
+information includes, but it is not limited to, date of birth and social security number for 
+each person with ownership or control interest and each managing employee.  
+ 
+Finding: The Plan did not collect and review ownership and control disclosures for its 
+delegate.  
+ 
+Although the Plan’s policy CMP 31 stated that an annual review of the ownership would 
+be conducted, the Plan did not implement its policy to ensure ownership documentation 
+was collected and reviewed during the audit period. The Plan did not demonstrate 
+implementation of procedures to ensure ownership documentation was collected and 
+reviewed annually. The Plan stated in an interview that it requested the delegate’s 
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 8 of 13 
+ ownership and control disclosure documentation. However, the auditor noted that the 
+request was made after the audit period. Additionally, the submitted ownership and 
+control disclosure form was unsigned, undated, and did not include the addresses of the 
+directors.  
+ 
+When the Plan does not ensure collection and review of delegates’ ownership and 
+control disclosures, it may lead to the provision of medical services facilitated by an 
+ineligible delegate and may result in potential FWA. 
+ 
+Recommendation : Revise and implement policies and procedures to ensure collection 
+and review of the ownership and control disclosures fordelegate. 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 9 of 13 
+  
+CATEGORY 2 – CASE MANAGEMENT AND COORDINATION OF CARE 
+ 
+ 
+2.1  
+BASIC CASE MANAGEMENT  
+ 
+2.1.1 Complex Care Management Plans 
+ 
+The Plan’s CCM program must include comprehensive assessment of the member’s 
+condition; determination of available benefits and resources; development and 
+implementation of a CMP with performance goals, monitoring and follow-up. (Contract, 
+Exhibit A, Amendment 39, Attachment 22(7)(B)(1)(c))  
+ 
+The Plan must ensure that the CCM Care Manager completes a CMP for all members 
+receiving CCM. The CMP must:  
+a. Address a member’s health and social needs, including needs due to Social 
+Drivers of Health.  
+b. Be reviewed and updated at least annually, upon a change in member’s condition 
+or level of care, or upon request of the member. 
+c. Be in an electronic format, a part of the member’s medical record, and document 
+all of the member’s services and treating providers.  
+d. Be developed using a person-centered planning process that includes identifying, 
+educating, and training the member’s parents, family members, legal guardians, 
+Authorized Representatives , caregivers, or authorized support persons, as 
+needed; and  
+e. Include referrals to community-based social services and other resources even if 
+they are not Covered Services under this Contract.  
+(Contract, Exhibit A, Amendment 39, Attachment 22(7)(B)(1)(c)) 
+ 
+Plan policy, CM71 Complex Case Management (effective 08/11/2023),  delineated the 
+components of a comprehensive assessment and individualized care plan, but did not 
+note the provision of the components for all members receiving CCM. The policy did not 
+state that the Plan would complete a CMP for all members receiving CCM or that the 
+CMP was person-centered with input from the member, the member’s family, the 
+provider, and interdisciplinary team. 
+ 
+Finding: The Plan did not complete CMPs for all members receiving CCM. 
+ 
+A verification study revealed that seven of seven eligible CCM member files did not 
+contain a care management plan. All seven member files did not contain evidence of an 
+individualized care plan with primary care physician or family member input. 
+ 
+The Plan confirmed in an interview that care management staff did not create a care 
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 10 of 13 
+ plan or provide CCM services until the member gave consent. The Plan attributed the 
+lack of access to complete medical records for the failure to complete CMPs for 
+members. The Plan stated that they only had access to the CCM referrals. 
+ 
+When the Plan does not complete CMPs for all members receiving CCM, it may lead to 
+harmful consequences such as worsening symptoms, disease complications, and 
+increased healthcare costs. 
+ 
+Recommendation : Revise policies and implement procedures to ensure that CCM 
+services are provided to all eligible members through an opt-out CCM program 
+approach. 
+ 
+2.1.2 National Committee for Quality Assurance Complex Case Management 
+Requirements 
+ 
+The Plan is required to operate and administer CCM in accordance with all NCQA 
+CCM standards and requirements and coordinate services for high and medium-
+rising risk members through the Plan’s CCM approach. The Plan is required to 
+maintain policies and procedures that, at a minimum, include a comprehensive 
+assessment of the member’s condition, determination of available benefits and 
+resources, and development and implementation of a CMP with performance 
+goals, monitoring and follow up. (Contract Exhibit A, Amendment 39, Attachment 
+22 (7)(B)(1)(b))  
+ 
+NCQA guidelines require the Plan’s CCM procedures to include documentation of 
+clinical history which should include medication review. (National Committee for Quality 
+Assurance, Appendix 2, QI 8: Complex Case Management, Element G: Case 
+Management Process (2))  
+ 
+Plan policy, CM66 Health Risk Assessments Case Management and Disease 
+Management (revised 06/02/2023), stated that the Plan shall follow all NCQA 
+guidelines. The policy requires a discharge case manager to perform medication 
+reconciliation for patients changing levels of care. However, it did not address a review 
+of member medications for the outpatient CCM program. 
+ 
+Finding: The Plan did not maintain procedures to ensure a comprehensive assessment 
+of the members’ condition in accordance with NCQA guidelines. 
+ 
+A verification study revealed that seven of seven CCM member files did not include a 
+review of medications. Although the Plan’s policy stated that it will follow NCQA 
+guidelines, the Plan did not have an established process to ensure a review of 
+medication was included as part of its comprehensive assessment of the member’s 
+conditions.  
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 11 of 13 
+  
+During an interview, the Plan acknowledged that staff did not review medications as part 
+of the comprehensive review. The Plan attributed the lack of access to complete 
+medical records as the reason for failure to complete medication reviews for members 
+receiving CCM. The Plan stated that they only had access to the CCM referrals. 
+ 
+When the Plan does not ensure a comprehensive assessment of the members’ 
+condition in accordance with NCQA guidelines, it may have an adverse impact on 
+member health and lead to increased healthcare costs.   
+ 
+Recommendation : Revise and implement policies and procedures to ensure a 
+comprehensive review of member conditions in accordance with NCQA guidelines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 12 of 13 
+  
+CATEGORY 6 – ADMINISTRATIVE AND ORGANIZATIONAL CAPACITY 
+ 
+ 
+6.2  
+FRAUD AND ABUSE   
+ 
+6.2.1 Fraud, Waste, or Abuse Reporting to DHCS  
+ 
+The Plan is required to ensure prompt referral of any potential FWA that the Plan 
+identifies to the DHCS, Audits and Investigation Intake Unit. The Plan shall conduct, 
+complete, and report to DHCS, the results of a preliminary investigation of the 
+suspected fraud and/or abuse within ten working days of the date the Plan first 
+becomes aware of, or is on notice of, such activity. (Contract, Exhibit E, Attachment 2 
+(26)(B)(7))  
+ 
+Plan policy, CMP05 Fraud Waste and Abuse (revised 03/04/2021), stated that the Plan 
+must report to DHCS, the California Department of Justice, and any other applicable 
+regulatory agencies, all cases of suspected and/or credible FWA when there is reason 
+to believe an incident has occurred. Incidents of suspected and/or credible FWA will be 
+reported within ten working days of the reported incident. 
+ 
+Finding: The Plan did not report all suspected fraud and abuse incidents to DHCS 
+within ten working days of the date the Plan first became aware of, or was on notice of, 
+such activity. 
+ 
+A verification study revealed that 6 of 18 FWA cases exceeded ten working days. The 
+Plan reported the cases between 12 to 64 days after the date it initially became aware 
+of the suspected FWA. 
+ 
+The Plan’s FWA reporting process consisted of a preliminary and full investigation of 
+reported allegations. Although the Plan’s policy stated that all suspected and credible 
+cases of FWA were to be submitted to DHCS within ten business days, the Plan did not 
+follow policy and did not timely report the results of their preliminary investigations to 
+DHCS. 
+ 
+During an interview, the Plan stated that suspected fraud was only reported to DHCS 
+when enough credible evidence had been obtained from a preliminary investigation. 
+Additionally, the Plan stated that it calculated the ten-day reporting requirement using 
+the “date created”, which was after the Plan created a lead and when the potential FWA 
+became a case. As a result, cases submitted to DHCS did not include all potential fraud. 
+ 
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN: Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 13 of 13 
+ Failure to timely report all identified cases of potential FWA to the DHCS, can limit the 
+ability to track, analyze, and respond to the incidents to mitigate the impact to members, 
+providers, the Plan, and the Medi-Cal program. 
+ 
+Recommendation : Implement procedures to ensure prompt reporting of all potential 
+FWA within ten working days of when the Plan first becomes aware of, or is on notice 
+of, the activity. 
+  
+ 
+ 
+ 
+ 
+ 
+DEPARTMENT OF HEALTH CARE SERVICES 
+AUDITS AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+SACRAMENTO SECTION 
+ 
+ 
+ 
+REPORT ON THE MEDICAL AUDIT OF  
+HEALTH PLAN OF SAN JOAQUIN 
+ 
+2023 
+ 
+Contract Number:  
+ 
+  
+03-75801 
+State Supported Services 
+Audit Period:  
+ 
+ 
+ 
+Dates of Audit:  
+ 
+ 
+ 
+Report Issued:  
+ October 1, 2022 
+    Through 
+July 31, 2023 
+ 
+October 30, 2023 
+    Through 
+November 10, 2023 
+ 
+April 9, 2024 
+ TABLE OF CONTENTS  
+ 
+ 
+ 
+ 
+I. INTRODUCTION .............................................................................1 
+ 
+Il. COMPLIANCE AUDIT FINDINGS ...................................................2 
+ 
+ 
+ 
+ 
+ 1 of 2 I. INTRODUCTION  
+ 
+ 
+The report presents the audit findings of the contract compliance audit of the Health Plan 
+of San Joaquin (Plan), and its implementation of the State Supported Services  
+Contract Number 03-75801 with the State of California. The State Supported Services 
+Contract covers abortion services for the Plan. 
+ 
+The audit was conducted from October 30, 2023, through November 10, 2023 and 
+covered the review period from October 1, 2022, through July 31, 2023. The audit 
+consisted of a  document review of materials provided by the Plan and interviews with Plan 
+staff. Twenty-five State Supported Services claims were reviewed for appropriate and 
+timely adjudication. 
+ 
+An Exit Conference with the Plan was held on March 20, 2024. The Plan was allowed 15 
+calendar days from the date of the Exit Conference to provide supplemental information 
+addressing the draft audit report findings. The findings in the report reflect the evaluation 
+of all relevant information received prior and subsequent to the Exit Conference. 
+ 
+  
+ 
+ COMPLIANCE AUDIT FINDINGS 
+ 
+PLAN:  Health Plan of San Joaquin  
+ 
+AUDIT PERIOD: October 1, 2022, through July 31, 2023 
+DATES OF AUDIT: October 30, 2023, through November 10, 2023   
+ 
+ 
+ 2 of 2  
+STATE SUPPORTED SERVICES 
+ 
+SSS.1 Misdirected Claims 
+ 
+The Plan is required to maintain a sufficient claims processing system with the 
+capability to comply with applicable state and federal law, regulations, and Contract 
+requirements. (Contract, Exhibit A, Attachment 8(5) (C))  
+ 
+The Plan is required to forward all misdirected claims to the appropriate capitated 
+provider within ten working days of receipt. (California Code of Regulations, Title 28, 
+section 1300.71(b)(2))  
+ 
+Plan policy CLMS12, Misdirected Claims (revised 12/01/2021),  stated the Plan is 
+required to forward misdirected claims to the appropriate payer or delegated provider 
+within ten business days of receipt of the claim. 
+ 
+Finding: The Plan did not forward misdirected claims within ten working days of receipt. 
+ 
+A verification study revealed that the Plan did not forward three of five misdirected state 
+supported services claims to the appropriate capitated provider within ten working days 
+of receipt. For all three claims, the Plan notified providers that the claims should be 
+directed to the responsible delegated entity. However, the misdirected claims were 
+forwarded between 16 to 18 days after the date of receipt. 
+ 
+The Plan did not follow its policy which required misdirected claims to be forwarded to 
+their delegated entity within ten working days. The Plan stated in an interview that a gap 
+within the IT processing system was identified during the onsite audit. The Plan noted 
+that during the audit period there were specific queues within the IT system that would 
+at times cause misdirected claims to be forwarded after the tenth business day.  
+ 
+When the Plan does not forward misdirected claims timely, providers may not be 
+reimbursed for services rendered and may be discouraged from treating members.  
+ 
+Recommendation: Implement procedures to ensure forwarding of misdirected claims 
+within ten working days. 

@@ -1,0 +1,893 @@
+   
+     
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROL LMENT REVIEW DIVISION  
+LOS ANGELES SECTION  
+ 
+REPORT ON THE MEDICAL AUDIT OF  
+AIDS HEALTHCARE  FOUNDATION DBA  
+ POSITIVE HEALTHCARE  CALIFORNIA  
+ 
+2023 
+ 
+ 
+Contract Number:  
+  
+11-88286  
+ 
+Audit Period:  
+   
+Dates of Audit :    
+Report Issued:  
+ October 1, 2022  
+    through  
+September 30, 2023  
+ 
+November 27, 2023  
+    through  
+December 8, 2023  
+ 
+April 1 1, 2024  
+   
+ TABLE OF CONTENTS  
+    I. INTRODUCTION  .............................................................................1 
+ II. EXECUTIVE SUMMARY .................................................................2 
+ III. SCOPE/AUDIT PROCEDURES  ......................................................5 
+ IV. COMPLIANCE AUDIT FINDINGS  
+ Category 1 – Utilization Management  ..............................................7 
+ Category 2 – Case Management and Coordination of Care  .......... 13 
+ Category 3 – Access and Availability of Care  ................................ 17 
+ Categor y 4 – Member ’s Rights  ...................................................... 20 
+ Category 5 – Quality Management  ................................................ 22 
+ Category 6 – Administrative and Organizational Capacity  ............. 23 
+  
+ 1 of 25 
+ 
+ I. INTRODUCTION 
+  AIDS Healthcare Foundation (AHF), founded in 1987, is a not -for-profit organization 
+providing Human Immunodeficiency Virus (HIV) treatment. AHF dba Positive Healthcare 
+California (Plan) provides specialty health care for Medi -Cal members in Los Angeles 
+County . 
+ The Plan was established in California in 1995, under a Federal Waiver from the 
+Department of Health and Human Services. The Department of Health Care Services (DHCS ) entered into an agreement with the Plan in 2012. The Plan is the first Managed 
+Care Progr am in the county for Medicaid members diagnosed with Acquired 
+Immun odeficien cy Syndrome (AIDS). Effective July 1, 2019, the Plan transitioned into a 
+full-risk Medi -Cal Managed Care plan in Los Angeles County. The Plan is a licensed 
+Knox -Keene Health Care S ervice Plan. 
+ The Plan delivers care to eligible members who reside within their service areas and are at least 21 years old . 
+ The Plan provides health care services designed around the needs of people living with stage three  HIV infection. The Plan has a comprehensive network of providers and 
+offers the following contracted services: primary medical care (HIV specialists), specialty consultation, outp atient , radiology , laboratory, hospice, hospital inpatient , and 
+mental healt h. On July 1, 2019, hospice and hospital inpatient services were added to 
+the Contract .  
+ The Plan delivers services to members through a delegated group and vendors or 
+subcontractors.  
+ The Plan is not accredited by the National Committee of Quality Assur ance for the 
+Medi -Cal line of business.  
+ As of September 1, 2023, the Plan had a total of 798 members as follows:  553 Medi -Cal 
+and 245 Dual  Special Needs Plan members .  
+   
+ 2 of 25 
+ 
+ II. EXECUTIVE SUMMARY  
+  This report presents the findings of the DHCS medical audit for the period of October 1, 
+2022,  through September 30, 2023. The review was conducted from November 27, 
+2023,  through December 8, 2023. The audit consisted of document review, verification 
+studi es, and interviews with the Plan representatives.  
+ An Exit Conference with the Plan was held on March 12 , 2024 . The Plan was allowed 
+15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. On March 28, 2024,  the Plan 
+submitted a response after the Exit Conference. The result s of our eval uation of the 
+Plan’s response are reflected in this report.  
+ The audit evaluated six performance categories: Utilization Management  (UM), Case 
+Management and Coordination of Care, Access and Availability of Care, Members’ Rights , Quality Management  and Administrative and Organizational Capacity . 
+ The prior DHCS medical audit for the period of January 1, 2022,  through  
+September  30, 2022,  was issued on March 23, 2023 . The deficiencies identified in the 
+audit report issued on July 14, 2022,  and the implementation of the Corrective Action 
+Plan were review ed. 
+ Findings denoted as repeat findings are uncorrected deficiencies substantially similar to those identified in the previous audit . 
+ The summary of the findings by category is as follows:  
+ Category 1 – Utilization Management  
+The Plan is required to have a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated, and reasons for decisions are clearly documented. The Plan did not 
+clearly document guidelines or criteria used for prior authorization determinations.  
+The Plan is required to have policies and procedures to  ensure decisions are based on 
+the medical necessity of proposed health care s ervices and are consistent with criteria 
+or guidelines that are supported by clinical principles and processes.  The Plan did not 
+ensure t hat prior authorization determinations were based on medical necessity.  
+ The Plan is required to  notify members of a decision to deny, delay, or modify requests 
+for prior authorization by providing a N otice of Action (NOA) t o members and/or their 
+authorized representative.  The Plan did not notify members in writing of decisions to 
+deny prior authorization requests.  
+  
+ 3 of 25 
+ 
+ Prior authorization requirements  shall not be applied  to emergency services, family 
+planning services, preventive services, basic prenatal care, sexually transmitted disease services, and HIV  testing . The Plan incorrectly applied prior authorization requirements 
+to preventive services.  
+ Category 2 – Case Managem ent and Coordination of Care  
+ The Plan is required to provide services to all members related to Mental Health and Substance Use Disorder  (SUD) . When a member’s screening is positive, validated 
+assessment tools should be used to determine if unhealthy alcohol use or SUD is present.  In addition, brief interventions must include providing feedback to the member  
+regarding screening and assessment results and discussing negative consequences that have occurred and the overall severity of the probl em. The Plan utilized incomplete 
+validated assessment tools for members with positive SUD screening results.  
+ The Plan is required to coordinate care with the county Mental Health Plan  (MHP) to 
+deliver mental health care services to members. The Plan did n ot ensure the provision 
+of coordination of care with Los Angeles County Department of Mental Health 
+(LACDMH)  in the delivery of S pecialty Mental Health Services (SMHS) to members.  
+ Category 3 – Access and Availability of Care  
+ The Plan is required to ensure that the member must have an approved Physician 
+Certification Statement (PCS) form authorizing Non -Emergency Medical Transportation 
+(NEMT ) by the provider.  The Plan did not ensure PCS forms were approved before 
+services were rendered.  
+ The Plan and all subcontractors are required to maintain all the books , records , and 
+documents for a minimum of ten years . The Plan did not maintain records for Non -
+Medical Transportation ( NMT ) services provided to members . 
+ Category 4 – Member ’s Rights  
+ The written record of grievances is required to be reviewed periodically by the Governing Body of the Plan, the Public Policy Body, and by an officer of the Plan or 
+designee. The Plan did not ensure the Governing Body periodically reviewed the written 
+record of grievances.  
+ Category 5 – Quality Management  
+ The Quality Improvement Committee (QIC)  is required to meet at least quarterly but as 
+frequently as necessary to demonstrate follow -up on all findings and required actions.  
+The Plan did not ensure its Quality Management Committee (QMC) met at least 
+quarterly in accordance with the Contract requirements.  
+  
+ 4 of 25 
+ 
+ Category 6 – Administrative and Organizational C apacity  
+ Member encounter data must provide for the collection and maintenance of sufficient 
+member encounter data to identify the provider who delivers any items or services to 
+members . The Plan did not ensure that rendering provider information in submitted 
+encounter data was accurate and complete.  
+   
+ 5 of 25 
+ 
+ III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ The DHCS , Contract and Enrollment Review Division  conducted the audit to ascertain 
+that medical services provided to the Plan members comply with federal and state laws, Medi -Cal regulations and guidelines, and the state Contract.  
+ 
+PROCEDURE  
+ The audit was conducted from November 27, 2023, through December 8, 2023. The 
+audit included a review of the Plan’s Contract with DHCS, its policies for providing 
+services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of those policies.  Documents were reviewed and 
+interviews were conducted with the Plan administrators and staff.  
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ Prior Authorizations : A total of 34 medical authorizations , which included two concurrent 
+and 32 denied and approved requests , were reviewed for timeliness, consistent 
+application of criteria, appropriate review, and communication of results to providers and members. There was no retrospective,  modified, expedited, or  delegated  requests . 
+ Appeal Procedures: The Plan did not have any  medical appeals for review for 
+appropriateness and timeliness of decision making.  
+ Category 2 – Case Management and Coordination of Care  
+ Mental Health and SUD : 19 records were reviewed for appropriateness , completeness 
+and timeliness of services provided . 
+ Category 3 – Access and Availability of Care  
+ NEMT and NMT: 20  records (ten  NEMT and ten  NMT) were reviewed to confirm 
+compliance with transportation requirements for timeliness.  
+ Category 4 – Member ’s Rights  
+ Grievance Procedures: A total of 31  standard grievances ( 11 quality of care and 20 
+quality  of service) were reviewed for timely resolution, response to complainant, and 
+submission to the appropriate level for review. During the audit period, t he Plan did not 
+have exempt  nor expedited grievances. In addition, 20 call inquiry logs were reviewed.  
+ 
+ 6 of 25 
+ 
+ Category 5 – Quality Management  
+ Potential Quality Issues: The Plan had t wo records which were reviewed to determine if 
+effective action was taken to address needed improvement.  
+ Category 6 – Administrative and Organizational Capacity  
+ Encounter Data Review: Ten  records were reviewed to verify the Plan’s claims process  
+and supporting documentation.  
+ A description of the findings for each category is contained in the following report.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 7 of 25 
+ 
+  
+CATEGORY 1 - UTILIZATION MANAGEMENT  
+ 
+ 
+1.2  
+PRIOR AUTHORIZATION REVIEW  REQUIREMENTS  
+ 1.2.1. Documentation of Reasons for Medical Decisions   
+ The Plan is required to ensure that its prior a uthorization, concurrent review , and 
+retrospective review procedures meet the following minimum requirements: There is a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated; Reasons for decisions are clearly documented.  (Contract, Exhibit A, Attachment 5, Provision 2C and 
+2D) 
+ Plan policy and procedure, UM 35.3  PHC- CA Clinical Criteria and Guidelines , (revised 
+07/22/2022) , state d the following procedure: The Plan shall document u tilization review 
+criteria and guidelines utilized for organizational determinations providing clear rationale 
+for denials that cite criteria.  
+ Plan Standard Operating Procedure ( SOP ), 502.0  AHF Second Level and Medical 
+Director Review, (revised 09/01/2022) , state d that staff are to document criteria utilized 
+to make determination when referring cases either to  a Registered Nurse or the Medical 
+Director for review . 
+ Finding: The Plan did not clearly document guidelines or criteria used for prior 
+authorization determinations.
+ 
+A verification study of 34 prior authorization cases revealed that 20 cases had no documentation of the guidelines or criteria used to approve the requests. The Plan did not clearly document reasons for decisions on approved m edical prior authorizations 
+and did not include any referenced guidelines, criteria, or other insight into its medical decision- making process in its prior authorization case files.  
+The Plan, pursuant to its prior year C orrective Action Plan, updated its p olicy and 
+procedure, Clinical Criteria and Guidelines ; however, this procedure did not address 
+documenting the rationale for decisions that  are other than denials. In addition, SOP , 
+AHF Second Level and Medical Director Review  did not address  document ing the 
+reason for the decision on requests that can be approved by an authorization 
+coordinator.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 8 of 25 
+ 
+ During the interview , the Plan stated that the criteria  for the decision in these cases 
+were not document ed due to the staff not following policies and procedures  despite 
+training.  Also, there appears to be a lack of monitoring of staff compliance with UM 
+requirements.  
+ This is a repeat of the prior year findi ng 1.2.3 Clear Documentation of Reasons for 
+Medical Authorization Decisions.  
+ When reasons for medical decisions are not clearly documented,  it is difficult to ensure 
+that guidelines and criteria are being adhered to or that the clinical rationale for 
+decisions is correct , which could  lead to poor decision making, substandard or 
+unnecessary care, and u ltimately patient harm.  
+ Recommendation: Develop and i mplement  policies and procedures  to ensure the staff 
+clearly documents  reasons for all prior authorization decisions.  
+  1.2.2. Authorization Decisions Based on Medical Necessity  
+ The Plan is required to ensure that policies and procedures for authorization decisions are based on the Medical Necessity of a requested health care service and  are 
+consistent with criteria or guidelines supported by sound clinical principles. (Contract, Exhibit A, Attachment 5,  (1)(I)(1)) 
+ The Plan is required to have written policies and procedures establishing the process by which the Plan reviews and approves, modifies, delays, or denies, based in whole or in part on medical necessity, requests of health care services. These policies and procedures shall ensure that decisions based on the medical necessity of proposed health care services are consistent with criteria or guidelines that are supported by clinical principles and processes. (Health and Safety (H&S) c ode, section 1367.01b)  
+ Plan policy and p rocedure,  UM 22.7  PHC- CA Authorization Referral  Process,  (revised 
+10/20/2023) , stated that requested health care services may be approved by UM staff 
+who are not qualified health care professionals only when: the U M staff is under the 
+supervision of an appropriately licensed health professional; there are explicit UM  
+criteria; and no clinical judge ment is required.  
+ The Plan’s SOP , 502.0 .0 AHF Second Level and Medical Director Review , (revised 
+09/01/2022) , stated the categories of services that a first level non- clinician reviewer 
+may approve include diagnostic services such as magnetic resonance imaging  and 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 9 of 25 
+ 
+ compute d tomography  scans, cardiac testing, sleep studies, or d urable medical 
+equipment  under $500.  
+ Finding:  The Plan did not ensure that prior authorization determinations were based on 
+medical necessity.  
+The Plan’s SOP, 502.0 AHF Second Level and Medical Director Review , allows for non-
+clinicians to approve services without any documentation of medical necessity. The SOP stated that the categories of services that a first level non- clinician reviewer may 
+approve include diagnostic services such as magnetic resonance imaging and 
+compute d tomography scans, cardiac testing, sleep studies, or d urable medical 
+equipment under $500.  However, there were no associated requirements for approval, 
+such as diagnosis code or other clinical information that would demonstrate the medical necessity for the requested service.  
+In a verification study, three of 34 prior authorization cases indicated that services were approved without clinical documentation to support medical necessity.  
+In an interview, the Plan confirmed that non- clinicians may approve services in 
+accordance with SOP, 502.0 AHF Second Level and Medical Director Review , without  
+any requirements for clinical doc umentation or any corresponding diagnosis codes . 
+Furthermore, the Plan's Medical Director acknowledged that there is no medical necessity review done at the first level review for authorization determinations. If these cases are approved there is no additi onal review.  
+Without ensuring medical necessity is met for approved procedures, the risks of patient harm and fraud, waste, or abuse are increased.  
+ Recommendation:  Develop and implement policies and procedures to ensure that 
+prior authorization  determinations including approvals are based on medical necessity.  
+  1.2.3. Written Notification of P rior Authorization Decisions  
+ The Plan is required to  notify members of a decision to deny, delay, or modify requests 
+for prior authorization, in accordance with the Code of Federal Regulations (CFR), Title 
+42, section  438.210(c) and C alifornia Code of R egulations (CCR) , Title 22, sections 
+51014.1 and 53894 by providing a N otice of A ction (NOA)  to Members and/or their 
+authorized representative, regarding any denial, delay or modification of a request for approval to provide a health care service. ( Contract, Exhibit A, Attachment 13 (7) (A))  
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 10 of 25 
+ 
+ The Plan’s records, including any NOA , shall meet the retention requirements described 
+in Exhibit E, Attachment 2, Provision 20, Audit. (Contract, Exhibit A, Attachment 5 (2)(I))  
+ Responses regarding decisions to deny, delay, or modify health care services 
+requested by providers prior to, retrospectively, or concurrent with the provision of 
+health care services to members shall be communicated to the member in writing, and 
+to providers initially by telephone or facsimile, except with regard to decisions rendered 
+retrospectively, and then in writing, and shall include a clear and concise explanation of 
+the reasons for the Plan’s decision, a description of the criteria or guidelines used, and 
+the clinical reasons for the decisions regarding medical necessity. ( H&S c ode, section 
+1367.01(h)(4) ) 
+ Plan policy and p rocedure, UM 22.7 PHC- CA Authorization Referral  Process, (revised 
+10/20/2023) , state d that the U M Department communicates decisions to modify, delay 
+or deny health care services (adverse determinations) to members  in writing, and to 
+providers initially by telephone or facsimile, except regarding decisions rendered retrospectively, and then in writing.  In addition, it includes a clear and concise 
+explanation of the reasons for the decision, a description of the criteria or guidelines used, and the clinical reasons for the decisions regarding medical necessity. The appropriate DHCS -standardized NOA templ ate, accompanied by the DHCS -
+standardized NOA “ Your Rights ” template, is utilized for this communication.  
+ Finding:  The Plan did not notify members in writing of decisions to deny prior 
+authorization requests.  
+ A verification study showed that in three of six denied prior authorization requests , the 
+Plan did not send members written notices to inform them of the denials.  
+ Plan policy and p rocedure, Authorization Referral  Process was not consistently  followed  
+by staff during the audit period . 
+ During the interview, the Plan acknowledged that there was a defect in its eQSuite 
+software  system that prevented the generation of NOA letters for administrative denials , 
+such as in cases where the deni al was  due to l ack of m edical information.  In another  
+case, the Plan confirmed that the NOA  letter had been voided and could not be 
+retrieved from the system. Despite a request during the interview, t he Plan was unable 
+to provide evidence that the  NOA  letter  was sent to the member  to inform them of their 
+appeal and state fair hearing rights .  
+If the Plan does not notify members in writing of decisions to deny prior authorization requests, this can lead to adverse health effects since members will not receive 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 11 of 25 
+ 
+ information on their right to appeal for a reco nsideration of covered and medically 
+necessary services.  
+Recommendation:  Implement policies and procedures to ensure that the Plan notifies 
+members in writing of decisions to deny prior authorization requests.  
+  1.2.4. Prior Authorization for Preventive Services  
+ Prior authorization requirements  shall not be applied  to emergency services, family 
+planning services, preventive services, basic prenatal care, sexually transmitted disease services, and human immunodeficiency virus ( HIV) testing. (Contract, Exhibit A, 
+Attachment 5(2)(H))  
+ Plan policy and p rocedure,  UM 21.3  PHC- CA Access to Self -Referred Covered 
+Services,  (revised 10/05/2023) , listed  covered services available to members without 
+prior authorization, including primary care visits and urgent or emergency care services . 
+ Plan policy and p rocedure,  CM 44. 2 PHC- CA Adult Preventive Services , (revised 
+03/23/2023) , state d that members are to receive preventive services identified as U nited 
+States  Preventive Services Task Force “ A” and “B” recommendations in accordance 
+with their individual risk factors.  
+ Finding:  The Plan incorrectly applied prior authorization requirements to preventive 
+services.   
+ During the audit period, the Plan applied prior authorization requirements  for preventive 
+services such as low dose computed tomography scans for lung cancer screening and 
+colonoscopies for colon cancer screenings. A verification study identified  five out of 3 4 
+files where prior authorization was incorrectly applied to preventive cancer screening 
+services.  
+ A review of the Plan policies and Provider Manual showed no information stating that preventive care is exempt from prior authorization. Plan policy and p rocedure,  Access to 
+Self-Referred Covered Services  did not include preventive services in this policy. In 
+addition, the Plan p olicy and p rocedure for Adult Preventive Services  did not state that 
+these services are  exempt from prior authorization requirements. Similarly, the Plan ’s 
+2018 and 2024 Provider Manual s did not include preventive services in the list of 
+services exempt from prior authorization.   
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 12 of 25 
+ 
+ During the interview, the Plan stated that preventive services did not require prior authorization and that the Plan has a form letter to notify when a service does not require prior authorization. However, the verification study files showed that the notification letters for preventive services did not indicate an exemption from prior 
+authorization. Instead, they indicated the application of prior authorization procedures and formal approval.   When prior authorization is required for preventive services, it may create a barrier for 
+members to obtain necessary screenings in a timely manner , potentially delaying 
+appropriate medical diagnosis and treatment.   Recommendation:  Revise and implement policies and procedures to ensure that the 
+Plan does not apply prior authorization to  preventive services.  
+    
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 13 of 25 
+ 
+  
+CATEGORY 2 – CASE MANAGEMENT AND COORDINATION OF CARE  
+ 
+ 
+2.5  
+MENTAL HEALTH AND SUBSTANCE USE DISORDER 
+ 2.5.1 Alcohol and Substance Use Disorder Validat ed Assessment  Tools  for 
+Positive Screening  
+ The Plan is required to provide services to all members related to Mental Health and Substance Use Disorder (S UD). (Contract Exhibit A, Attachment 10, provision 6 D)  
+ When a screening is positive, validated assessment tools should be used to determine if unhealthy alcohol use or SUD is present. Validated alcohol and drug assessment tools 
+may be used without first using validated screening tools. Validated assessment tools include, but are not limited to:  
+●  National Institute on Drug Abuse- Modified Alcohol, Smoking and Substance  
+    Involvement Screening Test  
+●  Drug Abuse Screening Test 20  
+●  Alcohol Use Disorders Identification Test  
+For member s with brief assessments that reveal unhealthy alcohol use, brief misuse 
+counseling should be offered. Appropriate referral for additional evaluation and treatment, including medications for addiction treatment, must be offered to member s 
+whose brief assessment demonstrates probable A lcohol Use D isorder  or SUD. ( All Plan 
+Letter (APL) 21-014, Alcohol and Drug Screening, Assessment, Brief Interventions and 
+Referral to Treatmen t) 
+Plan policy and procedure, UM 34.6 V PHC- CA Substance Use Disorder Treatment 
+Services,  (revised 10/13/23), stated the following:  
+●  When a screening is positive, validated assessment tools such as Drug Abuse  
+     Screening Tool and Alcohol Use Disorders Identification Test should be used  
+     to determine if a SUD is present.   
+●  When a screening is positive, validated assessment tools should be used to  
+    det ermine if unhealthy alcohol use or SUD is present.    
+●  The Plan provides appropriate referrals for additional evaluation and      
+    treatment.  
+●  Also, the Plan provides brief interventions , which include: Providing feedback  
+    to the member regarding screening and assessment results; Discuss  
+    consequences which may have occurred due to substance use and the  
+    overall severity of the problem; Assess member s for readiness to change or    
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 14 of 25 
+ 
+    motivation to engage in treatment services, if  appropriate.  
+ 
+Finding: The Plan utilized incomplete validated assessment tools for members with 
+positive SUD screening results.  
+ The Plan has a Specialty Mental Health Services  (SMHS), Non -Specialty Mental Health 
+Services (NSMHS), and Substance Use Disorder Services (SUDS) End- to-End Care 
+Management Workflow that outlined  the intake and screening for alcohol and SUD.  
+The Assessment process reflected in the workflow required  the fo llowing: Registered 
+Nurse Case Team Manager (RNCTM) to complete the Health Risk Assessment Tool, Patient Health Questionnaire (PHQ) -2 and PHQ -9. Then, the member is referred to 
+appropriate Behavioral Health S ervices (Delegated group or Department of Mental  
+Health (DMH) ). The validation process requires RNCTM to confirm that the member is 
+receiving behavioral health services  and is engaged in care.  However, this workflow d id 
+not incorporate a process for conducting a validat ed assessment  and brief intervent ion 
+procedure for members who were  screened positive for alcohol use or SUD . 
+ A review of verification files revealed five out of 19 samples indicated that members were 
+screened with positive SUD using the Cut, Annoyed, Guilty and Eye AID S creening Tool 
+included in the Health Risk Assessment (HRA).  There were incomplete validated 
+assessments for members with positive SUD screening during the audit period. A review of the Plan documentation and verification files indicated that the Plan’s procedures were deficient in determining unhealthy alcohol use or SUD . 
+ During the interview, the Plan staff stated that alcohol and SUD scree ning are embedded 
+in the HRA and its procedure is to screen during the HRA within 45 days, annually, and if required it can be repeated. A review of the HRA and  Alcohol Use Disorder Identification 
+Test C+2 tools contained incomplete validated assessment questionnaires.  
+ When the Plan utilizes incomplete validated assessment tools for members with a positive screening result , it may lead to missed opportunities to engage member s in 
+treatment services.  
+ Recommendation: Implement policies and procedures to ensure the Plan utilizes 
+complete validated assessment tools for members with positive alcohol and SUD 
+screening.  
+     
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 15 of 25 
+ 
+ 2.5.2 Care Coordination 
+ The Contract state d the Memorandum of Understanding ( MOU ) is required to specify, 
+the respective responsibilities of the Plan and the MHP in delivering Medically 
+Necessary Covered Services and Specialty Mental Health Services ( SMHS ) to 
+members. The MOU shall address p rotocols for the delivery of SMHS , including t he 
+MHP ’s provision of clinical consultation to the Plan for members being treated by the 
+Plan for mental illness; Protocols and procedures for the exchange of medical records 
+information, including procedures for maintaining the confidentiality of medical records. 
+(Contract Exhibit A, Attachment 12 , Provision 3A)  
+ The Plan and c ounty M HPs must implement procedures to deliver care and coordinate 
+services for all members. ( CFR, Title 42 , section 438.208(b))  
+ The Plan is required to coordinate with MHPs to facilitate care transitions and guide referrals for members receiving NSMHS to transition to an SMHS provider and vice versa, ensuring that the referral loop is closed and the new provider accepts the care of  
+the member. Such decisions should be made via a member centered shared decision-
+making process. (APL 22- 005, No Wrong Door for Mental Health Services Policy ) 
+ The MOU section related to coordination of care stated the Plans are required to provide medical case management and cover and pay for all medically necessary Medi -
+Cal covered physical health care services for a member receiving SMHS. The Plan is required to coordinate care with the MHP. (APL 22 -006, Medi -Cal Managed Care Health 
+Plan Responsibilities for Non- Specialty Mental Health Services)  
+ The MOU between the Plan and LACDMH, ( effective 07/01/2019) , contained a 
+description of the coordination of care and collaboration agreements as noted in, but are 
+not limited to the following:  
+●  An Interdisciplinary Team will be assigned to coordinate a member’s care  
+    when necessary, as determined by mutually agreed upon protocols.  
+●  There will be a facilitation of continuity of care, including shared treatment  
+     plans for members receiving both the Plan and the MHP’s mental health            
+     services.  
+●  Both parties will have assigned staff available to each other during their hours  
+    of operation.  
+ Plan policy and p rocedure,  CM 97.2  PHC- CA Exchange of information with the 
+LACDMH to Facilitate Care Coordination of Mental Health and Substance Use Disorder 
+Treatment , (revised 08/31/2023),  stated the Plan shall maintain a process for m embers 
+to access all Non- Specialty Mental Health and Substance Use Disorder covered 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 16 of 25 
+ 
+ services, includ ing coordinated care for all SMHS and SUD services and provide 
+referrals including mechanisms to track completion of follow up visits, to the county MHP. In addition , the Plan shall ensure care coordination with LACDMH as follows: T o 
+carry out the provision of all m edically necessary covered services; When the Plan is 
+determined to be responsible for covered BHS, the Plan shall initiate, provide, and maintain ongoing care coordination as mutually agreed upon in the M OU with the 
+LACDMH; Transition of care is  provided for members transiting to or from the Plan or 
+LACDMH.  
+ Finding: The Plan did not ensure the provision of coordination of care with LACDMH in 
+the delivery of SMHS  to members . 
+ The Plan did not implement its policies and procedures for the provision of coordination 
+of care to deliver SMHS to members, including the implementation of MOU elements. The Plan did not furnish:  
+●   Documentary evidence showing that after referring a me mber for SMHS, the  
+     Plan reaches out to the LACDMH or accepts and monitors the LACDMH’s  
+     reports.  
+●   Documentary evidence showing compliance with MOU components such as:  
+     coordination of care between the Plan and LACDMH.  
+ 
+Plan policy and procedure,  PHC- CA Exchange of information with the LACDMH to 
+Facilitate Care Coordination of Mental Health and Substance Use Disorder Treatment  
+for coordination of care between the Plan and the LACDMH was not implemented. In addition, no communication occurred between the LACDMH and the care coordination 
+team for members who were referred by the Plan to LACDMH or members who directly self-referred to LACDMH during audit period.  
+ In an interview, the Plan stated that it notifies members to self -refer to the LACDMH to 
+obtain SMHS. In addition, the last member communication the Plan had with LACDMH 
+staff was in December 2022,  and it did not have an assigned staff from LACDMH to 
+communicate members’ care.  
+ When the Plan does not ensure the provision of coordination of SMHS  to members, this 
+may lead to delayed or missed mental health services resulting in poor mental health outcomes.  
+ Recommendation:  Implement policies and procedures to ensure the Plan and 
+LACDMH are coordinating SMHS  to members.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 17 of 25 
+ 
+   
+CATEGORY 3 – ACCESS AND AVAILABILITY  OF CARE  
+  
+3.8  
+NON- EMERGENCY MEDICAL TRANSPORTATION  
+NON- MEDICALTRANSPORTATION 
+ 3.8.1 Physician Certified Statement   
+ The Plan is required to comply with all existing final Policy Letters and APLs  issued by 
+DHCS. (Contract Exhibit E, Attachment 2)  
+ The Plan is required to ensure that the member must have an approved PCS form 
+authorizing NEMT by the provider. For M edi-Cal managed care health plan (MCP) 
+covered services requiring recurring appointments, MCPs must provide authorization for NEMT for the duration of the recurring appointments, not to exceed 12 months.  (APL 
+22-008, Non-Emergency Medical and N on-Medical Transportation Services and  Related 
+Travel Expenses ) 
+Plan policy and p rocedure, CM 43.7  PHC- CA Transportation Benefit , (revised 
+06/29/2023) , state d the  Plan must have a completed and executed PCS form on file for 
+all NEMT services that require prior authorization.  The members  must have an 
+approved PCS form authorizing NEMT by the provider. The PCS form must be completed by the provider requesting NEMT services for the member.  
+Finding: The Plan did not ensure PCS forms were approved before NEMT services were rendered.  
+The Plan did not consistently apply its policy , PHC- CA Transportation Benefit  requiring 
+completed PCS forms before rendering NEMT services. A review of verification study cases revealed that in two out of ten NEMT sampled, the PCS forms were completed after services were rendered. In one case, the service date was March 13, 2023, w hile 
+the PCS form certified the period from March 15, 2023, two days after the NEMT 
+service was provided. In another case, the service date was March 17, 2023, while the PCS form was incomplete and signed on November 16, 2023.  
+During the interview , the Pla n stated that the Member Services Department did not 
+ensure the PCS forms were on file before allowing for the scheduling of NEMT services.  
+Additionally, the U M Department, did not verify PCS forms, maintain a PCS Form 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 18 of 25 
+ 
+ Tracker, and follow the Plan ’s policies and procedures of quarterly submission of PCS 
+Form Tracker reports to the UM Committee for monitoring purposes.  
+ After the interview, the Plan’s Member Services Department resubm itted an NEMT log 
+that included a column indicating the PCS form verification status. This highlighted that 
+several provided NEMT services were missing  PCS forms. The U M Department 
+explained that the failure to obtain and verify PCS forms for the sampled cases was due to the physician ’s limited availability and the Member Services D epartment ’s leadership 
+change.  
+ Without obtaining PCS forms before providing NEMT trips, th e Plan cannot  determine 
+the appropriate level of service for Medi -Cal members .  
+ Recommendation: Implement  policies and procedures to ensure PCS forms are 
+approved before the NEMT services are rendered to the member.  
+  3.8.2 Maintain ing NMT Service Records  
+ The Plan and all subcontractors are required to maintain all of the books , records , and 
+documents for a minimum of ten years from the final date of the Contract period or from the date of completion of any audit , whichever is later. (Exhibit E, Attachment 2, 
+provision 20B)  
+ The Plan and subcontractor must retain and are required to retain the data, information, 
+and documentation for a period of no less than  ten years. ( CFR, Title 42 , section 
+438.416)  
+ Plan policy and p rocedure,  CM 43.7  PHC- CA Transportation Benefit , (revised 
+06/29/2023) , stated i f an NMT request comes through Member Services, the 
+Transportation Coordinator verifies the member to be going to or returning home from a 
+medical appointment, medical facility, pharmacy, etc., that will render or has rendered a Medi -Cal covered service.  
+ The Plan’s documentation and monitoring process noted in Workflows for NEMT and NMT Services  stated that all relevant information, including member and service details, 
+is recorded in NEMT logs by the Member Services Transportation Coordinator. The Director of Member Services and their designee (Supervisor, Manager of Member Services) monitor the log for completion, and logs are maintained and monitored to 
+ensure compliance.  
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 19 of 25 
+ 
+ Finding: The Plan did not maintain records for NMT services provided  to members . 
+ A review of two out of ten NMT verification study files indicated that the Plan was 
+missing  records to support the existence and accuracy of services provided. For t he two 
+sampled files, the NMT  log indicated th at trips were completed by the Plan; however, 
+there were no call documentation or invoices available to support that these trips were 
+rendered.  
+ A review of the p olicy and p rocedure,  PHC- CA Transportation Benefit  indicated that t he 
+Plan’s Member Services D epartment is mandated to maintain detailed records of all 
+transportation services, including trip status, dates, service type, and any related information, for documentation and reporting purposes ; however, review of verification 
+files indicated that procedures were not followed by the staff as there were two missing 
+records.  
+ During the interview , the Plan confirmed that for the two sampled files , NMT services 
+were provided, and payment s were made to the contracted provider. The Plan 
+acknowledged that it did not maintain records and documents for these trips due to 
+entry error s.  
+ The absence of documentation may hinder DHCS from verifying the validity of services rendered to the member.  
+ Recommendation:  Implement policies and procedures to ensure NMT records  are 
+maintained for services provided to members.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 20 of 25 
+ 
+  
+CATEGORY 4 – MEMBER ’S RIGHTS  
+ 
+ 
+4.1  
+GRIEVANCE SYSTEM  
+ 4.1.1 Grievance Records Oversight  
+ The Plan is required to implement and maintain procedures for grievances and the 
+expedited review of g rievances required under CFR, Title 42, sections  438.402, 406, 
+and 408, CCR, Title 28, sections 1300.68 and 1300.68.01, and CCR,  Title 22, section 
+53858. (Contract , Exhibit A, Attachment 14(2))  
+ The Grievance and Appeal System is required to operate in accordance with all applicable federal regulations, state laws, and state regulations. The Plan must maintain a written record for each grievance and appeal received by the Plan. The record of each grievance and appeal must be maintained in a log with information such as a description of the complaint or problem and action taken to investigate and resolve the grievance or appeal. The written record of grievances and appeals is required to be reviewed periodically by the Governing Body of the Plan, the Public Policy Body, and by an officer of the Plan or designee. The review is required to be thoroughly documented. (APL 21 -011, Grievance and Appeal Requirements, Notice and “ Your Rights ” 
+Templates)   
+ A written record shall be made for each grievance received by the Plan, including the date received, the Plan representative recording the grievance, a summary or other document describing the grievance, and its disposition. The written record of grievances shall be reviewed periodically by the Governing Body of the Plan, the Public Policy Body created pursuant to CCR, Title 28, section 1300.69, and by an officer of the Plan or his designee. This review shall be thoroughly documented. (CCR, Title 28, sectio n 1300.68 
+(b)(5))  
+ Plan policy and p rocedure, RM 7.4  PHC- CA Enrollee Grievance Process , (revised 
+09/13/2023) , state d a written record is maintained for each grievance. Grievance 
+documentation captures all the elements required to be reported in accordance with 
+state and federal reporting requirements. The monitoring section state d that grievance 
+data are submitted periodically to the Executi ve Oversight Committee (EOC ) for review 
+and to the P ubic Policy Body. 
+ Finding: The Plan did not ensure the Governing Body periodically reviewed the written 
+record of grievances.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 21 of 25 
+ 
+ The Plan’s Governing Body delegates it functions to the EOC.  
+ Plan policy and p rocedure,  PHC- CA Enrollee Grievance Process  did not address 
+presenting of the written record of grievances to the EOC for review.  
+ A review of committee meeting minutes indicated that the Plan did not have documentation to support that the EOC conducted a review of the written records of 
+grievances . The Plan did not ensure that committees followed the APL requirements 
+and policies and procedur es. 
+ During the interview, the Plan acknowledged that the EOC did not review the written 
+record of grievances during the audit period due to the oversight of the staff.  
+ When the Plan’s Governing Body  or EOC  does not periodically review the written record 
+of grievances, this may result in the Plan’s inability to make timely interventions to 
+remedy problems identified and provide quality of care and services to members.  
+ Recommendation: Implement policies and procedures to ensure that the 
+Governing Body  periodically reviews the written record of grievances.  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 22 of 25 
+ 
+  
+CATEGORY 5 – QUALITY MANAGEMENT  
+ 
+ 
+5.1  
+QUALITY IMPROVEMENT SYSTEM  
+ 5.1.1. Quality Management  Committee    
+ The Quality Improvement Committee ( QIC) is required to meet at least quarterly but as 
+frequently as necessary to demonstrate follow -up on all findings and required actions. 
+(Contract, Exhibit A, Attachment 4 (4) (B))  
+ Plan policy and p rocedure, QM 1.4  PHC- CA Quality Improvement Program , (revised 
+10/27/2023) , state d that, at the very minimum, the Q MC meets on a quarterly basis  
+(The QMC functions as the Plan’s QIC) . The QMC reviews highlights of the quality 
+improvement activities quarterly and identifies opportunities for improvement.  
+ The Plan’s 2023 Quality Management Committee (Q MC) Charter state d that the 
+committee is to meet at least quarterly.  
+ Finding:  The Plan did not ensure its Q MC met at least quarterly in accordance with the 
+Contract requirements.   The Plan did not fully implement its policies and procedures requiring its QM C to meet 
+quarterly. The Plan's QMC only met twice during the audit period, on December 12, 2022, and March 27, 2023.  During the interview, the Plan was asked whether a QMC meeting was held around June 2023. The Plan stated that the QMC did not meet at that time because of absentee members. In addition, in a written response, the Plan stated that the QMC ’s 
+next meeting was scheduled for December 11, 2023. Therefore, the Plan only had two QMC meetings scheduled during the audit period.  
+ When the Plan ’s QMC does not meet on a regular basis, the Plan may miss 
+opportunit ies to identify and act upon quality improvement issues  in a timely manner, 
+which may result in members receiving substandard care. 
+ Recommendation:  Implement policies and procedures to ensure that the QMC meets 
+at least quarterly to maintain oversight of its Quality Improvement Program  and to fulfill 
+the Contract requirements . 
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022, through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023, through December 8, 2023  
+ 
+ 23 of 25 
+ 
+   
+CATEGORY 6 – ADMINISTRATIVE AND ORGANIZATIONAL CAPACITY  
+  
+6.3  
+ENCOUNTE R DATA REVIEW  
+ 6.3.1 Encounter Data Reporting 
+ The Plan is required to implement policies and procedures for ensuring complete, accurate, reasonable, and timely submission of encounter data to DHCS for all items 
+and services furnished to a m ember under th e Contract, whether directly or through 
+subcontr acts or other arrangements, including capitated Providers. ( Contract, Exhibit E, 
+Attachment 3, 2(B))   The Plan is required to maintain a M anagement Information System that collects and 
+reports encounter data to DHCS in compliance with CFR, Title 42, section 438.242, and 
+pursuant to applicable DHCS APLs. (Contract, Exhibit A, Attachment 3, 2 .A) 
+ Member encounter  data must provide for the following: C ollection and maintenance of 
+sufficient member  encounter data to identify the provider who delivers any items or 
+services to members ; Submission of member  encounter data to the state at a frequency 
+and level of detail to be specified by C enters for Medicar e and Medicaid Services  and 
+the State, based on program administration, oversight, and program integrity needs.  
+(CFR, Title 42, section 438.242 (c)(1)  and (2))  
+ Unless otherwise specified in the Contract, the Plan is required to comply with all current and applicable provisions of the Medi -Cal Provider Manual, unless the Medi -Cal 
+Provider Manual conflicts with the Contract, APLs, and/or any applicable federal or state laws, regulations, in which case the specific terms of the Contract, the APL, or the appli cable law will apply. (Contract, Exhibit E, Attachment 3, 1.D(2) and 1.E)  
+ Reimbursement for services rendered by a Physician Assistant ( PA) can be made only 
+to the employing physician, organized outpatient clinic or hospital outpatient department. Providers must indicate the appropriate PA modifier “U7” in conjunction with the Healthcare Common Procedure Coding System (HCPCS) or Current Proce dural Terminology code when the service was performed by a PA. In addition to 
+this PA modifier, the modifier code “99” may also apply to PA services, creating a multiple modifier condition. (Medi -Cal Provider Manual - Billing and Reimbursement, 
+non ph 3; P age updated: March 2023) 
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 24 of 25 
+ 
+ Plan policy and p rocedure,  MC IT 2.2  PHC- CA Encounter Data Submission for 
+Managed Care , (revised 09/07/2023) , stated  the Plan shall ensure the completeness, 
+accuracy, reasonability, and timeliness of all subcontractor encounter data regardless of whether a subcontractor is reimbursed on a fee- for-service or capitated basis . In 
+addition, the Compliance Officer or designee and the Associate Director of Electronic 
+Data Information and Data Analytics or designee review Quality Measures for 
+Encounter Data R eports, Monthly Encounter Data Reports, Quarterly Stoplight Reports, 
+and other internal reports related to completeness, accuracy, reasonability,  and 
+timeliness measures . 
+ Finding: The Plan did not ensure that rendering provider information in its submitted 
+encounter data was accurate and complete.  
+ A verification study revealed that in three out of ten samples, the rendering provider information in encounter data submitted to DHCS was inaccurate and incomplete. These were the issues identified:  
+• In one of t he samples, according to the medical record, a service was 
+rendered by a PA and reviewed and signed off by a physician. However, a different physician’s name was reported in the encounter data.  
+• In three samples, the encounter data did not contain appropri ate PA modifiers 
+“U7” or “99” to indicate these services were rendered by PAs.  
+ Plan policy and procedure,  PHC- CA Encounter Data Submission for Managed Care 
+does not include the requirements for reporting rendering provider information for verification purposes. Furthermore, this policy does not include the requirement to apply the Medi -Cal Provider Manual requirements to report the appropriate PA modifiers “U 7” 
+or “99” to indicate that these services were rendered by PAs.  
+ The Plan provided a written response stating that the Medi -Cal Provider Manual directs 
+billing for services rendered by PA under physician supervision, allowing subcontractors to list superv ising physicians as the rendering providers in encounter data instead of the 
+PA. A review of three out of ten  cases indicated that HCPCS modifier U7 and 99 was 
+missing to indicate that care was provided by a PA per the Provider Manual instructions. 
+The Plan did not follow the Provider Manual billing instructions to completeness when 
+submitting encounter data report related to services provided by rendering providers.  
+ When  the Plan does not report accurate and complete provider information in encount er 
+data, DHCS will not have the right foundation for tracking healthcare quality and costs, monitoring population health and affordability trends, and identifying gaps in care.   
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS Healthcare Foundation dba Positive Healthcare California   
+ 
+AUDIT PERIOD: October 1, 2022,  through September 30, 2023  
+DATE S OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 25 of 25 
+ 
+ Recommendation:  Revise and i mplement  policies and procedures to ensure the 
+accuracy and completeness of encounter data report s related to rendering provider 
+information.  
+ 
+ 
+ 
+ 
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT REVIEW DIVISION   
+LOS ANGELES SECTION  
+  
+REPORT ON THE STATE SUPPORTED SERVICES AUDIT OF  
+AIDS HEALTHCARE FOUNDATION  dba 
+POSITIVE HEALTHCARE CALIFORNIA  
+ 
+2023 
+ 
+Contract Number s:  
+  
+20-10355  and 22-20459  
+ 
+Audit Period:  
+    
+Dates of Audit:      
+Report Issued:  
+ October 1, 202 2 
+    through  
+September 30, 202 3 
+ 
+ 
+November 27, 2023  
+    through  
+December 8, 2023  
+  April 1 1, 2024  
+ 
+   
+ 
+ 
+ 
+ TABLE OF CONTENTS  
+    I. INTRODUCTION  .............................................................................1 
+ Il. COMPLIANCE AUDIT FINDINGS  ...................................................2 
+   
+ 
+ 
+ 1 of 2 I. INTRODUCTION 
+  This report presents the results of the audit of AIDS  Healthcare Foundation dba Positive 
+Health care California  (Plan)  compliance and implementation of the State Supported 
+Services Contract with the State of California. The C ontract s cover abortion services with 
+the Plan.  
+ The audit covered the review period from October 1 , 202 2, through September 30, 202 3. 
+The audit was conducted from November 27, 2023,  through December 8, 2023,  and 
+consisted of document ation review  and interviews with the Plan staff. 
+ The Plan delivers care to eligible members  who reside within their service area and are at 
+least 21 year s old with  an acquired immunodeficiency syndrome diagnosis.  
+ An Exit Conference with the Plan was held on March 12, 202 4. No deficiencies were noted 
+during the review period.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: AIDS  Healthcare Foundation dba Positiv e Healthcare California  
+ 
+AUDIT PERIOD: October 1, 2022 , through September 30, 202 3 
+DATE S OF AUDIT: November 27, 202 3, through December 8, 202 3 
+ 
+ 2 of 2  
+STATE SUPPORT ED SERVICES  
+ The Plan is required to provide, or arrange to provide, to eligible members the following 
+State Supported Servi ces: Current Procedur al Terminology  (CPT) Codes: 59840 
+through 59857 and Center for Medicare & Medicaid Services (CMS) Common 
+Procedure Coding System  Codes: X1516, X1518, X7724, X7726,  and Z0336  (State 
+Supported Services Contract , Exhibit A)  
+ Abortion services are a covered benefit in the Medi -Cal program as a Physician Service. 
+The Plan is required to cover abortion services, as well as the medical services and supplies incidental or preliminary to an abortion, consistent with the requirements. The Plan and network providers and subcontractors are prohibited from requiring medical 
+justification or imposing any utilization management or utilization review requirements, 
+including prior authorization and the coverage of outpatient abortion services. (All Plan 
+Letter  (APL)  22-022, Abortion Services)  
+ Plan policy and p rocedure,  UM 36.0 PHC- CA Abortion Services  (revised 01/19/2023) , 
+stated the Plan covers abortion services, as well as medical service and supplies 
+incidental  or preliminary to an abortion, consistent with the requirement s detailed in the 
+Medi -Cal Provider Manua l; the network providers and any subcontractors are prohibited 
+from requ iring medical justification in accordance with APL 22- 022 requirements . 
+ The Plan maintains a list of CPT and CMS Common Procedure Coding System codes 
+required for pregnancy termination that the Plan’s Claims Department uses for claims processing.  
+ A request for verification  study revealed that the Plan did not have any claims related to 
+State Supported Services during the audit period.  A review of documentation and 
+interview s indicated no deficiencies  were noted during the audit period.  
+ Recommendation:  None.  
+  

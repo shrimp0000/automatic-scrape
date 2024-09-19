@@ -1,0 +1,716 @@
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDIT AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+SANTA ANA 
+  
+REPORT ON THE MEDICAL AUDIT OF  
+  
+ 
+ Anthem Blue Cross  
+Partnership Plan  
+ 
+2023  
+ 
+ 
+Contract Number:    
+03-76184, 04- 36068,   
+07-65845, 10- 87049, and      
+13-90159  
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ October 1, 202 2 
+    through 
+October 31 , 2023  
+ 
+November 27, 2023  
+    through 
+December 8, 2023  
+  May 14 , 2024  
+ 
+ TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ II. EXECUTIVE SUMMARY  ................................................................. 2 
+ III. SCOPE/AUDIT PROCEDURES  ...................................................... 5 
+ IV. COMPLIANCE AUDIT FINDINGS 
+ Category 1 – Utilization Management…………..………….…………7 
+ Category 3 – Access and Availability  of Care…………………..…..12 
+ Category 4 – Member s’ Rights  ...................................................... 17 
+      
+ 
+ 1 of 21 I. INTRODUCTION  
+ 
+Anthem Blue Cross Partnership Plan, Inc. (Plan) is a subsidiary of Anthem, Inc. Anthem provides medical M anaged Care services to Medi -Cal beneficiaries under the provisions 
+of the Welfare and Institutions Code, section 14087.3. It  is licensed in accordance with 
+the provisions of the Knox -Keene Health Care Service Plan Act.  
+ Anthem is a full -scope Managed Care plan serving the Medi -Cal, Medicare, and Seniors 
+and Persons with Disabilities (SPD) population. The Plan delivers care to members under the Two- Plan, Geographic Managed Care (GMC), Commercial Plan, and Local 
+Initiative models.   Mandatory enrollment of SPD into Managed Care began in June 2011. The California Department of Health Care Services (DHCS) received authorization (1115 Waiver) from the federal government to conduct mandatory enrollment of SPD into Managed Care to achieve care coordination, better manage chronic conditions, and improve health outcomes. In June 2011, DHCS awarded the Plan with the contract to provide Medicaid Managed Care benefits to beneficiaries under the State ’s SPD procurement.  
+ On November 1, 2013, DHCS awarded the Plan the contract to prov ide Medicaid 
+Managed Care benefits to beneficiaries under the State ’s Rural Expansion 
+Procurement. The Plan is to deliver care to members in 18 additional counties under the GMC  rural model.  
+ The Plan has five contracts to provide services in 27 counties: Contract 03- 76184,  a 
+commercial contract, covers Alameda, Contra Costa, San Francisco, and Santa Clara Counties. Contract 04- 36068 is a local initiative contract cover ing Tulare County. 
+Contract 07- 65845, a GMC contract, covers Sacramento County. Contract 10- 87049, a 
+commercial contract, covers Fresno, Kings, and Madera Counties. Contract 13- 90159, a 
+GMC and rural expansion contract, covers Alpine, Amador, Butte, Calaveras, Colusa, El Dorado, Glenn, Inyo, Mariposa, Mono, Nevada, Placer, Plumas, Sierra, Sutt er, Tehama, 
+Tuolumne, and Yuba Counties.  
+ As of November  2023 , the Plan served approximately 1,044,232 Medi -Cal members in 
+the following counties: Alameda (87,775) , Alpine  (191) , Amador  (6,495) , Butte  (27,262) , 
+Calaveras  (6,949) , Colusa  (5,550) , Contra Cos ta (37,118) , El Dorado  (15,809) , Fresno 
+(152,908) , Glenn (3,049) , Inyo  (3,106) , King s (25,075) , Madera (29,339) , Mariposa  
+(4,280) , Mono (2,012) , Nevada (15,975) , Placer  (41,493) , Plumas  (3,066) , Sacramento 
+(233,095) , San Benito (12,327),  San Francisco (32,325) , Santa Clara (93,291) , Sierra  
+(422) , Sutter  (26,079) , Tehama (12,116) , Tulare (137,496) , Tuolumne (8,020) , and 
+Yuba (21,609) . 
+ 
+ 2 of 21 II. EXECUTIVE SUMMARY  
+ 
+This report presents the audit findings of the Department of Heal th Care Services  
+(DHCS)  medical audit for the period of October 1, 2022 , through October 31, 2023 . The 
+audit  was conducted from November 27, 2023 , through December 8, 2023 . The audit 
+consisted of document review, verification studies, and interviews with the Plan representatives . 
+ An Exit Conference with the Plan was held on April 12, 2024. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the audit report findings . On April 2 6, 2024,  the Plan submitted a response. 
+The results of our evaluation of the Plan’s response are reflected in this report.  
+ The audit evaluated six categories of performance: Utiliz ation Management  (UM) , Case  
+Management and Coordination of Care, Access and Availability of Care, Member s’ 
+Rights, Quality Management, and Administrative and Organizational Capacity.  
+ The prior DHCS medical audit for the period of October 1, 2021,  through September 30, 
+2022, was issued on June 19, 2023. This audit examined the Plan ’s compliance with its  
+DHCS Contract and assessed implementation of its pending prior year’s Corrective  
+Action Plan (CAP).  
+ The summary of the findings by category follows:  
+ Category 1 –  Utilization Management  
+ The Plan is required to ensure that the UM  program includes an established specialty 
+referral system to track and monitor referrals requiring prior authorization through the Plan. The Plan did not track or monitor referrals to in- network specialists.  
+ The Plan is required to ensure decisions are made in a timely manner and are not unduly delayed for medical conditions requiring time sensitive services . The Plan did not 
+ensure prior authorization decisions were made in a timely manner while awaiting the confirmation of California Children ’s Services (CCS)  eligibility.  
+ The Plan is required to obtain written consent from the member when a provider files an appeal on behalf of the member. The Plan did not ensure the members ’ written 
+consent was obtained when a provider filed  an appeal on the member s’ behalf.  
+ The Plan is required to ensure that the Grievance and Appeal S ystem provides oral 
+notice of the resolution of an expedited a ppeal within 72 hours. The Plan did not ensure 
+the provision of oral notifications to members regarding the resolution of expedited 
+appeals.  
+   
+ 
+ 3 of 21 Category 2 –  Case Management and Coordination of Care 
+ There were no findings in this category.  
+ Category 3 –  Access and Availability of Care  
+ The Plan is required to implement prompt investigation and corrective action when compliance monitoring discloses that the Plan ’s provider network is not sufficient to 
+ensure timely access. The Plan did not ensure corrective actions were implemented for providers who did not comply with appointment wait time standards.  
+ The Plan is required to provide member  appointment s with a Primary Care Provider 
+(PCP) within 10 business days of the request  and a specialist within 15 business days 
+of the request.  The Plan did not ensure that its providers offered member appointments 
+with a PCP within 10 business days of the request  and a specialist within 15 business 
+days of the request.  
+ The Plan is required to use a DHCS -approved Physician Certification Statement (PCS)  
+form on file to determine the appropriate level of service for Medi -Cal members.  The 
+Plan did not ensure PCS forms were on file to authorize Non -Emergency Medical 
+Transportation (NEMT)  services for all members.  
+ Category 4 –  Member s’ Rights  
+ The Plan is required to resolve grievances and send written resolutions to the member 
+within 30 calendar days. The Plan did not send resolution letters for quality of service grievances within the required 30 calendar days.  
+ The Plan is required to completely resolve member grievances.  The Plan sent member 
+resolution letters without completely resolving the members ’ quality of service 
+grievances.  
+ The Plan is required to ensure timely resolution to the member as quickly as the member s’ health condition requires, within 30 calendar days from the date the Plan 
+receives the grievance. The Plan did not resolve high severity quality of care grievances within 30 days of receipt of the grievance.  
+ The Plan is required to ensure grievances related to medical quality  of care issues shall 
+be referred to a Medical Director. The Plan did not refer all quality of care grievances to 
+the Medical Director for resolution.  
+ Category 5 –  Quality Management  
+ There were no findings in this category.  
+  
+ 
+ 4 of 21 Category 6 –  Administrative and Organizational Capacity 
+ There were no findings in this category . 
+                      
+                   
+ 
+ 5 of 21  
+III. SCOPE/AUDIT PROCEDURES  
+ 
+ 
+SCOPE  
+ The DHC S, Contract and Enrollment Review Division conducted this audit to ascertain 
+that the medical services provided to Plan members comply with federal and state laws, Medi -Cal regulations and guidelines, and State Contracts.  
+ 
+PROCEDURE  
+ The review was conducted from October  1, 2022, through October 31, 2023 . The audit 
+included a review of the Plan ’s Contracts with DHCS, its policies for providing services, 
+the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed, and 
+interviews were conducted with the Plan ’s administrators, a delegated entity, and staff.  
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ Prior Authorization Requests: 30 medical prior authorization records were reviewed for 
+timely decision making, consistent application of criteria, and appropriate review.  
+ Appeals: 20 medical appeal records were reviewed for appropriateness and timely 
+adjudication.  
+ Category 2 – Case Management and Coordination of Care 
+ Behavioral Health Treatment ( BHT): 15 medical records were reviewed for coordination, 
+completeness, and compliance with BHT provision requirements.  
+ Category 3 – Access and Availability of Care  
+ NEMT : 25 records were reviewed for timeliness and compliance with NEMT 
+requirements.  
+ Non-Medical Transportation (NMT): 15 records were reviewed for timeliness and 
+compliance with NMT requirements.  
+ Category 4 – Members’  Rights  
+ Quality of Care Grievances: 20 quality of care grievance cases were reviewed for 
+processing, clear and timely response, and appropriate level of review.   
+ 
+ 6 of 21 Quality of Service Grievances : 40 quality of service grievance cases were reviewed for 
+timeliness, investigation proc ess, and appropriate resolution.  
+ Category 5 –  Quality Management  
+ PQI: Ten cases were reviewed for timely evaluation, and effective action taken to 
+address improvements.  
+ Category 6-  Administrative and Organizational Capacity 
+ No verification studies were conducted.  
+ A description of the findings for each category is contained in the following repor t.
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022, through October 31, 2023 
+DATE OF AUDIT: November 27, 2023, through December 8, 2023 
+ 
+ 7 of 21  
+CATEGORY 1 – UTILIZATION MANAGEMENT  
+ 
+ 
+1.2  
+PRIOR AUTHORIZATION REVIEW REQUIREMENTS  
+ 1.2.1  Referral Tracking for In- Network Providers  
+ The Plan is responsible to ensure that the UM  program includes an established 
+specialty referral system to track and monitor referrals requiring prior authorization through the Plan. (Contract, Exhibit A, Attach ment 5(1)(F))  
+ The Plan shall ensure that policies and procedures for authorization decisions are 
+based on the medical necessity of a requested health care service and are consistent  
+with criteria or guidelines supported by  sound clinical  principles. (Cont ract, Exhibit A, 
+Attachment 5(1)(J))  
+ The Plan shall monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers  rendering services on its 
+behalf, in any setting. (Contract, Exhibit A, Attachment 4(1))  
+ The Plan’s, UM Program Description , lists the goals of the UM Program as “( 1) to 
+ensure the adequacy of service availability and accessibility to eligible members; (2 ) to 
+maximize appropriate medical and behavioral health care; and (3) to minimize/eliminate over- and/or under -utilization of medical and behavioral health services ”. 
+ Finding: The Plan did not track or monitor referrals to in -network specialists.  
+ Plan Policy, UMXX- 003 Access to Specialty Care (revised date 0 7/23/2023) , states , “No 
+authorization is required by the Plan to see an in- network specialist .” If a member needs 
+to see a specialist regarding their health, the PCP will refer the member to an in- network 
+specialist. If the PCP cannot find an in- network specialist, they can reach out to the Plan 
+for assistance.  
+ During the interview, the Plan confirmed that because prior authorization is not required, 
+they do not track referrals made to in- network specialists.  
+ If the Plan does not track and monitor referrals to in- network specialists, it increases the 
+risk of fraud, waste, and abuse. This could lead to a lack of access for members and 
+ultimately result in substandard care and poor health outcomes.  
+ Recommendation: Revise and implement policies and procedures to ensure referrals 
+are appropriately tracked and monitored.  
+ 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 8 of 21 1.2.2  Prior Authorization in Potential C alifornia Children’s Services  (CCS)  
+Eligible Conditions  The Plan shall develop and implement written policies and procedures for identifying and referring children with CCS eligible conditions to the local CCS program. The 
+policies and procedures shall ensure that the Plan continues to provide all m edically 
+necessary covered services to the m ember until CCS  eligibility is confirmed. (Contract, 
+Exhibit A, Attachment 11(9)(4))  
+ The Plan shall ensure that its p rior authorization procedures meet the requirement that 
+decisions are made in a timely manner and are not unduly delayed for medical conditions requiring time sensitive services. (Contract, Exhibit A, Attachment 5(2)(G))  
+ Decisions to approve, modify, or deny, based on medical necessity shall be made in a timely fashion, not to exceed five business days from the Plan ’s receipt of the 
+information reasonably necessary to make the determination. (Health and Safety Code,  
+section 1367.01(h)(1) ) 
+ Plan Policy , UMXX- 117 Decision and Notification Timeframes ( revised date 
+07/26/2023) , states “the decision to approve, modify, or deny requested non- urgent pre-
+service requests, are made within 5  business days from the receipt of the request, but 
+no longer than 14 calendar days from the receipt of the request .” 
+ Finding:  The Plan did not ensure pri or authorization decisions were made in a timely 
+manner  while awaiting the confirmation of CCS eligibility.  
+ Plan Policy , UMXX-004 CCS Referral and Coordination of Care ( revised date 
+05/31/2023) , outlines the procedure to create a case, request further information, and 
+“advise the requesting provider to defer the case to the member s’ county CCS office.”  
+ During the interview, the Plan confirmed that the process is to advise the requesting provider  to refer to CCS. If CCS does not accept the member, the Plan will furnish 
+medically necessary services.   A verification study revealed that in all three requests for prior authorization, the Plan delayed evaluation until CCS eligibility was denied as fol lows:  
+• One case involved evaluation by a hematologist -oncologist (cancer doctor) of a 
+chest mass in a five- year-old with a family history of neurologic tumors. The Plan 
+deferred decision making for 21 days.  
+• Another case involved testing for unexplained syncope (loss of consciousness) in a 16- year-old where the Plan deferred decision making for 29 days.  
+• In the last case, involving a hospital stay, the Plan deferred decision making for 34 days.  
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 9 of 21 For these cases, the Plan did not document any other reason for delay, such as the need for further information.  
+ The Plan’s procedures do not require the Plan to provide medically necessary services 
+until CCS eligibility is confirmed.  
+ If requested services are not det ermined in a timely fashion, this may delay the 
+provision of medically necessary care and ultimately result in poor health outcomes.  
+ Recommendation: Develop policies and procedures to ensure prior authorization 
+decisions are made in a timely manner for the provision of medically necessary services 
+and not unduly delayed for the confirmation of CCS eligibility.  
+ 
+                         
+        
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 10 of 21  
+1.3  
+PRIOR AUTHORIZATION APPEAL PROCESS  
+ 
+1.3.1  Written Consent for Appeals Made on Behalf of a Member  
+ The member, or a p rovider acting on behalf of a m ember and with the m ember ’ 
+S’ written consent, may request an a ppeal. (Contract, Exhibit A, Attachment 14 (5)(A))  
+ Appeals filed by the provider on behalf of the member require written consent from the member. (All Plan Letter (APL) 21 -011, Grievance and Appeal Requirements)  
+ Plan Policy , GAMC -051 Member Appeals  (revised date 05/17/2023) , states “Appeals 
+filed by the provider on behalf of the beneficiary require written consent from the beneficiary. The Plan will send an acknowledgment letter to the member, which includes a consent form, and request the member submit their written consent .” 
+ Finding: The  Plan did not  ensure  the members ’ written  consent  was obtained when a 
+provider  filed an appeal on the member s’ behalf.  
+ A verification study of provider -initiated appeals revealed that five out of eight appeals 
+did not have the member s’ written consent.  
+ During the interview, the Plan confirmed that although it sends a consent form along with the appeal acknowledgment letter to the member, it  lacks a process to ensure that 
+the member s’ written consent is sent back to the Plan.  
+The written consent to a provider -initiated appeal furnishes members with necessary 
+information about their medical care needs. Without this written consent, members are not able to provide input into their own healthcare decisions.   
+Recommendation:  Revise and implement policies and procedures to ensure a 
+member s’ written  consent is obtained when a provider requests an appeal on behalf of a 
+member.   
+  1.3.2  Oral Notification of Resolution for Expedited Appeals 
+ The Plan shall ensure that the Grievance and Appeal S ystem provides oral notice of the 
+resolution of an expedited a ppeal within 72 hours. (Contract, Exhibit A, Attachment 
+14(1)(H))  
+ The Plans are required to make reasonable efforts to provide the member with oral notice of the expedited appeal resolution. ( APL 21-011, Grievance and Appeal 
+Requirements)  
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022, through October 31, 2023 
+DATE OF AUDIT: November 27, 2023, through December 8, 2023 
+ 
+ 11 of 21  Plan Policy , GAMC -051 Member Appeals (revised date 0 5/17/2023) , states that the 
+Plan makes reasonable efforts to provide oral notices to members of expedited appeal resolutions. In addition, the Plan also utilizes an a ppeals checklist with instructions for 
+the Grievance and Appeal associate to “ review that one oral attempt was made to notify 
+the member of the resolution, and there is a documented note in the case.” 
+ Finding: The Plan did not ensure the provision of oral notifications to members 
+regarding the resolution of expedited appeals.  
+ A verification study showed two  out of six expedited appeals did not have a documented 
+attempt to provide oral notification to the member.  
+ During the interview, the Plan stated that for expedited appeal resolutions, if a call is made to the member the attempt is documented in the chart. For some members, like in-patient members, a call may not be made.  
+ 
+Because expedited appeals involve decisions that could seriously jeopardize the 
+member s’ health, it is imperative to provide the decision as soon as poss ible. In 
+addition, when the Plan does not notify the member, it may affect the quality of their care.  
+ Recommendation: Fully implement policies and procedures to ensure that a 
+reasonable attempt is made to provide oral notice to members regarding expedited appeal resolutions.  
+                  
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022, through October 31, 2023 
+DATE OF AUDIT: November 27, 2023, through December 8, 2023 
+ 
+ 12 of 21  
+CATEGORY 3 – ACCESS AND AVAILABILITY OF CARE  
+ 
+ 
+3.1  
+ACCESS AND AVAILABILITY OF CARE  
+ 
+ 
+3.1.1 Corrective Actions for Timely Access Deficiencies 
+The Plan is required to establish acceptable accessibility standards in accordance with California Code of Regulations (CCR), Title 28, section 1300.67.2. The Plan shall communicate, enforce, and monitor providers ’ compliance with access standards. 
+(Contract, Exhibit A, Attachment 9(3)(C))  
+ The Plan is required to implement prompt investigation and corrective action when compliance monitoring discloses that the Plan ’s provider network is not sufficient to 
+ensure timely access, which includes but is not limited to taking all necessary and appropriate action to identify the causes underlying identified timely access deficiencies 
+and to bring its network into compliance. (CCR, Title 28,  section 1300.67.2.2 (d)(3))  
+ Plan Policy , CA_PNXX_033 Access to Care Standards  – CA (revised date 0 4/28/2023) , 
+indicated that  provider CAPs : providers who are found to be out of compliance will be 
+required to submit a CAP to the Plan for monitoring.  
+ Finding:  The Plan did not ensure that corrective actions were implemented for 
+providers who did not comply with appointment wait time standards.  
+A verification study of 19 CAPs  (Corrective Action Plan) , based on the 2022 Provider 
+Appointment Availability Survey (P AAS) , showed that the Plan lacked an effective 
+process to monitor for CAP implementation to meet access standards. It was noted that the Plan provided network notification and correspondence informing a provider group of individual providers who were non-compliant with access standards. In response, the provider group sent the Plan a CAP response letter. However, the provider group did not identify the individual non- compliant providers, the nature of each provider ’s non-
+compliance, and the specific corrective actions that were implemented at the provider level. Therefore, the Plan could not monitor and ascertain CAP implementation and compliance with access standards.  
+During  the interview, the Plan stated that it required non- compliant providers,  who did 
+not meet the access timeframe requirements in the PAAS survey  to submit a CAP to the 
+Plan. However, the Plan confirmed they did not determine if any  corrective actions at 
+the provider level were submitted or implemented as specified in Plan Policy , 
+CA_PNXX_033.  
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022, through October 31, 2023 
+DATE OF AUDIT: November 27, 2023, through December 8, 2023 
+ 
+ 13 of 21 Without implementing corrective actions for non- compliant providers, the Plan will 
+continue to experience non- compliance with appointment wait times that could result in 
+members not receiving timely care access.  
+ Recommendation:  Revise and carry out policies and procedures to ensure the Plan 
+implements corrective actions for providers who do not comply with appointment wait time standards.  
+  3.1.2 Appointment Waits Time Grievances Monitoring  
+ The Plan shall ensure the provision of acceptable accessibility standards in accordance with CCR, Title 28, section 1300.67.2.2 as specified: m embers must be offered an 
+appointment with a PCP within ten business days of the request  and a specialist within 
+15 business days  of the request. (Contract, Exhibit A, Attachment 9( 3)) 
+ Each health care service plan shall have a documented system for monitoring and evaluating the accessibility of care, including a system for addressing problems that develop, which shall include, but is not limited to, waiting time and appointments. ( CCR, 
+Title 28, section 1300.67.2(f))  
+ Plan Policy , CA_PNXX_033 Access to Care Standards – CA (revised date 0 4/28/2023) 
+indicated that all contracted providers must not exceed the specified intervals between a member s’ request for service and the date/time an appointment is offered for the 
+member to receive requested medical services  (PCP within 10 business days of the 
+request , and a specialist within 15 business days of the request ). 
+ Finding: The Plan did not ensure that its providers offered member appointments with a 
+PCP (Primary Care Physician) within ten business days of the request,  and a specialist 
+within 15 business days of the request.  
+ A verification study of access -related grievances showed that for six of nine cases, the 
+Plan did not offer a PCP appointment within the required 10 business days, or a 
+specialist appointment within the required 15 days . For example:  
+• On 10/24/ 2022, a membe r filed a grievance stating that a PCP did not have 
+an appointment until January 2023. The Plan confirmed with the PCP office 
+that they don ’t have available appointments until January 2023. On 
+11/23/2022, the Plan sent a resolution letter to the member indicating a 
+change of PCP; however, the Plan did not ensure that the member is offered 
+a PCP appointment within ten business days.  
+• On 10/17/ 2022, a member filed a grievance stating that a specialist did not 
+have an appointment until January 2023. The Plan confirmed with the 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 14 of 21 specialist office that appointments  are unavailable until January 2023. On 
+11/21/ 2022, the Plan sent a resolution letter to member indicating that the 
+member should contact the PCP to request another Neurologist; however, the 
+Plan did not ensure that the member is offered a specialist appointment within 
+15 business days.  
+During the interview, the Plan stated that it continuously monitors appointment wait 
+times through grievances but did not ensure providers offer member appointment s with 
+a PCP within 10 business days of the request  and a specialist within 15 business days 
+of the request as specified in the Plan Policy , CA_PNXX_033 . 
+ The Plan cannot ensure providers meet the timely appointment requirements if it does not ensure or review appointments received by members. Non -compliance in access  to 
+timely appointments with a PCP within  10 business days of the request  and a specialist 
+within 15 business days can result in compromised health or preventable com plications.  
+ Recommendation: Implement procedures to ensure providers offer member 
+appointment s with a PCP within 10 business days and a specialist within 15 business 
+days of the request.  
+                         
+ 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 15 of 21   
+ 
+3.8  
+NON- EMERGENCY MEDICAL TRANSPORTATION 
+NON- MEDICAL  TRANSPORTATION 
+ 3.8.1 Physician Certification Statement  (PCS)  Form for NEMT Services  
+ The Plan is required to comply with all existing final Policy Letters and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+ The Plan is required to use a DHCS -approved PCS form to determine the appropriate 
+level of service for Medi -Cal members. The member must have an approved PCS form 
+authorizing NEMT by the provider. The Plan is required to provide authorization for NEMT for the duration of the recurring appointments, not to exceed 12 months and the Plan cannot modify the authorization. The Plan must ensure that a copy of the PCS form is on file for all members receiving NEMT services and that all fields are filled out by the provider. (APL 22 -008, Non- Emergency Medical and Non- Medical Transportation 
+Services and Related Travel Expenses)  
+ Plan Policy , CA_OPXX_003 – Transportation Benefits –  CA (revised date: 04/12/2023) , 
+stated the PCS is required for all non- urgent, routine tr ips. Upon receipt of a trip 
+request, ModivCare submits the form (via fax) to the member s’ physician or physician 
+extender. ModivCare will make two attempts to obtain the PCS form. After the two attempts the non- responsive provider is added to the weekly Pending PCS Form 
+Report. The Plan will then engage the non- responsive provider or delegated group the 
+member is assigned to request that the PCS form be returned. Effective May 1, 2023, 
+ModivCare will deny all non- urgent NEMT requests if a valid PCS form is not on file.  
+ Finding: The Plan did not ensure PCS forms were on file to authorize NEMT services for all members.  
+ In a verification study, 5 of 25 NEMT trips did not have the required PCS forms on file 
+for the service trip date.  
+ Plan Policy , CA_OPXX_003 , indicated the Plan ’s transportation vendor ModivCare is 
+initially required to obtain the PCS forms from the providers. ModivCare will attempt two calls to providers to obtain the PCS forms. If unsuccessful, the non- responsive provider 
+will be added to the weekly Pending PCS Fo rm Report that is then submitted to the Plan 
+for further PCS requests. During the interview, the Plan confirmed that ModivCare 
+needed to add members without PCS form s to the weekly P ending PCS Report. 
+However, ModivCare actually did not include the non- responsive providers in  the weekly 
+Pending PCS R eport for the following examples:  
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 16 of 21 • For a physical therapy trip provided on 0 8/24/2023, there was no PCS form on 
+file. The first attempt to request the PCS form was made on 0 8/11/ 2023,  and the 
+second request on 0 8/24/2023.  
+• For a pain management trip provided on 0 7/07/2023, there was no PCS form on 
+file. Of note, the first a nd second attempts to request the PCS form were made 
+on 02/01/2023.  
+• For a Methadone treatment trip provided on 07/17/2023, there was no PCS form 
+on file. The first attempt to request the PCS form was made on 03/02/2022,  and 
+the second request on 0 8/16/2022.  
+ Without obtaining PCS forms for NEMT trips, the Plan is unable to determine the appropriate level of service for Medi -Cal members.  
+ Recommendation:  Revise and implement policies and procedures to ensure PCS 
+forms are on file to authorize NEMT services for all members.
+ 
+            
+              
+ 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022, through October 31, 2023 
+DATE OF AUDIT: November 27, 2023, through December 8, 2023 
+ 
+ 17 of 21  
+CATEGORY 4 – MEMBERS’ RIGHTS  
+ 
+ 
+4.1  
+GRIEVANCE SYSTEM  
+ 
+ 4.1.1  Grievance Resolution Letter s 
+ The Plan is required to implement and maintain a Member Grievance System in accordance with the CCR, Title 22, section 53858 and CCR, Title 28, section 1300.68. 
+(Contract, Exhibit A, Attachment 14(1))  
+ Timeframes for resolving grievances and sending written resolution to the member are delineated in federal and state law. The S tate’s established timeframe is 30 calendar 
+days. Managed Care Plans  must comply with the state ’s established timeframe of 30 
+calendar days for grievance resolution. ( APL 21 -011, Grievance and Appeal 
+Requirements)  
+ Plan Policy , CA_GAMC_015  Grievance Process: Member - CA (revised date: 
+08/28/2023) , stated that the Plan has designated who will send grievance resolution 
+letters to its Medi -Cal members within 30 calendar days of the receipt of the grievance.  
+ Finding:  The Plan did not send resolution letters for quality of service grievances within 
+the required 30 calendar days.  
+ In a verification study of quality of service grievance cases, the resolution letters for 39 of 40 cases were not sent within the required 30 calendar days timeframe. The grievance resolution letters were sent between 38 to 61 days.  
+ During the interview, the Plan stated that it  monitor s the timeliness of the grievance 
+cases daily and monthly through its turnaround time dashboard.  The dashboard 
+captures the daily and monthly percentages of grievance cases  as a whole that are 
+completed timely or not.  However, even with this form of monitoring , the Plan still did  
+not ensure all grievance cases were resolved within the required timeframe.  
+ Untimely grievance resolution letters may lead to delayed patient care and may have an 
+impact on clinical outcomes for the members.  
+ This is a repeat of prior year finding 4.1.2 - Grievance Resolution Letters. 
+ Recommendation:  Develop and implement a process to ensure quality of service 
+grievance resolution letters are sent to members within required timeframes.  
+  
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 18 of 21  4.1.2  Plan ’s Resolution of Quality of Service Grievances   
+ The Plan is required to implement and maintain a Member Grievance System in accordance with CCR, Title 22, section 53858 and CCR, Title 28, Section 1300.68. 
+(Contract, Exhibit A, Attachment 14(1))  
+ The Plan is required to establish and maintain written procedures for submittal, processing, and resolution of all grievances. ( CCR, Title 28, section 53858(a))  
+ “Resolved”  means that the grievance has reached a final conclusion with respect to the 
+member s’ submitted grievance, and there are no pending member  appeals within the 
+Plan’s grievance system, including entities with delegated authority. ( CCR, Title 28, 
+section 1300.68(a)(4))  
+ Plan Policy , CA_GAMC_015 Grievance Process: Member –  CA (revised date: 
+08/28/2023 ), stated that the Plan has established, implemented, maintains and 
+oversees a G rievance and A ppeal System to ensure receipt, review, and resolution of 
+grievances and appeals, in accordance with the requirements in APL 21- 011, Grievance 
+and Appeal Requirements . Members have the right to communicate dissatisfaction with 
+any aspect of the Plan ’s Medi -Cal services for investigation and resolution in writing.  
+ Finding: The Plan sent member resolution letters without completely resolving the 
+members ’ quality of service grievances.  
+ A quality of service grievance verification study revealed that in 6  of 25 cases the Plan 
+did not fully address and resolve all issues in members ’ grievances.  
+ During the interview, the Plan stated that its Grievance Analyst s are responsible for 
+addressing and fully resolving the grievances. The Grievance Analyst sends  up to three 
+requests for a response from the provider in order to render a written resolution to 
+address and resolve the member s’ grievances.  However, the Plan could not 
+substantiate that  all issues in members ’ grievances  were completely resolved. T he Plan 
+lacked the procedures to adequately address  all grievances for the member. F or 
+example:  
+• In one case, the member filed  a grievance because the earliest appointment  
+available was  three months later. During the investigation process, the analyst 
+tried to help the member  get an earlier  appointment, but the steps taken w ere not 
+documented in the file. The resolution letter  stated that the Plan confirm ed with 
+the provider that there was no appointment sooner  than three months.  The Plan 
+did not ensure or document whether  the member was able to have a timely 
+appointment . 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 19 of 21 • In another  case, the member  filed a grievance in No vember 2022,  because she 
+could not get a doctor ’s visit until January 2023. The Plan confirmed with the 
+provider that no appointment was  available until January 2023. The resolution 
+letter stated that a PCP change was made for the member , and the Plan urged 
+member to call the new PCP for any appointment. The Plan did not ensure that 
+the member was able to mak e a timely appointment.  
+ Incom plete resolution of member grievances may result in missed opportunities for 
+improved health care delivery and poor health outcomes for members.  
+ Recommendation:  Revise and implement policy and procedure to ensure member 
+grievances are completely resolved.  
+  4.1.3  Plan ’s Resolution of Quality of Care Grievances  
+ The Plan shall provide a notice of grievance resolution to the member as quickly as the 
+member s’ health condition requires, within 30 calendar days from the date Plan 
+receives the grievance. (Contract, Exhibit A, Attachment 14 (1)(B) ) 
+ The Plan shall implement and have in place a M ember Grievance System in 
+accordance with CCR, Title 28 , section 1300.68 (Contract, Exhibit A, Attachment 14 (1)) 
+  
+“Resolved”  means that the grievance has reached a final conclusion with respect to the 
+member s’ submitted grievance. If the Plan has multiple internal levels of grievance 
+resolution, all levels must be completed within 30 calendar  days of the Plan ’s receipt of 
+the gr ievance.  (CCR, Title 28, section 1300.68 (4a))  
+ The Plan’s written resolution must contain a clear and concise explanation of the Plan ’s 
+decision. (APL 21 -011, Grievance and Appeal Requirements, Notice and “ Your Rights ” 
+Templates)  
+ Plan Policy , CA_GAMC_015 Grievance Process : Member -  CA (revised date: 
+08/28/2023 ), stated all clinical grievances are assigned to Grievance and Appeal  
+Clinical Associates for review and appropriate action. If the clinical situation is not 
+urgent, the grievance or problem is resolved within 30 calendar days of receipt of the grievance.  
+ Finding: The Plan did not resolve quality of care grievances within 30 days of  receipt of 
+the grievance.  
+ 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 20 of 21 In a verification study, two quality of care grievances  did not have grievance resolution 
+within the required 30- day time frame.  These two grievances were eventually classified 
+as high severity PQI cases.  
+ Although t he grievance resolution letters  in these two cases were sent within 30 days, 
+the letters  did not provide the member s with any specific information on the status of the 
+Plan’s decision on the validity of the grievance.  For example:  
+• One sample involved a four  month delay in needed pain management for an 
+urgent radiologically proven injury. The grievance resolution letter  was sent within 
+30 days but did not provide the member with any specific information on the status of the Plan ’s decision on the validity of the grievance.  
+• The second sample involved a two and a half  month delay in the required 
+physical therapy post -knee surgery to optimize patient outcomes. The grievance 
+resolution letter was sent within 30 days but again did not provide the member with any specific information on the status of the Plan ’s decision on the validity of 
+the grievance.  
+The Plan’s grievance resolution letters did not clearly and concisely explain the 
+grievance decision as required by APL 21- 011.  
+If the Plan does not provide timely grievance resolution for  quality  of care grievances , it 
+can lead to delayed resolution and missed serv ices, resulting in poor health outcomes.  
+ Recommendation: Revise and implement policies and procedures to ensure that all 
+quality of care grievances are resolved timely.  
+  
+4.1.4  Medical Director Review of Quality of Care Grievance 
+ The Plan shall maintain a M edical Director whose responsibilities shall include resolving 
+grievances related to the medical quality of care. ( Contract,  Exhibit A,  Attachment 
+1(6)(E))  
+ The Plan shall implement and maintain p rocedures to ensure every grievance s ubmitted 
+is reported to the appropriate level and participation of individuals with authority  to 
+require corrective action.  Grievances related to medical quality  of care issues shall be 
+referred to a Medical Director. (Contract, Exhibit A, Attachment 14(2)(C)(D))  
+ Plan Policy , GAMC 15 Grievance Process Members  (revised date 08/28/2023) , states 
+that “all grievances related to the medical quality of care issues are immediately 
+submitted to the Plan’ s Medical Director for action.” It outlines the process : “Clinical 
+grievances are assigned to Grievance and Appeals  Clinical Associates for review and 
+appropriate action. If there is evidence of a quality of care concern, the Grievance and Appeals  Clinical Associate will create a PQI and send it to the Medical Director .” 
+ 
+   COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD: October 1, 2022 , through October 31, 2023  
+DATE OF AUDIT: November 27, 2023,  through December 8, 2023  
+ 
+ 21 of 21 Finding: The Plan did not refer all quality of care grievances to the M edical Director for 
+resolution.  
+ In verification study samples, all 13 quality of care grievances, rated zero or one, did not 
+have documented M edical Director review prior to resolution. Notably, all the resolution 
+letters were signed by nurses who reviewed the quality of care grievance.  
+ During the interview, the Plan explained that a nurs e initially reviews the quality of care 
+grievances and will recommend a severity level before sending it to a M edical Director 
+for final review. If the recommended severity level is two or higher, a PQI will be opened. However, the Plan could not substanti ate that a M edical Director reviewed or 
+took action on the grievances.   The Plan’s policy requires but does not ensure that the Medical Director reviews all 
+quality of care grievances.  
+ If a M edical Director does not adjudicate quality of care grievances, important clinical 
+issues may be missed, ultimately affecting health care,  and resulting in poor outcomes.  
+ Recommendation: Revise and implement policies and procedures that ensure all 
+quality of care grievances are referred to a Medical Director for resolution.  
+                       
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDIT AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+SANTA ANA 
+   
+REPORT ON THE MEDICAL AUDIT OF  
+ 
+ 
+Anthem Blue Cross  
+Partnership Plan  
+ 
+2023  
+ 
+Contract Number:     
+03-76184, 04-36068,  
+07-65845, 10- 87049, and  
+13-90159  
+(State Supported Services)  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ October 1, 2022  
+    through 
+October 31, 2023  November 27, 2023 
+    through 
+December 8, 2023  May 14 , 2024 
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ Il. COMPLIANCE AUDIT FINDINGS ................................................... 2 
+   
+ 
+ 1 of 2 I. INTRODUCTION  
+ The report presents the audit findings of Anthem Blue Cross Partnership Plan 
+(Plan) compliance and implementation of the State Supported Services Contract Nos . 03-
+76184, 04- 36068, 04- 35797, 07-65845, 10- 87049, 13-90159 and 13- 90163. The State 
+Supported Services Contract covers abortion services for the Plan.   
+ The audit was conducted from November 27, 2023 through December 8, 2023 and 
+covered the audit period from October 1, 2022 through October 31, 2023. The audit 
+consisted of a document review of materials provided by the Plan and interviews with Plan 
+staff.  
+ An Exit Conf erence with the Plan was held on April 12, 2024.  There were no deficiencies 
+found for the audit  period.  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  Anthem Blue Cross Partnership Plan 
+ 
+AUDIT PERIOD:  October 1, 2022 t hrough October 31,  2023 
+DATES OF AUDIT:  November 27, 2023 t hrough December 8, 2023 
+ 
+ 
+ 2 of 2 State Supported Services   
+The Plan’s policies and procedures, provider manual and member handbook  indicate d that 
+abortion service was covered, and prior authorization is not required for this service . Members 
+may go to any Medi -Cal provider of their choice for abortion services, at any time for any 
+reason, regardless of network affiliation.  
+ A verification study of 21 State Supported Service claims were conducted to determine appropriate and timely adjudication of claims. There were no compliance issues  identified during 
+the audit period.  
+ 
+RECOMMENDATION:  
+ None  
+   

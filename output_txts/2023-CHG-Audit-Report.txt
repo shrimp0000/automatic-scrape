@@ -1,0 +1,643 @@
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT REVIEW DIVISION  
+ LOS ANGELES SECTION   
+  
+REPORT ON THE MEDICAL AUDIT OF  
+Community Health Group Foundation dba  
+Community Health Group Partnership Plan  
+ 
+2023  
+ 
+Contract Number:  
+  
+09-86155  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ June 1, 2022  
+    Through  
+May 31, 2023  
+ 
+July 10, 2023  
+    Through  
+July 21, 2023  
+ 
+ November 28, 2023  
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION  .............................................................................1 
+ II. EXECUTIVE SUMMARY .................................................................2 
+ III. SCOPE/AUDIT PROCEDURES  ......................................................4 
+ IV. COMPLIANCE AUDIT FINDINGS  
+ Category 1 – Utilization Management  ..............................................6 
+ Category 4 – Member’s Rights  ...................................................... 12 
+  
+ 1 of 19 I. INTRODUCTION 
+  Community Health Group Foundation dba Community Health Group Partnership Plan 
+(Plan ) incorporated in 198 6 and contracted with the Department of Health Care 
+Services (DHCS) to provide services to Medi -Cal members. In 2005, the Plan obtained 
+a Knox Keene lic ense from the California Department of Managed Health Care to serve 
+its Medi -Cal members.  
+ The Plan currently contracts with DHCS to provide services to Medi -Cal members under 
+the Geographic Managed Care program in San Diego County. T he Plan provides health 
+care services through contracts with its provider network including private physicians, 
+group practices, Federal Licensed Community Health Centers , all hospital s in its service 
+area, an array of ancillary providers , and the pharmacy services through Medi -Cal Rx.  
+ The Plan is accredit ed by the National Committee for Quality Assurance as a Medic aid 
+Health Maintenance Organization and has a distinction in Multicultural Health Care  from 
+September 2, 2020 through September 2, 2023.  
+ As of May 31, 2023, the Plan served a total of 360,215 members through the following 
+programs: Medi -Cal 353,598 and Cal MediConnect 6,617. Effective January 1, 2023 the 
+Cal MediConnect program changed  to a Dual Special Needs  Plan.  
+ 2 of 19   
+II. EXECUTIVE SUMMARY  
+  This report presents the audit findings of the DHCS medical audit for the audit period 
+from June 1, 2022 through May 31, 2023.  The audit was c onducted from July 10, 2023 
+through July 21, 2023. The audit consisted of document review s, verification studies, 
+and interview s with Plan  representatives.  
+ An Exit Conference with the Plan was held on October 18, 2023. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information to address the draft audit  report findings . On November 3, 202 3, the Plan 
+submitted a res ponse after the Exit Conference. The results of our evaluation of the 
+Plan’s response are reflected in this report.  
+ The audit evaluated six categories of performance: Utilization Management (UM), Case Management and Coordination of Care, Access and Availability of Care, Member’s 
+Rights, Quality Management, and Administrative and Organizational Capacity.  
+ The prior DHCS medical audit for the period of June 1, 2021 through May 31, 2022 was issued on February 15, 202 3. The deficiencies identified in the prior year report were 
+not addressed during the current audit review due to pending Corrective Action Plan . 
+ The summary of the findings by category follows:  
+ Category 1 – Utilization Management  
+ Category 1 includes procedures and requirements for the Plan’s UM program, including 
+prior authorization  review.  
+ The Plan is required to notify members and the requesting providers of any decision to 
+deny, defer, or modify requests for prior authorization, and provide a Notice of Adverse 
+(NOA) action to members and/or their authorized representative regarding any denial, 
+deferral , or modification of a request for approval to provide a health care service.  The 
+Plan did not ensure that providers and members were sent written notifications of a decision to modify prior authorization requests.  
+ The Plan is required to ensure that its prior authorization, concurrent review, and retrospective review procedures include decisions and ap peals  that are made in a 
+timely manner and  are not unduly delayed for medical conditions requiring time 
+sensitive services. The Plan did not process routine and expedited prior authorization requests within required timeframes.  
+ 
+The Plan is required to have written policies and procedures establishing the process by 
+which the Plan reviews and approves, modifies, delays, or denies, based in whole or in 
+part on medical necessity, requests of health care services. The Plan did not ensure 
+ 3 of 19 that prior authorization decisions were based on medical necessity f or the requested 
+service. 
+ Category 2 – Case Management and Coordination of Care  
+ There were no findings noted for  this category during the audit period.  
+ Category 3 – Access and Availability of Care  
+ There were no findings noted for this category during the audit period.  
+ Category 4 – Member’s Rights  
+ Category  4 include s procedures and requirements  to establish and maint ain a grievance 
+system.  The Plan is required to comply with the state’s established timeframe of 30 calendar days for grievance resolution. A resolved grievance means that the Plan has reached a 
+final conclusion with respect to the member’s submitted grievance. The Plan did not fully resolve Q uality of C are (QOC ) grievances within the required timeframes.  
+ When the Plan is unable to distinguish between a grievance and an inquiry, it shall be considered a grievance. The Plan did not ensure inquiries were considered as grievances when such inquiries were related to member dissatisfaction.  
+ The Plan and its pro viders are prohibited from billing Medi -Cal members  for services 
+provided under the Contract. The Plan members were incorrectly held liable for payments for covered services.  
+ When the Plan is unable to distinguish between a grievance and an inquiry, it shall be 
+considered a grievance. The Plan did not classify and process billing complaints as grievances.  
+  
+The written record of grievances is required to be reviewed periodically by the 
+Governing Body of the Plan  and the Public Policy Body. The Plan did not ensure its 
+Governing Body and Public Policy Body periodically reviewed the written record of grievances . 
+ Category 5 – Quality Management  
+ There were no findings noted for this category during the audit period.  
+ Category 6 – Administrative and Organizational Capacity  
+ There were no findings noted for this category during the audit period.  
+  
+ 4 of 19 III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ The DHCS Contract and Enrollment Review Division  conducted the audit to ascertain 
+that medical services provided to the Plan members comply with federal and state laws, Medi -Cal regulations and guidelines, and the state Contract.  
+ 
+PROCEDURE  
+ The audit was conducted from July 10, 2023 through July 21, 2023. The audit included 
+a review of the Plan’s Contract with DHCS , its policies for providing services, the 
+procedures used to implement the policies, and verification studies of the implementation and effectiveness of those policies. Documents were reviewed and interviews were conducted with the Plan administrators and staff.  
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ Prior Authorization Requests: A total of 74 medical authorizations  which included three 
+retrospective, two concurrent, 69 denied and approved; 17 expedited prior authorizations, and ten delegation prior authorization requests  were reviewed for 
+timeliness, consistent application of criteria, appropriate review, and communication of results to providers and members.   Appeal Procedures: 20 medical appeals  were  reviewed for appropriateness  and 
+timeliness of decision making.  
+ Category 2 – Case Management and Coordination of Care  
+ Complex Case Management : Ten medical  records were reviewed for care coordination 
+and completeness  to evaluate the performance of services . 
+ Category 3 – Access and Availability of Care  
+ Family Planning and Emergency Room Services: 20  claims for family planning and 
+emergency room service were reviewed for appropriateness and timel iness . 
+ Non-Emergency  Medical Transportation (NEMT ) and Non-Medical Transportation 
+(NMT): 20 records ( ten NEMT and ten NMT) were reviewed to confirm compliance with 
+transportation requiremen ts for timeliness.  
+   
+ 5 of 19 Category 4 – Member’s Rights  
+ Grievance Procedures: A total of 79  standard grievances ( 30 QOC  and 49 quality of 
+service, and seven expedited grievances ) were reviewed for timely resolution, response 
+to complainant, and submission to the appropriate level for review. The plan did not 
+have exempt grievances . In addition , 98 inquir ies were reviewed.  
+ Category 5 – Quality Management  
+ Potential Quality Issue s (PQI) : 18 records were reviewed for evaluation and to 
+determine if effective action was taken to address any needed improvement s. 
+ Category 6 – Administrative and Organizational Capacity  
+ Encounter Data Review:  Ten records  were review ed to verify the P lan’s claim s process.  
+ A description of the findings for each category is contained in the following report.  
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 6 of 19  
+CATEGORY 1 - UTILIZATION MANAGEMENT  
+ 
+1.2  
+PRIOR AUTHORIZATION REVIEW  REQUIREMENTS  
+ 1.2.1 Notification of Modified Prior A uthorizations  
+ The Plan is required to ensure that its prior authorization, concurrent review and 
+retrospective review procedures meet requirements specified in Exhibit A, Attachment 13, Member Services, Provision 8, Denial, Deferral, or Modification of Prior Authorization Requests. There shall be a well -publicized appeals procedure for both 
+providers and members. (Contract, Exhibit A, Attachment 5 (2)(F))  
+ The Plan is required to notify members of a decision to deny, defer, or modify requests 
+for prior authorization, in accordance with Code of Federal Regulations (C FR), Title 42, 
+section 438.210(c)  by providing a NOA to m embers and/or their authorized 
+representative regarding any denial, deferral or modification of a request for approval to provide a health care service. (Contract, Exhibit A, Attachment 13 (8)(A))  
+ The Plan is required to notify the requesting provider of any decision to deny, approve, 
+modify, or delay a service authorization request, or to authorize a service in an amount, duration, or scope that is less than requested. The notice to the provider ma y be orally 
+or in writing. (Contract, Exhibit A, Attachment 5 (2)(J))   NOA  benefit determination: Each contract must provide for the Managed Care 
+Organization (MCO) to notify the requesting provider, and give the enrollee written notice of any decision by the MCO  to deny a service authorization request, or to 
+authorize a service in an amount, duration, or scope that is less than requested. ( CFR, 
+Title 42, section 438.210(c))  
+ The Plan is required to integrate UM  activities into the Quality Improvement System, 
+including a process to integrate reports  and review  the number and types of appeals, 
+denials, deferrals, and modifications.  (Contract, Exhibit A, Attachment 5, (1)(G))  
+ Plan Policy 7251a , Referral and Prior Authorization System  (revised 05/04/2022), state d 
+that if a prior authorization request is denied, deferred, or modified, the p rimary care 
+provider  and member are notified in writing.  
+ Finding: The Plan did not ensure that providers and members were sent written 
+notifications of a decision to modify prior authorization requests.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 7 of 19 The Plan’s  2023 UM Program  did not describe a process for classifying, tracking, 
+monitoring, and notifying providers and members of modified prior authorization requests.  
+ The Plan P olicy 7230a , Case and Tracking Number s (revised 05/04/2022) , state d that 
+when cases for medical services requests are approved with modification, they are entered as having an “approved” status in its tracking system. There is no “modified” status.  
+ The Plan lacked policies and procedures that outlined the process for modifying authorization requests including how modified prior authorizations are classified, tracked, and monitored.  
+ The Quality Improvement Committee meeting minutes showed evidence of reports from the UM program that included the number of “approved” and “ denied” prior 
+authorizations but there was no data on “modified” prior authorizations.  
+ The prior authorization universe provided by the Plan only showed requests that were categorized as “approved” or “denied”. There was no “modified" category.  
+ In a verification study,13 of 69 prior authorizations were modified by the Plan but these were not categorized as modified prior authorizations. As a result, the Plan did not send the member and provider a notification letter with appeal rights information.  
+ During the interview and in a written response, the Plan stated that they did not utilize a 
+modified category even though the Plan was modifying prior authorizations. Additionally, the Plan lacked procedures to classify, track, and monitor modified prior authorizations to ensure required written notices were sent to members and providers.  
+ The Plan cannot accurately identify whether to send written notifications if  the Plan does 
+not have a prior authorization process for classifying, tracking, and monitoring modified 
+prior authorization requests. If  the Plan does not send notifications for modified prior 
+authorization requests, providers and members will not receive critical information necessary to exercise their appeal rights.  
+ Recommendation:  Revise and imple ment policies and procedures to identify modified 
+prior authorizations and ensure that written notifications of decisions to modify prior authorization requests are sent to providers and members.  
+    
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 8 of 19 1.2.2 Prior Authorization Timeframes  
+ The Plan is required to ensure that its prior authorization, concurrent review, and retrospective review procedures meet the following minimum requirements: Decisions and appeals are made in a timely manner and are not unduly delayed for medical 
+conditions  requiring time sensitive services. (Contract, Exhibit A, Attachment 5 (2)(G))  
+ The Plan is required to provide routine authorizations as expeditiously as the member’s condition requires but within five working days from receipt of the information reasonably necessary to render a decision (these are requests for specialty service, out-of-network not otherwise exempt from prior authorizatio n) in accordance with Health 
+and Safety Code,  section 1367.01(h)(1). (Contract, Exhibit A, Attachment 5 (3)(H))  
+ The Plan is required to ensure that procedures for authorization decisions are based on the medical necessity of a requested health care servic e. (Contract Amendment 18, 
+Exhibit A, Attachment 5, (1)(J)(1))  
+ The Plan is required to provide notice as expeditiously as the member’s condition requires , and within state established timeframes , with a possible extension of up to 14 
+additional calendar days if the Plan justifies a need for additional information and how 
+the extension is in member’s interest. ( CFR, Title 42, section 438.210 (d)(1 and 2))  
+ The Plan’s failure to render a decision for standard authorization requests within the required timeframes is considered a denial and therefore constitutes an adverse benefit determination on the date that the timeframe expires. In this situation, the member has the right to request an appeal with the Plan and the Plan must send the member written notice of all appeal rights. (All Plan Letter (APL)  21-011, Grievance and Appeal 
+Requirements, Notice and “Your Rights” Templates)  
+ Plan Policy  7251.7a,  Timeliness of UM Decisions ( revised 01/01/2023) , state d that 
+decisions will be made in a timely fashion appropriate for the nature of the member's condition. Routine p rior authorizations must be processed within five -working -days from 
+receipt of the information and no longer than 14- calendar -days. Expedited pr ior 
+authorizations  are processed within 72 hours from receipt date. An additional 14 
+calendar days is possible if a time extension is required. Any decision delayed beyond the time limits is considered a denial and must be immediately processed as such. This includes sending members notification letters that include information on appeal rights.  
+ Finding: The Plan did not process routine and expedited prior authorization requests 
+within the required timeframes.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 9 of 19 In a verification study, 22 of 69 prior auth orizations  were processed past required 
+timeframes and the following issues were identified:  
+• Six expedited prior authorizations were not resolved timely, taking from 25- 60 
+calendar days (including two  brain cancer cases which took 25 calendar days) . 
+• 16 standard prior authorizations were not resolved timely, taking from 29- 98 
+calendar days.  
+• Many prior authorization requests were approved for medical necessity, but final determinations were delayed pending completion of Letters of Agreement (LOAs) 
+by out-of-network providers.  
+• The Plan did not process delayed prior authorizations as denials and no prior authorization decision notifications were sent by the Plan to the requesting provider or member immediately after the expiration of the required timefram es.  
+ 
+The Plan’s  Prior Authorization Electronic LOA Process W orkflow Chart show ed that the 
+UM Management team only grants the final authorization for requested services after the LOA is completed. Notification letters to providers and members are sent by the Plan after completion of the LOA. The Plan did not incorporate its policies regarding timeliness of utilization review processing into this workflow.  
+ During the interview, the Plan explained that its UM staff establishes medical necessity prior to pursuing LOA completion. T he final prior authorization decision is made,  and an 
+approval letter is sent to the member and provider  when the LOA is completed.  
+ The Plan’s process of delaying the final decision on prior authorization requests in 
+cases where LOAs are needed may unduly delay medically necessary services and ultimately result in patient harm. In addition, when the Plan does not send notifications for delayed prior authorizations, providers and members will not receive critical information necessary to exercise their appeal rights.  
+ Recommendation:  Revise and implement policies and procedures to ensure that prior 
+authorization requests are processed within the required timeframes.  
+ 1.2.3 Medical Necessity Determination  
+ The Plan is required to ensure that policies and procedures for authorization decisions are based on the medical necessity of a requested health care service and are consistent with criteria or guidelines supported by sound clinical principles. These 
+activities shall be done in accordance with Health and Safety Code,  section 1367.01. 
+(Contract, Exhibit A, Attachment 5, Provision 1(J) (1)) 
+ 
+The Plan is required to have written policies and procedures establishing the process by 
+which the Plan reviews and approves, modifies, delays, or denies, based in whole or in 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 10 of 19  part on medical necessity, requests of health care services. These policies and 
+procedures shall ensure that decisions based on the medical necessity of proposed 
+health care services are consistent with criteria or guidelines that are supported by 
+clinical principles and processes.  (Health and Safety Code, section 1367.01b)  
+ The Plan’s  2023 UM Program describes UM Program functions that include authorizing 
+and arranging for requested medical, facility, and ancillary services. The Plan must meet timeliness standards in its review of clinical records to ensure services are medically necessary based on established crit eria. 
+ Plan Policy 7251a , Referral and Prior Authorization System (revised 05/04/2022) , state d 
+that prior authorization processing reviews established procedures, clinical criteria that includes medical necessity, timeliness, and the notification process.  
+ 
+Finding: The Plan did not ensure that prior authorization decisions were based on 
+medical necessity for requested services.  
+ The Plan’s P olicy and Provider Manual  lacks contractual or regulatory support since 
+they allow certain specialists to perform procedures without the Plan reviewing medical 
+records for prior authorization approval.  
+• Plan Policy 7274a , Very Important Person (VIP) Providers (revised 05/04/2022) , 
+state d that VIP providers are specialty providers whose specialty services are 
+needed by the Plan. One of the VIP privileges is the ability to provide covered services without prior authorization if services cost less than $500. Once the Plan approves a prior au thorization for its member to be seen by a VIP provider, 
+procedure codes can be added or removed related to services deemed medically necessary and performed by the specialist in his/her office. This policy does not describe a process for the Plan to review and approve the specialist’s services, to ensur e that medical necessity criteria are met. 
+• The Plan’s Provider Manual (revised 06/2023) , state d that providers will not need 
+to request authorization for in- office services rendered by specialty providers. 
+The manual also contains a list of services that always require prior authorization.  
+ 
+A verification study revealed that for certain specialty services, the Plan did not perform medical necessity determinations. In one case, two days after the Plan’s initial approval for a specialist office visit to evaluate tonsil stones, the specialist verbally requested approval for sinus endoscopy, with biopsy, and polypectomy or debridement. This is a surgery in which a camera is inserted into the nose and sinuses and allows for removal or sampling of tissue. The surgery was approved by an administrative assistant because it was requested by a contracted specialty provider. The Plan did not review 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 11 of 19  medical records or verify medical necessity for this invasive surgical procedure using 
+existing medical necessity criteria.  
+ 
+During the interview, the Plan confirmed that it did not require prior authorization for in-office services rendered by contracted specialist providers since 2017. When asked about tracking such requests, the Plan’s procedure was through claims data, and it could not identify a separate procedure for monitoring services by specialists.  
+ 
+If authorization decisions are allowed solely based on providers being Plan- contracted, 
+this may lead to members obtaining medically unnecessary services and procedures, 
+potential patient harm, overutilization of Medi -Cal resources, and fraud, waste, and 
+abuse.  
+ 
+Recommendation: Revise and implement policies and procedures to ensure that prior 
+authorization requests are authorized based upon medical necessity criteria or 
+guidelines in accordance with the Contract requirements.  
+    
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 12 of 19   
+CATEGORY 4 – MEMBER’S RIGHTS  
+  
+4.1  
+GRIEVANCE SYSTEM  
+ 4.1.1 Timely Resolution of Quality of Care  Grievances  
+ The Plan is required to comply with all existing final P olicy Letters (PLs) and APLs 
+issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+ The Plan is required to comply with the state’s established timeframe of 30 calendar days for grievance resolution. A resolved grievance means that the Plan has reached a final conclusion with respect to the member’s submitted grievance as delineated in state 
+regulations. (APL 21 -011, Grievance and Appeal Requirements, Notice and “Your 
+Rights” Templates)  
+ The Plan is required to have  in place a system in  accordance with California Code of 
+Regulations (CCR), Title 28, section 1300.68. (Contract, Exhibit A, Attachment 14, Provision 1)  
+ "Resolved" means that the grievance has reached a final conclusion with respect to  the 
+enrollee's submitted grievance. If the plan has multiple internal levels of grievance resolution or appeal, all levels must be completed within 30 calendar days of the plan's receipt of the grievance. Grievances that are not resolved within 30 calendar days  shall 
+be reported as "pending" grievances . (CCR, Title 28, section 1300.68(a)(4))  
+ The Plan is required to resolve each grievance and appeal, and provide notice, as expeditiously as the member's health condition requires, within state -established 
+timeframes that may not exceed the timeframes specified in regulation. (CFR, Title 42, section 438.408)  
+ Finding: The Plan did not fully resolve QOC grievances within the required timeframes.  
+ Plan Policy 5510a , Member Grievance and Appeal (revised 06/15/2022) , describe d 
+procedures for resolving grievances but did not state that grievances are considered “resolved” only when the Plan has reached a final conclusion with respect to the member’s submitted grievance. The grievance workflow starts with the intake of grievances  by a grievance and appeal analyst. If there are components of QOC , it is 
+submitted to clinical staff such as Corporate Quality Nurses or Corporate Quality Clinical Analysts as a PQI. The grievance and appeal  analyst sends grievance resolution letters 
+to members within 30 calendar days of receipt of the grievance.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 13 of 19  In a verification study of QOC grievances, the Plan did not meet the 30 calendar days timeframe for grievance resolution. Although the Plan closed 18 QOC grievance cases and considered them  “resolved”, these cases met the definition for “pending” grievances 
+since the resolution letters lacked evidence of the Plan’s efforts to completely investigate, address, and reach a final conclusion with respect to these members’ 
+complaints. Additionally, the Plan’s resolution letters notified members that since their complaints were under PQI review, the Plan could not provide additional information related to their closed grievance case.  
+ In an interview, the Plan confirmed that grievance cases with QOC components were closed to grievances and entered as PQI cases.  
+ Review of the Plan’s PQI process revealed that once QOC grievances are entered as PQI c ases, the Plan applies a 60- day timeframe to review and close PQI cases. During 
+the audit period, the duration of PQI reviews averaged 66 days. For PQI cases that were initially submitted to the Plan as QOC grievances, it is at the PQI review level, and not during a grievance and appeal  review, that the Plan conducts the full investigation to 
+reach a final conclusion related to the submitted grievance.  
+ If QOC grievances are not resolved timely, delays can occur in obtaining necessary medical care and this may result in potential member harm. Additionally, members 
+cannot exercise their appeal rights.  
+ Recommendation: Revise policies and procedures to ensure full resolution of 
+grievance is provided to members within the required timeframes.  
+ 4.1.2 Grievance Classification and Processing  
+ The Plan is required to comply with all existing final PLs and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(1)(D))   
+ An inquiry is a request for information that does not include an expression of dissatisfaction. I nquiries may include, but are not limited to, questions pertaining to 
+eligibility, benefits, or other Plan processes. A member need not use the term grievance for a complaint to be captured as an expression of dissatisfaction and processed as a grievance. If a member expressly declines to file a grievance, the complaint must still be 
+categorized as a grievance and not an inquiry. (APL 21 -011, Grievance and Appeal 
+Requirements, Notice and “Your Rights” Templates)  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 14 of 19 A grievance is any expression of dissatisfaction about any matter other than an adverse benefit determination. A complaint is the same as a grievance. (APL 21 -011, Grievance 
+and Appeal Requirements, Notice and “Your Rights” Templates)  
+ When  the Plan is una ble to distinguish between a grievance and an inquiry, it must be 
+considered a grievance. (APL 21 -011, Grievance and Appeal Requirements, Notice and 
+“Your Rights” Templates)  
+ The Plan is required to have a grievance and appeal system in place for members. Plans must allow members to submit a grievance or appeal orally or in writing. ( CFR, 
+Title 42, section 438.402)  
+ Plan Policy 5510a , Member Grievance and Appeal Policy (revised 06/15/2022),  state d 
+an inquiry i s a request for information that does not include an expression of 
+dissatisfaction. Inquiries may include but are not limited to, questions pertaining to eligibility, benefits, or the other plan processes. In addition, the policy defined grievance as an or al or written expression of dissatisfaction about any matter regarding the P lan 
+and/or provider, other than an Adverse Benefit Determination. W here the Plan is unable 
+to distinguish between a grievance and an inquiry, it shall be considered a grievance.  
+ Finding: The Plan did not ensure inquiries were considered as grievances when such 
+inquiries were related to member dissatisfaction.  
+ Review of 25 out of 47 inquiries showed that the Plan did not implement its policies to 
+categorize inquiries as grievances if it was related to member dissatisfaction  and some 
+of these examples are:    
+• In two inquires , members inquired and indicated dissatisfaction regarding delays 
+in orthopedic follow -up involving leg fractures.  
+• In another inquiry , a member inquired about the process to request a change of 
+provider because the member disliked his/her current provider.  
+• In five inquiries , members inquired about the process to get a second opinion 
+because they were not satisfied with the first opinion for medical issues related to cardiology, neurosurgery, and oncology.  
+ During the interview, the Plan stated that g rievance and appeal  staff are responsible for 
+receiving and differentiating inquiries from grievances. The Plan trains g rievance and 
+appeal  staff to distinguish between inquiries and grievances. Additionally, supervisors 
+routinely review the inquiry call log to identify potential misclassification of inquiries. The Plan provided training materials to support staff in distinguishing an inquiry from a grievance.  
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 15 of 19 Review of the Plan’s training materials showed inadequate guidance to aid g rievance 
+and appeal  staff in identifying dissatisfaction within an inquiry , so that the inquiry can be 
+classified and processed as a grievance.  Further review of the Plan’s policies and 
+procedures did not provide guidance to g rievance and appeal  staff to distinguish 
+inquiries from grievances.  
+ If the Plan is unable to identify dissatisfaction within an inquiry, inquiries will not be identified and processed as grievances. This leads to mis sed opportunities to address 
+issues that may adversely impact member health.  
+ Recommendation: Implement policies and procedures to ensure that inquiries with 
+indications of dissatisfaction are classified and processed as grievances.  
+ 4.1.3 Billing Medi- Cal Members  
+ The Plan and any affiliates and subcontractors shall not submit a claim or demand, or otherwise collect reimbursement for any services provided under this Contract from a Medi -Cal member or person acting on behalf of the Member.  (Contracts Exhibit A, 
+Attachment 8(6)(A))  
+ The Plan must provide that its members are not held liable for covered services 
+provided to the member for which the Plan does not pay the individual or health care provider that furnished the services under a contractual, referral, or other arrangement. (CFR, Title 42, section  438.106)  
+ The Plan is required to comply with all existing final PLs and APLS issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))   
+ When the Plan is unable to distinguish between a grievance and an inquiry, it must be 
+considered a grievance. (APL 21 -011, Grievance and Appeal Requirements, Notice and 
+“Your Rights” Templates)  
+ Finding: The Plan members were incorrectly held liable for payments for covered 
+services.  
+ Plan Policy 5510a , Member Grievance and Appeals ( revised 06/15/2022) , did not st ate 
+that Plan providers are prohibited from billing Medi -Cal members for  reimbursement of 
+covered services.  
+ A verification study reviewed five standard grievances. Additionally, the verification study included a review of 1 3 inquiries since these inquiries pertained to member 
+dissatisfaction and should have been classified as grievances. All five standard 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 16 of 19 grievances and 13 inquiries revealed that the Plan did not prohibit providers from billing members for covered services. The Plan instructed members to s ubmit these bills to the 
+Plan’s Claims Department for processing. The Plan did not ensure members were updated on the payment status of these bills. In some cases, members were referred to collection agencies by Plan providers when these providers were not  paid by the Plan.  
+ In an interview, the Plan explained that its process for addressing billing issues is to inform members to call customer service or send the bill to the Plan’s Claims Department. It informs providers in the initial onboarding provider t raining process  and 
+its Provider Manual, about the prohibition of billing t he member s. It is also disclosed in 
+the remittance advice.  
+ There was no evidence in the files reviewed that the Plan prohi bited  providers  from 
+billing members for covered services. There was no documentation of the Plan tracking and monitoring billing grievances and inquires. The Plan did not identify and address the root cause for billing issues related to providers billing members for covered services. Based on several complaints received from the members, the Plan did not educate its providers regarding the prohibition of billing Medi -Cal members for covered 
+services and possible disenrollment from the Medi -Cal program.  
+ When the Plan does not  address improper billing issues, this may discourage members 
+from seeking medically necessary care.  
+ Recommendation: Develop and implement policies and procedures  to prohibit  Plan 
+providers from billing  Medi -Cal member  for covered services . 
+ 4.1.4 Processing Billing Grievances   
+ The Plan is required to comply with all existing final PLs and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(1)(D))   
+ An inquiry is a request for information that does not include an expression of dissatisfaction. Inquiries may include, but are not limited to, questions pertaining to eligibility, benefits, or other Plan processes. A member need not use the term grievance for a complaint to be captured as an expression of dis satisfaction and processed as a 
+grievance. If a member expressly declines to file a grievance, the complaint must still be categorized as a grievance and not an inquiry. ( APL 21 -011, Grievance and Appeal 
+Requirements, Notice and “Your Rights” Templates ) 
+ A grievance is any expression of dissatisfaction about any matter other than an adverse 
+benefit determination. A complaint is the same as a grievance. ( APL 21 -011, Grievance 
+and Appeal Requirements, Notice and “Your Rights” Templates)  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 17 of 19  When the Plan is unab le to distinguish between a grievance and an inquiry, it must be 
+considered a grievance. (APL 21 -011, Grievance and Appeal Requirements, Notice and 
+“Your Rights” Templates)  
+ The Plan is required to have a grievance and appeal system in place for members. Plans must allow members to submit a grievance or appeal orally or in writing. ( CFR, 
+Title 42, section 438.402)  
+ Plan Policy 5510a , Member Grievance and Appeal P olicy (revised 06/15/2022), state d 
+an inquiry is a request for information that does not include an expression of dissatisfaction. Inquiries may include but are not limited to, questions pertaining to eligibility, benefits, or the other plan processes. The policy defined a grievance as an oral or written expression of dissatisfaction about  any matter regarding the P lan and/or 
+provider, other than an adverse benefit determination. Where the Plan is unable to 
+distinguish between a grievance and an inquiry, it shall be considered a grievance.  
+ Finding:  The Plan did not classify and process billing complaints as grievances.  
+ Review of the Plan inquiry log revealed that the Plan did not classify as grievances 13 of 
+51 inquiries concerning billing complaints. They were all related to member dissatisfaction  for receiving a bill for covered services. Because these inquiries were not 
+classified as grievances, the billing issues were not investigated and addressed. There were three inquiries where the members ’ issues were not resolved,  and the billing 
+provider continued to send bills to members. Further more , some of these inquiries were 
+outstanding for longer than 30 days before they were resolved. Since  the Plan did not 
+classify and process these as grievances, no acknowledgement or resolution letters were sent  to the members.  
+ During the interview, the Plan stated the staff receives training to identify dissatisfaction and confirmed that the inquiry log was reviewed for potential misclassification by 
+supervisors . The Plan provided training materials to support that the staff could 
+distinguish an inquiry from grievance. A  review of the training materials indicated that it 
+had insufficient procedures to aid staff in identifying dissatisfaction of members when processing inquiries regarding billing issues (staff were trained to look for specific verbiage to aid in identifying dissatisfaction within an inquiry call), resulting in failure to classify and process billing complaints as grievances. The Plan specified that  if a 
+member is calling about a billing issue, it would not be considered a grievance unless certain dissatisfaction terms were used.  
+ Although staff were trained to look for specific terms to aid in identifying dissatisfaction, review of the Plan policies  and procedures revealed a lack of guidance in identifying 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 18 of 19  grievances related to billing concerns. Additionally, supervisors routinely reviewed the inquiry call log to identify potential misclassification of inquiries, the current process was ineffective and resulted in an inadequate processing of grievances.  
+ If the Plan is unable to identify dissatisfaction within an inquiry regarding a billing issue, such inquiries will not be identified and processed as grievances. Billing disputes that are not investigated and resolved in a timely manner may delay a member’s recei pt of 
+medically  necessary care that could result in member harm.  
+ Recommendation:  Develop and implement policies and procedures to ensure that the 
+Plan classifies and processes billing complaints as grievances.  
+ 4.1.5 Grievance Records Oversight    
+ The Plan is required to comply with all existing final PLs and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2)  
+ The Grievance and Appeal System is required to operate in accordance with all 
+applicable federal regulations, state laws, and state regulations. The Plan must maintain a written record for each grievance and appeal received by the Plan. The record of each grievance and appeal must be maintained in a log with information such as a description of the complaint or problem and action taken to investigate and resolve the grievance or appeal. The written record of grievances and appeals is required to be reviewed periodically by the Governing Body of the Plan, the Public Policy Body, and by 
+an officer of the Plan or designee. The review is required to be thoroughly documented. (APL 21 -011, Grievance and Appeal Requirements, Notice and “Your Rights” 
+Templates)   
+ 
+A written record shall be made for each grievance received by the P lan, including the 
+date received, the P lan representative recording the grievance, a summary or other 
+document describing the grievance, and its disposition. The written record of grievances 
+shall be reviewed periodically by the G overning Body of the P lan, the P ublic Policy Body 
+created pursuant to section 1300.69, and by an officer of the P lan or his designee. This 
+review shall be thoroughly documented. (CCR, Title 28, section 1300.68 (b)(5)) 
+ The Plan Policy 5510a , Member Grievance and Appeals Policy (revised 06/15/2022),  
+state d the written record of grievances and appeals is reviewed periodically by the 
+Plan’s Governing Body, the P ublic Policy Committee, and a Chief or designee. The 
+review is documented in meeting records.  
+ Finding: The Plan did not ensure its G overning Body and Public Policy Body 
+periodically reviewed the written record of grievances.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba                                                               
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD:  June 1, 2022 through May 31, 2023    
+DATES OF AUDIT:  July 10, 2023 through July 21, 2023   
+ 
+ 19 of 19  Review of C ommittee meeting minutes indicated that the Plan did not have 
+documentation to support that a review of the written records of grievances and appeals 
+was conducted by the Governing Body and the Public Policy Body. The Plan did not 
+ensure that the APL requirements and its polic ies and procedures  were followed by its 
+committees.  
+ During the interview , the Plan acknowledged that the Governing Body and the P ublic 
+Policy Body did not review the written record of grievances during the audit period; they 
+instead reviewed  and analyzed track and trending reports.  
+ When the Plan’s  Governing Body and the Public Policy Body do not periodically review 
+the written record of grievances, this may result in missed systemic quality improvement 
+opportunities based on incomplete grievance data.  
+ Recommendation: Implement policies and procedures to ensure that the Plan's 
+Governing Body and the Public Policy Body periodically review the written record of grievances . 
+ 
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW  DIVISION  
+LOS ANGELES SECTION 
+   
+ 
+REPORT ON THE STATE SUPPORTED SERVICES AUDIT OF  
+Community Health Group Foundation dba 
+Community Health Group Partnership Plan  
+ 
+2023  
+ 
+Contract Number s:  
+  
+09-86156 and 22-20485 
+State Supported Services  
+Audit Period:  
+   
+Dates of Audit :    
+Report Issued:  
+ June 1, 2022  
+    Through 
+May 31, 2023 
+ 
+July 10, 2023 
+    Through 
+July 21, 2023  November 28, 2023 
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ Il. COMPLIANCE AUDIT FINDINGS ................................................... 2 
+   
+ 1 of 2 I. INTRODUCTION  
+  This report presents the results of the audit of Community Health Group Foundation dba 
+Community Health Group Partnership Plan (Plan)  compliance and implementation of the 
+State Supported Services C ontract s No. 09- 86156 and 22- 20485 with the State of 
+California . The C ontract s cover abortion services  with the Plan.  
+ The audit covered the audit  period from June 1, 2022 through May 31, 2023. The review 
+was conducted from July 10, 2023 through July 21, 2023, which  consisted of a document 
+review, verification study, and interview with the Plan administration and  staff.  
+ An Exit Conference with the Plan was held on October 18, 2023 . There were no 
+deficiencies noted during the review of the State Supported Services  Contract s. 
+     
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN: Community Health Group Foundation dba  
+            Community Health Group Partnership Plan  
+ 
+AUDIT PERIOD: June 1, 2022 through May 31, 2023 
+DATES  OF AUDIT: July 10, 2023 through July 21, 2023 
+ 
+ 2 of 2  
+STATE SUPPORTED SERVICES  
+ The Contract requires the Plan to provide eligible members the following State Supported Services: Current Procedural Terminology (CPT) codes 59840- 59841, 
+59850- 59852, 59855- 59857,  and Centers for Medicare and Medicaid Services Common 
+Procedure Coding System codes X1516, X1518, X7724, X7726, and Z0336.  (State 
+Supported Services Contract , Exhibit A,  (4)) 
+ Abortion services are a covered benefit in the Medi -Cal program as a p hysician servi ce. 
+The Plan is required to cover abortion services, as well as the medical services and supplies incidental or preliminary to an abortion, consistent with the requirements. The Plan and their n etwork providers and subcontractors are prohibited from requiring 
+medical justification, or imposing any utilization management or u tilization review 
+requirements, including p rior authorization and on the coverage of outpatient abortion 
+services. (All Plan Letter 22-022, Aborti on Services)  
+ Plan Policy 7809a, Claims for Abortion Services  (revised 08 /01/2022) , stated that the 
+Plan covers abortions performed as a physician service. Abortion is a covered benefit regardless of the gestational age of the fetus. Medical justification and authorization for abortion are not required for outpatient care; however, inpat ient hospitalization requires 
+prior authorization under the same criteria as other medical procedures.  The Plan 
+covers CPT codes 59840- 59841, 59850- 59852, 59855- 59857,  and Healthcare Common 
+procedures Coding System ( HCPCS) codes: A4649, S0190- S0191 , and S0199. 
+ The Plan inform ed members and providers about abortion services through the Evidence 
+of Coverage (Member Handbook) and Provider Manual, which are available on the Plan’s website. Furthermore, the Plan informs members that they  may go to any provider of their 
+choice for abortion services, at any time, for any reason regardless of network affiliation and m inors of any age may consent to the performance of an abortion.   
+ The Plan maintains a list of CPT and HCPC S codes required for pregnancy termination 
+and related service procedures  which are exempt from prior authorization that the 
+Plan’s Claims Department uses for its auto payment claims  processing.  A review of ten 
+claims  demonstrated that the Plan paid claims timely,  and no discrepancies were noted.  
+ Based on the review, no deficiencies were noted for the audit period.  
+ Recommendation:  None.  

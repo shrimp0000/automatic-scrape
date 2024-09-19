@@ -1,0 +1,354 @@
+    
+California Department of Health Care Services                                                                    
+Managed Care Quality and Monitoring Division    
+P.O. Box 997413 | Sacramento , CA | 95899-7413  
+MS 4400  | Phone ( 916) 449-5000  | www. dhcs.ca.gov  State of California  
+Gavin Newsom, Governor   
+California Health and Human Services Agency  
+ 
+ April 19, 2024   Mary Lourdes Leone, Chief Compliance Officer  
+CalViva Health  
+7625 N. Palm Avenue, Suite 109  
+Fresno, CA 93711  
+  RE:  Department of Health Care Services Medical Audit     
+ 
+ 
+Dear Ms. Leone:  
+ The Department of Health Care Services (DHCS), Audits and Investigations Division conducted an on- site Medical Audit of CalViva Health , a Managed Care Plan (MCP), 
+from April 17, 2023 through April 28, 2023.  The audit covered the period of April 1, 20 22 
+through March 31, 2023.  
+  
+The items were  evaluated, and DHCS accepted the MCP’s submitted Corrective Action 
+Plan (CAP). The CAP is hereby closed. The enclosed documents will serve as DHCS’ final response to the MCP’s CAP. Closure of this CAP does not halt any other processes in place between DHCS and the MCP regarding the deficiencies in the audit report or elsewhere, nor does it preclude the DHCS from taking additional actions it deems necessary regarding these deficiencies.  
+ Please be advised that in accordance with Health & Safety Code Section 1380(h) and the Public Recor ds Act, the final audit report and final CAP remediation document (final 
+Attachment A) will be made available on the DHCS website and to the public upon request.  
+  
+If you have any questions, please reach out to CAP Compliance personnel.  
+ Sincerely,  
+ [Signa ture on file]
+ 
+ Lyubov Poonka, Chief  
+Audit Monitoring Unit  
+Managed Care Quality and Monitoring Division  
+Department of Health Care Services Department of Health Care Services  
+   Enclosures:  Attachment A (CAP Response Form)  
+ cc:      Stacy Nguyen, Chief  
+Managed Care Monitoring Branch Managed Care Quality and Monitoring Division  
+Department of Health Care Services  
+ Anthony Martinez , Lead Analyst   
+Audit Monitoring Unit  
+Managed Care Quality and Monitoring Division  
+Department of Health Care Services  
+ 
+Ikonkar  Kaur, Contract Manager  
+ Medi -Cal Managed Care Division  
+Department of Health Care Services  
+  
+ATTACHMENT A 
+Corrective Action Plan Response Form  
+ 
+Plan : CalViva Health               Review Period:  04/01/22 – 03/31/23 
+ Audit  Type:  Medical Audit and State Supported Services                                  On-site Review:  04/17/23 – 04/28/23 
+ 
+ 
+ MCPs are required to provide a CAP and respond to all documented deficiencies  included in  the medical  audit report within 30 calendar days , unless an alternative 
+timeframe is indicated in the CAP Request letter.  MCPs are required to submit the CAP  in Word format that will reduce turnaround time for DHCS to complete its 
+review.  According to ADA requirement, the document should be at least 12 pt.  
+ The CAP submission must include a written statement identifying the deficiency and describing the plan of action taken to cor rect the deficiency, and the 
+operational results of that action.  The MCP shall directly address each deficiency component by c ompleting the following columns provided for MCP response: 1. 
+Finding Number and Summary , 2. Action Taken, 3. Implementation Documentation, and 4. Completion/Expected Completion Date. The MCP will be required to 
+include project timeline with milestones in a separate document for each finding. Supporting documentation should accompany each Action Taken. If supporting documentation is missing, the MCP submission will not be accepted.  For policies and other documentation that have been revised, please highlight the new 
+relevant text, and include additional detail such as title of the document, page number, revision date, etc. in the column “Supporting Documentation” to assist 
+DHCS in identifying any updates that were made by the plan.   For deficiencies that require short -term corrective action, implementation should be completed within 
+30 calendar days. For deficiencies that may be reasonably determined to require long- term corrective action  for a period longer than 30 days to completely remedy 
+or operationalize, the MCP is to indicate that it has initiated remedial action and is on the way towards achieving an accept able level of compliance.  In those 
+instances, the MCP will be required in addition to the above steps, to include the date when full compliance will be achieved.   Policies and procedures submitted 
+during the CAP process must still be sent to the MCP’s Contract Manager for review and approval, as applicable in accordance with exis ting requirements.  
+ Please note, DHCS expects the plan to take swift action to implement improvement interventions as proposed in the CAP, theref ore DHCS encourages 
+all remediation efforts to be in place no later than month 6 of the CAP, unless prior approval for an extended implementation effort is granted by DHCS.  
+ DHCS will maintain close communication with the MCP throughout the CAP process and provide technical assistance to ensure the MCP provides sufficient 
+documentation to correct deficiencies.  Depending on the volume and complexity of deficiencies identified, DHCS may require the MCP to provide weekly updates, as applicable.  
+ 
+  
+ - 2 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+4. Member Rights  
+4.1.1 Classification 
+of Grievances  
+ The Plan did not classify, process, review, or resolve all expressions of dissatisfaction as grievances.  The Plan has performed a review 
+of the materials and processes 
+used to ensure appropriate 
+identif ication of  inquiries, exempt 
+grievances, formal grievances 
+and appeals.  
+ 
+1. An annual A&G computer -
+based training has been in 
+place. However, in the first half of 2023 t his training 
+was reviewed and 
+redesigned into a progressive training program designed to create a better understanding of A&G concepts and best practices.  The training will 
+be delivered through the company training portal .  
+2. All new hire s and existing 
+Customer Service Advocate (“CSAs”) are 
+required to pass the A&G  
+training. Newly hired CSAs must pass the A&G  
+section  with 80% or better   
+      1. Training:   
+ CA CCC AG 101 Proficiency Exam  
+CA CCC AG 102 Proficiency Exam  
+CA CCC AG 103 Proficiency Exam  
+      
+2. P&P: CA.HNT.MBRS.61  
+Member Appeals and Grievances Training Pass/Fail  
+   
+  
+      
+1. 10/31/2023 
+             
+2. 10/31/2023 
+     
+ The following documentation supports the MCP’s efforts 
+to correct this finding:  
+ POLICIES AND PROCEDURES  
+ • Updated P&P, CA.COMP.CCO.007, “CA Operations 
+Oversight  – Audit of Inquiry Calls, Appeal and 
+Grievance Cases Originating from the Call Center”, (Updated 06/23) which demonstrates this P&P has 
+been updated to include the number of inquiry  calls 
+that will be included in the monthly monitoring effort. If there ar e no missed or failed elements within the 
+first 8 cases, the Quality analyst will conclude the audit and the Data analyst will share the audit results with the business owner (CSA’s direct supervisor(s), manager and cc the Director) and the CA Operations Oversight team. If the supervisor has ‘repeat offenders’ (the same CSA with repeat failed audits), the supervisor will begin a performance improvement plan for the CSA.  If the supervisor 
+receives repeat audit fails within their team, for at least 3 consecutive months, a Management Action Plan ( MAP) will be submitted to the Manager.  
+ 
+• In addition, effective 07/2023, the Plan implemented 
+an audit worksheet, the auditor will use the elements in the audit worksheet to make certain the inquiries 
+are not being misclassified as inquiries. The Plan 
+ - 3 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+to graduate  training to 
+handle member calls . All 
+CSAs are tested annually and must pass the training with 80% or better  to 
+continue to handle member calls .  The P&P 
+describing this process has been reviewed and determined to be up to date.  
+3. Quality auditors conduct random “Secret Shopper ” 
+calls monthly  using 
+scenarios to assess the 
+CSAs knowledge and 
+proper handling of a ppeals 
+and grievances.  
+Leadership uses these findings to coach and develop the CSAs . The 
+script used for the calls has been updated on 
+10/18/2023  to include 
+additional scenarios to ensure that inquiries and many types of expressions of dissatisfaction are 
+included.   
+          
+3. Quality Audit:  A&G Secret 
+Shopper Legend  
+                 
+          
+3. 10/31/2023  
+                
+ states, “the Plan anticipates having CalViva Health 
+Data broken out by the end of Q1 2024.”  
+  
+• Revised P&P, CA.HNT.MBRS.10, “Customer in Mind Quality (CMQ) Program” (06/01/2023) describes the responsibility of the Quality Auditor. The quality audit includes call listening to verify  that 
+all CSAs are providing  the caller with appropriate 
+service and identifying expression s of 
+dissatisfaction.  In addition, an employee will be 
+monitored at any time during the month by QA (i.e.; the Missed Opportunity report or Secret Shopper), a trainer, immediate Supervisor, or any member of the leadership team to verify  consistency in the 
+application of the CMQ policies and procedures.  
+ • Revised P&P, CA.HNT.MBRS.39, “Customer Service Representative Role” (05/2023) was revised 
+to include that CSR’s are responsible to properly identify an expression of dissatisfaction (whether it be verbal or nonverbal) as an Exempt or Standard Grievance.  
+ 
+• P&P, CA.HNT .MBRS.61, “Member Appeals and 
+Grievance Training Pass/Fail” (04/23) demonstrates the Plan’s has annual testing for trained associates 
+that are taking customer phone calls .  This testing is 
+a Pass/Fail process to verify if the associates are 
+proficient in recognizing, appropriately categorizing, 
+ - 4 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+4. In July 2023 , a new 
+monthly  monitoring effort  
+was implemented that 
+includes listening to up to 
+80 recorded calls to 
+ensure that there is proper identification of inquiries.   
+As part of this  monitoring,  
+a monthly CA Operations 
+Oversight meeting has 
+been established to review 
+results and instances 
+related to improper issue 
+identification.   
+5. The enclosed P&P 
+outlining the Monthly Quality Audit  process  has 
+been reviewed and 
+updated to include the “Missed Opportunit y 
+Report ” and the Secret  
+Shopper audit . This P&P 
+is being re distributed to all 
+CSAs to inform staff of the 
+monitoring changes and all other policy updates. The CSA will be required to acknowledge that the docum ent has been 4. P&P:  CA.COMP.CCO.007 - CA 
+Compliance Oversight -  Audit of 
+Appeal and Grievance Cases Originating from the Call Center  
+         
+ 5. P&P:  CA.HNT.MBRS.10  - 
+Customer in Mind Quality (CMQ) Program             4. 7/31/2023  
+             
+5. 10/31/2023  
+              and/or routing issues to the Appeals and Grievance 
+department.    
+ • Associates who cannot pass the A&G portion of Member Services New Hire training or annual A&G 
+training will be subject to disciplinary action which can include coaching and performance improvement plans up to and including termination of employment.   
+ • Updated Work Process , “Responsibilities to Identify 
+and I nvestigate Issues Raised by Members and 
+Providers” (08/16/22) updated to include the responsibility of proper identification of expressions of dissatisfaction (verbal and non- verbal).  
+  TRAINING  
+ • CA.CCC AG 101, 201, and 301 Proficiency Exam  -
+Identifying A&G Examples of QOC and QOS grievances: This material is used as a part of the quarterly grievance and appeals refresher training. The quarterly training has been updated to include a knowledge check to verify  continued reinforcement 
+identifica tion of issues, exempt grievances, standard 
+grievances and appeals.  
+ 
+• Updating the Appeals and Grievance training to 
+ - 5 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+received and reviewed . 
+6. An A&G q uarterly 
+refresher  training is 
+conducted.  The material 
+has been updated to include a knowledge check to ensure continued 
+reinforcement identification of i nquiries, 
+exempt grievances, 
+standard grievances and 
+appeals. By 10/31/2023 
+an off-cycle  training will be 
+distributed to all CSAs . 
+7. The P&P that outlines the role of the Call Center representatives has  
+recently  been reviewed 
+and updated to include the responsibility of proper identification of expressions of dissatisfaction (verbal and non-verbal). The CSA will 
+be required to acknowledge that the document has been received and reviewed.  
+8. The material discussing  
+6. Training:  Identifying Appeals 
+and Grievances  
+           
+7. P&P:  CA.HNT.MBRS.39  
+Customer Service Representative Role  
+           
+8. CP Article:  Responsibilities  to  
+6. 10/31/2023  
+            
+7. 10/31/2023  
+             
+8. 10/31/2023  include more realistic grievance call scenarios to 
+improve the agent’s ability to appropriately distinguish inquiry, exempt grievance, and standard grievance calls. (Completion date expected 05/31/24) . 
+ • The Plan has also implemented knowledge checks in their training program.  Additionally, the entire Call Center staff will be retrained on all Appeals and Grievance procedures and processes.  
+ • Module, “Member Appeals and Grievance Informational Module” demonstrates the Plan provides additional detail to their Customer Service Advocate’s (CSA’s) on how to identify a grievance.  
+ • Informing Material, “Responsibilities to Identify and Investigate I ssues Raised by Members and 
+Providers” demonstrates the Plan has sent a reminder to all CSA’s of the responsibility to identify and investigate all member grievances.   
+ 
+• “Secret Shopper Document” is used to train/audit CSA’s to assist them with understandi ng what 
+constitutes an expression of dissatisfaction. This document provides various examples of what a caller may call about that might be considered an expression of dissatisfaction and should be identified 
+as a grievance.  
+ - 6 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+the responsibility of the 
+CSA to identify and investigate issues has 
+been reviewed for update and has been determined to be up to date. This material will be resent to all CSAs as a reminder of the responsibility to identify and investigate all member  issues. The CSA 
+will be required to acknowledge that the document has been received and reviewed.  
+9. The material outlining the process for performing a quality review  of A&G 
+issues  has been reviewed 
+for update and has been determined to be up to date. This material will be resent to all CSAs as a reminder of the review process ensuring that all inquiries, exempt grievances, standard grievances,  and appeals 
+are appropriately identifi ed Identify and Investigate Issue s 
+             
+ 9. CP Article:  Standard Appeals 
+and Grievances Quality Review Process  
+  
+            
+  9. 10/31/2023   
+• Training, “Appeals and Grievances Training Guide” (05/25/23) demonstrates the Plan’s Call Center Leadership provided voluntary training regarding examples of formal grievance scenarios.  
+ • Meeting, “Q1 2023 Call Center Meeting” (02/09/23 -  
+02/28/23) which demonstrates the Plan hosted a review with all available Call Service Advocates (CSA’s) in department staff meeting in regard to the grievance process.  
+  
+ MONITORING  AND OVERSIGHT  
+ • The CMQ Quality scorecard is categorized into four (4) main categories, Service, Resolution, Experience,  and Compliance.  Each category will be 
+rated on the caller experience using the following scale:  
+ 
+• Not Meeting Expectations  
+• Sometimes Meeting Expectations  
+• Fully Meeting Expectations  
+• Exceeding Expectation 
+ 
+• In efforts to measure the overall customer satisfaction and experience, employees are 
+expected to achieve a score of 90% or higher.  
+ - 7 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+by the CSAs.  The CSA will 
+be required to acknowledge that the document has been received and reviewed.  
+  
+• Quality Audit, “A&G Secret Shopper Example Legend” ( January – August 2023) Process 
+Overview: Quality auditors conduct random Secret shopper calls monthly  to CSA’s and/or CSR’s using 
+scenarios to identify call center associate’s knowledge regarding proper handling of Appeals and Grievances.  Leadership uses findings to coach and develop the associates.   
+ 
+• A & G Dashboard through September 2023 provides a comprehensive review of the grievance processes with specific classification, counts and trends over 
+time for exempt, QOS, QOC, and appeal case types.       
+ • A & G Quarterly Executive Summary Q2 & Q3 2023 reflect an increase in the number of grievances reported in 2023 in particular an increase in Quality of Service (QOS) cases this year indicating that Call Center has increased their identification of grievances.  These cases are then forwarded to the A & G team for classificati on, processing,  and 
+reporting.                         
+ 
+• A & G Classification Audits Q2 & Q3 2023 –  Q3 
+results reflect a total of 327 cases were audited, 21 
+grievances were misclassified . The compliance rate 
+was 86%. The misclassifications were recognized 
+through real -time auditing and corrected before the 
+ - 8 -  
+Finding Number 
+and Summary   
+Action Taken  
+Supporting Documentation  Implementation  
+Date*  
+(*Short -Term, Long- Term)   
+DHCS Comments  
+case was closed.  
+ • Audit Results, “CalViva January 2024 Inquiry Call Audit Results”, ( 01/24)  total of 10 cases audited, five 
+cases were auditable with 100% complianc e rate 
+and five case were inaudible due to the call recording could not be located, call recording inaudible, and the call recording is disconnected prior to the end of the call.  
+ The corrective action plan for finding 4.1.1 is accepted.  
+ 
+  
+ 
+  Submitted by Plan : Mary Lourdes Leone                              Date:   10/20/23 
+  Title:  Chief Compliance Officer  
+     

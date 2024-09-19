@@ -1,0 +1,248 @@
+1 
+ 
+   
+DHCS AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT REVIEW DIVISION  
+ 
+REPORT ON THE FOCUSED  AUDIT OF SENIOR 
+CARE ACTION NETWORK HEALTH PLAN 2023  
+ 
+Contract Number:  07-65712  
+Audit Period:  March 1, 2022 – February 28,2023 
+Dates of Audit:  June 5, 2023 – June 16, 2023  
+Report Issued:  August 30, 2024  
+         
+ 
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 3  
+II. EXECUTIVE SUMMARY ...................................................................................... 5 
+III. SCOPE/AUDIT PROCEDURES ........................................................................... 7  
+IV. COMPLIANCE AUDIT FINDINGS Performance Area: Behavioral Health  ......................................................... 8  
+Category 2 – Case Management and Coordination of Care  
+Performance Area: Transportation ....................................................................... 1 2  
+Category 3 – Access and Availability of Care  
+  
+3 
+ 
+I. INTRODUCTION  
+Background  
+In accordance with California Welfare and Institutions Code section 14456, the Department of Health Care Services (DHCS) may conduct additional reviews outside of the annual medical audit when DHCS determines there is good cause.  DHCS directed the Contract and Enrollment Review Division to conduct focused audits of all contracting Medi-Cal Managed Care Plans (Plans) to evaluate current Plans’ performance in the areas of Behavioral Health and Transportation services.  
+These focused audits differ from DHCS’ regular annual medical audits in scope and depth. The annual medical audits evaluated the Plan’s organizational structures, policies and procedures, and systems for compliance with contractual requirements. The focuse d 
+audits examined the operational issues that may hinder appropriate and timely member access to medically necessary care. The focused audit engagement formally commenced in January 2023 through December 2023.                                                                     
+For the Behavioral Health section, the focused audit evaluated the Plan’s monitoring activities of specific areas such as Specialty Mental Health Services (SMHS), Non -
+specialty Mental Health Services (NSMHS), and Substance Use Disorder Services (SUDS).  
+The focused audit also reviewed potential issues that may contribute to the lack of member access for SMHS, NSMHS, and SUDS.  
+The focused audit conducted a more in -depth look at current Plan operations/practices 
+for executing the delivery of transportation services. The audit examined potential causes for the systemic issues surrounding the Non-Emergency Medical Transportation (NEMT) and Non-Medical Transportation (NMT)  services, specifically when 
+transportation is delegated to a transportation broker.  
+Senior Care Action Network (SCAN) Health Plan (Plan) commenced operations in Long Beach, California in 1977 as a non -profit Multipurpose Senior Services Program. The Plan 
+received its full -service Knox Keene license in 1984. The Plan contracted with DHCS to 
+provide health care services as a Dual Eligible Special Needs Plan (D -SNP) in 1985.  
+The Plan has the only Fully Integrated Dual Eligible Special Needs Plan (FIDE-SNP) Contract in California and provides this product line to seniors in Riverside, San Bernardino, and Los Angeles Counties. In January 2023, DHCS granted the Plan a FIDE -
+SNP Contract to provide health care services to dually eligible beneficiaries in San Diego County. The Plan administers the FIDE -SNP Contract to dually eligible seniors, entitled to 
+4 
+ 
+both Medicare (Title XVIII) and Medi -Cal (Title XIX), for the provision of both Medicare 
+and Medi -Cal services integrated and coordinated through one plan.  
+During the audit period, the Plan delegated behavioral health services to Desert Oasis. The Plan delegated transportation services to ModivCare Solutions, LLC, a transportation broker.  
+As of March 2023, the Plan had a total enrollment of 263,897 Medicare Advantage members, of which 21,668 were enrolled as dual eligible members.  
+  
+5 
+ 
+II. EXECUTIVE SUMMARY 
+ This report presents the findings of the DHCS focused audit for the period March 1, 2022, through February 28, 2023. The audit was conducted on June 5, 2023, through June 16, 2023. The audit consisted of document review, surveys, verification studies, interviews and file reviews with the Plan representatives.  
+An exit conference with the Plan was held on June 26, 2024. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information and documentation addressing the draft audit report findings. The Plan submitted the response after the exit conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+The focused audit evaluates the areas of performance for Behavioral Health and Transportation services.  
+The summary of findings by performance area follows:  
+Performance Area: Behavioral Health 
+Category 2 –  Case Management and Coordination of Care : 
+• Specialty Mental Health Services  
+• Non-Specialty Mental Health Services  
+• Substance Use Disorder Services  Category 3 – Access and Availability of Care  
+The Plan is required to make good faith efforts to confirm whether members receive referred Substance Use Disorder (SUD) treatments and document when and where the treatments were received, as well as document any next steps following treatment. If a membe r does not receive referred SUD treatments, the Plan must follow up with the 
+member to understand barriers and make adjustments to the referrals if warranted.  The Plan did not make good faith efforts to confirm and document whether members received referred SUD treatments. The Plan also did not follow up with members who did not receive referred SUD treatments to understand barriers and make subsequent adjustments to referrals.  
+Performance Area: Transportation  
+Category 3 –  Access and Availability of Care  
+• Non-Emergency Medical Transportation  
+• Non-Medical Transportation  
+6 
+ 
+The Plan is required to not deny NMT for an appointment to an out-of -network provider 
+if the appointment is for a carved -out service and must provide the NMT service within 
+timely access standards. The Plan did not have a written process in place during th e 
+audit period to address that the Plan must not deny NMT for an appointment to an out-of-network provider if the appointment is for a carved -out service.  
+The Plan is required to have a process in place to impose corrective action on its transportation brokers if non -compliance is identified through oversight and monitoring 
+activities. The Plan did not have a process in place to impose corrective action on i ts 
+transportation brokers if non -compliance is identified through oversight and monitoring 
+activities.  
+The Plan is required to have a process in place to track the 120-day time frame for contracted NEMT and NMT providers with pending applications to ensure the contracts do not exceed 120 days. The Plan did not have a written process in place during the audit period to track the 120-day timeframe for contracted NEMT and NMT providers 
+with pending applications to ensure the contracts do not exceed 120 days.  
+ 
+7 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+This focused audit was conducted by the DHCS Contract and Enrollment Review Division to ascertain the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+On November 3, 2022, DHCS informed Plans that it would conduct focused audits to assess their performance in certain identified high -risk areas. The focused audit was 
+concurrently scheduled with the annual medical audit. The audit scope encompassed the fol lowing sections of review:  
+• Behavioral Health - SMHS, NSMHS, and SUDS 
+• Transportation – NEMT and NMT services  
+The audit was conducted from June 5, 2023, through June 16, 2023. The audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+The following verification studies were conducted:  
+Category 2 –  Case Management and Coordination of Care  
+SMHS: Three samples were reviewed to confirm care coordination with the County Mental Health Plan (MHP) and compliance with All Plan Letter (APL) requirements.  NSMHS: Three samples were reviewed to confirm compliance with APL requirements.  
+Category 3 –  Access and Availability of Care  
+NEMT: Ten samples were reviewed to confirm compliance with APL requirements.  NMT: Nine samples were reviewed to confirm compliance with APL requirements.  A description of the findings for each category is contained in the following report.  
+ 
+ 
+8 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Behavioral Health – SMHS, NSMHS, and 
+SUDS 
+Category 2 – Case  Management  and Coordination of Care  
+ 
+2.1 Confirmation of Referred Treatments for Substance Use Disorder 
+The Plan must make good faith efforts to confirm whether members receive SUD referred treatments and document when, and where the treatments were received, as well as any next steps following treatment. (APL 21-014 Alcohol and Drug Screening, Assessment, Brief Interventions, Referral, and Treatment)  
+Plan shall identify individuals requiring alcohol and or substance use disorder treatment services and arrange for their referral to the Alcohol and Other Drugs Program, including outpatient heroin detoxification providers, for appropriate services. Plan shall assist members in locating available treatment service sites. To the extent that treatment slots are not available in the Alcohol and other Drugs Program within Plan's service area, Plan shall pursue placement outside the area. Plan shall continue to cover and ensure the provision of primary care and other services unrelated to the alcohol and substance use disorder treatment and coordinate services between primary care providers and the treatment programs. (Contract Amendment A16, Exhibit A, Attachment 11 (v))  
+In response to a request for policies and procedures regarding Screening, Assessment, Brief Interventions and Referral to Treatment  (SABIRT) services, the Plan submitted Fact 
+Sheet  Alcohol and Drug Screening, Assessment, Brief Interventions & Referral to 
+Treatment (SABIRT)  which  stated, “Plans must make good faith efforts to confirm 
+whether members receive referred treatments and document when, where, and any next steps following treatment.”  
+Finding: The Plan did not make good faith efforts to confirm whether members 
+received referred treatments for SUD.  
+The Plan was asked to submit the universe of SUD referrals for members; however, the Plan stated there were no SUD referrals documented. When asked how the Plan ensures members are receiving referrals for these services, the Plan responded, “The member can self-refer. There may not be referrals from the physician to the mental health 
+provider. The primary care provider is engaged in providing services to the member and 
+9 
+ 
+there may not be a referral because it is captured in the primary care. The Plan empowers providers to assist members.”  
+The Plan did not have policies and procedures that state that the Plan must make good faith efforts to confirm whether members receive referred SUD treatments and document when and where the treatments were received, as well as any next steps following tre atment.  
+The Plan stated that it tracks encounter and claims data to ensure behavioral/mental health screenings are provided to members. The Plan submitted an excel spreadsheet with encounter data of mental health evaluations and behavioral assessments, however, it did not show how the data is tracked and did not include any SUD screenings.  
+During the interview, the Plan stated it could not determine if members received referred services because mental health is between the physician and member. The Plan stated referrals can be a barrier, so it provides tools to members on how to obtain services and encourages them to access care.  
+The Plan’s 2022 Mental Health & Substance Use Committee Charter stated the purpose of the committee is to review, provide strategic direction, and oversight of mental health services provided to members. The committee is responsible for the oversight of the Mental Health and Substance Use Work Group and Reduce Overuse and Misuse 
+Work Group. Meeting minutes were requested to ensure any documentation of monitoring of referral tracking or good faith efforts to confirm treatments. The Plan did not submit the re quested documents.  
+Without good faith efforts to ensure referred SUD treatment was received by the member, the member may suffer negative health outcomes.  
+Recommendation: Develop and implement policies and procedures to ensure that the 
+Plan makes a good faith effort to confirm whether members receive referred SUD treatments and document when and where the treatments were received, as well as any next steps following treatm ent. 
+ 
+2.2 Follow Up for Referred SUD Treatments  
+If a member does not receive referred SUD treatments, the Plan must follow up with the member to understand barriers and make adjustments to the referrals if warranted. Plans should also attempt to connect with the provider to whom the member was referred to facilitate a warm hand off to necessary treatment. (All Plan Letter 21 -014 
+Alcohol and Drug Screening, Assessment, Brief Interventions, Referral, and Treatment)  
+10 
+ 
+In response to a request for policies and procedures regarding SABIRT services, the Plan submitted Fact Sheet Alcohol and Drug Screening, Assessment, Brief Interventions & Referral to Treatment (SABIRT) , which stated, “If a member does not receive referred 
+treatments, the Plan must follow up with the member to understand barriers and make adjustments to referrals if warranted. Plans should also attempt to connect with the provider to whom the member was referred  to facilitate a warm hand off to necessary 
+treatment.”  
+Finding:  The Plan did not have a process in place to follow -up with members, 
+understand barriers, and make subsequent adjustments to the SUD referrals if warranted.  
+DHCS requested the Plan to provide a list of SUD referrals and any documentation to ensure the Plan’s process for tracking and monitoring of SUD referrals. The Plan stated it delegates the responsibility of SUDS for members to their network providers. The Plan did not submit any documents that were requested. The Plan did not have a process to follow up with members, understand barriers, and make adjustments to SUD referrals as needed.  
+The Plan did not have policies and procedures for the tracking and monitoring of SUDS referrals to ensure members receive referred treatments.  
+The Plan stated that it tracks encounter and claims data to ensure behavioral/mental health screenings are provided to members. The Plan submitted an excel spreadsheet with encounter data of mental health evaluations and behavioral assessments, however, it did not show how the data is tracked and did not include any SUD screenings.  
+During the interview, the Plan stated it could not determine if members received referred SUD treatments because mental health is between the physician and member. The Plan stated referrals can be a barrier, so it provides tools to members on how to obtain  services and encourages them to access care.  
+The Plan’s 2022 Mental Health & Substance Use Committee Charter stated the purpose of the committee is to review, provide strategic direction, and oversight of mental health services provided to members. The committee is responsible for the oversight of the Mental Health and Substance Use Work Group and Reduce Overuse and Misuse 
+Work Group. Meeting minutes were requested to ensure any documentation of monitoring of referral tracking or good faith efforts to confirm treatments. The Plan did not submit the re quested documents.  
+If there is no follow up with the member to understand barriers and make adjustments as warranted, the member may suffer negative health outcomes.  
+11 
+ 
+Recommendation: Develop and implement policies and procedures to ensure that if a 
+member does not receive referred SUD treatment, then the Plan must follow up with the member to understand barriers and make adjustments to the referrals, if warranted.  
+  
+12 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Transportation – NEMT and NMT  
+Category 3 –  Access and Availability of Care  
+ 
+3.1 Out-of-Network Non -Medical Transportation Service for a Carved- Out 
+Service  
+Plans are required to provide NMT for Medi -Cal services that are carved-out of the Plan 
+Contract. These carved-out Medi -Cal services include, but are not limited to, specialty 
+mental health services, SUDS, dental services, and other services delivered thro ugh the 
+Medi -Cal Fee -For-Service delivery system. Carved-out services are not subject to the 
+Plan’s utilization controls or be bound by time or distance standards as these services are not authorized or arranged by the Plan. Nonetheless, Plans must not den y NMT for 
+an appointment to an out -of-network provider if the appointment is for a carved -out 
+service and must provide the NMT service within timely access standards. (All Plan Letter 22-008 Non -Emergency Medical and Non-Medical Transportation Services and Related 
+Travel Expenses)  
+Plan policy, Non -Emergency Medical and Non-Medical Transportation (Medi -Cal) Ref. 
+#852, Version #8 (revised May 19, 2023), states under Transportation to Non -Covered 
+Destinations section, that transportation to non -covered services (carved out services) 
+will be provided per APL  22-008. The Plan will not deny NMT/NEMT services to/from 
+out-of-network medical  appointments or inpatient acute facilities if the 
+appointment/facility is for a carved -out service and must provide the NMT/NEMT 
+service within timely access standards.  
+Finding: The Plan did not have a written process in place during the audit period to 
+address that it must not deny NMT services for an appointment to an out-of -network 
+provider if the appointment is for a carved -out service.  
+The Plan policy Non -Emergency Medical and Non-Medical Transportation (Medi -Cal) was 
+not in place during the audit period.  
+During the interview, the Plan stated that if the trip is to an out-of -network provider for 
+a carved-out service appointment, as long as it is a medically necessary appointment, a member can obtain NMT services to go to the provider whether it is a carved- out 
+service or not. The Plan confirmed that this NMT out -of-network requirement was just 
+13 
+ 
+added to the policy mentioned above. No other documents were available for DHCS’ review.  
+If the Plan does not maintain policies and procedures in place clarifying that the Plan must not deny NMT for an appointment to an out -of-network provider if the 
+appointment is for a carved-out service, then scheduling staff may potentially deny these cove red services.  
+Recommendation: Develop and implement policies and procedures to ensure the Plan 
+does not deny NMT services to an out -of-network provider if the appointment is for a 
+carved-out service.  
+ 
+3.2 Corrective Action on Transportation Brokers 
+Plans are required to have a process in place to impose corrective action on their transportation brokers  if non-compliance is identified through oversight and monitoring 
+activities.  (All Plan Letter 22 -008 Non -Emergency Medical and Non -Medical 
+Transportation Services and Related Travel Expenses)  
+Plan policy,  Non-Emergency Medical and Non-Medical Transportation (Medi -Cal) Ref. 
+#852, Version #5  (revised October 11, 2022) , does not contain any reference to 
+corrective action imposed on transportation brokers. The Plan does not have any other policy regarding this requirement.  Finding: The Plan did not have a process in place to impose corrective action on 
+transportation brokers if non -compliance is identified through oversight and monitoring 
+activities.  
+While the Plan does have the above -mentioned transportation policy in place, it does 
+not contain the APL requirement regarding the Plan’s process to impose corrective action on transportation brokers.  
+DHCS requested multiple times that the Plan provide documentation demonstrating the process in place to impose corrective action on transportation brokers if non -
+compliance is identified. The Plan submitted documents that address the previous transportatio n broker’s process as well as the current transportation broker’s process to 
+impose corrective actions. However, the Plan did not submit any documentation to address what it is doing if non -compliance is identified with SafeRide. 
+If the Plan does not have a process in place to impose corrective action on its transportation broker if non -compliance is identified, SafeRide will not be held 
+14 
+ 
+accountable for the quality of transportation services provided, which may result in member harm.  
+Recommendation: Develop and implement policies and procedures to ensure the Plan 
+has a process in place to impose corrective action on transportation brokers if non -
+compliance is identified through oversight and monitoring activities.  
+ 
+3.3 Tracking The 120 -day Contract Time Frame 
+A Plan may allow NEMT and NMT providers to participate in its network for up to 120 days, pending the outcome of the enrollment process. However, a Plan must terminate its contract with a NEMT or NMT provider upon notification from DHCS that the provider h as been denied enrollment in the Medi -Cal program, or upon expiration of 
+the 120- day period. Plans are required to have a process in place to track the 120-day 
+time frame for contracted NEMT and NMT providers with pending applications to ensure
+ the contrac ts do not exceed 120 days. (All Plan Letter 22 -008 Non -Emergency 
+Medical and Non-Medical Transportation Services and Related Travel Expenses)  
+Plan policy, SR.CS.022 Medi -Cal Provider Enrollment Verification Process (revised May 31, 
+2023), states under the Onboarding Medi -Cal Transportation Providers section, that 
+during the onboarding process, the Network Team ensures providers are enrolled in the Medi -Cal Provider Enrollment Program. The provider must provide proof that they have 
+been approved by DHCS to perform Medi -Cal rides by submitting one of the following:  
+a. DHCS Approval Letter  
+b. Verification by provider’s National Provider Identifier (NPI) from the DHCS Enrolled 
+Medi -Cal Fee -For-Service database.  
+c. Screenshot of Provider’s portal showing application status of “approved.”  
+d. Proof a Provider Enrollment Application to DHCS was submitted within 120 days. 
+(Screenshot displaying submission date and status).  
+Once confirmed, the providers are added to the California Network Roster.  
+Finding: The Plan did not have a written process in place during the audit period to 
+track the 120-day timeframe for contracted NEMT and NMT providers with pending applications to ensure the contracts do not exceed 120 days.  
+While the Plan does have the above -mentioned enrollment verification policy in place, it 
+does not contain the APL requirement regarding the Plan’s process to track the 120-day 
+15 
+ 
+time frame for contracted NEMT and NMT providers with pending applications to ensure
+ the contracts do not exceed 120 days.  
+The Plan submitted a file titled Transportation Roster – Q1 Network 2023 from SafeRide 
+which indicates the monitoring of approved transportation providers. The file lists the names of all transportation providers, provider type, NPI, effective dates of contracts with the transportation broker, active or inactive status, Medi -Cal enrollment status, 
+enrollment approval or application date, and date last verified on DHCS website. However, the timeframes for pending applications to track the 120-day requirement  
+were not reflected on the report.  
+If the Plan does not maintain policies and procedures in place, providers who are denied enrollment may be  transporting members and putting members at risk.  
+Recommendation: Develop and implement policies and procedures to ensure the Plan  
+has a process in place to track the 120-day timeframe for contracted NEMT and NMT providers with pending applications to ensure the contracts do not exceed 120 days.  

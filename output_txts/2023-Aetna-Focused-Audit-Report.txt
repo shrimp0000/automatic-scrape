@@ -1,0 +1,190 @@
+1 
+DHCS AUDITS AND INVESTIGATIONS 
+CONTRA CT AND ENROLLM ENT DIVISION 
+REPORT O N TH E FOCUSED AU DIT OF AETNA 
+BETTER HEALTH OF CALIFORNIA, INC. 2023 
+Contract N umber: 1 7-94600 Sacramento 
+17-94602 San Diego
+Audit Period: April 1, 2 022 – March 31, 2023  
+Dates of Audit: April 17, 2023 – April 28, 2023 
+Report Issued: August 30, 2024
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 3  
+II. EXECUTIVE SUMMARY ...................................................................................... 5 
+III. SCOPE/AUDIT PROCEDURES .......................................................................... 7 
+IV. COMPLIANCE AUDIT FINDINGS Performance Area: Behavioral Health  ................................................... 8  
+Category 2 – Case Management and Coordination of Care  
+Performance Area: Transportation ............................................................1 1  
+Category 3 – Access and Availability of Care  
+ 
+  
+3 
+I. INTRODUCTION
+Background  
+In ac cordance w ith Ca lifornia Welfare an d Institutions Code  (W&I Code) se ction 14456, 
+the D epartment of He alth Car e Services (DHCS) m ay conduct additional r eviews outside 
+of th e annual m edical au dit when D HCS de termines there i s good cause.  
+DHCS di rected the Co ntract an d Enrollmen t Review D ivision to c onduct focused audits 
+of all contracting M edi-C al Managed Care Pl ans (Plans) to e valuate c urrent Plans’ 
+performance i n the areas of B ehavioral Health and Transportation s ervices. 
+These focused audi ts differ f rom D HCS’ regular an nual m edical au dits in sc ope an d 
+depth. Th e annual m edical au dits evaluate t he Pl an’s organizational str uctures, p olicies 
+and pro cedures, a nd systems fo r compliance with c ontractual req uirements. T he focused 
+audits examined the operational i ssues that m ay hinder ap propriate an d timely member 
+access to medically necessary care. Th e focused audi t engagement formall y commenced 
+in January 2023 through D ecember 20 23.           
+For th e Behavioral Health se ction, the f ocused audit evaluated the Plan’s monitoring 
+activities o f specific areas s uch a s Specialty M ental Health S ervices (S MHS), Non -
+Specialty Mental Health S ervices (NSMHS), an d Substance U se Disorder S ervices (SUDS). 
+The focused audit also r eviewe d potential i ssues that may contribute to the lack o f 
+member access a nd ov ersight f or SMHS, N SMHS, a nd SU DS. 
+The f ocused audit conducted a more i n-depth l ook at current Plan operations/practices 
+for executing the d elivery o f transportation se rvices. Th e audit examined potential 
+causes for t he syst emic i ssues surrounding the Non-E mergency Medical Tr ansportation 
+(NEMT) a nd N on-M edical Tr ansportation ( NMT) services, specifically w hen 
+transportation i s delegate d to a transportation b roker.  
+Aetna Better H ealth o f California, I nc. (Plan) i s a subsidiary of  Aetna, I nc., w hich is 
+headquartered in Ha rtford, Co nnecticut and is one o f the largest health c are c ompanies 
+in the United States. T ogether w ith national p artners, th e Plan su pports 2.7 mill ion 
+Medicai d members i n 16 states. I n Januar y 2018, th e Plan w as a new G eographic 
+Managed Care h ealth plan i n Sacramento an d San D iego c ounties. 
+In November 20 17, th e Plan obtained its Knox-Ke ene license from t he California 
+Department of M anaged Health Car e. Th e Plan p rovides member s with f ull m edical 
+benefits, i ncluding vision c overage an d obstetrical c are. 
+4 
+ 
+During the audit period, the Plan delegated transportation services to Access2Care, LLC, a transportation broker.  As of April 10, 2023, the Plan served 38,613 members in San Diego, and 28,833 members in Sacramento through its Medi -Cal line of business.  
+5 
+ 
+  
+II. EXECUTIVE SUMMARY 
+ This report presents the audit findings of DHCS’ focused audit for the period of April 1, 2022, through March 31, 2023. The audit was conducted from April 17, 2023, through April 28, 2023. The audit consisted of document review, surveys, verification studi es, and 
+interviews and file reviews with Plan representatives.  
+The Plan declined an Exit Conference to be held on June 2 5, 2024. The Plan was allowed 
+15 calendar days from the date of the originally scheduled Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the originally scheduled Exit Confer ence. The results of DHCS’ 
+evaluation of the Plan’s response are reflected in this report.  
+The focused audit evaluated the areas of performance for Behavioral Health and Transportation services.  
+The summary of findings by performance area follows:  
+Performance Area: Behavioral Health 
+Category 2 –  Case Management and Coordination of Care : 
+• Specialty Mental Health Services  
+• Non-Specialty Mental Health Services  
+• Substance Use Disorder Services  Category 3 – Access and Availability of Care  
+The Plan is required to coordinate with the county Mental Health Plans (MHPs) to facilitate care transitions and guide referrals for members receiving NSMHS to transition to a SMHS provider and vice versa, ensuring that the referral loop is closed, and that the new provider accepts the care of the member. The Plan did not coordinate with the county MHPs to facilitate care transitions, guide referrals, and vice versa, and ensure that the referral loop is closed, and that the new provider accepts the care for  members.  
+The Plan is required to refer members to the appropriate provider and ensure that the referral is to the appropriate delivery system for mental health services. Additionally, the Plan is required to refer individuals requiring alcohol and/or Substance Use Disorder (SUD) treatment services to county treatment programs. The Plan did not ensure members were referred to the appropriate delivery system for mental health services, either in the network or to the county MHP. Moreover, for members requiring SUD 
+6 
+ 
+treatment, the Plan did not ensure members were referred to the appropriate substance use treatment program.  
+Performance Area: Transportation  
+Category 3 –  Access and Availability of Care  
+• Non-Emergency Medical Transportation  
+• Non-Medical Transportation  
+The Plan is required to provide an alternate NMT provider if the arranged NMT provider does not arrive at the scheduled pick -up time. The Plan did not provide an alternate 
+NMT service when the NMT provider did not arrive at the scheduled pick -up time.   
+ 
+7 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+This focused audit was conducted by the DHCS, Contract and Enrollment Review Division to ascertain the medical services provided to Plan members comply with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+On November 3, 2022, DHCS informed Plans that it would conduct focused audits to assess performance in certain identified high -risk areas. The focused audit was 
+concurrently scheduled with the annual medical audit of the Plans. The focused audit scope enco mpassed the following sections:  
+• Behavioral Health - SMHS, NSMHS, and SUDS 
+• Transportation – NEMT and NMT services  
+The audit was conducted from April 17, 2023, through April 28, 2023. The audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the 
+policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+The following verification studies were conducted:  
+Category 2 –  Case Management and Coordination of Care  
+SMHS: No cases were available to evaluate care coordination with the county MHPs and compliance with All Plan Letters (APL) requirements.  
+NSMHS: Ten cases were reviewed to evaluate compliance with APL requirements.  SUDS: No cases were available to be reviewed to evaluate compliance with APL requirements.  
+Category 3 –  Access and Availability of Care  
+NEMT: Ten cases were reviewed to evaluate compliance with APL requirements.  NMT: Ten cases were reviewed to evaluate compliance with APL requirements.  A description of the findings for each category is contained in the following report.
+ 
+8 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Behavioral Health – SMHS, NSMHS, and 
+SUDS 
+Category 2 – Case  Management  and Coordination of Care  
+ 
+2.1 Care Management and Care Coordination  
+The Plan shall comply with all existing final Policy Letters and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+The Plan is required to coordinate with county MHPs to facilitate care transitions and 
+guide referrals for members receiving NSMHS to transition to a SMHS provider and vice versa, ensuring that the referral loop is closed, and that the new provider accepts the  
+care of the member. ( APL 22 -005 No Wrong Door for Mental Health Services Policy ) 
+Plan policy 7500.60, Mental Health/Substance Abuse Screening and Coordination (revised 
+07/06/2022) , states that the Plan must coordinate with the MHPs to facilitate care 
+transitions and guide referrals for members receiving NSMHS to transition to a SMHS provider and vice versa, ensuring that the referral loop is closed, and that the new provider accepts the care of the member.  
+Finding:  The Plan did not coordinate with the county MHPs to facilitate care transitions, 
+guide referrals for members to a SMHS provider, and vice versa, and ensure that the referral loop is closed, and that the new provider accepts the care for members.  The Plan’s record did not identify any members with SMHS; however, the Plan did not have a tracking system in place for members seeking mental health services, including tracking of referrals to and from the county MHPs. The Plan was unable to provide evidence of care transition and referral tracking.  
+In a written response, the Plan stated that: “Communication between the county MHP and managed care plans has historically been fragmented, the recent change in structure and data sharing exchange has provided a clearer process for reporting and escalation  of issues and concerns. The transparency and collaboration will continue to 
+support the efforts of the no wrong door approach.” As a result, the fragmented communication impacted the Plan’s ability to facilitate care transitions and guide referrals to MHP s, and to ensure that the referral loop is closed, and the provider 
+accepts the care of the member.  
+9 
+ 
+If the Plan does not coordinate with the MHPs to facilitate care transitions and guide referrals for members, members may miss opportunities to access necessary SMHS.  Recommendation : Implement policies and procedures to ensure that the Plan 
+coordinates with the county MHPs to facilitate care transitions, ensure non -duplication, 
+and guide referrals for members receiving both NSMHS and SMHS concurrently.   
+2.2 Mental Health and Substance Use Disorder Services Referrals  
+The Plan shall comply with all existing final Policy Letters and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+If a member’s primary care physician cannot perform an Initial Mental Health Assessment, the Plan must refer the member to the appropriate provider and ensure that the referral to the appropriate delivery system for mental health services, either in the Pl an’s provider network or the county MHP’s network, is made in accordance with 
+the No Wrong Door policies set forth in W&I Code section 14184.402(h) and APL 22-005. (APL 22 -006 Medi -Cal Managed Care Health Plan Responsibilities for Non-Specialty 
+Mental Heal th Services)  
+The Plan must identify individuals requiring alcohol and/or SUD treatment services and refer these individuals to county treatment programs. For individuals identified as requiring alcohol and/or SUD treatment services, the Plan must arrange for their refe rral 
+to the county department responsible for substance use treatment, or other community resources when services are not available through counties, and to outpatient heroin detoxification providers available through the Medi -Cal free -for-service program,  for 
+appropriate services. ( APL 21 -014 Alcohol and Drug Screening, Assessment, Brief 
+Interventions and Referral to Treatment ) 
+Plan policy 7500.60, Mental Health/Substance Abuse Screening and Coordination (revised 
+07/06/2022) , states that the Plan’s network providers will refer members with significant 
+impairment resulting from a covered mental health diagnosis to the county MHP. When a member has a significant impairment, but the diagnosis is uncertain, the Plan must ensure th at the beneficiary is referred to the MHP for further assessment. Furthermore, 
+individuals identified as requiring alcohol or SUD treatment services, the Plan must arrange for their referral to the county department responsible for substance use treatment, or other community resources when services are not available through counties, and to outpatient heroin detoxification providers available through the Medi -
+Cal fee -for-service program, for appropriate services.  
+10 
+ 
+ Finding:  The Plan did not ensure members were referred to the appropriate delivery 
+system for mental health services, either in the network or to the county MHP. Moreover, for members requiring SUD treatment, the Plan did not ensure members were referred to the appropriate substance use treatment program.  
+Review of the Plan’s NSMHS, SMHS, and SUDS referral log did not demonstrate that the Plan ensured members were referred to the appropriate mental health and SUDS. Request for NSMHS, SMHS, and SUDS referrals resulted in no records of SMHS and SUDS referrals  during the audit period. The Plan identified only 39 members receiving 
+NSMHS in which were limited to members that required Plan authorization or referral; allowing the Plan to track. The Plan did not have an oversight and monitoring system to ensure that  all referrals are made to the appropriate mental health and SUD system.  
+Furthermore, the review of annual oversight of the Plan’s contracted provider networks had no indication that the Plan ensured all members were referred to the appropriate mental health and SUDS.  
+In the interview, the Plan stated that they can track referrals for members that require certain Plan authorization related to NSMHS. Additionally, the Plan can track members enrolled in care coordination. Otherwise, members who are not enrolled in the Pla n’s 
+care coordination program and or did not require any type of mental health authorization, the Plan relied on the contracted providers in primary care settings to ensure members receive the mental health care. As a result, the Plan was unable to ensure members were referred to the appropriate delivery system for mental health 
+services.  
+By not ensuring members are referred to the appropriate delivery system for mental health and SUDS, members may not receive necessary treatment.  
+Recommendation: Implement policies and procedures to ensure that members are 
+referred to the appropriate provider and ensure that the referral is to the appropriate delivery system.  
+    
+11 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Transportation – NEMT and NMT  
+Category 3 –  Access and Availability of Care  
+ 
+3.1 Alternate Non -Medical Transportation  
+The Plan shall comply with all existing final Policy Letters and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D) ) 
+If the NMT provider does not arrive at the scheduled pick -up time, the Plan is required 
+to provide an alternate NMT or allow the member to schedule alternate out -of-network 
+NMT and reimburse for the out -of-network NEMT. ( APL 22 -008 Non -Emergency Medical 
+and Non-Medical Transportation Services and Related Travel Expenses ) 
+Plan policy 4500.95, Emergent and Non-Emergent Transportation (revised 07/27/2022), 
+stated that if the provider does not arrive at the scheduled pick -up time, the Plan must 
+provide alternate NMT or allow the member to schedule alternate out -of-network 
+transportation and reimburse for the out -of-network transportation . 
+Finding:  The Plan did not provide an alternate NMT when the NMT provider did not 
+arrive at the scheduled pick -up time.  
+Ten NMT verification study samples were reviewed. Out of ten samples, three no -show 
+cases were found where the drivers did not pick up the members. The members had to find their own way home. The Plan did not provide evidence that an alternate NMT was provided to any of the members.  
+In an interview, the Plan stated that they are unable to receive real -time information 
+regarding late/no -shows transportation trips. Furthermore, the Plan does not have 
+access to the transportation broker, Access 2 Care scheduling system. The Plan tracks the late/no -shows through the Plan’s grievance system for monitoring, oversight, and 
+corrective action only. As a result, the Plan is unable to ensure that an alternate transportation is provided to the member when the NMT provider does not arrive at the scheduled pick-up time.  
+By not providing timely transportation services, members may miss medically necessary appointments.  
+12 
+ 
+Recommendation: Implement policies and procedures to ensure that members are 
+provided an alternate NMT when the NMT provider does not arrive at the scheduled pick-up time.     
+ 

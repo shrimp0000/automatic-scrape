@@ -1,0 +1,793 @@
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT REVIEW  DIVISION  
+SAN FRANCISCO SECTION 
+  
+REPORT ON THE MEDICAL AUDIT OF  
+Contra Costa Health Plan  
+ 
+2023  
+ 
+ 
+Contract Number:  
+  
+04-36067  
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ July 1, 2022  
+    Through  
+June 30, 2023  
+ 
+August 7, 2023  
+    Through  
+August 18, 2023  
+ 
+February 6, 2024  
+  
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION  .............................................................................1 
+ II. EXECUTIVE SUMMARY .................................................................2 
+ III. SCOPE/AUDIT PROCEDURES  ......................................................5 
+ IV. COMPLIANCE AUDIT FINDINGS  
+ Category 1 – Utilization Management  ..............................................7 
+ Category 2 – Case Management and Coordination of Care  .......... 15 
+ Category 3 – Access and Availability of Care  ................................ 17 
+ Category 4 – Member’s Rights  ...................................................... 19 
+ Category 5 – Quality  Management  ................................................ 21 
+ Category 6 – Administrative and Organizational Capacity  ............. 23 
+  
+1 of 25 I. INTRODUCTION 
+  Since 1984, Contra Costa Health Plan (Plan) has contracted with the State of California to provide health care services to Medi -Cal beneficiaries in Contra Costa County. The 
+Plan is a county sponsored Health Maintenance Organization. The Plan is licensed i n 
+accordance with the provisions of the Knox -Keene Health Care Service Plan Act. The 
+Contra Costa County Board of Supervisors exercises oversight of the Plan through a Joint Conference Committee (JCC).   In October 1996, the State of California contracted with the County of Contra Costa as the Local Initiative under the two- plan model to provide managed care services to  
+Medi -Cal beneficiaries under the provisions of Welfare and Institutions Code, section 
+14087.3. The Plan received approval from the S tate to begin operations and 
+commenced enrollment as the Local Initiative for Contra Costa County on  
+February 1, 1997.  
+ The Plan contracts with individual network providers, Contra Costa Regional Medical Center, and Kaiser Permanente to provide or arrange comprehensive health care services. The Plan provides health care for public and private employee groups, private individuals, Medi -Cal and Medicare beneficiaries, and low -income county residents.  
+ As of May 31, 2023, the Plan had 273,526 members of which 266,737 were Medi -Cal 
+including 45,540 Seniors and Persons with Disabilities members. The Plan also covers 
+4,632 county employees and 2,157 commercial members.  
+  
+2 of 25 II. EXECUTIVE SUMMARY  
+  This report presents the audit findings of the Department of Health Care Services (DHCS) medical audit for the period of July 1, 2022 through  June 30, 2023. The audit  
+was conducted from August 7, 2023 through August 18, 2023. The audit consisted of 
+document review, verification studies, and interviews with Plan representatives.  
+ An Exit Conference with the Plan was held on  January 4, 2024. The Plan was allowed 
+15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the Exit Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+  
+The audit evaluated six categories of perform ance: Utilization Management (UM), Case 
+Management and Coordination of Care, Access and Availability of Care, Member’s Rights, Quality Improvement, and Administrative and Organizational Capacity.  
+ The prior DHCS medical audit for the period of July 1, 202 1 through May 31, 2022, was 
+issued on J anuary 18 , 202 3. This audit examined documentation for compliance and to 
+determine to what extent the Plan has implemented their Corrective Action Plan (CAP) . 
+ Prior to the  start of the audit,  DHCS received anonymous complaints indicating non-
+compliance in several areas within the Plan. In order to determine the validity of the information received, the annual audit scope was expanded to include additional 
+procedures in three categories: U tilization Management , Member’s Rights, and 
+Administrative and Organizational Capacity.  Findings related to the anonymous 
+complaints are included in their respective sections  of this report . 
+ Findings denoted as repeat findings are uncorrected deficiencies substantially similar to those identified in the previous audit.  
+ The summary of the findings by category follows:  
+ Category 1 – Utilization Management  
+ Category 1 includes procedures and re quirements for the Plan’s UM program, including 
+delegation of UM  and prior authorization review . 
+ The Plan is required to render routine authorizations 14 calendar days from receipt of the request and within 72 hours for expedited authorization requests.  For routine and 
+expedited requests, the decision can be deferred,  and the time limit extended an 
+additional 14 calendar days.  The Plan must render decisions for concurrent review  
+requests  within five working days or less, and within  30 calendar days for retrospective 
+review requests. The Plan did not render decisions for prior authorization, concurrent review, and retrospective review requests within the required timeframes  
+3 of 25  The Plan must  provide prior authorization decisions  for int ravenous sedation and 
+general anesthesia for dental services using the criteria indications in All Plan Letter 
+(APL) 15 -012, and the need for services should be evaluated using the clinical 
+judgement of the provider based on the APL criteria . The Plan deni ed medically 
+necessary general anesthesia for dental services using UM criteria that were more restrictive than Medi -Cal criteria indications described in APL 15- 012. 
+ The Plan is required to use nondiscrimination notices (NDN) and l anguage assistance 
+taglines (LAT) that are compliant with APL 21- 004. The Plan is accountable for all 
+functions and responsibilities that are delegated. The Plan did not ensure its delegate sent updated NDN and LAT information to members with all written notices pertaining to rights or benefits.  
+ Category 2 – Case Management and Coordination of Care  
+ Category 2 includes requirements to provide  Initial Health Appointments  (IHA),  Complex 
+Case Management  (CCM),  and Behavioral Health Treatment (BHT) . 
+ The Plan is required to cover and ensure the provision of an IHA, which consists of a comprehensive history and physical examination, and preventive services, and must be 
+documented in the member’s medical record. T he Plan did not ensure that providers 
+documented all required components of an IHA.  
+ Category 3 – Access and Availability of Care  
+ Category 3 includes requirements regarding access to care, Non- Emergency Medical 
+Transportation (NEMT) and Non -Medical Transportation (NMT) services for medically 
+necessary services, and the adjudication of claims for emergency room and family planning services.  
+ The Plan is required to communicate, enforce, and monitor provider’s compliance when extending timeframes  for appointments  as clinically appropriate. If the timeframe, is 
+extended, it must be documented within the member’s medical records that a longer timeframe will not have a detrimental impact on the member’s health. The Plan did not monitor provider s to ensure that for extension of member appointment timeframes, the 
+reason is documented in the member’s medical record and the extension is not detrimental to the member’s health.  
+ Category 4 – Member’s Rights  
+ 
+Category 4 includes the requirements for handling of grievances and Protected Health Information.  
+ 
+The Plan is required to process all expressions of dissatisfaction as grievances . The 
+Plan did not process and resolve all member expressions of dissatisfaction as grievances.  
+4 of 25  Category 5 – Quality Management  
+ Category 5 includes requirements to maintain an effective Quality Improvement System (QIS), including delegation of quality improvement and provider training.  
+ The Plan is required to collect and review their  subcontractors’ ownership and control 
+disclosure information. The Plan did not ensure collection  and review of their 
+subcontractor’s ownership and control disclosure information.   
+ Category 6 – Administrative and Organizational Capacity  
+ Category 6 includes  a review of the Plan’s administrative and management 
+arrangements or procedures, as well as a mandatory compliance plan, which are designed to guard against fraud and abuse.  The Plan is also required to implement and 
+maintain a health education system.  
+ The Plan is required to have a designated Compliance Officer who is responsible for developing and implementing policies, procedures, and practices designed to ensure complian ce with the requirements . The Plan did not have a designated Compliance 
+Officer responsible for its  compliance program.  
+ The Plan is required to have a designated Compliance Officer who reports directly to the Board of Directors  which oversee s the compliance program . The Plan did not 
+ensure the Board of Directors was informed of the compliance program’s activities, which prevented Board oversight.  
+ The Plan is required to maintain  staffing in medical and other health services, and in 
+fiscal and administrati ve services sufficient to result in the effective conduct of the Plan’s 
+business.  The Plan did not maintain sufficient staffing to carry out the effective conduct 
+of the Plan’s business activities.  
+  
+5 of 25 III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ This audit was conducted by the DHCS Contract and Enrollment Review Division to 
+ascertain that the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+ 
+PROCEDURE  
+ The audit  review was conducted from August 7, 2023 through August 18, 2023. The 
+audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators , staff , and  Contra Costa Behavioral Health . 
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ Service requests: A total of 30 clinical service request cases were reviewed for timeliness, consistent application of criteria, and appropriate review. Twenty -one were 
+prior authorization requests, three  were concurrent review requests, and six  were 
+retrospective review requests.  
+ Appeal procedures: 21 medical cases were reviewed for appropriate and timely adjudication.  
+ Delegated prior authorization requests: 18 prior authorization request s for non-specialty 
+mental health services were reviewed for appropriate and timely adjudication.  
+ Category 2 – Case Management and Coordination of Care  
+ IHA: 15 files  were reviewed to confirm the performance of the appointment.  
+ CCM : Five files were reviewed to confirm the performance of services.  
+ BHT: Ten files were reviewed to confirm the performance of services and complete 
+case file elements.  
+ Category 3 – Access and Availability of Care  
+ Claims: 2 0 emergency services and 2 0 family planning claims were reviewed for 
+appropriate and timely adjudication.  
+  
+6 of 25  NEMT:  50 claims were reviewed for timeliness and appropriate adjudication.   
+ NMT: 50 claims were reviewed for timeliness and appropriate adjudication.  
+ NEMT: Twelve c ontracted NEMT providers were reviewed for Medi -Cal enrollment.  
+ Category 4 – Member’s Rights  
+ Grievances: 50 standard grievances, 20 exempt grievances, f our expedited grievances, 
+and 25 call inquiries  were reviewed for timely resolution, appropriate classification, 
+response to complainant, and submission to the appropriate level for review . The 50 
+standard grievance cases included 25 quality of service and 25 quality  of care 
+grievances.  
+ Confidentiality Rights: Ten Health Insurance Portability and Accountability Act/ Protected 
+Health Information breach and security incidents were reviewed for processing and 
+timeliness requirements.  
+ Background Check Verification: 11 samples were reviewed to determine if appropriate 
+procedures were performed.  
+ Category 5 – Quality Management  
+ Potential Quality Inc idents (PQI): Ten PQI cases were reviewed for timely evaluation 
+and effective action taken to address needed improvements.  
+ Provider training: 20 new provider training records were reviewed for the timeliness of 
+Medi -Cal Managed Care program training.  
+ Category 6 – Administrative and Organizational Capacity  
+ Fraud and Abuse: Ten fraud and abuse cases were reviewed for appropriate reporting and processing.  
+ A description of the findings for each category is contained in the following report.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+7 of 25  
+ 
+CATEGORY 1 - UTILIZATION MANAGEMENT  
+  
+1.2  
+PRIOR AUTHORIZATION REVIEW  REQUIREMENTS  
+ 1.2.1 Timeliness of Utilization Management Decisions  
+ The Plan must render decisions for routine prior authorizations within five working days from receipt of the information reasonably necessary to render a decision but no longer than 14 calendar days from receipt of the request. For requests in which a prov ider 
+indicates or the Plan determines that following the standard timeframe could seriously jeopardize the member’s life or health or ability to attain, maintain, or regain maximum function, the Plan must make an expedited decision no later than 72 hours after receipt of the request. For routine and expedited requests, the decision can be deferred and the time limit extended an additional 14 calendar days. Any decision delayed beyond the time limits is considered a denial and must be immediately processed as such.  
+(Contract, Exhibit A, Attachment 5(3) (G and H) ) 
+ The Plan must render decisions for concurrent review of a treatment regimen already in place within five working days or less, consistent with the urgency of the member’s medical condition. (Contract, Exhibit A, Attachment 5(3) (D )) 
+ The Plan must render decisions for retrospective review within 30 calendar days.  
+(Contract, Exhibit A, Attachment 5(3) (E )) 
+ Plan policy , UM 15.015a Timeliness of the Utilization Review Decision and 
+Communication (revised 5/26/22) , stated that upon receipt of all necessary information 
+to make a decision, the Plan must make decisions for routine prior authorization requests within five business days but not to exceed 14 calendar days from the date the Plan receives the request. The Plan can extend the timeframe for processing routine requests up to a total of 28 calendar days when certain criteria are met. The Plan shall make decisions for urgent prior authorization requests no later than 72 hours from the time the necessary information is received by the Plan. The Plan may extend the timeframe for processing urgent requests by an additional 14 calendar days when certain criteria are met. For concurrent review, upon receipt of current clinical information, the Plan shall make a decision within 24 hours. For retrospective requests, the Plan shall make a decision no later than 30 days from the receipt of information reasonably necessary to make a determination.  
+    
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+8 of 25  Finding:  The Plan did not render decisions for prior authorization, concurrent review, 
+and retrospective review requests within the required timeframes.   
+ A verification study revealed that in nine of 30 clinical service requests, the Plan’s UM Department and Beha vioral Health (BH) Department did not provide decisions within the 
+required timeframes. The deficient samples included four of 17 routine prior 
+authorization requests, two of four expedited prior authorization requests, one of three concurrent review requests, and two of six retrospective requests.  
+ • In four routine prior authorization requests, the Plan did not render decisions in a timely manner, either within 14 calendar days or within 28 calendar days for cases with timeframe extensions.  
+ o In three reques ts, the Plan finalized decisions between 18 and 24 calendar days 
+after receipt of the providers’ requests.  
+ 
+o In one request, the Plan extended the timeframe by 14 days and  rendered the 
+decision 63 days after receipt of the initial request.  
+ 
+• In two expedited prior authorization requests, the Plan did not provide decisions in a timely manner, either within 72 hours or within 17 days for cases with timeframe extensions.  
+ o In on e request, a provider from a transplant program requested that a member 
+be placed on a liver transplant waitlist for one year. The Plan rendered an 
+approval decision ten  days after receipt of the request.  
+ 
+o In another request, the Plan extended the timefram e by 14 days and rendered 
+the denial decision 20 days after receipt of the initial request.  
+ 
+• In one concurrent review request, the Plan did not render a decision within five  
+working days or less consistent with the member’s condition and acute level of car e. 
+ o In the sample, a facility submitted a request for inpatient services for a member who was hospitalized for acute kidney infection. The Plan finalized a decision 14 days after the initial receipt of the request even though the Plan received clinical information necessary for the review in a timely manner.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+9 of 25  
+• In two retrospective review requests, the Plan did not provide decisions within 30 calendar days.  
+ o The Plan rendered decisions 32 and 48 calendar days after receipt of providers’ requests.  
+ Plan statements and review of sample documentation revealed the following reasons contributed to delayed decisions: shortage of physician decision- makers ; provider 
+requests sat in wrong departments within the Plan for many days before being re- routed 
+to the appropriate department ; clerical errors by non- clinical staff (manual entry errors  
+for timeframe extensions and misrouting to wrong decision- makers) ; and lack of 
+weekend coverage by non- clinical staff.  
+ During interviews, the Plan stated it required non- clinical staff to manually categorize all 
+organ transplant -related requests as expedited due to the inability of the Plan’s system 
+to automatically flag the requests. Therefore, some transplant -related requests were 
+processed erroneously under  routine timeframes.  
+ This is a repeat finding of the 2022 audit f inding,  1.2.1 Timeliness of Prior 
+Authorization Decisions.  
+ The prior year’s finding involved untimely prior authorization decisions processed by the BH Department, whereas the current finding includes untimely prior authorization, 
+concurrent and retrospective decisions from the UM Department.  For the CAP to the 
+prior year’s finding, the Plan’s BH Department trained staff and monitored decision turnaround times.  The Plan's actions to addres s the CAP  did not resolve the prior year ’s 
+deficiency ; the BH Department continued to process service requests untimely after 
+implementation of its CAP.  
+ When the Plan does not follow timeframe requirements for processing service requests , 
+medically necessary services may be delayed or not provided, which may adversely impact members’ health.  
+ Recommendation: Implement policies and procedures to ensure that  the Plan renders 
+prior authorization, concurrent review, and retrospective review decisions within the required timeframes.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+10 of 25  1.2.2 Utilization Management Criteria for Dental Anesthesia  
+ The Plan must comply with all existing P olicy Letters and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(1)(D))  
+ The Plan must provide prior authorization for intravenous sedation and general anesthesia for dental services using the following criteria, and the need for services should be evaluated using the clinical judgement of the provider based on the criteria 
+indications delineated below:  
+ 
+If the provider provides clear medical record documentation of both  number (1) and 
+number (2) below, then the member should be considered for intrav enous sedation 
+or general anesthesia:  
+ 1. Use of local anesthesia to control pain failed or was not feasible based on the medical needs of the member.  
+ 
+ 
+2. Use of conscious sedation, either inhalation or oral, failed or was not feasible based on the medical needs of the member.  
+ 
+Or 
+ 
+If the provider documents any one of numbers ( 3) through (6) then the member 
+should be considered for intravenous sedation or general anesthesia:  
+ 3. Use of effective communication techniques and the inability for immobilization (member may be dangerous to self or staff) failed or was not feasible based on the medical needs of the member.  
+ 
+4. Member requires extensive dental restorative or surgical treatment that cannot be rendered under local anesthesia or conscious s edation . 
+ 
+5. Member has acute situational anxiety due to immature cognitive functioning.  
+ 
+6. Member is uncooperative due to certain physical or mental compromising conditions.  
+ 
+(APL 15 -012, Dental Services –  Intravenous Sedation and General Anesthesia 
+Coverage)  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+11 of 25  Plan policy , UM 15 -051 Dental Services – Intravenous Sedation and General 
+Anesthesia Coverage (reviewed 5/20/22) , stated that the member shall be considered 
+for intravenous sedation and general anesthesia based on the six criteria indications listed in APL 15- 012. In addition, the policy required that the dental provider must meet 
+the following elements for chart doc umentation: a copy of a complete history and 
+physical exam, diagnosis, treatment plan, and radiological reports ; the indication for 
+services;  and documentation of perioperative care (preoperative, intraoperative, and 
+postoperative care) for the dental proc edure.  
+ Finding:  The Plan denied medically necessary general anesthesia for dental services 
+using UM criteria that were more restrictive than Medi -Cal criteria indications described 
+in APL 15 -012. 
+ A verification study of prior authorization requests demonstrated that in three of four requests for dental general anesthesia, the Plan inappropriately denied medically necessary services for pediatric members using criteria that were more restrictive than 
+APL 15 -012. In all three requests , the provider submitt ed justification that the member’s 
+condition met the Medi -Cal criteria indications.  
+ • In one request , the member had a genetic disorder, brain damage, seizures, an 
+opening in the neck for breathing, pain in the mouth, and multiple cavities, which required treatment under general anesthesia to be done in coordination with another procedure that was already scheduled in the operating room. The Plan deferred the decision and asked the provider to submit a dental treatment plan and results from a medical history and physical examination (H&P); when these documents were not 
+received, the Plan denied the reques t. 
+ 
+• In another request , the member had a learning disability, extreme anxiety during the 
+dental exam, and multiple cavities involving 13 teeth in multiple quadrants, which required treatment and extractions under general anesthesia. The Plan deferred the decision and asked the provider to submit a H&P; when this document was not 
+received, the Plan denied the request.  
+ 
+• In another request , a primary care provider submitted a request for a member with 
+severe developmental disabilities that prevented the member  from opening the 
+mouth during exams, pain and infection in the mouth causing inability to eat and weight loss, and concern for spread of infection, which required dental exam and cleaning under general anesthesia. The Plan deferred the decision and asked for the 
+request to be submitted by a dental surgery center or dental provider. The Plan denied services due to lack of an H&P and dental treatment plan.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+12 of 25  
+In the fourth dental general anesthesia request, the Plan used criteria which was  more 
+restrictive t han APL 15 -012. 
+ • In this request , the toddler member had anxiety, was unable to sit still during x -ray 
+imaging, and had multiple cavities involving 11 teeth in multiple quadrants, which required treatment and extractions under general anesthesia. The Plan deferred the decision and asked the provider to choose a contracted facility and submit a dental treatment plan and H&P. The Plan denied the request because the service was requested at a non- contracted facility when services were available in contracted 
+facilities . The Plan’s decision to deny was also based on the lack of an H&P which  
+was more restrictive than APL15- 012. 
+ In all four requests , the Plan’s decision was based on the lack of a medical H&P and/or 
+lack of a dental treatment plan. Medical H&Ps and dental treatment plans are not required criteria indications listed in APL 15- 012. 
+ During interviews, the Plan confirmed that providers were required to submit a medical H&P clearing the member for general anesthesia to confirm clinical safety before the Plan approved requests. The Plan interpreted language from APL15 -012 on dental 
+provider chart documentation (complete H&P, diagnosis, treatment plan, radiological reports and images, indication for services, and documentation of perioperative care) as requirements that requesting providers must submit for prior authorization review. The Plan acknowledged that these extra requirements resulted in deferred decisions and delays in care.  
+ Dental provider chart documentation requirements are not part of  the six criteria 
+indications in APL 15- 012 and should not be used for determining medical necessity. 
+For some members with severe behavioral or medical conditions, a thorough dental exam, x -ray images, and dental treatment plan cannot be completed until t he member is 
+under general anesthesia. In addition, members routinely receive a pre- operative H&P  
+shortly before the scheduled procedure; therefore, the Plan’s requirement to complete an H&P solely for the prior authorization review creates a barrier  as we ll as a redundant 
+process.  
+ When the Plan uses UM criteria that are more restrictive than Medi -Cal guidelines, 
+members may not receive medically necessary services that are covered under the Medi -Cal program, which may adversely impact their health outcom es. 
+ Recommendation: Revise UM criteria and policy and implement procedures to ensure decision- makers use criteria indications for dental general anesthesia in accordance 
+with APL 15 -012. 
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+13 of 25  
+ 
+1.5  
+DELEGATION OF UTILIZATION MANAGEMENT  
+ 1.5.1 Nondiscrimination Notice and Language Assistance Taglines  
+ The Plan is accountable for all functions and responsibilities, including UM, that are delegated. The Plan is required to maintain a system to ensure accountability for delegated activities that at  a minimum ensures a delegate meets standards set forth by 
+the Plan and DHCS. ( Contract, Exhibit A, Attachment 4(6) (A and B) ) 
+ The nondiscrimination notice (NDN)  and language assistance taglines  (LAT) must be 
+posted in all member  informational notices, including written notices to an individual 
+such as those pertaining to rights and benefits. Although DHCS does not require Plans to use the DHCS -provided templates verbatim, notices must be compliant with 
+requirements in this APL and with information in the DHCS -provided templates.  
+(APL 21 -004, Standards for Determining Threshold Languages, Nondiscrimination 
+Requirements, and Language Assistance Services)  
+ Plan policy, UM15.007 Utilization Management Delegation (revised February 202 3), 
+stated the Plan reviews the delegate’s practices for compliance with contractual obligations through an annual audit, which includes file reviews. In addition, the delegate must present reports to the Plan’s committees on a quarterly basis.  
+ The Delegation Agreement between the Plan and Contra Costa Behavioral Health Services (signed 8/4/21)  stated the Notice of Action decision letter must be consistent 
+with the Plan’s policies and procedures. The attachment to the delegation agreement stated the delegate must follow all UM policies and applicable DHCS templates.  
+ Plan policy , UM 15.015a Timeliness of the Utilization Review Decision and 
+Communication (revised 5/26/22) , does not mention requirements to send NDN and 
+LAT with written communications to members, including for approval, modify, and denial decisions. The attachment to the policy contains a NDN and LAT with outdated information.  
+ Finding: The Plan did not ensure its delegate , Contra Costa Behavioral Health 
+Services,  sent NDN and LAT information to members with all written notices pertaining 
+to rights or benefits in accordance with APL 21- 004. 
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+14 of 25  A verification study revealed that in 18 of 18 non- specialty mental health service 
+requests, the delegate did not send NDN and LAT information to members with written authorization notices  for UM decisions . In all 18 samples, the delegate sent 
+authorization  decision  letters to members explaining its decision to approve services, 
+the number of visits approved, and the contact i nformation of the provider; however, the 
+authorization letters did not contain attachments for NDN and LAT.  
+ During interviews, the delegate stated the NDN and LAT are not separate templates and are incorporated into the decision letter templates.  However, a review of the 
+delegate’s current decision letter templates demonstrated that the authorization letter templates in English, Spanish, and Chinese were lacking the NDN and LAT.  
+ This is a repeat finding of the 2022 audit  finding,  1.5.1 Nondiscrimination Notice 
+and Language Assistance Taglines.  
+ The prior year’s finding  involved outdated or missing LAT and NDN information in the 
+denial, delay, modify, carve out, terminate, and authorization decision letter templates, whereas the current year’s finding consists of missing LAT and NDN information in authorization templates only. Per the CAP for  the prior year’s finding, the delegate 
+began attending the Plan’s compliance meetings to review new APL requirements, and the Plan stated it updated the delegate’s decision letter and attachment templates  after 
+the audit period.  Although the Plan updated the NDN and LAT in all other decision letter 
+templates, the delegate acknowledged that the Plan did not update the authorization letter templat es with NDN and LAT informatio n. 
+ When the delegate does not follow requirements set forth by DHCS, members may not receive information necessary to understand UM decisions and may not be able to exercise their rights.  
+ Recommendation:  Implement policies a nd procedures to ensure that delegated 
+entities follow DHCS requirements, including NDN and LAT requirements described in APL 21 -004.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+15 of 25  
+ 
+CATEGORY 2 – CASE MANAGEMENT AND COORDINATION OF CARE  
+  
+2.1  
+INITIAL HEALTH APPOINTMENT  
+ 2.1.1 Required Components  of the Initial Health Appointment  (IHA)  
+ The Plan is required to cover and ensure the provision of an IHA  (complete history and 
+physical examination)  H&P in conformance with California Code of Regulations (CCR), 
+Title 22, section 53851(b)(1) to each new member within 120 calendar days of enrollment.  
+ An IHA  consists of a comprehensive history and physical examination,  and preventive 
+services which must be documented in the member’s medical record . The Plan is 
+responsible for assuring that arrangements are made for follow -up services that reflect 
+the findings or risk factors discovered during the IHA . 
+ The Plan is required to ensure that the latest edition of the Guide to Clinical Preventive Services published by the U.S. Preventive Services  Task Force (USPSTF) is used to 
+determine the provision of clinical preventive services to asymptomatic, healthy adult members [age 21 or older]. All preventive services identified as USPSTF “A” and “B” recommendations must be provided. The Plan is required to make reasonable attempts to contact a member and schedule an IHA. All attempts shall be documented. Documented attempts that demonstrate Plan’s unsuccessful efforts to contact a member and schedule an IHA shall be considered evidence in meeting this requirement. (Contract,  Exhibit A, Attachment 10(3) and (6); APL 22-030, Initial Health 
+Appointment ). 
+ The Plan is required to  provide preventive health visits for all m embers under 21 years 
+of age at times specified by the most recent American Academy of Pediatrics ( AAP) 
+periodicity schedule (Bright Futures guidelines) and anticipatory guidance as outlined in the AAP  Bright Futures periodicity schedule.  (Contract , Exhibi t A, Attachment 10(5)(B))  
+ Plan policy,  QM14.701 Initial Health Appointment  (approved 02/14/2023), stated that an 
+IHA should be completed on new members within 120 days of enrollment with the Plan for new members . An IHA consists of a comprehensive history of the member’s physical 
+and mental health, identification of risks, assessment of the need for preventive screens or services, health education, diagnoses, as needed, and a plan of care, which must include all follo w-up activities that reflect the findings or risk factors discovered during 
+the IHA.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+16 of 25  Finding: The Plan did not ensure th at providers documented all required components 
+of an IHA .  
+ A verification study revealed in one  of eight members under 21 years of age, the Plan 
+did not ensure the provider documented all the required components of an IHA. A 
+review of medical records showed:  
+ • In one sample, a comprehensive history and physical examination was not completed.  
+ A verification study revealed in two of seven adult members 21 years and older, the Plan did not ensure the provider documented  all the  required components of an IHA. A 
+review of medical records showed:  
+ • In one sample, there was no documentation of complete immunization.  
+ 
+• In another  sample, there was no documentation that all applicable preventive 
+services identified as USPSTF “A” and “B” recommendations were offered to members who qualified based on condition and age, or that the status of services 
+was recorded. Member records did  not contain documentation of  USPSTF 
+recommended screening for unhealthy drug use in adults aged  18 years or older.  
+ In an interview, the Plan stated that an email is sent to providers monthly informing them which members are due for an IHA, information on IHA guidelines, IHA requirements, exemptions, and USPSTF information. Although the Plan stated that it 
+monitors IHA elements and preventive services during facility site reviews and medical 
+record reviews , its process has not ensured the provision of complete IHAs for new 
+members.  
+ This is a repeat finding of prior years’ findings:  2.1.7 (2020)  and 2.1.1 (2022) 
+Required Components of the Initial Health Assessment . 
+ As part of its CAP, the Plan conducted quarterly chart audits and educated providers 
+regarding  missing IHA elements. However, the Plan’s corrective actions did not resolve 
+the prior year’s finding.  
+ When the P lan does not ensure the provision of a complete IHA, members may not 
+receive important behavioral and medical health screenings that can help identify and prevent illnesses.  
+ Recommendation: Implement policies and procedures to ensure documentation of all 
+required components of an IHA.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+17 of 25  
+ 
+CATEGORY 3 – ACCESS AND AVAILABILITY  OF CARE  
+  
+3.1  
+APPOINTMENT PROCEDURES AND MONITORING WAITING TIMES  
+ 3.1.1 Extending Appointment Timeframes Standards  
+ The Plan is required to ensure the provision of acceptable accessibility standards in 
+accordance with CCR, Title 28, section 1300.67.2.2. The Plan is required to 
+communicate, enforce, and monitor network providers’ compliance when extending timeframes for appointments  as clinically appropriate by a qualified health care 
+professional acting within the scope of his or her practice consistent with professionally recognized standards of practice. If the timeframe is extended, it must be documented within the m ember’s medical record that a longer timeframe will not have a detrimental 
+impact on the member’s health. (Contract, Exhibit A, Attachment 9(4)  (C)) 
+ Plan policy , QM.14.101  Timely Access to Care Standards (revised 2/27/23) , stated all 
+timely access monitoring is conducted with consideration to the context of provider resources and member needs. Timeframes may be extended as clinically appropriate by a qualified health care professional acting within the scope of his or her pr actice 
+consistent with professionally recognized standards of practice. If the timeframe is extended, it must be documented within the member’s medical record that a longer 
+timeframe will not have a detrimental impact on the m ember’s health.  
+ Finding:  The Plan did not monitor providers to ensure extensions of member 
+appointment timeframes are appropriately documented in the member’s medical record, including the reason the extension will not be detrimental to the member’s health.   
+ In interviews , the Plan stated it conducts periodic facility  site reviews of providers and 
+checks for the appropriate documentation in the members’ medical records when 
+appointment timeframes are extended. However, the Plan’s policies  and medical record 
+review tool  did not include procedures  to check for extended appointments and medical 
+record documentation that the extension will not have a detrimental impact on the 
+member’s health.  
+ When  the Plan does not monitor providers ’ compliance for extending appointment 
+timefra mes, members may experience delays in care, which may result in adverse 
+impacts  on member health.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+18 of 25  Recommendation: Revise and implement policies and procedures to monitor that  
+provider extensions of member appointment timeframes are documented , including 
+documentation that the extension will not be detrimental to the member’s health.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+19 of 25  
+ 
+CATEGORY 4 – MEMBER’S RIGHTS  
+  
+4.1  
+GRIEVANCE SYSTEM  
+ 4.1.1 Grievance Identification   
+ The Plan is required to have a system in place in accordance with Code of Federal Regulations ( CFR) , Title 42, S ection 438.402- 424 which refers to grievance and 
+appeals requirements. (Contract, Exhibit A, Attachment 14(1))  
+ The Plan is required to comply with all existing final Policy Letters and A PLs issued by 
+DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+ An inquiry is a request for information that does not include an expression of dissatisfaction. Inquiries may include, but are not limited to, questions pertaining to eligibility, benefits, or other Plan processes. A complaint is the same as a grievance. Where the Plan is unable to distinguish between a grievance and an inquiry, it must  be 
+considered a grievance. ( APL 21 -011 Grievance and Appeal Requirements, Notice and 
+“Your Rights” Templates )  
+ Plan policy , MS 8.019 Response to Member Inquiries ( revised 09/2022), stated the term 
+“inquiry” means an oral or written request from a member or their legal representative not invol ving a complaint, grievance , or an appeal . Inquiries are handled by member 
+services staff and resolved to the member’s satisfaction, promptly and informally usually 
+during the initial contact by the member. When the Plan  is unable to distinguish 
+between a grievance and an inquiry, it shall be considered a grievance.  Finding: The Plan did not process and resolve all member expressions of 
+dissatisfaction as grievances.  
+ A verification study found that in eight  of 25 inquires, the Plan incorrectly processed the 
+grievances as member inquiries. The Plan did not conduct  formal  grievance 
+investigations for these misclassified member complaints.  
+ • In four samples, member s complained of  receiving a bill for services .  
+ 
+• In two samples , members complained about not receiving Enhanced Care 
+Management services.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+20 of 25  
+• In one sample,  a member requested case management services.  
+ 
+• In one sample, the member complained their provider did not explain the indications 
+for a prescribed medication. The member also complained that they filed complaints with a provider group that went unresolved.  
+ When member expressions of dissatisfaction are not processed as grievances, members will not receive notice of m embers’ rights and their complaints may not be fully 
+resolved.  
+ Recommendation: Implement procedures to ensure all member expressions of 
+dissat isfaction are classified, processed,  and resolved as grievances.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+21 of 25  
+ 
+CATEGORY 5 – QUALITY MANAGEMENT  
+  
+5.2  
+DELEGATION OF QUALITY IMPROVEMENT ACTIVITIES  
+ 5.2.1 Ownership and Control Disclosures of Delegates  
+ The Plan is required to collect and review their subcontractors’ ownership and control 
+disclosure information as set forth in CFR, Title 42, S ection 455.104. The Plan is 
+required to make the subcontractors’ ownership and control disclosure information 
+available, and upon request,  this information is subject to audit by DHCS. (Contract, 
+Exhibit A, Attachment 1(2) (B) and APL 17- 004, Subcontractual Relationships and 
+Delegation)  The Plan must require each subcontractor to disclose the following information: (1) the name and address of each person with an ownership or control interest in the subcontractor; (2) whether any of the persons named is related to another; (3) the name of any other subcontractor in which a person with an ownership or control interest in the 
+subcontractor also has an ownership or control interest; (4) the name, address, date of birth, and social security number of any managing employee. (CFR, Title 42, Secti on 
+455.104)  
+ Plan policy , PA 9.830 Sub- Contractual Relationships and Delegation (reviewed 
+05/2022) , stated the Plan shall collect and review its subcontractors’ ownership and 
+control disclosure information as set forth in CFR, Title 42, Section 455.104 . 
+ Finding: The Plan did not collect and review all required ownership and control 
+disclosure information from its subcontractors.   
+ In five of seven ownership and disclosure forms, the Plan did not collect all required information:  
+ • Contra Costa Regional Medical Center and Contra Costa Behavioral H ealth 
+Services did not include information for any individuals who have control interest on 
+their disclosure forms.  
+ 
+• University of California San Francisco Medical Group, Stanford Health Car e, and 
+Lucile Packard Children's Hospital Medical Group disclosure forms did not include information for the Board of Directors which have controlling interest . 
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+22 of 25  This is a repeat finding of prior years’ findings: 5.1.5 (2019), 5.2.1 (2020), 5.2.1 
+(2021), and 5.2.1 (2022) Ownership and Control Disclosures of Delegates.  
+ The prior year’s audit found the Plan did not ensure collection and completion of ownership and control disclosure information.  As a corrective action, the Plan was to 
+obtain outstanding information from its delegates. The Plan collected updated 
+disclosure forms ; however,  the forms did not contain all required information and 
+excluded previously reported information. The Plan’s corrective action did not resolve the prior year’s finding.   When the Plan does not collect and review ownership and control disclosure information of all delegates, it cannot ensure that the delegates’ owners and controlling interest individuals are eligible for program participation.  
+ Recommendation: Implement policies and procedures to ensure collection, 
+completion, and review  of all  required subcontractors ’ ownership and control disclosure 
+information.    
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+23 of 25  
+ 
+CATEGORY 6 – ADMINISTRATIVE AND ORGANIZATIONAL CAPACITY  
+  
+6.2  
+FRAUD AND ABUSE  
+ 6.2.1  Designated Compliance Officer  
+ The Plan is required to have a designated Compliance Officer  who is responsible for 
+developing and implementing policies, procedures, and practices designed to ensure 
+compliance with the requirements of this Contract, and who reports directly to the Chief Executive Officer and the Board of Directors. ( Contract, Exhibit E, Attachment 2, 
+26(B)(1)(b))  
+ Plan policy, ADM 1.006 CCHP Fraud Prevention Program ( revised 05/2023) , described 
+the Compliance Officer as responsible for developing, implementing, and ensuring compliance with the fraud prevention program. This officer reports directly to the Plan’s Chief Executive Officer and the Board of Dir ectors.  
+ Finding: The Plan did not have a designated Compliance Officer responsible for the 
+compliance program.   The Compliance Officer position was vacant since March 2022 through the end of the audit period.  
+ In an interview, the Plan stated a Fraud Prevention Unit staff member was responsible 
+for developing and implementing the Plan's compliance program. However, this staff member was not designated as the C ompliance Officer, and the position remained 
+vacant.  
+ When the Plan does not have a designated Compliance Officer, the Plan cannot ensure all compliance issues are raised to the appropriate level.  
+ Recommendation: Implement policies and procedures to ensure there is a designated 
+Compliance Officer.  
+ 6.2.2   Reporting to the Board of Directors  
+ The Plan is required to implement and maintain procedures that are designed to detect and prevent fraud, waste, and abuse. The procedures must include a compliance 
+program that at a minimum includes the following elements:  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+24 of 25  
+• The designation of a Compliance Officer who is responsible for developing and implementing policies, procedures, and practices designed to ensure compliance with the requirements of this Contract, and who reports directly to the Chief Executive Officer and the Board of Directors.  
+ 
+• The establishment of a Regulatory Compliance Committee on the Board of Directors and at the senior management level charged with overseeing the compliance program and compliance with the requirements under this Contract.  
+ (Contract, Exhibit E, Attachment 2, 26(B)(1) )  
+ Plan policy, ADM 1.006 CCHP Fraud Prevention Program ( revised 05/2023) , described 
+the Compliance Officer as responsible for developing, implementing, and ensuring compliance with the fraud prevention program. This officer reports directly to the Plan’s 
+Chief Executive Officer and the Board of Directors.  
+ Plan document , Compliance Plan and Code of Conduct , stated t he Board of 
+Supervisors  (Directors ) or an appropriate subcommittee, suc h as the Joint Conference 
+Committee  (JCC) , will oversee all Plan compliance efforts and take whatever actions it 
+deems appropriate and necessary to ensure that the Plan  conduct s their activities 
+according to federal, state and local laws and regulations.  
+ Finding: The Plan did not ensure oversight of its compliance program , including  
+compliance with the requirements under the Contract.  
+ JCC m eeting minutes did not show discussion or any reporting of compliance activities .  
+For instance,  the Board of Directors was not informed of DHCS’s prior audit findings.  
+ The Plan stated that when the C ompliance Officer position became vacant, the Chief 
+Executive Officer  assumed  responsibility  for informing the Board of Directors of 
+compliance activities . However, the Plan did not present any compliance program 
+activities to the Board.  
+ When the Plan does not report compliance activities and issues to the Board of 
+Directors , the Plan cannot ensure there is effective oversight and remediation of 
+compliance issues.  
+ 
+Recommendation: Implement policies and procedures to ensure the Board of Directors 
+conducts oversight  of the Plan’s compliance  program . 
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+25 of 25  6.2.3   Administrative Capacity  
+ The Plan is required to maintain the organization and staffing for implementing and operating the Contract in accordance with Title 28, CCR, S ection 1300.67.3 . The Plan is 
+required to ensure staffing in medical and other health services, and in fiscal and administrative services sufficient to result in the effective conduct of the Plan’s business. (Contract , Exhibit A, Attachment 1 (4)(D))  
+ Plan policy , ADM 1.006 CCHP Fraud Prevention Program  (revised 05/2023) , state d the 
+Plan’s Fraud Prevention Unit is responsible for the overall management of the Fraud 
+Prevention Program including detection, investigation, and reporting of suspected fraudulent activities. The le ad staff persons for this unit are the Compliance Officer and 
+Compliance Manager. The administrative support staff assigned to c ompliance will 
+provide secretarial support.  
+ Finding:  The Plan did not maintain sufficient staffing to carry out the effective conduct 
+of the  Plan’s business activities.  
+ Six of seven F raud Prevention Unit positions remained vacant at the end of the audit 
+period. The Compliance Officer and Compliance Manager  positions remained vacant 
+throughout the entire audit period. The Plan’s Fraud Prevention Program was managed and carried out by a single staff member, a Planner/Evaluator B. The Plan hired one 
+staff member and a student intern during the audit period ; however, they are no longer 
+with the Plan.  
+ The Fraud Prevention Unit also included a c ompliance secretary who assisted with 
+carrying out the unit’s duties. However, this position was transferred to the UM  
+Department and is now responsible for processing UM decision letters .  
+ In an interview, the Plan stated the decision to transfer the secretary posi tion was due to 
+the UM D epartment not having an administrative secretary for support and a greater 
+need for additional staff to address UM deficiencies. However, by transferring this position, the Plan reduced staffing in the F raud Prevention Unit where nu merous 
+vacancies already existed, including leadership positions.  
+ When  the Plan does not maintain sufficient staffing to carry out its business, it cannot 
+effectively carry out its contract obligations.  
+ Recommendation:  Implement procedures to ensure sufficient staff  are in place to 
+effectively conduct Plan business  activities . 
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT REVIEW  DIVISION  
+SAN FRANCISCO SECTION 
+  
+REPORT ON THE MEDICAL AUDIT OF  
+Contra Costa Health Plan  
+ 
+2023  
+ 
+Contract Number:   
+  
+03-75796  
+State Supported Services  
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ July 1, 2022  
+    Through  
+June 30, 2023  
+ 
+August 7, 2023  
+    Through  
+August 18, 2023  
+ 
+February 6, 2024  
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION  .............................................................................1 
+ Il. COMPLIANCE AUDIT FINDINGS  ...................................................2 
+   
+1 of 2 I. INTRODUCTION 
+  This report presents the audit findings of Contra Costa Health Plan (Plan) State Supported  
+Services Contract No. 03- 75796. The State Supported Services Contract covers 
+contracted abortion services with the Plan.  
+ The audit was conducted from August 7, 2023  through August 18, 202 3. The audit period 
+was July 1, 2022  through June 30, 202 3. The audit consisted of document review of 
+materials supplied by the Plan, verification study, and interviews.  
+ Twenty  State Supported Services claims were reviewed for appropriate and timely 
+adjudication.  
+   
+  COMPLIANCE AUDIT FINDINGS  (CAF)  
+ 
+PLAN:  Contra Costa Health Plan  
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023  
+DATE S OF AUDIT:  August 7, 2023 through August 18, 2023  
+ 
+2 of 2   
+STATE SUPPORTED SERVICES  
+ 
+SUMMARY OF FINDING(S):  No deficiencies were identified in this audit.  
+ 
+RECOMMENDATION(S):  N/A 
+  

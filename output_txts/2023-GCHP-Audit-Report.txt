@@ -1,0 +1,382 @@
+ 
+  
+ 
+  
+ 
+ 
+CONTRACT AND ENROLLMENT REVIEW DIVISION  
+SANTA ANA 
+AUDITS AND INVESTIGATIONS 
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+VENTURA COUNTY MEDI -CAL  
+MANAGED CARE COMMISSION 
+DBA: GOLD COAST HEALTH PLAN  
+ 
+2023 
+ 
+Contract Number:  
+  
+10-87128      
+ 
+Audit Period:  
+   
+Dates of Audit :    
+Report Issued:   July 1, 202 2      
+    Through 
+June 30, 2023      
+ 
+July 31, 2023 
+    Through 
+August 11, 2023  
+ November 30, 2023  
+ 
+ 
+ 
+ TABLE OF CONTENTS  
+  I. INTRODUCTION ............................................................................. 1 
+ II. EXECUTIVE SUMMARY  ................................................................. 2 
+ III. SCOPE/AUDIT PROCEDURES  ...................................................... 4 
+ IV. COMPLIANCE AUDIT FINDI NGS 
+ Category 2 – Case Management & Coordination of Care ................ 5 
+Category 3 – Access and Availability of Care .................................. 9 
+    
+ 
+  
+ 1 of 11 
+ I. INTRODUCTION  
+  The Ventura County Board of Supervisors authorized the establishment of a County 
+Organized Health System (COHS)  on June 2, 2009. This action began the transition of 
+the county’s Medi -Cal delivery system from Fee-for-Service  (FFS)  to a managed care 
+health plan model .  
+ In April 2010, Ventura County Medi -Cal Managed Care Commission was  established as 
+an indepen dent oversight entity to provide health care services to Medi -Cal recipients 
+as Gold Coast Health Plan (Plan). A C ontract between the COHS and the Department 
+of Health Care Services  (DHCS)  was approved on June 20, 2011. The Plan began 
+serving local members  as a m anaged care plan on July 1, 2011.  
+ The Plan’s provider network consists of approximately 463 primary care, 4,763 
+specialists, 415 behavioral health, and 4 49 other service providers . The Plan contracts 
+with 24 hospitals , 19 acute care,  and five tertiary hospitals.  
+ Medi -Cal is the Plan’s only line of business. As of August  31, 202 3, the Plan served 
+approximately 255,062 members.   
+     
+ 
+  
+ 2 of 11 
+ II. EXECUTIVE SUMMARY  
+  This report presents the audit findings of the DHCS medical audit for the period of 
+July 1, 202 2 through June 30, 202 3. The audit  was conducted from July  31, 202 3 
+through August 11, 202 3. The audit consisted of document review s, verification studies, 
+and interviews with  Plan representatives  and a delegate entity .   
+ An Exit Conference was held on October 24 , 2023. The Plan was allowed 15 calendar 
+days from the date of the Exit Conference to provide supplemental information to address the preliminary audit findings. The Plan submitted a response to address the audit findings.  
+ The audit evaluated six categor ies of performance: Utilization Management, Case 
+Management and Coordination of Care, Access and Availability of Care, Member ’s 
+Rights, Quality Management, and Administrative and Organizational Capacity . 
+ The prior DHCS medical audit , for the audit period of June 1, 2021 through May 31, 
+2022, was issued on January 4, 2023. This audit examined documentation for 
+compliance.  
+ The summary of findings follow s: 
+ Category 1 –  Utilization Management  
+ There were no findings in this category for this audit period.  
+ Category 2 –  Case Management and Coordination of Care 
+ The Plan is required to apply a DHCS approved health risk stratification mechanism or algorithm to identify newly enrolled Seniors and Persons with Disabilities (SPD)  
+beneficiaries.  The Plan did not ensure to perform  health risk stratification or apply an 
+algorithm to identify newly enrolled SPD beneficiaries with higher risk and more complex health care needs within 44 days of enrollment .   
+ The Plan is required to administer the DHCS approved Health Risk Assessment (HRA) 
+survey for SPD beneficiaries. The Plan did not ensure the provision of a HRA survey 
+within 45 days for SPD beneficiaries deemed to be at a higher health risk, and 105 days for those determined to be a lower health risk.  
+ Category 3 –  Access and Availability of Care  
+ The Plan is required to implement prompt investigations and Corrective Action Plans 
+(CAP) when compliance monitoring discloses that the Plan’s provider network is not 
+sufficient. The Plan does not have procedures to impose prompt and effective corrective 
+ 
+  
+ 3 of 11 
+ actions to bring non- compliant providers into compliance with access standards.  
+ Category 4 –  Member’s Rights  
+ There were no findings in this category for this audit period.  
+ Category 5 –  Quality Management  
+ There were no findings in this category for this audit period.  
+ Category 6 –  Administrative and Organizational Capacity 
+ There were no findings in this category for this audit period.  
+  
+ 
+  
+ 4 of 11 
+ III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ The DHCS, C ontract and Enrollment Review Division conducted this audit to ascertain 
+medical services provided to Plan members complied with federal and state laws, Medi -
+Cal regulations and guidelines, and the state COHS contract.  
+ 
+PROCEDURE  
+ The audit period was July 1, 2022, through June 30, 2023. The audit was conducted 
+from July 31, 2023 through August 11, 2023. The audit included a review of the Plan's 
+policies for providing services, the procedures used to implement the policies, and verification studies to determine that policies were implemented and effective. Documents were reviewed and interviews were conducted with Plan representatives and a delegated network provider.   
+ The following verification studies were conducted:  
+ Category 2 – Case Management and Coordination of Care 
+ Initial Health Assessment (IHA): 20 medical records were reviewed to confirm 
+completion of IHA s.  
+ Category 3 – Access and Availability of Care  
+ Non-Emergency Medical Transportation ( NEM T): Ten records were reviewed to confirm 
+compliance with NEMT requirements.  
+ Non-Medical Transportation (NMT): Ten NMT records  were reviewed to confirm 
+compliance with NMT requirements.  
+ Category 4 – Member’s Rights  
+ Grievance Procedures: 24 quality of service grievances  were reviewed for timely 
+resolution, appropriate response to complainant, and submission to the appropriate level for review. Six exempt grievances were reviewed for proper classification and routing to the appropriate level for review.  
+ A description of the findings for each category is contained in the following report.  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022 through June 30, 2023  
+DATES OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 5 of 11 
+  
+ CATEGORY 2 – CASE MANAGEMENT AND COORDINATION OF CARE  
+  
+2.1  
+                                          INITIAL HEALTH ASSESSMENT   
+ 
+2.1.1 Health Risk Stratification for Seniors and Persons with Disabilities Beneficiaries 
+ The Plan shall apply a DHCS approved health risk stratification mechanism or algorithm to identify newly enrolled SPD beneficiaries with higher risk and more complex health care needs within 44 days of enrollment. (Contract, Exhibit A, Attachment 10 (4))  
+ The Plan is required to comply with all existing final Policy Letters and All Plan Letters (APL) issued by DHCS. ( Contract, Exhibit E, Attachment 2(D))  
+ Each Plan shall use a risk stratification mechanism or algorithm to analyze member -specific 
+FFS utilization data or Health Information Form/Member Evaluation (HIF/MET) data (when it exists) and identify newly enrolled SPD members with higher risk and more complex health care needs. The Plan must complete this stratification within 44 calendar days of enrollment. If FFS utilization data and/or HIF/MET data is not available, the MCP must determine by other means if SPD members are higher or lower risk. (Medi -Cal Managed Care Division (MMCD) 
+Policy Letter 17- 013, Requirements for Health Risk Assessment of Medi -Cal Seniors and 
+Persons with disabilities)  
+ To implement the stratification, the Plan is required to have a process which includes the HIF/MET in each newly enrolled SPD member's welcome packet and a postage- paid envelope 
+for mailing back the completed HIF/MET form. The Plan is also required to have a process of making at least two telephone call attempts to remind new SPD members to return the HIF/MET and/or to collect the HIF/MET information from new SPD members within 90 days of 
+enrollment . (MMCD Policy Letter 17 -013, Requirements for Health Risk Assessment of Medi -
+Cal Seniors and Persons with D isabilities)  
+ Plan Policy , (# HS- 046) Health Information Form/Member Evaluation Tool (HIF/MET) ( revised 
+12/2020), states that the Plan utilizes HIF/MET data to perform SPD health risk stratification. 
+New members are sent a DHCS approved HIF/MET as part of a welcome packet. A color -
+coded postage- paid envelope is included with the HIF/MET to facilitate return of the 
+document. The Plan’s staff will screen returned HIF/METs for the need for expedited services within 30 days of receiving the HIF/MET in the mail. HIF/METs with no findings or checkmarks from the mem ber will be noted when entered in the Electronic Health Record.   HIF/METs with 
+a yes checked, will result in a call to the member and the HRA survey will be administered.  
+ Finding: The Plan did not ensure to perform health risk stratification for SPD beneficiaries 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022  through June 30, 2023  
+DATES  OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 6 of 11 
+ within 44 days of enrollment.  
+ Plan Policy , (# HS- 046) Health Information Form/Member Evaluation Tool (HIF/MET) ( revised  
+12/2020) does not include the process of making at least two telephone call attempts to 
+remind new SPD members to return the HIF/MET as required. Additionally, there is no description of a process for stratifying members who lack Medi -Cal FFS utilization or HIF/MET 
+data into higher or lower risk groups w ithin 44 days of enrollment with the Plan.  
+ The Plan’s 2023 Member Handbook  did not contain information that newly enrolled SPD 
+members need to complete HIF/MET forms.  
+ In a verification study, the Plan did not perform a health risk stratification for eight of nine newly enrolled SPD members within 44 days of enrollment with the Plan. Although the Plan documented that members did not return the HIF/MET forms, there was no documentation of the Plan making at least two telephonic outreach attempts to remind new SPD members to return the HIF/MET forms as required. Furthermore, the Plan also did not document an alternate process for performing SPD health risk stratification in the absence of HIF/MET data.  
+ In an interview, the Plan stated that it sends HIF/MET f orms for SPD members to complete but 
+the Plan does not currently have a process to make at least two telephone call attempts to remind SPD member s to return the HIF/MET forms.  
+ The Quality Improvement Committee (QIC) receives reports on HIF/MET forms retur ned to the 
+Plan and referrals for care management based on HIF/MET data. However, these reports do not indicate if care management referrals or forms returned are from the SPD population or any other lines of business. The March 21, 2023 QIC meeting minutes reveal a downward trend in care management referrals and returned HIF/MET forms but there is no documentation of Plan actions to address this issue.  
+ Health needs may not be identified and prioritized if SPD members are not assessed for their health risk  level in a timely manner.  
+ Recommendation: Revise and implement policies and procedures to ensure the Plan performs health risk stratification for SPD beneficiaries within 44 days of enrollment.  
+ 2.1.2 Health Risk Assessment Survey for Seniors and Persons with Disabilities 
+Beneficiaries.   
+ Based on the results of the health risk stratification, the Plan shall administer the DHCS 
+approved  HRA survey within 45 days for SPD beneficiaries deemed to be at a higher health 
+risk, and 105 days for those determined to be a lower health risk. ( Contract , Exhibit  A, 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022  through June 30, 2023  
+DATES  OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 7 of 11 
+ Attachment A.10.4)  
+  
+The Plan is required to comply with all existing final Policy Letters  and APL issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(D))  
+ The Plan is required to complete the HRA within 45 calendar days of enrollment for those 
+identified by the risk stratification mechanism as higher risk and within 105 calendar days of enrollm ent for those identified as lower risk. The HRA is then used to re- classify all newly 
+enrolled SPD members as higher or lower risk. (For some members, this re- classification 
+based on the HRA may be different from their earlier classification based on the s tratification 
+tool. (MMCD Policy Letter 17 -013, Requirements for Health Risk Assessment of Medi -Cal 
+Seniors and Persons with Disabilities)  
+ The Plan Policy , (# HS- 040) SPD Health Risk Assessment ( revised 06/2021) , states that the 
+Plan will make an attempt to contact newly enroll SPD members within 45 calendar days of enrollment. When the member is contacted, the Plan will conduct the HRA to stratify the member current health risk. Two unsuccessful telephonic attempts to reach a member will be follow ed by an Unable to Reach (UTR) letter. If the member does not respond  following the 
+UTR letter, the Plan will notify the member’s Primary Care Physician (PCP) of the presumed 
+risk status and encourage the PCP to set up an initial appointment with the member.  
+ Finding: The Plan did not ensure HRA completion within 45 days for high- risk SPD members 
+and within 105 days for low- risk SPD members.  
+ In a verification study of nine newly enrolled SPD members, the Plan did not complete five HRAs within required timeframes. All five SPD members did not have a completed HRA on file. Additionally, there is no documentation of the Plan’s member outreach attempts.  
+ In a written response, the Plan stated that it utilizes a Care Management Coordinator Support Card  check list to record HRA intake and HRA contact attempts. However, this check list was 
+not included in the verification records submitted by the Plan.  
+ Durin g the interview and the Plan’s written follow -up responses, the Plan did not provide 
+sufficient detail on the root cause of missing HRAs for the five SPD samples.  
+ The Plan’s  2023 Member Handbook did not contain information that newly enrolled SPD 
+members need to complete HRA forms.  
+ If the HRA is not provided, SPD members with high- risk and more complex health care needs 
+are not identified and individualized care plans are not developed, and consequently, the quality of care may be compromised.  
+ 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022  through June 30, 2023  
+DATES  OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 8 of 11 
+ Recommendation: Revise and implement policies and procedures to ensure HRA completion 
+within 45 days for high- risk SPD members and within 105 days for l ow-risk SPD members.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022 through June 30, 2023  
+DATES OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 9 of 11 
+  
+ CATEGORY 3 – ACCESS AND AVAILABILITY OF CARE  
+ 
+3.1 CORRECTIVE ACTION PROCESS  
+ 
+3.1.1 Corrective Action for Timely Access Deficiencies  
+ The Plan is required to establish acceptable accessibility standards in accordance with the California Code of Regulations (CCR), Title 28, section 1300.67.2.2. The Plan shall communicate, enforce, and monitor providers' compliance with access standards. ( Contract, 
+Exhibit A, Attachment 9 (3)) 
+ The Plan is required to implement prompt investigation and corrective action when compliance monitoring discloses that the Plan’s provider network is not sufficient to ensure timely access, which includes but is not limited to taking all necessary and appropriate action to identify the causes underlying identified timely access deficiencies and to bring its network into compliance . (CCR, Title 28, section 1300.67.2.2 (d)(3))  
+  Plan Policy , NO-009/AA -001 Access and Availability Standards ( effective 06/2022)  indicates 
+that if providers are deemed non- compliant, corrective actions will be imposed to bring them 
+back into compliance.  
+ Finding: The Plan did not ensure prompt investigation and corrective actions are imposed to 
+bring providers into compliance with access standards.    The Plan conducted a Provider Access Appointment Availability and After -Hours Audit for the 
+period of 2021 through 2022. Based on the audit results, many of the Plan’s PCP and specialist s did not meet the provider access standards denoted by their non- compliant rates of 
+41.8 percent  for PCPs and 76.1 percent  for specialist s.  
+ In an interview, the Plan stated that although access reports show non- compliance to access 
+standards, the Plan did not impose CAPs due to not reviewing the 2020 survey results to determine if any of the providers identified on the 2022 survey were repeat offenders.   By not complying with  policie s and procedures to effectively impose and monitor  a CAP, the 
+Plan cannot ensure that providers comply with all applicable federal and state laws, regulations, and Contract requirements, which may lead to delays in obtaining necessary medical services for the Plan’s members.  
+ Recommendation: Develop and implement policies and procedures to ensure prompt 
+investigation and corrective actions are imposed to bring providers into compliance with 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022  through June 30, 2023  
+DATES  OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 10 of 11 
+ access standards . 
+ 3.8.1 Prompt Corrective Action Plans  
+ The Plan is required to establish acceptable accessibility standards in accordance with CCR, Title 28, section 1300.67.2.2. The Plan shall communicate, enforce, and monitor providers' compliance with access standards. (Contract, Exhibit A, Attachment 9 (3)) 
+ The Plan is required to implement prompt investigation and corrective action when compliance monitoring discloses that the Plan's provider network is not sufficient to ensure timely access, which includes but is not limited to taking all necessary and appropriate action to identify the causes underlying identified timely access deficiencies and to bring its network into compliance . (CCR, Title 28, section 1300.67.2.2 (d)(3))  
+ The Plan is required to  have policies and procedures for imposing corrective act ion on 
+network providers upon discovering non- compliance.  (MMCD Policy Letter 17 -004, 
+Subcontractual Relationships and Delegation)  
+ Plan Policy, DO -001 Delegation Oversight –  Subcontracting Arrangements  (revised 09/2018) , 
+states  that on site audits are a standard business practice and upon completion, results will be 
+reviewed and appropriate notification disseminated. The notification will include one or more of the following: a CAP, Letter of non- compliance, or a close -out letter wit h no findings , and all 
+will include scoring,  if applicable. The results of all audits are reported to the Compliance 
+Committee.  
+ Plan Policy, DO -002 Sanctions Subcontractor  (revised 09/2018) , states  that  the Plan may 
+impose penalties if the subcontractor fails to comply with the requirements of the  Plan’s  
+Program; penalties will be commensurate with the seriousness of the noncompliance issue.  The Plan may escalate the penalties imposed at its discretion, as the situation warrants.  
+ Finding: The Plan did not ensure CAPs were promptly imposed to bring NEMT/NMT 
+providers in compliance with timely access standards.  
+ The annual NEMT/NMT audit revealed that the Plan did not promptly issue a CAP for multiple 
+deficiencie s identified. These deficiencies were noted in 2018,  but the Plan did not issue a 
+CAP until November 202 2. Additionally, this CAP remained open as of July 2023.  
+ The Plan took longer than 30 days to issue a CAP for  the annual audit although the Plan 
+stated in an interview that it takes 30 days to issue a CAP after an identified deficiency. The Plan does not impose CAPs until a provider is out of compliance for over multiple years.  
+ 
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan  
+ 
+AUDIT PERIOD: July  1, 2022  through June 30, 2023  
+DATES  OF AUDIT: July 31, 2023 through August 11, 2023  
+ 
+  
+ 11 of 11 
+ Without prompt issuance of CAPs,  the Plan cannot ensure that  providers comply with all 
+applicable federal and state laws, regulations, and Contract requirements. The risk of prolonged non- compliance can lead to delays in obtaining necessary medical services for 
+members.  
+ Recommendation: Revise and implement to ensure CAPs are promptly imposed to bring 
+NEMT/NMT providers in compliance with timely access standards.  
+    
+                      
+       
+CONTRACT AND ENROLLMENT REVIEW DIVISION            
+SANTA ANA 
+AUDITS AND INVESTIGATIONS 
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON STATE SUPPORTED SERVICES  
+VENTURA COUNTY MEDI -CAL  
+MANAGED CARE COMMISSION 
+DBA: GOLD COAST HEALTH PLAN  
+ 
+2023  
+ 
+Contract Number:   
+  
+10-8712 9 
+State Supported Services  
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ July 1 , 202 2 
+    Through 
+June 30, 2023  
+ 
+July 31, 2023  
+    Through 
+August 11, 2023  
+ November  30, 2023 
+ 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ Il. COMPLIANCE AUDIT FINDINGS ................................................... 2 
+   
+ 
+ 1 of 2 I. INTRODUCTION  
+   
+The audit report presents the findings of Ventura Country Medi -Cal Managed Care 
+Commission dba Gold Coast Health Plan (Plan) State Supported Services contract 
+No.10-87128. The State Supported Services Contract covers contracted abortion services 
+for the Plan.  
+ The onsite audit was conducted from Monday, July 31, 2023 through Friday, August 11, 
+2023. The audit covered the review period from July 1, 2022 through June 30 , 2023 . The 
+audit consisted of a document review of materials provided by the Plan.  
+ An Exit Conference with the Plan was held on October 24, 2023.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  Gold Coast Health Plan 
+ 
+AUDIT PERIOD:  July 1, 2022, through June 30, 2023 
+DATES OF AUDIT:  July 31, 2023, through August 11, 2023 
+ 
+ 
+ 2 of 2  
+STATE SUPPORTED SERVICES  
+ 
+SUMMARY OF FINDING:  The Plan outlines their processes and procedures for the 
+consistent and accurate processing of sensitive service claims through the Abortion Services Claims Reimbursement policies and procedures, Provider Manual,  and 
+Member Handbook. Abortion services are covered for Plan members and do not require prior authorization.  
+ No errors were noted in the verification study conducted to determine appropriate and timely adjudication of State Supported Services claims. There were no findings noted.  
+ 
+RECOMMENDATION:  None. 
+     

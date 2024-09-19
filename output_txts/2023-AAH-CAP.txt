@@ -1,0 +1,878 @@
+    
+California Department of Health Care Services                                                                    
+Managed Care Quality and Monitoring Division    
+P.O. Box 997413 | Sacramento , CA | 95899-7413  
+MS 4400  | Phone ( 916) 449-5000  | www. dhcs.ca.gov  State of California  
+Gavin Newsom, Governor   
+California Health and Human Services Agency  
+ 
+April 26, 2024   Richard Golfin III, Chief Compliance Officer  
+Alameda Alliance for Health  
+1240 South Loop Rd.  
+Alameda, CA 94502  
+ RE:  Department of Health Care Services Medical Audit     
+ 
+ 
+Dear Mr. Golfin : 
+ The Department of Health Care Services (DHCS), Audits and Investigations Division conducted an on-site Medical Audit of Alameda Alliance for Health , a Managed Care 
+Plan (MCP), from April 17, 2023 through April 28, 2023.  The audit covered the period of 
+April 1, 2022  through March 31, 2023.  
+  
+The items were evaluated and DHCS accepts the MCP’s submitted Corrective Action 
+Plan (CAP). The CAP is hereby closed. The enclosed documents will serve as DHCS’ final response to the MCP’s CAP. Closure of this CAP does not halt any other processes in place between DHCS and the MCP regarding the deficiencies in the audit report or 
+elsewhere, nor does it preclude the DHCS from taking additional actions it deems necessary regarding these deficiencies.  
+ Please be advised that in accordance with Health & Safety Code Section 1380(h) and the Public Records Act, the final audit report and final CAP remediation document (final Attachment A) will be made available on the DHCS website and to the public upon request.  
+  
+If you have any questions, please reach out to CAP Compliance per sonnel.  
+ Sincerely,  
+ [Signature on file]
+ 
+ 
+  Lyubov Poonka, Chief  
+Audit Monitoring Unit  
+Managed Care Quality and Monitoring Division  
+California Department of Health Care Services  
+ Enclosures:  Attachment A (CAP Response Form)  
+ cc:      Stacy Nguyen , Chief  
+Managed Care Monitoring Branch  
+Managed Care Quality and Monitoring Division  
+California Department of Health Care Services  
+ Grace McGeough, Section Chief  
+Process Compliance Section  
+Managed Care Monitoring Branch  
+Managed Care Quality & Monitoring Division  
+California Department of Health Care Services  
+ Joshua Hunter , Lead Analyst  
+Audit Monitoring Unit  
+Managed Care Quality and Monitoring Division  
+California Department of Health Care Services  
+ 
+Lolita Aquino, Contract Manager  
+ Medi -Cal Managed Care Division  
+California Department of Health Care Services  
+  
+ATTACHMENT A 
+Corrective Action Plan  Response Form  
+ 
+Plan: Alameda Alliance for Health            Review Period: 4/1/22 – 3/31/23  
+Audit Type: Medical Audit                            On-site Review:  4/17/23 – 4/28/23  
+1 
+ 
+ MCPs are required to provide a C orrective Action Plan (C AP) and respond to all documented deficiencies  included in  the medical audit report within 30 calendar 
+days unless an alternative timeframe is indicated in the CAP Request letter.  MCPs are required to submit the CAP in Word format , which will reduce the turnaround 
+time for DHCS to complete its review. According to ADA requirements , the document should be at least 12 pt.  
+ The CAP submission must include a written statement id entifying the deficiency and describing the plan of action taken to correct the deficiency, as well as the 
+operational results of that action.  The MCP shall directly address each deficiency component by completing the following columns provided for MCP res ponse: 1. 
+Finding  Number and Summary , 2. Action Taken, 3. Supporting  Documentation, and 4. Completion/Expected Completion Date. The MCP must  include a project 
+timeline with milestones in a separate document for each finding. Supporting documentation should accompany each Action Taken. If supporting documentation 
+is missing, the MCP submission will not be accepted.  For policies and other documentation tha t have been revised, please highlight the new relevant text and 
+include additional details, such as the title of the document, page number, revision date, etc.,  in the column “Supporting Documentation” to assist DHCS in 
+identifying any updates that were made by the plan. Implementing deficiencies requiring short -term corrective action  should be completed within 30 calendar 
+days. For deficiencies that may be reasonably determined to require long-term corrective action for a period longer than 30 days to reme dy or operationalize 
+completely , the MCP is to indicate that it has initiated remedial action and is on the way toward  achieving an acceptable level of compliance. In those instances, the 
+MCP must include the date when full compliance will be completed in addition to the above steps.  Policies and procedures submitted during the CAP process must 
+still be sent to the MCP’s Contract Manager for review and approval, as applicable , according to  existing requirements.  
+ Please note that DHCS expects the plan to ta ke swift action to implement improvement interventions as proposed in the CAP; therefore, DHCS 
+encourages all remediation efforts to be in place no later than month 6 of the CAP unless DHCS grants prior approval for an extended implementation 
+effort . 
+ DHCS will communicate closely with the MCP throughout the CAP process and provide technical assistance to confirm that the MCP offers sufficient documentation to correct deficiencies. Depending on the number  and complexity of deficiencies identified, DHCS may require the MCP to provide weekly updates.  
+2 1. Utilization Management 
+Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+1.5.1 Notice of Action Letters  
+ The Plan did not ensure CHCN sent NOA letters to providers and members.  1. The Plan received CHCN's Root Cause 
+Analysis (RCA) and CAP on 04/14/2023. After review and evaluation of CHCN’s document the Plan issued a formal CAP to CHCN on 05/31/2023 and received CHCN’s CAP re sponse on 06/27/2023.  
+The initial corrective actions completed by CHCN includes updating their IT script and ensuring the identified missing NOA letters were sent out to the members.  Additionally, outreach was completed to confirm that services approved o r had 
+denial modification authorizations were utilized by members. CHCN also developed workflows to detect and mitigate failures. The CAP includes CHCN's implementation of a remediation plan. The remediation plan includes updates in their workflow, trainin g, and an 
+internal monthly audit - with results 
+submitted to AAH for review. The Plan reviewed and evaluated CHCN's CAP implementation and progress during the 
+interim and provided guidance. The CAP 1.5.1_AAH Response  
+folder: 1.5.1_CHCN RCA  
+1.5.1_ CHCN_NOA_CAP 1.5.1_CHCN CAP Closure  
+folder: 1.5.1 CHCN CAP docs folder: 1.5.1_DOC folder: 1.5.1_UMC  
+ 
+1.5.1_ 
+CHCN_NOA_CAP 
+   To follow  09/25/2023  
+(CAP closed)  Monitoring of CHCN’s monthly internal audit is ongoing.  
+         8/31/2023  
+    To be completed by 3/31/2024 The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ 
+• CHCN Root Cause Analysis conducted by the delegate identified the root cause of the NOA failure is a system failure caused by an IT script update. This systemic failure went undetected due to lack of preventative and detective controls in place. The root cause for the fax failure is also caused by a system error.  CHCN updated their IT script and ensuring the identified missing NOA letters were sent out to the members.  
+ DELEGATE CAP  
+ • CHCN CAP and CAP Closure letter demonstrate the MCP required the delegate to complete CAP to address the issue of not sending NOA letters to its members.  The delegate updated the IT script to demonstrate all letters are generated daily and the missing member notification letters were sent on 4/12/23. Additional corrective action includes: 
+ 
+o Develop and implement UM QA check list process. (Inpatient Authorization Checklist.pdf Outpatien t Authorization 
+Checklist.pdf) 
+ 
+3 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+was approved and closed on 09/25/2023. 
+(Completed)  
+ CHCN is expected to continue its internal monthly audit for the NOA letters and fax confirmation. The Plan will continue to monitor the audit results for compliance. Please see document 1.5.1_AAH Response for full details. (On Track)  
+ Additionally, the Plan will review the UM delegates’ P&Ps to ensure that preventative, detective, and oversight measures are in place for internal NOA letter generation and fax confirmation, and these will be evaluated annually at minimum. (On Track)  
+ 
+1a. Monitoring of CHCN’s monthly 
+internal audit is ongoing. (On Track)  
+  
+2. Review the UM delegates’ policies and procedures to ensure that preventative, 
+detective, and oversight measures are in o Update and map workflows. (IOUM01 Failed Faxes and Attached 
+Letters Workflow.pdf)  
+ 
+o Develop a monthly internal auditing process and report findings. (1.5.1_1_CHCN July Att, 1.5.1_1_CHCN Aug Att, July 2023 Audit, August 2023 A udit) 
+ MONITORING AND OVERSIGHT  
+ • July and August Attestations of delegate monthly audits demonstrates The MCP monitors and tracks the delegates monthly audits for the presence of missing NOAs.  
+ • Delegation Oversight Committee Agenda and NOA CAP status presentation demonstrate the MCP is monitoring the delegates monthly audits through the DOC meetings. CHCN August audit was reviewed by the committee.  (1.5.1_Agenda DOC_Q323 & 1.5.1_NOA_CAP Status DOC)  
+ • MCP review of updated CFMG NOA P&Ps demonstrates the  
+delegates policies satisfy ongoing NOA oversight. (1.5.1_CFMG_NOA Att) 
+  
+The corrective action plan for finding 1.5.1 is accepted.  
+4  
+ Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+place for internal NOA letter generation 
+and fax confirmation. (On Track)  
+5 2. Case Management and Coordination of Care  
+Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+2.1.1 Provision of an Initial Health Assessment   The Plan did not ensure the provision of a complete IHA for new members.  1. Update IHA policy 124 (On Track)  
+ 
+1a. Update policy 124 to include 
+requirement regarding outreach attempts 
+(On Track  
+ 
+2. Provider education and feedback 
+through Joint Operational Meetings (On 
+going)  
+ 
+2a. Deliver provider education webinars 
+with information about IHA requirements 
+(On Track) 
+ 
+2b. Develop a "Measure Highlights" tool 
+for providers. This tool will encompass 
+outreach requirements, IHA elements, 
+USPSTF screeni ngs, and claim codes used 
+to account for IHA completion.  
+ 
+3. Expand code set to include additional 
+codes for capturing IHA -related activities 
+(On Track) 
+ 2.1.1_QI -124 IHA 
+Policy_2023  
+ 
+2.1.1_QI -124 IHA 
+Policy_2023  
+  2.1.1_CHCN -
+AAH JOM Agenda Q2 2023  
+2.1.1_IHA Report Q1-Q4 2022 2.1.1_20223 HCQC Agenda   2.1.1 IHA Q2_2023  
+  
+2.1.1_IHA 
+Document  
+ 
+ 3/30/2024  
+  
+3/30/2024  
+    
+3/30/2024  
+         
+3/30/2024  
+   
+Completed  
+ The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ 
+POLICIES AND PROCEDURES   • Plan Policy QI -124 Initial Health Appointment was internally approved 
+on 3/19/24. For CAP purposes, policy complies with requirements as outlined in APL 23 -010. Policy has now been reviewed and approved 
+by both internal committees - Quality Improvement Hea lth Equity 
+Committee and Compliance Committee.   
+  • Plan developed an IHA Provider Guidance tool for providers. This tool compasses outreach requirements, IHA components, USPSTF screenings, and claim codes, and documentation requirements used to account for  IHA completion. (IHA Document)  
+ TRAINING  
+  
+• The Plan updated PowerPoint slides to reflect APL22-030 and presented them at the Joint Operational Meeting with Alameda Health System on 12/05/2023 and the CHCN Joint Operational Meeting on 12/13/2023. (Alameda Health System and CHCN Joint Operational Meeting minutes have been submitted)  
+  
+6 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+3a. Communicate and provide code sets 
+to providers (On Track)  
+ 
+4. Monitor IHA rates (Ongoing)  
+ 
+5. Enhance the volume of medical records 
+subjected to review for completeness, 
+including review of USPSTF requirements 
+(On Track) 2.1.1_IHA 
+Document  
+ 
+2.1.1_IHA Report 
+Q1-Q4 2022 
+  
+2.1.1_IHA_ Audit 
+Tool 2/28/2024  
+   
+3/30/2024  
+  
+Initiated - 
+3/30/2024  
+   
+12/31/2023  • Provider educational webinar - Schedule for 2024:  
+o Pay for Performance with IHA slide - 1/11/24 and 1/24/24 
+o ABCs of QI 3 Sessions - IHA slide - 2/13/24- 2/27/24  
+o Well Child 0 -30 mo. with IHA slide - 2/7/24  
+o Well Child 3 -21 yrs. with IHA slide - 3/13/24  
+o Chronic Disease with IHA slide - 4/4/24  
+o Cancer Prevention with IHA slide - 5/1/24  
+ MONITORING AND OVERSIGHT  
+• Plan submitted sample of communication letter (2.1.1 QI Pr vdr IHA). 
+Per Plan Provider Relations team, letter was placed into production on 2/20/24.  
+• The Plan monitors IHA rates by delegated entities and provider.  Rates are reviewed with delegated entities during Joint Operational Meetings. As part of the IHA audi ts, the plan sends education letters 
+to providers, identifying the missing elements of IHA.   
+ 
+• Supporting document submitted: 2.1.1_Prvdr Ed Letter (template), 2.1.1_IHA CAP 0423to121523 (IHA list of non -compliant providers). 
+  • All providers on the list we re placed under a CAP.  Missing elements 
+include the following (CAP 2.1.1._CAP Sample 1, 2.1.1_CAP Sample 2):  
+ 
+7 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+o History and physical (H&P) not completed within 120 days of 
+enrollment (PCP effective date) or within 12 months prior to enrollment.  
+o  Comprehensive H&P, including dental assessment, was not 
+completed.  
+ 
+The corrective action plan for finding 2.1.1 is accepted.  
+2.3.1 Behavioral Health Treatment Plan Elements   The Plan did not ensure members’ BHT treatment plans contained all the require d 
+elements.  1. The Behavioral Heath team developed the attached Treatment Plan Guidelines for our ABA Providers (please see attachment). This document outlines the treatment plan elements that are listed in APL 23 -010. The guidelines were emailed 
+to all pr oviders and are available on -line 
+for providers to access. In addition to the document, the ABA clinicians worked with the Provider communication team to send out updates/reminders to providers regarding the treatment plan guidelines. Our team is also avai lable to meet with 
+providers and educate them on how to apply the guidelines to their treatment plan templates. (Completed)  
+ 
+2.3.1_BH 004 
+P&P 
+2.3.1_Email to 
+Providers  
+2.3.1_Guidelines   04/01/2023  
+ Q1 2024- Audit  
+ Treatment plan expected to have by the first quarter of 2024.  
+ We are still waiting for an MOU template from DHCS for the Alameda County of Education and the LEAs.  
+ The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ 
+• Note: As part of the Plan’s corrective action plan, the Plan de -
+delegated mild to moderate BHT services from their delegate.  
+ POLICIES AND PROCEDURES  
+  
+• Plan developed Applied Behavior Analysis Treatment Plan Guidelines for Providers that outlines all required treatment plan elements per APL 23 -010, including expectations/helpful hints, treatment report 
+elements, and case supervision guidelines (2.3.1_Guidelines).  
+  
+• Plan provided evidence the Treatment Plan Guidelines were 
+distributed to its provider network via copy of Plan email sent on 5/24/23 (2.3.1_Email to Providers).  
+  
+8 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+1a. Pending Project: We are currently 
+developing an on-line treatment plan template/form that will be utilized by our ABA providers when completing the initial assessment and subsequent progress reports. This form includes the treatment plan elements required in APL 23 -010 and 
+providers will be required to complete this form when submitting the initial assessment/FBA and subsequent progress reports. This will ensure that all ABA providers use the same template and include the required elements in their reports/assessments. (On Track)  
+ In the interim while the project is pending, if information is missing from the Treatment Plan, the Plan will inform the provider and ask that they add the information and re -submit.  
+ 
+1b. The Plan intends to conduct audits on our Treatment Review documentation to 
+ensure that all required elements are 
+covered in the review process in  
+     Q1 2024  
+        Q1 2024  
+       Q1 2024  • Plan submitted revised Policy BH 004 BHT Services (MCOD approved) 
+outlining requirements per APL 23 -010, Responsibilities for Behavioral 
+Health Treatment Coverage for Members Under 21, including mastery of goals and crisis plans. Effective date: 4/10/24.  
+  
+• Plan is developing an online treatment plan template to be used by providers for initial assessments and subsequent progress reports. Template will include all required elements as outlined in APL 23 -010. 
+The use of the template will demonstrate consistency across all providers utilizing the same form.  
+  
+• A working form is scheduled to be completed b y April 2024 at which 
+time testing will begin.  Anticipated implementation date is 4/26/24.  
+  
+• Updates to Provider Manual (2.3.1 PR Manual Draft) that addresses the requirements outlined in APL 23 -010, including FAQs and 
+provider education on prior authoriz ation and referral processes. 
+Expected implementation/online availability by 6/1/24.  
+  MONITORING AND OVERSIGHT  
+  
+• Plan is implementing internal audits that will demonstrate treatment review documentation includes all required elements as outlined in APL 23 -010.  
+  
+9  Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+compliance with the requirements in the 
+APL. The expected implementation date of this audit is Q1 of 2024. (On Track)  
+ 
+1c. The Provider/PCP Manual is also  pending updates that will include a FAQ for PCPs, provider education regarding the prior authorization process, and the referral process. This is currently under 
+review -pending completion.  • Plan will utilize an 8/30 audit methodology that aligns with NCQA.  
+  
+• Plan submitted its proposed audit tool.  Quarterly audits are scheduled to be implemented starting 2/1/24. Q1 audit was scheduled to be completed by end of March. Sample BHT audit (Jan -
+24) submitted as evidence.  
+ 
+The corrective action plan for finding 2.3.1 is accepted.  
+10 3. Access and Availability of Care  
+Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+3.1.1 First Prenatal Visit   The Plan's policies and procedures for a first prenatal visit for a pregnant member is not compliant with the standard of two weeks upon request.  The Plan has edited the Timely Access Standard table, policy QI -107 and  QI-
+114 to reflect the first prenatal visit standard within 2 weeks of the request. (Completed)  
+3.1.1_QI -107 
+3.1.1_QI -114 
+3.1.1_TAS  
+ 3.1.1_ 1st Prenatal Tool 
+3.1.1_AAH narrative  
+3.1.1_OBGYN Tracker  Q4 2023  The following documentation supports the MCP’s efforts to correct this 
+finding:  
+  POLICIES AND PROCEDURES  
+• Updated P&P, “3.1.1_TAS: Timely Access Standards” (October 2023) which outlines the MCP’s monitoring process for appointment wait times and now includes First Prenatal Visit to be scheduled within two weeks of a member’s request. All providers contracted with the Plan are required to follow the TAS and offer appointments within the required timeframes. (3.1.1_TAS)  
+  
+• Updated Plan policies, “QI -107: Appointment Access and Availability 
+Standards” (09/19/23) and “QI -114: Monitoring of Access and 
+Availability Standards” (03/21/23) demonstrate alignment with contractual requirement (Contract, Exhibit A, Attachment 9 (3) (A and B)) of the first prenatal visit availability within two weeks upon 
+request.  (3.1.1_QI -107, page 2 and 3.1.1_QI -114, page 3)  
+   MONITORING AND OVERSIGHT  
+ 
+• The Plan developed and implemented an appointment survey tool 
+(3.1.1_1st Prenatal Tool) for network providers to complete and 
+11 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+submit to MCP. The survey tool demonstrates outreach and follow -up 
+of a member’s first prenatal appointment being scheduled within  the 
+two-week requirement.  
+  • Sample CAP letters (“3.1.1_1stPrenatal_Non -compliant" and 
+“3.1.1_1stPrenatal_Non -responsive") demonstrate the Plan issues 
+corrective action plans on providers that are found to be non-compliant or were non-responsive to the su rvey.  
+  • Sample audit tracker (3.1.1_OBGYN Tracker) as evidence that the Plan is conducting quarterly reviews of appointment surveys. The tracker addresses various components including Survey Date, Survey Outcome (compliant/non-compliant), and detailed not es which 
+include information such as first available appointment dates and times.  
+ 
+The corrective action plan for finding 3.1.1 is accepted.  
+3.6.1 Non -
+Contracted Provider Payments  
+ 
+The Plan did not 
+pay non -A Change Request was entered to change non-contracted mid-level provider reimbursements to 100% of the Medi -Cal rate moving forward. 
+(Completed)  3.6.1_Change 
+Request  
+3.6.1_Monitoring rpt  11/16/2023  The following d ocumentation supports the MCP’s efforts to correct this 
+finding:  
+  POLICY AND PROCEDURES  
+ 
+• Updated P&P, “CLM -003: Emergency Services Claims Processing” 
+(12/15/23) to state that the Contractor will demonstrate that 
+12 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+contracted 
+providers at the appropriate Medi -Cal fee -
+for-service rate.  Providers are reimbursed at a contracted rate or non -contracted 
+Providers at a minimum of the 100% of the Medi -Cal Fee Schedule 
+rates. In addition, a weekly report is run to review that non -
+contracted mid-level Providers are paid at a minimum of the Medi -
+Cal fee schedule rates. (CLM -003 Rvsd, Pages 2 and 7)  
+  • “Change Request” as evidence that the MCP has submitted a ticket to their IT department to change non-contracted mid-level providers reimbursements to 100% of the Medi -Cal rate moving forward. 
+(Change Request)  
+  MONITORING AND OVER SIGHT  
+ • Excel Spreadsheet, “Medi -Cal Fee Schedule Report” (11/15/23) as 
+evidence that the MCP has implemented a process to monitor that non-contracted providers are paid at the appropriate Medi -Cal fee -
+for-service rate. A weekly report is run to review that  non-contracted 
+mid-level Providers are paid at a minimum of the Medi -Cal fee 
+schedule rates. The report tracks the Remittance Amount and 100% Fee Schedule. (MCFS Rpt)  
+ 
+The corrective action plan for finding 3.6.1 is accepted.  
+3.6.2 
+Proposition 56 1. P&P has been revised to ensure that 
+Family Planning services paid on 3.6.2_ANA_04_ 
+Prop56  11/30/2023  
+ The following documentation supports the MCP’s efforts to correct this 
+finding:  
+13 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+Family 
+Planning Payments  
+ The Plan did not distribute add-on payments for institutional family planning service claims as required by APL 22-011.  institutional claims are paid as part of 
+Prop 56 payments.  
+ 
+1a. The Plan’s Analytics Team is in the 
+midst of preparing the payment details 
+for the retro payment on the FP 
+institutional data and looking to 
+complete by 11/30/2023 timeline.  
+ 
+2. The Analytics dept has calculated the retroactive pa yments due to facilities as 
+a result of finding 3.6.2, APL 22-011 and APL 23 -008. (On Track)  
+ 2a. Payments will be distributed to providers prior to or latest by Nov 30, 2023. (On Track)  
+ 2b. Facility providers with qualifying Family Planning services as per APL 23-008 will be included as part of our monthly Prop 56 payment processing going forward starting Dec 2023. (On Track)  
+   
+11/30/2023  
+      
+See below 
+     
+11/30/2023  
+    
+12/29/2023   
+POLICY AND PROCEDURES  
+ • Updated P&P, “ANA -004: Prop 56 Directed Payment Calculations” as 
+evidence that Family Planning services paid on institutional claims are paid as part of Prop 56 payments. Additional data sources identified per the APLs will also be incorporated as necessary. Any additional exclusions specified per the APLs are applied. The MCP will follow the guidelines of APLs and any superseding APLs after. (ANA 04 Prop 56, Page 2)  
+ • Excel Spreadsheet, “Prop 56 Family Planning Payment” as evidence that the MCP has calculated the retroactive payments due to providers. Payments will be distributed to providers by November 30, 2023. (Prop56 FP Paymt, 3.6.2_Prop56_FP_Req)  
+ • “Family Plannin g Documentation of Change” as evidence that the 
+MCP has included facility providers with qualifying Family Planning services as per APL 23 -008 to be included as part of the MCP’s 
+monthly Prop 56 payment processing. The MCP’s scripting for Prop 56 family pl anning claims identification has been modified to include 
+institutional providers. (FP Doc of Change)  
+  
+MONITORING AND OVERSIGHT  
+14 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+• “Family Planning Narrative with Screenshots” as evidence that the MCP has implemented a monitoring process to demonstrate that Family Planning services paid on institutional claims are paid as part of Prop 56 payments. On the first Sunday of each month, the MCP will run a report to identify for institutional family planning service claims. The first Family Plannin g Institutional Payment was released 
+on November 29, 2023. The MCP will manually store monthly Prop 56 payments onto its master paid table. Prop 56 Family Planning Institutional payments will be disbursed on a monthly basis. (FP Inst Narrative).  
+ 
+The corre ctive action plan for finding 3.6.2 is accepted.  
+3.8.1 Physician Certification Statement (PCS) Forms  
+ The Plan did not ensure PCS forms were on file for members receiving NEMT services.  1. The Plan made the decision to no 
+longer allow courtesy NEMT trips for 
+members without a PCS form on file 
+and the decision to insource PCS form 
+acquisition to the Plan’s Case 
+Management Department beginning 
+3/1/23. Working alongside the Plan’s 
+transportation subcontractor, 
+ModivCare, the Plan created new 
+workflows to ensu re ModivCare was 
+not scheduling NEMT trips for 
+members unless there was a confirmed Utilization 
+Management 
+Committee CM 
+Reports:  
+ 
+3.8.1_CM Rpt 
+UMC3.23 
+3.8.1_CM Rpt 
+UMC6.23 
+3.8.1_CM Rpt 
+UMC7.23 
+3.8.1_CM Rpt 3/1/2023 
+(OnTrack)  
+ 
+12/1/2023 (On 
+Track) The following documentation supports the MCP’s efforts to correct this finding:  
+ POLICY AND PROCEDURES  
+ • Plan policy “UM -016” demonstrates that the Plan requires the PCS 
+form to be reviewed for completeness/accuracy & must be submitted before NEMT services can be prescribed & provided to the member. If the PCS form is incomplete or with error, the Plan will contact member’s treating provider requesting updated PCS form with correc tions. Once complete/accurate form is received, the Plan will 
+15 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+valid PCS form on file, or the Plan 
+provided a verbal authorization due to 
+a trip being of an urgent nature. The 
+Plan hired two  transportation 
+coordinators to focus on PCS 
+acquisition leveraging the Plan’s 
+preexisting relationships with the 
+provider network and access to EHR’s. 
+Through the end of 2022 and 
+beginning of 2023, the Plan’s 
+subcontractor, ModivCare, trained its 
+call center agents on the new workflow.  
+On 2/14/23,  the Plan trained its 
+transportation coordinators on PCS 
+acquisition.  
+On 2/21/23, the Plan trained its entire 
+case management team, that 
+participates in phone shifts for the 
+Plan’s case management phone line, on 
+the parameters for verbal 
+authorizations for NEMT trips of an 
+urgent nature. The Plan continues to 
+report on the success of the new 
+workflows at the Plan’s UM Committee. 
+(On Track)  UMC9.23  
+ 
+PCS Training 
+Materials:  
+ 
+3.8.1_Mod PCS Trng 
+23 
+3.8.1_PCS Workflows 
+3.8.1_AAH PCS Auth 
+Trng  
+3.8.1_AAH PCS Trng 
+Att  
+3.8.1_AAH TC PCS 
+Trng  
+3.8.1_PTC PCS Trng 
+Att  
+ 
+P&P: 
+ 
+3.8.1_UM -016 P&P  
+ 
+3.8.1_PCS Tracking then process the form with its transportation broker. (UM -016, 
+Procedure, 4. j)  
+o The Plan has a process in place to verify its transportation brokers & providers are meeting all requirements & wi ll impose corrective 
+action if non -compliance is identified through oversight & 
+monitoring activities. (UM -016, page 3)  
+ MONITORING AND OVERSIGHT  
+ 
+• Plan document “PCS Workflows” demonstrates the Plan created new workflows to verify the transportation broker is scheduling NEMT trips for members prior to receiving NEMT services. If no PCS form is on file, the trip is NOT scheduled until the PCS form is obtained. Once a complete/accurate PCS form  is received; the request will then be 
+processed to schedule the member’s trip. (PCS Workflows) 
+ 
+• Plan tracking “Sept, Oct, Nov_2023_PCS” demonstrates the Plan is tracking verified NEMT trips on a monthly basis. The tracker captures how many trips were requ ested; how many did not include a PCS 
+form & how many trips were an urgent request. As of November 2023, the Plan has 68.66% of trips in PCS Compliance. 
+(Sept_2023_PCS, Oct_2023_PCS, Nov_2023_PCS)   
+ TRAINING  
+ 
+16 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+1a. The Plan is working with its analytics team to create a report using PCS data elements to match up against subcontractor’s report of all NEMT trips taken each month.  This report will assist in finding any gaps in PCS compliance.  The Plan estimates this report to go live 12/1/2023. (On Track)  • The training materials demonstrate that the Pla n’s staff received 
+training on the proper PCS form process, including focusing on obtaining the PCS form before the trip takes place to verify the correct level of transportation is provided to members. (CM Rpt UMC9.23, slide 2)  
+ • " AAH PCS Authorization Training” included the new PCS workflows that demonstrated the process for its broker to be sure it was not scheduling NEMT trips for members unless there was a confirmed valid PCS form on file, or the Plan provided a verbal authori zation due 
+to a trip being of an urgent nature. The Plan trained its entire case management team on the parameters for verbal authorizations for NEMT trips of urgency. (See AAH PCS Auth Trng, slides 8 - 20) 
+ 
+• The Plan provided the training tracker used to track the attendance of training for PCS forms. (See PTC PCS Trng Att)  
+  
+The corrective action plan for finding 3.8.1 is accepted.  
+3.8.2 
+Transportation Providers’ Medi -Cal 
+Enrollment 
+Status  The Plan has updated the P&P VMG -
+005 from reviewing the Transportation Providers (TP) on a quarterly review to a monthly review. Attached for reference is the updated P&P. The Plan 
+began reviewing the TP monthly for 3.8.2_VMG -005 P&P  4/1/2023  The following documentation supports the MCP’s efforts to correct this finding:  
+ POLICY AND PROCEDURES  
+ 
+17 Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+The Plan did not ensure all transportation providers were enrolled in the Medi -Cal 
+program.  the ut ilization from April 2023 to 
+current. (Completed and Ongoing)  • Updates to plan policy “VMG -005 Transportation Providers 
+Registration w/ DHCS” demonstrate the Plan is now monitoring transportation providers on a monthly basis versus a quarterly basis. (VMG -005 Transportation Provider Registration with DHCS, pages 1 -
+2) 
+ • Plan policy “UM -016 Transportation Guidelines”  demonstrates the 
+Plan has a process in place to verify its transportation brokers & providers are meeting all requirements & will impose corrective action if non -compliance  is identified through oversight & 
+monitoring activities. (UM -016 Transportation Guidelines, page 8)  
+ MONITORING AND OVERSIGHT  
+ • Plan policy “VMG -005 Transportation Providers Registration w/ 
+DHCS” demonstrates the Plan updated its P&P to review the Transportation Providers (TP) from a quarterly review to a monthly review. The policy states the Plan “will review trips, and registered transportation providers, also known as the “roster” monthly from the Plan’s transportation broker to demonstrate all transportation providers driving the Plan’s members are and were registered accordingly.” (VMG-005 Transportation Provider Registration with DHCS, page 1)  
+ 
+18  Finding 
+Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+• Plan Audit File Memo “Transportation Provider Review – Oct & Nov 
+2023” demonstrates the Plan’s implementation of its monitoring process. The Plan samples all trips taken for the month prior, checks verification & eligibility & notifies the transportation broker of its compliance. If any are to be found deficient, the Plan outlines the corrective action plan. From the evidence submitted, the broker’s roster is in compliance. (3.8.2_ModivC Oct2023 & 3.8.2_ModivC Nov2023)  
+ • Transportation Broker’s “roster” has been reviewed & approved by the MCQMD Transportation SME. (3.8.2_Prvdr Enrollmt)  
+ 
+The corrective action plan for finding 3.8.2 is accepted.  
+19 4. Member’s Rights  
+Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+4.1.1 Grievance Acknowledgement and Resolution Letter Timeframes  
+ The Plan did not send acknowledgement and resolution letters within the required timeframes.  A grievance processing timeline was 
+created to outline the grievance 30 calendar day process, day by day.    The timeline outlines that by day 5, acknowledgement letters will be sent out. We will continue to monitor the daily aging rep ort to 
+ensure that acknowledgement letters are  sent in a timely manner.  
+ The timeline also outlines that on Day 20, “If response is not received, after at least two  follow -up 
+attempts, task to a Medical Director in Quality Suite.” Complying with this process will ensure that the 
+Medical Director has sufficient time to reach out to the  provider or 
+facility to assist in obtaining a response. The Grievance and Appeals staff  were trained on the 
+new timeline on 08/01/2023, copies 
+of the timeline were distributed to 4.1.1_Daily Report  
+4.1.1_G&A Meeting  
+4.1.1_Grvnc Timeline  8/1/2023  The following documentation supports the MCP’s efforts to correct this finding:  
+ STAFFING  
+ • The MCP increased staffing and will have all open new positions that were approved for our 2024 year filled by the end of December. A total of 27 positions.  
+ TRAINING  
+ • G&A weekly meeting agenda and new grievance timeline demonstrate the MCP trained its staff on the new timeline requirements. The timeline requires staff to send acknowledgment letters by day three, and in the event no response is received by day 20, the grievance staff is to inform a Medical Director so that the Medical Director has sufficie nt time to obtain a response from the 
+provider. (4.1.1_G&A Meeting, 4.1.1_Grvnc Timeline)  
+ MONITORING AND OVERSIGHT  
+ • Daily Aging Report Example demonstrates the MCP monitors the timeliness of acknowledgment letters on a daily basis. (4.1.1_Daily 
+20 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+the department. (Completed and 
+Ongoing)  Report)  
+ • Monthly acknowledgment and resolution letter audit demonstrate the MCP is continuously monitoring the time frames of its grievance notification letters. (4.1.1_G_A Int Audit)  
+ • G&A Staff Case Report demonstrates the MCP is monitoring the case load for its G&A staff. (4.1.1_G&A Staff Case)  
+ 
+The corrective action for finding 4.1.1 is accepted.  
+4.1.2 Grievance Letters in Threshold Languages  
+ The Plan did not send acknowledgement, resolution delay, and resolution letters in threshold languages.  The Plan’s Grievance and Appeals 
+Department has created a reporting mechanism in our daily aging reports to monitor what cases are still pending translation and when was the request for translation sent out, this was implemented on 04/12/2023. We assigned one specifi c team member to be 
+responsible for following up on translation letters to ensure that they are getting the attention that they need to be completed in a timely manner. The Grievance 
+Processing Timeline will be updated 4.1.2_G&A 
+Complaints  10/10/2023  The following documentation supports the MCP’s efforts to correct this finding:  
+ TRAINING  
+ • G&A Team Weekly Meeting agenda from 10/10/23 and Resolution Translation Process workflow demonstrate the MCP trained its G&A staff on its translation process.  (4.1.2_Res Ltr Translation Process, 4.1.2_Wkly_Mtg Agenda_10.10.23)  
+ MONITORING AND OVERISGHT  
+ • Daily aging report gives the MCP the means to track the cases that are pending translation.  Translation requests are followed up on by 
+21 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+to include when a request for 
+translation needs to be sent out and the Grievance and Appeals staff will be provided with the updated  
+timeline and a refresher training will be conducted on 10/10/2023. 
+(Completed and ongoing)  specific team member to confirm they are com pleted timely. 
+(4.1.2_G&A Complaints)  
+ • Monthly acknowledgement and resolution letter audits demonstrate the MCP is continuously monitoring the translation of its grievance notification letters. (4.1.2_G_A Int Audit_11.23, 4.1.2_G_A Int Audit_12.23)  
+ 
+The corrective action plan for finding 4.1.2 is accepted.  
+4.1.3 Written 
+Notification of Grievance Resolution Delays  
+ 
+The Plan did not notify members of resolution delays in writing for grievances not resolved within 30 calendar days and did not resolve grievances by the 
+estimated The Plan’s Grievance and Appeals 
+Department will be updating our system, Quality Suite, to better capture data on if and/or when a delay letter is sent out. Once the system is updated, we will be able to create a reporting mechanism in our daily aging reports to monitor for when a case needs a delay letter and if the letter was sent out. The Grievance Processing Timeline will also be updated to include the process for sending out a delay letter and the Grievance and 
+Appeals staff will be provided with To follow  12/1/2023  The following documentation supports the MCP’s efforts to correct this finding:  
+ TRAINING  
+ • G&A Team Weekly Meeting from 12/28/23 demonstrates the MCP trained G&A staff on the Out of Compliance (OOC) Letter Process for grievances not resolved in 30 days. (4.1.3_Mtg_12.28.23)  
+ MONITORING AND OVERSIGHT  
+ • Monthly Monitoring reports demonstr ate the MCP is monitoring the 
+sending of OOC letters for grievances and appeals that have not been resolved in 30.  November and December 2023 audits show that 
+22 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+resolution date in 
+the delay letters.  the updated timeline and a 
+refresher training will be conducted. (Completed and Ongoing)  there were not any out of compliance cases for those months.  
+(4.1.3_G_A Int Audit_11.23, 4.1.2_G_A Int Audit_12.23)  
+ • Daily Aging Report demonstrates the MCP tracks cases that need delay letters including if the letter was sent out. (4.1.3_Daily Aging)  
+ 
+The corrective action for finding 4.1.3 is accepted.  
+4.1.4 Grievance Delay Timeframes  
+ The Plan 
+inappropriately utilized a 14 -
+calendar day delay timeframe for grievance resolutions.  In review of our current policy and procedures, and workflows; they were in line with the APL requirements. There was miscommunication in the staff training to use 14 calendar days instead of an estimated resolution date in the delay letters. There was a refresher training for the Grievance and Appeals staff held on 04/18/2023, the staff was provided the requirement and were reminded to provide an estimated resolution  
+date in the delay letters if a resolution is not reached within 30 calendar days. (Completed)  
+4.1.4_G&A Agenda  
+4.1.4_G&A Resolution  
+4.1.4_Grievance List 4/18/2023  The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ POLICIES AND PROCEDURES  
+ • Policy G&A -003 Grievance and Appeals Resolution and Standard 
+Grievance Checklist correctly state in the event resolution is not reached within 30 calendar days, the member shall be notified in writing by the plan of the status of the grievance and shall be provided with an estimated completion date of resolution. (4.1.4_G&A Resolution) 
+  TRAINING  
+ 
+• Agenda from 4/18/23 G&A Team Weekly Meeting demonstrates the MCP trained its staff that if a resolution is not reached within 30 
+calendar days, delay letters should be sent to the member and should 
+23 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+include the estimated resolution date, not an extension of 14 
+calendar days. (4.1.4_G&A Agenda)  
+  IMPLEMENTA TION 
+ 
+• Examples of grievance status letter demonstrate the MCP’s letters include  an estimated resolution date rather than a 14-day 
+extension. (4.1.4a_Grievance Delay Letter_Example_Redacted & 4.1.4b_Grievance Delay Letter_Example_Redacted)  
+  MONITORING AND OVERSIGHT  
+ • Grievance Checklist is used by the Grievance Coordinator to verify that in the event resolution is not reached within 30 calendar days, 
+the member is notified in writing with an estimated completion date of resolution. (4.1.4_Grievance List)  
+ 
+The corrective action plan for finding 4.1.4 is accepted.  
+4.1.5 Exempt 
+Grievance Resolution  
+ 
+The Plan did not 1. In conjunction with the Grievance 
+Department, the Member Services 
+Grievance Guide  was revised on 
+10/9/23. (Completed)  
+ 4.1.5_MS EG Guide  
+   
+ 10/9/2023  
+   
+11/1/2023  The following documentation supports the MCP’s efforts to correct this 
+finding:  
+  POLICIES AND PROCEDURES  
+  
+24 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+resolve exempt 
+grievances by close of the next business day. 1a. Training was provided to all 
+Member Services staff on these 
+revisions by 11/1/23. (Completed)  4.1.5 MS EG Email  • Revised P&P, MR -024, “Exempt Grievances” (01/09/24) demonstrates 
+the Plan revised its process to include, “For exempt grievances, the Member Services Representative, with the help of their Supervisor, Trainer, and/or Quality Assurance Specialist is responsible for the final resolution determination”. In addition, this P&P addresses the exempt grievance processing timeframe to resolve close of next business day. 
+ 
+  IMPLEMENTATION  
+  • Revised Member Service Exempt Grievance Guide, (10/09/23) revised to include: “If we are not able to secure a timely appointment for the member within the EG timeframe with the provider that they're trying to see, recategorize the case as G&A”. Member Serv ices Staff utilizes 
+the MS EG Guide to categorize grievances and determine the initial level of appropriate review during the initial intake of the call. In addition, the MS EG Guide does address the resolution of grievances.  
+  
+• Revised P&P, “CMP -029: Internal Audit” (12/19/23) which has been 
+revised to include, any audit scores below 95%, a Corrective Action Plan (CAP) will be issued to the department being audited. The CAP identifies the regulatory and/or contractual areas that were found to be non-compliant, and the recommendation from the Compliance 
+Department.  
+25 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+ MONITORING AND OVERSIGHT  
+ • Audit Tool, “Internal Audit”, (10/24/23) demonstrates the Plan is developing and deploying an internal audit process to continuously self-monitor to detect and prevent future non-compliance.   
+ • Internal Audit, “Exempt Case File Review” (Q3 2023 & Q4 2023) demonstrates the Plan is monitoring if exempt grievances are being resolved by close of the next business day and if it was forwarded to process as a standard grievanc e. For Q3 2023 internal audit, 
+compliancy rate was 98.3%. 60 exempt grievance cases were audited and only one exempt grievance case was not resolved by the next business day. For Q4 2023 internal audit, compliance rate was 100%. 60 exempt grievance cases w ere compliant with being resolved by the 
+next business day.  
+ • Meeting Minutes, “Board of Governors (12/08/23 and Compliance Advisory Committee (10/13/23) as evidence the Plan is reviewing the exempt grievance audit findings from the 2023 DHCS Medical Audit.  
+  
+• Workflow, “Member Services Department – Daily Documentation 
+Review Workflow” (04/26/23) which illustrates the process of the daily 
+review process to generate the Daily Dissatisfaction Report.  
+26 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+  
+• Analytic Request, “Analytic Request 13804” (04/2022) dem onstrates 
+the Plan has a daily process to reduce the number of misclassified grievances done by Member Services.  
+  • Report, “Daily Dissatisfaction Report” (12/2023) Member Services Staff review the Daily Dissatisfaction Report to verify the cases are accurately categorized and processed with the appropriate timeframe.  
+   • Findings, “Daily Findings” (12/2023) demonstrates the Plan produces a daily report of the misclassified grievances from the Daily Dissatisfaction Report. The GA Supervisor will provide  training to the 
+agent, and work with agent to recategorize the grievance.  
+    
+TRAINING  
+  
+• Training and Attestations, Training materials were provided to Member Services staff at the 09/28/23 Departmental Monthly Meeting for September. Training materials a ddressed how to 
+categorize grievances and determine the initial level of appropriate review during the initial intake of the call. 
+ 
+27 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+• Ongoing Training, “Exempt Grievances” (Updated 04/01/24) as 
+evidence the Plan is conducting ongoing training to address transition of a misclassified exempt grievance to a standard 
+grievance. Future Training dates are scheduled for June 27, 2024, September 26, 2024, and December 20, 2024.  
+ 
+The corrective action plan for finding 4.1.5 is accepted.  
+4.1.6 Grievance Identification  
+ The Plan did not process and resolve all member expressions of dissatisfaction as grievances.  1. Member Services has implemented a process to identify expressions of dissatisfaction  
+that were not classified appropriately. (Completed)  
+ 1a. A  Member Services Supervisor 
+works with the  agent to ensure the 
+case is classified accurately and resolved in a timely manner. (Completed)  4.1.6_MSD Workflow  
+     4.1.6_MSD Workflow  3/15/2023  
+    
+3/15/2023  
+The following documentation supports the MCP’s efforts to correct this 
+finding:  
+  POLICIES and PROCEDURES  
+  • Revised P&P, “CMP -029: Internal Audit” (12/19/23) which has been 
+revised to include, any audit scores below 95%, a Corrective Action Plan (CAP) will be issued to the department being audited. The CAP identifies the regulatory and/or contractual areas that were found to be non-compliant, and the recommendation from the Compliance Department.  
+  MONITORING AND OVERSIGHT  
+  
+• Analytic Request, “Analytic Request 13804” (04/2022) demonstrates the Plan has a daily process to reduce the number of misclassified 
+grievances done by Member Services.  
+28 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+• Workflow, “Member Services Department – Daily Documentation 
+Review Workflow” (04/26/23) which illustrates the process of the daily review process to generate the Daily Dissatisfaction Report.  
+  • Report, “Daily Dissatisfaction Report” (12/2023) Member Services Staff review the Daily Dissatisfaction Report to verify the cases are accurately categorized and pro cessed with the appropriate 
+timeframe.   
+ • Findings, “Daily Findings” (12/2023) demonstrates the Plan produces a daily report of the misclassified grievances from the Daily Dissatisfaction Report. The GA Supervisor will provide training to the agent, and wo rk with agent to recategorize the grievance.  
+  • Internal Audit, “Exempt Case File Review” (Q3 2023 & Q4 2023) demonstrates the Plan is monitoring inquiry calls for members who express dissatisfaction. For Q3 2023 internal audit, compliance rate was 93%. Out of the 60 grievance cases audited, seven cases were not appropriately classified. Q4 2023, compliance rate was 93%. Out of 60 grievance cases audited, four cases were not properly classified.  
+ 
+• In addition, the Plan is monitoring grievance cases to confirm if the MSR’s are appropriately addressing and resolving the member’s 
+issue(s). For Q3 2023 internal audit, compliance rate was 90%. Out of 
+29   Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+60 grievance cases audited, six cases were not appropriately 
+addressed and resolved by the MSR. For Q4 2023 internal audit, compliance rate was 97%. Out of 60 grievance cases audited, two cases were not appropriately addressed and resolved by the MSR.  
+ • Training and Attestations, Training materials were provided to Member Services staff at the 09/28/23 Departmental Monthly Meeting. Training materials addressed how to categorize grievances and determine the initial level of appropriate review during the initial intake of the call. The plan provides this training to all new hires during the New Hire Training which occurs w ithin the first 30 days of 
+the employees start date. The plan will provide training to the MS staff on a quarterly basis thereafter.  
+ 
+The corrective action plan for finding 4.1.6 is accepted.  
+30 SSS. State Supported Services  
+    Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+SSS.1 Minimum Proposition 56 Payments  
+ The Plan did not distribute minimum payments for a State Supported Services claim as described in APL 19-013.  The claims system configuration team has corrected the fee schedule for the provider and adjusted the impacted claims to pay the correct rate. (Completed)  SSS.1_Abortion APL Report  
+SSS.1_Analytics 
+Request  4/26/2023  The following documentation suppo rts the MCP’s efforts to correct this 
+finding:  
+ POLICY AND PROCEDURES  
+ • Updated P&P, “CLM -011: State Supported Services (Abortion Services) 
+Claims Processing” (12/15/23) which states that no reimbursement shall be lower than those rates indicated in Proposition 56 guidelines under APL 19 -013. (CLM -011(Revsd), Page 2).  
+ MONITORING AND OVERSIGHT  
+ • Excel Spreadsheet, “Abortion APL Report” as evidence that the MCP has implemented a monitoring process to track the distribution of minimum payments for State Supported Services claims. The MCP will run a weekly report of paid claims for abortion services (59840 & 59841) to show paid amount, expected paid amount, and any difference in paid vs expected amount. (Abortion APL Report).  
+ 
+The corrective action plan fo r finding SSS.1 is accepted.  
+31 Submitted by: Matthew Woodruff  
+Chief Executive Officer  
+ Richard Golfin III, FACHE Chief Compliance & Privacy Officer  
+ Signed by:  [Signature on File]  
+Date:  

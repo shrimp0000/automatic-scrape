@@ -1,0 +1,540 @@
+1 
+ 
+   
+DHCS AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT DIVISION  
+LOS ANGELES SECTION  
+ 
+REPORT ON THE MEDICAL AUDIT OF SANTA 
+CLARA COUNTY HEA LTH AUTHORITY DBA 
+SANTA CLAR A FAMILY HEALTH PLAN 2024  
+ 
+Contract Number:  04-35398  
+Audit Period:  March  1, 2023 – January 31, 2024 
+Dates of Audit:  February 5, 2024 – February 16, 2024  
+Report Issued:  June 26, 2024  
+         
+ 
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 1  
+II. EXECUTIVE SUMMARY ...................................................................................... 2  
+III. SCOPE/AUDIT PROCEDURES ........................................................................... 4  
+IV. COMPLIANCE AUDIT FINDINGS Category 1 – Utilization Management ......................................................... 6   
+Category 2 – Case Management and Coordination of Care .............. 11  
+Category 4 – Member’s Rights ...................................................................... 13  
+Category 5 – Quality Management .............................................................. 18 
+ 
+  
+3 
+ 
+I. INTRODUCTION  
+ In 1995, the Santa Clara County Board of Supervisors established the Santa Clara County 
+Health Authority (SCCHA) under the authority granted by Welfare and Institutions Code section 14087.36. The SCCHA , distinct from the County , was given the mission to 
+develop a community -based health plan, Santa Clara Family Health Plan (Plan), to 
+provide coverage to Medi -Cal Managed Care recipients.  
+The Plan is licensed in accordance with the provisions of the Knox -Keene Health Care 
+Service Plan Act of 1996. Since 1997, the Plan has contracted with the State of California Department of Health Care Services (DHCS) as the local initiative for Santa Clar a County 
+under the Two-Plan Medi -Cal Managed Care model.  
+The Plan delivers services to members through delegated groups and vendors. The Plan partners with over 6,000 providers which include p rimary care providers ( six delegate 
+groups), specialists, hospitals (including all h ospitals in Santa Clara County), p harmacies, 
+long-term service supports and allied providers.  
+As of February  2024,  the Plan had 278,696 members , of which 268, 038 were Medi -Cal 
+members and 10,658 were Cal -Medi -Connect members.   
+The Plan is accredited  by the National Committee for Quality Assurance for the 
+Medicare line of business for consumer protection and quality improvement . 
+  
+4 
+ 
+II. EXECUTIVE SUMMARY 
+ This report presents the audit findings of the DHCS medical audit for the period of 
+March 1, 202 3 through January  31, 2024 . The audit was conducted from February  5, 
+2024  through February  16, 2024. The  audit consisted of document reviews, verification 
+studies, and interviews with Plan representatives.  
+An Exit Conference with the Plan was held on June 4, 2024.  The Plan was allowed 15 
+calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. On June 20, 2024, the  Plan submitted a 
+response after the Exit Conference. The results of DHCS evaluation of the Plan’s 
+response are reflected in this report.  
+The audit evaluated six categories of performance : Utilization Management  (UM) , Case 
+Management and Coordination of Care, Access and Avail ability of Care,  Member’s 
+Rights, Quality M anagement , and Administrative and Organizational Capacity.   
+The prior DHCS medical audit  for the period of March 1, 2022  through February 28, 
+2023  was issued on September 6, 2023 . This audit examined the P lan’s compliance with 
+the DHCS C ontract and assessed the implementation of the prior year  2022,  Corrective 
+Action Plan (CAP) .  
+Findings denoted as repeat findings are uncorrected deficiencies substantially similar to those identified in the previous audit.  
+The summary of the findings by category follows:  
+Category 1 – Utilization Management  
+The Plan is required to ensure that the UM program includes an established referral  
+system to track and monitor referrals requiring prior authorization . The Plan ’s referral 
+tracking system  did not track and monitor  the timeliness of referrals.  
+The Plan must maintain a written record for each grievance  and appeal.  The written 
+record did not include  a description of the complaint or problem, a description of the 
+action taken , and the name of the provider or staff responsible for resolving the appeal .  
+The Plan is required to ensure that p rior authorization s, concurrent reviews , and 
+retrospective review procedures meet prior authorization requirements and shall not be applied to preventive services . The Plan’s delegate required  prior authorization s for 
+preventive services.  
+5 
+ 
+Category 2 – Case Management and Coordination of Care  
+The Plan is required to ensure that appropriate diagnostic and treatment services are 
+initiated  following a preventive screening or other visits that identif y a need for follow-
+up. The Plan did not implement policies and procedures to ensure B ehavioral Health 
+Treatment  (BHT)  members have the necessary care coordination for appropriate 
+services.  
+Category 3 – Access and Availability of Care  
+No findings were noted during the audit period.  
+Category 4 – Member’s Rights 
+The Plan is required to have in place a system and procedures that will receive, review,  
+and resolve grievances . The Plan did not investigate and completely resolve members’  
+grievances.  
+The Plan is required to follow g rievance and appeal requirements, which include a clear 
+and concise written resolution letter of the Plan’s dec ision . The Plan did not send 
+grievance resolution letters with a clear and concise explanation of its decision.  
+The Plan is required to maintain a full-time  physician as Medical Director whose 
+responsibilities shall include resolving grievances related to medical Q uality of C are 
+(QOC) . The Plan did not ensure that all QOC grievances were resolved by t he Medical 
+Director within the grievance process.  
+Category 5 – Quality Management  
+The Plan is required monthly monitor, evaluate, and take effective action to address any 
+needed improvements in the QOC  delivered by all providers  and screen encounter data  
+for the presence of Provider Preventable Conditions (PPCs) . The Plan did not have a 
+process to identify potential QOC issues derived from reportable PPCs . 
+The Plan is required to develop, implement, and maintain written procedures pertaining to any form of medical records, including collection, maintenance, retrieval, and distribution.  The Plan did not have an effective process to ensure providers responded 
+with the necessary information  or medical records required to evaluate the QOC 
+delivered to members.  
+Category 6 – Administrative and Organizational Capacity  
+No findings were noted during the audit period.  
+6 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+The DHCS Contract and Enrollment Review Division conducted the audit to ascertain 
+that medical  services provided to Plan members comply with federal and state laws, 
+Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+DHCS conducted an audit of the Plan from February  5, 2024  through February  16, 2024 . 
+The audit included a review of the Plan’s Contract with DHCS, policies and procedures for providing services, procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. D ocuments were 
+reviewed and interviews were conducted with Plan administrators and staff.  
+The following verification studies were conducted:  
+Category 1 –  Utilization Management  
+Service Requests: A total of  35 medical services requests were reviewed for timeliness, 
+consistent application of criteria, and appropriate review. Of the 35  cases, one was a 
+retrospective request  and 34 were prior authorization requests . No concurrent  requests 
+were review ed. 
+Appeal Procedures: 15 appeals related to medical services were reviewed for appropriateness and timeliness of decision -making.  
+Category 2 –  Case Management and Coordination of Care  
+BHT: Ten medical records were reviewed for coordination, completeness, and 
+compliance with BHT provision requirements.  Continuity of Care (COC) : Ten medical records were reviewed to evaluate process used 
+for COC approval and notification of services.  
+Category 3 –  Access and Availability of Care  
+Non-Emergency Medical Transportation (NEMT) : Ten records were reviewed to confirm 
+compliance with NEMT requirements.  
+Non-Medical Transportation (NMT) :  Ten  records were reviewed to confirm compliance 
+with NMT requirements.  
+7 
+ 
+Category 4 –  Member’s Rights 
+Grievance Procedures: A total of 61 standard grievances (30 QOC and 31 Quality of 
+Service (Q OS), ten expedited grievances,  and four exempted grievances were reviewed 
+for timely resolutions, response to complainant, and submission to the appropriate level for review.  
+Category 5 –  Quality Management  
+Credentialing and Recredentialing: Eight initial and seven recredentialing providers were reviewed for licensing and qualifications.  
+Potential Quality Issues (PQI) :  13 PQI cases were reviewed for appropriate evaluation, 
+investigation, and effective action taken to address improvements and remediation.  
+Category 6 –  Administrative and Organizational Capacity  
+Fraud, Waste, and Abuse  (FWA) Reporting: Eight cases were reviewed for proper 
+reporting of any potential FWA to DHCS within the required time frames.  
+Encounter Data Review: 12 records were reviewed to verify the Plan’s claims process and 
+supporting documentation.  
+A description of the findings for each category is contained in the following report.  
+  
+8 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Category 1 – Utilization Management  
+ 
+1.1 REFERRAL TRACKING SYSTEM 
+1.1.1 Referral Tracking System  
+ The Plan is required to ensure that the UM program includes an establish ed specialty 
+referral  system to track and monitor referrals  requiring prior authorization.  The system 
+shall include authorized, denied, deferred, or modified referrals, and the timeliness  of 
+the referrals. (Contract, Exhibit A, Attachment 5(1)(F))  
+Finding:  The Plan ’s referral tracking system  did not  track and monitor  timeliness of 
+referrals.  
+Plan policy, HS.01.02 Referral Tracking System  (revised 01/23/2023) , describe d track ing 
+of all authorization types for the purpose of ensuring authorizations are completed 
+timely . Approved authorizations will be tracked to completion of the service by 
+reviewing the date of the service on the submitted claim.  The difference between the 
+authorization issue date and claim service date will be determined . 
+The Plan did not implement the  policy to consider referral timeliness based on the date 
+the service was rendered. A review of the 10/18/2023 UM Committee minutes, that included the second quarter of  2023 referral tracking report, showed that the Plan 
+considered timeliness of specialty referrals based on claims paid within a three -month 
+period instead of the time from the referral date until the delivery of services.
+ 
+During the interview, the Plan explained the  Plan policy HS.01.02 which delineate d a 
+process to calculate the amount of time following the authorization issue date for a claim to be paid instead of tracking the time for delivery of medical services.  However, 
+the Plan’s process did not address the timeliness of the authorization issue date  to the 
+date the service s were  rendered . 
+Without accurate measurements for the timing for delivery of services or  goods, the 
+Plan may not be aware of access issues leading to a delay in care.  
+Recommendation: Revise and implement a process to track and monitor the timeliness 
+of referrals.  
+  
+9 
+ 
+1.3 PRIOR AUTHORIZATION APPEAL PROCESS  
+1.3.1 Grievance and Appeals System Review  
+ The Plan is required to have in place a system in accordance with California Code of 
+Regulations ( CCR), Title 28, sections 1300.68 and 1300.68.01, CCR, Title 22, s ection 
+53858, Exhibit A, Attachment 13, Provision 4, Paragraph F.13, and Code of Federal 
+Regulations ( CFR), Title 42, s ection  438.402- 424. The Plan is required to follow Grievance 
+and Appeal requirements and use all notice templates included in All Plan Letter (APL ) 
+17-006, Grievance and Appeal Requirements . (Contract , Exhibit A, Attachment 14(1))  
+The Plan shall have a written record for each grievance received by the Plan, including the date received, the Plan representative recording the grievance, a summary or other 
+document describing the grievance, and its disposition. ( CCR, Title 28, section 1300.68 
+(b)(5))  
+The Plan must maintain a written record for each grievance and appeal. The record of each grievance and appeal must be maintained in a log and include , but not limited to,  
+the following information:  A description of the complaint or problem ; a description of 
+the action taken by the Managed Care Plan ( MCP ) or provider to investigate and resolve 
+the grievance or appeal ; the name of the MCP provider or staff responsible for resolving 
+the grievance or appeal.  (APL 21-011:  Grievance and Appeal Requirements, Notice and 
+“Your Rights” Templates)  
+Finding:  The written record  of grievance and appeals did not include all required 
+components  in accordance with  APL 21 -011, Grievance and Appeal Requirements.  
+Plan policy, GA.11v3 Grievance and Appeal Reporting and Monitoring  (approved 
+09/28/2023) , explain ed the process wherein t he Grievances and Appeals D epartment 
+submit reporting (including the written record of appeals and grievances) to the Plan’s Quality Improvement Committee and Consumer Advisory Committee at least quarterly for review by the governing body, public policy body, and Plan Officers. However, this policy does not state that written records for grievances and appeals must include all APL 21 -011 components such as the:  
+• Complaint or problem description  
+• Action taken by the Plan  
+• Name of the provider or staff responsible for resolving the grievance or appeal . 
+A review of the Plan’s written records for grievances and a ppeals  for first and second  
+quarters that were submitted to the C ommunity Advisory Committee and governing  
+10 
+ 
+body , did not include  the complaint or problem description, a summary of the action 
+taken, and the name of the provider or staff responsible for resolving the appeal.  
+When grievance and a ppeal written records lack pertinent and required information, this 
+limits the Plan’s ability to track, trend, and address issue s identified during its review of 
+grievances and appeals.  
+Recommendation:  Update and implement policies and procedures to ensure written 
+records of grievance and appeals include all required information in accordance with APL 21 -011.  
+  
+11 
+ 
+1.5 DELEGATION OF UTILIZATION MANAGEMENT  
+1.5.1 Preventive Serv ices 
+ 
+The Plan is required to ensure that its p rior authorization, concurrent review and 
+retrospective review procedures meet prior authorization requirements and shall not be applied to emergency services, family planning services , preventive services , basic 
+prenatal care, sexually transmitted disease services,  and HIV testing.  
+(Contract Exhibit A, Attachment 5(2)(H) ) 
+The Plan is  responsible for ensuring that the delegates agree to comply with all 
+applicable state  and federal  laws and regulations,  and contract  requirements . (APL 23 -
+006: Delegation and Subcontractor Network Certification)  
+Plan policy, HS.01v5 Prior Authorization  (approved 09/28/2023) , state d that prior 
+authorization is not required for emergency services, emergency behavioral health 
+services, urgent care, consent services for a member who is a minor under 18 years of 
+age, family planning services, preventive services, basic prenatal care, sexually transmitted disease services, and HIV testing.  
+Plan policy, HS.01.18v4  Delegation Oversight  (approved 01/23/2023) , defined  the 
+process for ensuring that UM of prior authorization for medical services, medical 
+devices, inpatient admissions, and other services delegated to physician groups or network entities are in compliance with, and appropriately processed per the Department of Managed Health Care and DHCS contractual requirements and applicable laws and regulations.  
+Finding: The Plan’s delegate required  prior authorizations for preventive services.  
+Review of the Plan’s delegate prior authorization log contained the following prior 
+authorization determinations for preventive services:  
+• 23 screening mammogram requests  
+• 4 screening colonoscopy requests  
+• 23 low dose CT scans for lung cancer  
+• 26 screening dexascans 
+In addition, the delegate’s policy and p rocedures , UM 27.0  Treatment Authorization 
+Review ( approved 06/27/2023) , describe d the delegate’s UM program prior 
+authorization process. Services requiring prior authorization are listed under Appendix A – Prior Authorization Grid (v -07/21). The grid listed services that required prior 
+12 
+ 
+authorizations which incorrectly included  colonoscopy, dexascans and CT scans for lung 
+cancer .  
+The Plan policy, HS 01.18v4  Delegation Oversight  described the Plan’s procedures  to 
+review the delegate’s prior authorization review process. A sample of 10 prior 
+authorizations  (monthly) and 40 prior authorizations (annually) were reviewed . In 
+addition, a r eview of the delegate’s guidelines, criteria and policies  are performed.  
+However, the Plan failed to identify the inclusion of prior authorizations submitted for 
+preventive services.  
+During the interview, the Plan explained that services listed on the Prior Authorization Grid, required prior authorization. However, the Prior Authorization Grid did not 
+explicitly state which services did not require prior authorization. Due to lack of oversight, the Plan’s monthly and annual audits did not detect preventative services to verify if the  delegate was requiring prior authorization for these services.  
+This is a repeat finding  from the prior year 2022, 1.5.1 Preventive Services.  
+As part of the CAP, the Plan has implemented a process to verify that delegates are not 
+requiring prior authorization for preventive services . However,  the Plan’s process was 
+not effective and lacked oversight. T he Plan did not update the  policy to include 
+regulatory requirements regarding no prior authorization for preventive services.  When the Plan’s delegate requires prior authorizations for preventive services, this may 
+cause a delay and possible denial s for medically necessary services.  
+Recommendation: Revise and implement delegate’s policies and procedures to ensure 
+the delegates Prior Authorization Grid does not include  preventive services.  
+  
+13 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Category 2 – Case Management and Coordination of Care  
+ 2.3 BEHAVIORAL HEALTH TREATMENT  
+2.3.1 Coordination of Care  
+ The Plan is required  to ensure that appropriate diagnostic and treatment services are 
+initiated  following either a preventive screening or other visits that identif y a need for 
+follow -up. (Contract , Exhibit A,  Attachment  10(5) 
+For members under the age of 21 years, t he Plan shall provide or arrange and pay for 
+Early and Periodic Screening, Diagnostic, and Treatment (EPSDT ) services. Covered 
+services shall include case management.  (Contract, Exhibit A, Attachment 10(5)(F))  
+The Plan shall provide medically necessary BHT services as stated in the m ember’s 
+treatment plan or continuation of BHT under COC with the member’s BHT p rovider. 
+(Contract , Exhibit A,  Attachment 10(G )(1))  
+All members under the age of 21  must receive EPSDT preventive services, including 
+screenings designed to identify health and developmental issues as early as possible. MCPs must provide members with appropriate referrals for diagnosis and treatment without delay.  MCPs are also responsible for ensuring members have timely access to all 
+medically necessary services and that appropriate diagnostic and treatment services are 
+initiated as soon as possible, following either a preventive screening or other visit that identifies a need for follow -up. (APL 23-005: Requirements for Coverage of Early and 
+Periodic Screening, Diagnostic, and Treatment Services for Medi -Cal Members under the 
+Age of 21)   
+The approved behavioral treatment plan must include , but not limited to, care 
+coordination that involve s state disability programs, other programs, and institution s as 
+applicable . MCP s have the primary responsibility for ensuring EPSDT m embers receive 
+all medically necessary BHT services.  (APL  23-010: Responsibilities for Behavioral Health 
+Treatment Coverage for Members Under the Age of 21)  
+Plan policy, CM.52.01 Coordinating Care for Members Needing Behavioral Health 
+Treatment (BHT) Services ( approved 06/30/2023) , state d that u pon identification of need 
+of BHT services, the Plan  will initiate outreach to members to ensure members have 
+14 
+ 
+access to medically necessary services including, but not limited to , medical and 
+behavioral health services. Furthermore, the Plan will collaborate with community 
+partners, including but not limited to San Andreas Regional Center to ensure members receive their medical needs . All care coordination efforts and interventions  will be 
+documented by care coordination staff in the case management platform , Essette, and 
+customer service platform, Qnxt. Care coordination staff will document findings in the 
+case management platfor m. 
+Finding:   The Plan did not implement  policies and procedures to ensure BHT members 
+have the necessary care coordination for appropriate services.  
+In a verification study review, five of ten  samples were lacking or missing referrals for 
+coordination of care  such as, speech therapy, audiology, genetic counseling, and 
+regional center.  
+During the interview, the Plan explained that policies and procedures had been updated as part of their CAP implementation to capture the necessary information for care coordination. In addition, the Plan implemented a self -monitoring process and created a  
+BHT Care Coordination Documentation Audit Log to track the documentation of the provision of case management and care coordination of BHT services. However, the Plan confirmed that the date of implementation began in August 2023 rather than February 2023.  Due to the delays in implementation of the updated procedures, members did not 
+receive appropriate referrals and care coordination.  
+This is a repeat finding from the prior year 2022, 2. 3.1 Coordination of Care . 
+When coordination of services is  not being met, members will not receive the 
+appropriate care needed.  
+Recommendation: Revise and implement policies and procedures to ensure the 
+delivery of case management and care coordination of BHT services.   
+15 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Category 4 – Member’s Rights 
+ 4.1 GRIEVANCE SYSTEM  
+4.1.1 Grievance Review and Resolution  
+ The Plan is required to have in place a system in accordance with CCR, Title 28,  sections 
+1300.68 and 1300.68.01, CCR, Title 22, s ection 53858, Exhibit A, Attachment 13, Provision 
+4, Paragraph F.13, and CFR , Title 42, section  438.402-424. (Contract Exhibit A, Attachment 
+14(1))  
+The grievance system shall be established in writing and provide for procedures that will receive, review,  and resolve  grievances within 30 calendar days of receipt. Resolved 
+means that the grievance has reached a conclusion with respect to the member’s submitted grievance. (CCR, Title 28,  section 1300.68(a)(4)) 
+The Plan’s process for handling member grievances must ensure that the individuals 
+who make decisions on grievances are individuals who take into account all comments, documents, records, and other information submitted by the member  or their 
+representative. (CFR, Title 42,  section 438.406(b)(3))  
+The Plan must ensure adequate consideration of grievances and rectification when appropriate. If multiple issues are presented by the member, the Plan must ensure that each issue is addressed and resolved.  (APL 21-011: Grievance and Appeal Requirements, 
+Notice and “Your Rights” Template)  
+Plan policy, GA.03v4 Medi -Cal Grievances  (approved 09/ 02/2023) , defined  resolved as 
+the grievance has reached a conclusion  with respect to the member’s grievance and has 
+been communicated in a clear and concise manner. In addition, t he Grievance and 
+Appeal ( G&A ) Coordinator is responsib le to acknowledge , process, investigate , and 
+respond to each grievance as expeditiously as the case requires.  
+Finding : The Plan did not investigate and completely resolve members’  grievances.  
+The verification study revealed the following:  
+• 12 of 26 QOC grievances were closed without a final resolution . 
+• 8 of 30 QOC grievances and 3  of 31 QOS grievances cases were closed without 
+records or information from providers due to non-responsiveness . 
+16 
+ 
+In cases where the provider was unresponsive, the actual complaint was not addressed and did not reach a conclusion with respect to the member’s grievance.  In addition, the 
+Plan closed all QOC resolutions in favor of the member even in instances where records or information were in favor of the Plan.  
+During the interview, the Plan explained, grievances are received  by a Grievance & 
+Appeal  Coordinator  who forwards complaint s with any related QOC issue to the M edical 
+Director to be screened for a PQI  while the grievance is closed by the G rievance & 
+Appeal  Coordinator without reaching a conclusion with respect to the member’s 
+grievance.  
+When grievances are not completely investigated or resolved, members are unable to make informed decisions about their care.  
+Recommendation : Revise process to ensure that grievances are investigated and 
+completely resolved to address members’ grievance s. 
+ 
+4.1.2 Grievance Resolution  Letter  
+ The Plan is required to have in place a system in accordance with CCR, Title 28, s ection s 
+1300.68 and 1300.68.01, CCR, Title 22, s ection 53858, Exhibit A, Attachment 13, Provision 
+4, Paragraph F.13, and CFR , Title 42, section  438.402-424. The Plan is required to follow 
+grievance and a ppeal requirements and  use all notice templates included in APL 17-006 
+Grievance and Appeal Requirements . (Contract Exhibit A, Attachment 14(1))  
+The Plan’s grievance resolution and written response is required to contain a clear and 
+concise explanation of the Plan’s decision.  Nothing in this regulation requires a Plan to 
+disclose information to the grievant that is otherwise confidential or privileged by law.  
+(CCR , Title 28, section 1300.68(d)(3))  
+The Plan’s written resolution must contain a clear and concise explanation of the Plan’s 
+decision. ( APLs 17-006 and  21-011: Grievance and Appeal Requirements, Notice and 
+“Your Rights” Templates) (APL 21- 011 supersedes APL 17 -006)  
+Plan policy, GA.03.01v4 Medi-Cal Grievances  (revised 05/31/2023), The Grievance & 
+Appeal  Coordinator drafts the resolution letter in an understandable format. Once 
+drafted, the letter is sent to the designated grievance and appeal  staff for final review. 
+The review is conducted to ensure all resolution letters include a clear and concise explanation of resolution.  
+17 
+ 
+Findi ng: The Plan did not send grievance resolution letters with a clear and concise 
+explanation of the  decision.  
+Although the Plan revised policy  GA.03.01v4  Medi -Cal Grievances  to ensure all resolution 
+letters include a clear and concise explanation of resolution as well as implemented a 
+monitor  and oversight score card system, the Plan did not follow the  procedures. During 
+the grievance verification study, the r eview revealed that grievance resolution letters did 
+not contain a clear and concise explanation of  the Plan’s decision. The resolution letter s 
+included the following templated statements:  
+“Your case was sent to our Quality team for review of possible quality issues. Our 
+medical team tries to make sure that all members receive the best health care and are 
+happy with the services they receive.  Due to privacy concerns, you will not receive notice 
+of this review.  However, the results will be used to improve the care and services for all 
+of our members. ”  
+“Your case was sent to our Quality team for review of possible quality issues. Our 
+medical team tries to make sure that all members receive the best health care and are 
+happy with the services they receive. Our medical team looked into your case and found possible quality issues that will need further review. Due to privacy concerns,  you will 
+not receive notice of this review. However, the results will be used to improve the care and service for all of our members. ” 
+During the interview, the Plan stated that it incorporated the above template d 
+statements in the  resolution letters. However, these statements did not contain a clear 
+and concise explanation of the Plan’s decision in addressing member’s grievances.  
+This is a repeat finding  from the prior year 2022, 4. 1.2 Resolution Letter Decision . 
+As part of the CAP, the Plan revised the resolution letter to include language that 
+provides a more clear and concise explanation for actions tak en in addressing quality of 
+care complaints . However, the deficiency persists.  
+When grievance resolution letters do not contain a resolution and or contain confusing statements about privacy, members are unable to make informed decisions about their health which may lead to member harm.  Recommendation : Revise and implement  policies  and procedure s to ensure that 
+grievance resolution letters include a clear and concise explanation.  
+  
+18 
+ 
+4.1.3 Quality  of Care Grievance Resolution  Process 
+ The Plan is required to maintain a full-time  physician as Medical Director pursuant to 
+CCR, Title 22,  section 53857 whose responsibilities shall include resolving grievances 
+related to medical quality of care.  (Contract, Exhibit A, Attachment 1(6)(E))  
+The Plan is required to implement and maintain procedures for grievances and the expedited review of grievances required under CFR, Title 42, section s 438.402, 406,  and 
+408, CCR, Title 28, sections  1300.68 and 1300.68.01, and CCR, Title 22, section 53858. 
+The Plan is required to ensure that every grievance submitted is reported to an appropriate level, i.e., QOC versus QOS . Grievances related to medical QOC issues shall 
+be referred to the Plan’s Medical Director. ( Contract, Exhibit A, Attachment 14 (2)( C)(D)) 
+The member grievance procedures shall at a minimum provide for the immediate submittal of all medical QOC grievances to the M edical Director for action. (CCR, Title 
+22, section 53858(e)(2))  All grievances related to medical QOC issues must be immediately submitted to the 
+Plan’s Medical Director for action. The Plan must ensure the person making the final decision for the proposed resolution of a grievance is a health care professional with clinical expertise in treating a member’ s condition or disease on any grievance involving 
+clinical issues. (APL 21 -011, Grievance and Appeal Requirements, Notice and “Your Rights” 
+Templates)  
+Finding : The Plan d id not  ensure that the Medical Director fully resolved QOC 
+grievances prior to sending resolution letters.  
+Plan policy , GA.03.01v4 Medi-Cal Grievances  (revised 05/31/2023) , stated that all 
+grievances related to medical quality of care issues are required to be immediately submitted to the M edical Director for action. The M edical Director is responsible for 
+making the final review and taking appropriate action as well as classification of severity.  
+Once the G rievance & Appeal  Coordinator has all the information necessary to address 
+the member’s issues, the G rievance & Appeal  Coordinator drafts the resolution letter.  
+The Plan did not follow policy and procedure. The M edical Director did not review 
+medical records or additional information to review and make a final decision for the proposed resolution of the member’s grievance.  
+A verification study showed  that in  22 of 30 QOC grievances, a M edical Director did not 
+review all relevant information necessary to resolve the grievances . The Grievance & 
+Appeal  Coordinator contacted providers for records or information and took action to 
+address and resolve QOC grievances and send resolution letters for closure without 
+19 
+ 
+further Medical Director involvement after the initial screening.  The Medical Director 
+screened the grievance intake files for QOC  issues to be referred to the Quality Issue 
+Department for PQI review.  
+ During the interview, the Plan acknowledged the M edical Director did not review 
+medical records or additional information for closure of QOC grievances. The Medical 
+Director screened QOC grievances and if forwarded to PQI, the file would be 
+investigated further and reviewed by the Q uality Issue Nurse and the Medical Director 
+as a PQI, while the grievance component was  resolved and closed by the G rievance & 
+Appeal  Coordinator.  
+When a M edical Director does not resolve QOC grievances, the Plan is unable to ensure 
+members receive quality care from providers.  
+Recommendation : Develop and implement a process in which the Medical Director 
+reviews  and resolve s QOC grievances within the grievance resolution process.  
+  
+20 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Category 5 – Quality Management  
+ 5.1 QUALITY IMPROVEMENT SYSTEM 
+5.1.1 Provider Preventable Conditions 
+ The Plan shall monitor, evaluate, and take effective action to address any needed improvements in the QOC delivered by all providers rendering services and be  
+accountable for the quality of all  covered services regardless of the number of 
+contracting and subcontracting layers between the Plan  and provider. (Contract , Exhibit 
+A, attachment 4.1)  
+The Plan must screen the encounter data, including data received from network providers, for the presence of PPCs on a monthly basis. (APL 17-009 : Reporting 
+Requirements Related to Provider Preventable Conditions ) 
+Plan policy, QI.05v2 Potential Quality of Care Issues  (PQI) (r evised 03/23/2023), de scribed  
+the Plan’s process to  monitor, evaluate, and take actions to support the  QOC  and 
+services delivered to members. The Plan identifies and addresses PQIs to  address 
+potential  safety concerns and improve member outcomes.
+  The Plan monitors and 
+analyzes data to determine if services meet professionally recognized standards of practice. Plan policy , QI.05.01v9 Potential Quality of Care Issues  (revised 11/14/2023),  
+describe d the methods  wherein PQIs may be identified, through the review of 
+professional claims and encounter data, medical records, facility site review process, UM  
+prior authorizations , care management, formal complaints against providers or 
+disciplinary proceedings against provider, member or provider grievances and appeals,  
+and information from network providers . 
+Finding: The Plan did not  monitor and evaluate potential QOC issues derived  from 
+reportable PPC s.   
+Plan policy, QI.05.04v3 Provider Preventable Conditions  (revised 03/23/2023), described 
+the process of identifying and reporting PPCs involving members. The Q uality Issue 
+Department reviews claims, and encounter data submitted by providers for evidence of PPCs.   The Q uality Issue Nurse will report PPCs to DHCS via a secure portal. The Plan did 
+21 
+ 
+not follow policies and procedures. Review of 13 PQI  cases did not identify PQI derived 
+from PPCs  for further evaluation and necessary improvement.  
+During the interview, the Plan confirmed that PPCs are not evaluated for PQIs.  The 
+Quality Issue Department did not review claims and screen encounter data for PPC s. 
+When P PCs are not evaluated as potential QOC  issues, the Plan is unable to address 
+needed improvements in the QOC  delivered to its members . 
+Recommendation : Update policies and procedures and develop a process to  monitor 
+and evaluate  potential QOC issues f or reportable PPCs. 
+ 
+5.1.2 Medical Record Availabilit y 
+ The Plan is required to m onitor, evaluate, and take effective action to address any 
+needed  improvements in the QOC  delivered by all providers rendering services  on its 
+behalf, in any setting.  (Contract, Exhibit A, Attachment 4(1))  
+The Plan is required to develop, implement, and maintain written procedures pertaining to any form of medical records, including  the collection, processing, maintenance, 
+storage, retrieval identification, and distribution. (Contract, Exhibit A, Attachment (4)(13)(B)(1) Within each service area of a Plan, basic health care services shall be provided in a manner which provides COC, including but not limited to, the maintenance and ready availability of medical records , with sharing within the Plan of all pertinent information 
+relating to the health care of each member.  (CCR, Title 28,  section 130067.1(c)) 
+The Plan p olicy, GA.03.01v4 Medi-Cal Grievances  (revised  05/31/ 2023), explain ed the 
+Plan’s resolution process  in handling grievances which includes the Grievance & Appeal  
+Coordinator contacting the provider s, vendors, or physician offices  (contracted and non -
+contracted),  to obtain records or other information. Once all the information necessary 
+is obtained to address the member’s issues, the G rievance & Appeal  Coordinator drafts 
+the resolution letter.  
+Per Plan p olicy, GA.08.01v5 Medi -Cal Appeals  (revised 04/27/ 2022) , when  processing 
+appeals, the G rievance & Appeal  Coordinator may require additional information such 
+as medical records and contacts the appropriate parties for the information. For both 
+expedited and standard appeals, three attempts are made  via telephone or fax request.
+ 
+22 
+ 
+Plan policy, QI.05.01v9 Potential Quality of Care Issues  (revised 11/14/ 2023) , describ ed 
+the clinical review process which includes outreach by the Q uality Issue Coordinator for 
+medical records. If records are not received after the third  request or within 28 days 
+from initial request, Provider N etwork Operations (PNO) will be notified requesting 
+assistance in obtaining records.  
+Finding: The Plan did not take effective action to address providers ’ respon se with the 
+necessary information or medical records required to evaluate the QOC delivered to 
+members.  
+The verification study revealed that grievance and PQI cases were closed without the 
+requested information or medical records without addressing provider potential QOC issues:  
+• In 8 of 30 QOC grievance requests,  medical records were not received before 
+case closure.  
+• In 2 of 13 PQI cases, requests for information  and medical records were not 
+received before case closure.  In one PQI case there was no response from the  
+provider despite three attempts requesting an explanation about an unfilled prescription and an unavailable medical appointment.  In another PQI case, no 
+notes were obtained from the  behavioral health provider regarding an injury 
+incident.  
+During the interview the Plan explained the clinical review process in which three 
+attempts are made to request information  and medical records before referring to PNO. 
+PNO will make an additional three attempts prior to going onsite to obtain records.   
+Without the requested information to fully  review QOC  grievances and PQI , the Plan is 
+unable to address any needed improvements in the QOC  delivered by providers 
+rendering services.  
+Recommendation : Revise and implement polic ies and procedure s to ensure providers 
+respond to requests for information  and medical records  to fully investigate grievances 
+and PQI s. 

@@ -1,0 +1,346 @@
+    
+California Department of Health Care Services                                                                    
+Managed Care Quality and Monitoring Division    
+P.O. Box 997413 | Sacramento , CA | 95899-7413  
+MS 4400  | Phone ( 916) 449-5000  | www. dhcs.ca.gov  State of California  
+Gavin Newsom, Governor   
+California Health and Human Services Agency  
+ 
+ December 29, 2023  
+  Annabel Vaughn, Director   
+Regulatory Affairs & Compliance              
+CalOptima  
+505 City Parkway West  
+Orange, CA   92868  
+  RE:  Department of Health Care Services Medical Audit     
+ 
+ 
+Dear Ms. Vaughn : 
+ The Department of Health Care Services (DHCS), Audits and Investigations Division conducted an on- site Medical Audit of CalOptima , a Managed Care Plan (MCP), from 
+February 27, 2023 through March 10, 2023 .  The audit covered the period of February 
+1, 2022  through January 31, 2023.  
+  
+The items were  evaluated and DHCS accepts the MCP’s submitted Corrective Action 
+Plan (CAP). The CAP is hereby closed. The enclosed documents will serve as DHCS’ final respons e to the MCP’s CAP. Closure of this CAP does not halt any other 
+processes in place between DHCS and the MCP regarding the deficiencies in the audit report or elsewhere, nor does it preclude the DHCS from taking additional actions it deems necessary regardi ng these deficiencies.  
+ Please be advised that in accordance with Health & Safety Code Section 1380(h) and the Public Records Act, the final audit report and final CAP remediation document (final Attachment A) will be made available on the DHCS website and to the public upon 
+request.  
+  
+If you have any questions, please reach out to CAP Compliance personnel.  
+ Sincerely,  
+ [Signature on file]
+ 
+ Lyubov Poonka, Chief  
+Audit Monitoring Unit  
+Managed Care Quality and Monitoring Division 
+  Department of Health Care Services Department of Health Care Services   Enclosures:  Attachment A (CAP Response Form)  
+ cc:      Stacy Nguyen, Chief  
+Managed Care Monitoring Branch  
+Managed Care Quality and Monitoring Division Department of Health Care Services  
+ Joshua Hunter , Lead Analyst   
+Audit Monitoring Unit  
+Managed Care Quality and Monitoring Division Department of Health Care Services  
+ 
+Diana Voong, Contract Manager  
+ Medi -Cal Managed Care Division 
+Department of Health Care Services  
+  
+ATTACHME NT A 
+Corrective Action Plan  Response Form  
+ 
+Plan :  CalOptima                Review Period:  2/1/22 – 1/31/23  
+ Audit  Type:  Medical Audit   and S tate Supported S ervices          On-site Review:  2/27/23 – 3/10/23  
+ 
+ 
+ MCP s are required to provide a CAP and respond to all documented deficiencies  included in the medical  audit report within 30 calendar days , unless an alternative 
+timeframe is indicated in the CAP Request letter.  MCPs are requ ired to submit the CAP  in Word format that will reduce turnaround time for DHCS to complete its 
+review.  According to ADA requirement, the document should be at least 12 pt.  
+ The CAP submission must include a written statement identifying the deficiency and describing the plan of action taken to cor rect the deficiency, and the 
+operational results of that action.  The MCP shall directly address each deficiency component by c ompleting the following columns provided for MCP response: 1. 
+Finding Number and Summary , 2. Action Taken, 3. Implementation Documentation, and 4. Completion/Expected Completion Date. The MCP will be required to 
+include project timeline with milestones in a separate document for each finding. Supporting documentation should accompany each Action Taken. If supporting documentation is missing, the MCP submission will not be accepted.  For policies and other documentation that have been revised, please highlight the new 
+relevant text, and include additional detail such as title of the document, page number, revision date, etc. in the column “Supporting Documentation” to assist 
+DHCS in identifying any updates that were made by the plan.   For deficiencies that require short -term corrective action, implementation should be completed within 
+30 calendar days. For deficiencies that may be reasonably determined to require long- term corrective action for a period longer than 30 days to completely remedy 
+or operationalize, the MCP is to indicate that it has initiated remedial action and is on the way towards achieving an accept able level of compliance.  In those 
+instances, the MCP will be required in addition to the above steps, to include the date when full compliance will be achieved.   Policies and procedures submitted 
+during the CAP process must still be sent to the MCP’s Contract Manager for review and approval, as applicable in accordance with exis ting requirements.  
+ Please note, DHCS expects the plan to take swift action to implement improvement interventions as proposed in the CAP, theref ore DHCS encourages 
+all remediation efforts to be in place no later than month 6 of the CAP, unless prior approval for an extended implementation effort is granted by DHCS.  
+ DHCS will maintain close communication with the MCP throughout the CAP process and provide technical assistance to ensure the MCP provides sufficient 
+documentation to correct deficiencies.  Depending on the volume and complexity of deficiencies identified, DHCS may require the MCP to provide weekly updates, as applicable.  
+ 
+  
+ - 2 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+2. Case Management and Coordination of Care   
+2.1.1 Provision of Initial 
+Health Assessment  
+ The Plan did not ensure that an IHA was performed by the member’s PCP, perinatal care providers, and non-physician mid- level 
+practitioners.  1. Internal Policy GG.1613  
+Internal policy GG.1613 Initial Health Appointment (IHA) was revised  to align with APL 2 2-024 
+Population Health Management Policy Guide and clarify expectations of providers and delegated health networks  
+(Attachment 1) . 
+ 2. Internal System Update The Plan has been reviewing,  
+validating,  and updating the IHA 
+logic to only include a member’s 
+PCP, perinatal care provider, or  
+non-physician mid -level practitioner  
+in the IHA reporting.  
+  
+3. Monthly Monitoring  
+The Plan will develop and 
+implement a process for monthly monitoring to ensure the IHA is  only 
+being completed by the member’s 
+PCP, perinatal care provider, or a 
+non-physician mid -level practitioner . 
+The Plan’s  Population Health 
+Management (PHM) department 
+will review IHA completion reports Attachment 1_GG.1613 _Initial 
+Health Appointment  
+        N/A 
+ 
+ 
+     N/A 
+     
+   
+ 1. March 1 , 2023  
+    
+ 
+    
+2. Anticipated to be completed by October 31, 2023  
+    
+ 3. Anticipated to be completed by November 30, 2023  
+     
+ The following documentation 
+supports the MCP’s efforts to correct this finding:  
+ POLICY AND PROCEDURES  
+ • Updated P&P, “GG.1613: Initial Health Appointment ” 
+states  that an IHA shall be 
+performed, within a primary care medical setting, by the Member’s  Assigned Primary 
+Care Practitioner (PCP), Perinatal care Provider during a Member’s pregnancy, Non- physician 
+Mid-Level Practitioner such 
+as a Nurse Practitioner (NP), Certified Nurse Midwife, Physician Assistant (PA); or PCP in training. (GG.1613 Initial Health Appointment).  
+ 
+• Excel Spreadsheet, “IHA Performance by Date Range” and Help Desk 
+Ticket, “ Ticket Closure for 
+IHA” as evidence that the 
+ - 3 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+on a monthly basis to validate a 
+sample of new members for whom an IHA is indicated as completed to 
+ensure that the provider is not a specialist.  
+ 4. Reporting to Committee  
+The Plan has begun providing IHA performance reports to the Quality Improvement and Health Equity Committee (QIHEC, formerly QIC) on a quarterly basis. The Plan submits a sample of QIHEC meeting slides and meeting minutes from the January , February,  and 
+May 2023 QIHEC meetings  
+(Attachments 2 -7). 
+         5. Provider and Delegate Education  
+The Plan increased awareness of 
+IHA requirements by training  
+     Attachment 2_QIC Meeting Presentation _01-17-23, Page 40 
+ 
+Attachment 3_QIC Meeting Minutes_01- 17-23, Page 14 
+ Attachment 4_QIC Meeting IHA 
+Follow- up _02-14-23, Page 1  
+ Attachment 5_ QIC Meeting Minutes_02- 14-23, Page 20 
+ 
+Attachment 6_QIHEC 
+Presentation _05-09-23, Page 1  
+ Attachment 7_QIHEC Meeting 
+Minutes_05- 09-23, Page 16 
+   
+Attachment 8_Family Choice JOM 
+Packet_04- 12-23, Page 22 
+  
+     
+ 4. January 17, 2023  
+           
+ 
+     
+  5. August 30, 2023  MCP has  completed their 
+internal system update. The MCP has updated and validated the logic for IHA completion reports to include only the following provider types: 1) Internal medicine, 2) Pediatrics, 3) Obstetrics/gynecology, 4) Fami ly practice, 5) Perinatal 
+care providers, 6) Nurse practitioners, physician assistants and PCPs in training. (IHA Performance by Date Range Template, Ticket Closure for IHA ). 
+ TRAINING  
+ 
+• PowerPoint Presentation, “Initial Health Appointment” (07/12/23) and “CalOptima Health Community Network Virtual Meeting Q2 2023” (06/13/23) as evidence  that 
+the MCP conducted training on IHA requirements and completion rates to providers 
+and delegated hea lth 
+ - 4 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+CalOptima Health providers and 
+delegated Health Networks. The Plan will continue to provide training opportunities to providers and the delegated health networks on a regular basis. The Plan submits a sample of trainings that were completed (Attachments 7 -11). Attachment 9_CalOptima Health 
+Community Network Meeting, 
+Page 70  
+ 
+Attachment 10_Q22023_ 
+CalOptima  Health  Community 
+Network  Virtual Meeting_06- 13-23 
+ 
+Attachment 11_Continuing Medical 
+Education ( CME )-Continuing 
+Education ( CE) Workshop 
+Flyer _07-12-23 
+ 
+Attachment 12_CME _Initial Health 
+Appointment IHA  networks. (CME_Initial 
+Health Appointment IHA, CalOptima Health CHCN Virtual Meeting).  
+ MONITORING AND OVERSIGHT  
+ • “Quality Improvement Committee (QIC) Meeting Presentation” (January 2023, May 2023) and “QIC Meeting Minutes” (January 2023, May 2023) as evidence that the 
+MCP’s  QIC is reviewing the 
+IHA completion rates.  The 
+MCP is providing  IHA 
+performance reports to the Quality Improvement and Health Equity Committee (QIHEC, formerly QIC) on a quarterly basis. (QIC Meeting Presentation, QIC Meeting Minutes).  
+ 
+• Excel Spreadsheet, “Provider Taxonomy Validation Log”  (August 2023 
+– October 2023) as evidence 
+ - 5 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+that the MCP has 
+implemented a monitoring process to track th at an IHA 
+was performed by the 
+member’s primary care providers, perinatal care providers, and non- physician 
+mid-level practitioners.  On a 
+monthly basis, the MCP will take a sample of at least ten members with records indicating IHA completion and verifying that the IHA was completed by an appropriate provider type (PCP, perinatal car e 
+provider, or a non- physician 
+mid-level practitioner).  
+(Provider Taxonomy Validation Log).  
+ The corrective action plan for finding 2.1.1 is accepted.  
+     
+ 
+ - 6 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+2.2.1 Performance of 
+Pediatric Risk Stratification Process  
+ The Plan did not ensure that members who did not have medical utilization data, claims processing data history, or other assessments or survey information available for PRSP were automatically categorized as high risk until further assessment data was gathered to make an additional ri sk determination.  1. Internal Policy GG.1330  
+The Plan’s  Case Management (CM) 
+department did not need to update CalOptima Health policy GG.1330 as the requirement is outlined in Section III .A.2 (Attachment 1).  
+ 2. Internal System Update The Plan updated t he technical 
+specifications for the  Whole Child 
+Model (WCM) Pediatric Risk Stratification to reflect the regulatory requirements  
+(Attachments 2 & 3) .
+  
+ 
+ 3. Quarterly  Monitoring:    
+The Plan’s CM department developed quarterly i nternal 
+auditing to ensure compliance with regulatory process of the Whole Child Model (WCM) Pediatric Risk Stratification  (Attachment s 4 & 5) .  
+The monitoring is to confirm the 
+logic implementation and accuracy of risk determination.   The Plan also 
+submits the CM Tracking 
+dashboard (Attachment 6)  which 
+indicates  the auditing is scheduled 
+quarterly. T he Plan notes that  Attachment 1_ GG.1330_Case 
+Management - California 
+Children’s Services Progr am_Whole -Child Model_07-
+01-21 
+ 
+ Attachment 2_WCM PRS 
+Technical Specifications Update (Work Order)  
+ Attachment 3_Whole Child Model 
+(WCM) Risk Stratification  
+_Technical Specifications  
+  Attachment 4_Q2_PRSP Validation _05-11-2023 
+ Attachment 5_Q3_PRSP Validation _07-11-2023 
+ Attachment 6_CM_Tracking Dashboard  
+     1. N/A 
+      2. July 7, 2023  
+        3. May 11, 2023  
+            The following documentation 
+supports the MCP’s efforts to correct this finding:  
+ 
+POLICY AND PROCEDURES  
+ MCP’s current policy GG.1330 Case Management -  California 
+Children’s Services Program/ Whole- Child Model  correctly 
+states “ For Members for which 
+medical utilization data, claims processing data, or other 
+assessments or  
+survey information is not available, CalOptima shall automatically categorize such Member as  high- risk until 
+CalOptima is able to gather further assessment data to make an additional risk
+ 
+Determination."  (Section III., 
+A.2)  
+ IMPLEMENTATION  
+ Technical Specifications Workorder (dated 03/14/23) 
+and Whole Child Model  
+ - 7 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+auditing will be annual after 2023.  
+ 
+4. QIHEC Reporting:  
+The Plan presented the updated Whole Child Model (WCM) Pediatric Risk Stratification on August 8, 2023,  to the Quality 
+Improvement Health Equity Committee (QIHEC)  (Attachment 
+7). 
+   
+  Attachment 7_Attachment 
+7_QIHEC eMaterial_08- 08-2023  
+       
+  
+  4. August 8, 2023  Pediatric Risk Stratification 
+Technical Specifications  
+revision log demonstrate the 
+MCP has updated its internal systems.  Technical Specifications document instructs the assigning of 
+members as high risk when no utilization data is identified.  
+(WCM PRS Technical Specifications Update (Work Order) and Whole Child Model (WCM) Risk Stratification_Technical Specifications)  
+ MONITORING  
+ Q2 and Q3 PRSP Validation quarterly reports  and CM 
+Tracking Dashboard demonstrate the MCP has a process in place to monitor  
+pediatric risk stratification.  
+(Q2_PRSP Validation_05- 11-
+2023, Q3_PRSP Validation_07- 11-2023 and 
+CM_Tracking Dashboard)  
+ 
+ - 8 -  
+Finding Number and 
+Summary   
+Action Taken   
+Supporting Documentation Implementation  
+Date*  
+(*Short -Term, Long- Term)  
+DHCS Comments  
+Agenda for 8/8/23 Quality 
+Improvement  Health Equity 
+Committee demonstrates the Whole Child  Model  Pediatric 
+Risk Stratification Process was presented.  (QIHEC 
+eMaterial_08- 08-2023)  
+ The corrective action for 
+finding 2.2.1 i s accepted.  
+ 
+  
+ 
+  Submitted by  Plan :  John A. Tanner  [signature on file]                                                                     Date:  September 15,2023  
+  Title:  Chief Compliance Officer      

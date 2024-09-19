@@ -1,0 +1,1105 @@
+ 
+DEPARTMENT  OF HEALTH  CARE  SERVICES 
+AUDITS AND INVESTIGATIONS 
+CONTRACT  AND ENROLLMENT  REVIEW  DIVISION 
+RANCHO CUCAMONGA 
+ 
+ 
+ 
+REPORT  ON THE MEDICAL  AUDIT  OF 
+Local  Initiative  Health  Authority  for Los Angeles 
+County dba L.A. Care Health Plan  
+ 
+2023 
+ 
+ 
+Contract  Number:   
+ 
+04-36069  
+Audit  Period:  
+ 
+ 
+Dates  of Audit:  
+ 
+ 
+Report  Issued:  July 1, 2021 
+Through  
+January  31, 2023  
+ 
+February  27, 2023 
+Through  
+March  10, 2023 
+ 
+November 3, 2023  
+TABLE  OF CONTENTS  
+   
+ 
+I. INTRODUCTION  .............................................................................. 1  
+II. EXECUTIVE SUMMARY  ................................................................. 2  
+III. SCOPE/AUDIT  PROCEDURES ....................................................... 5  
+IV. COMPLIANCE AUDIT  FINDINGS  
+Category  1 – Utilization  Management  .............................................. 7  
+Category  2 – Case  Management  and Coordination of Care  ........... 18 
+Category  4 – Member's  Rights  ....................................................... 22 
+Category  5 – Quality  Management  ................................................. 29 
+ 1 of 29  I. INTRODUCTION 
+ 
+Local Health Initiative Authority for Los Angeles County dba L.A. Care Health Plan (Plan) was established in 1997 as the local initiative Medi -Cal Managed Care health 
+plan in Los Angeles  County  under  the Two-Plan Medi -Cal Managed Care  model.  The 
+Plan obtai ned its Knox -Keene license in April 1997.  
+ 
+The Plan provides Managed Care health services to  Medi -Cal beneficiaries  under the 
+provision of the Welfare and Institutions Code (W&I) section 14087.3. The Plan is a separately constituted health authority governed by the Los Angeles County Board of Supervisors. The Plan utilizes a "Plan Partner" model, under which it contracts with three health plans  through capitated agreements.  The Plan Partners  are Anthem  Blue 
+Cross, Blue Shield of California Promise Health Pl an, and Kaiser Foundation Health 
+Plan, Inc. The Plan began providing coverage directly to Medi -Cal members under its 
+own line of business Medi -Cal Care Los Angeles (MCLA) in 2006. In its direct line of 
+business, the Plan contracts with 29 Participating Phy sician Groups (PPGs) who 
+receive a capitated payment for each member. In addition, the Plan utilizes 43 delegates to provide services to Medi -Cal members.  
+ 
+As of January 31, 2023, the Plan's total enrollment by product lines are as follows: 2,820,138 Medi -Cal (Plan  Partners  and MCLA),  122,279 L.A. Care  Covered California, 
+49,564 Homecare Workers Health Care Plan, and 17,702 Cal Medi -Connect. As of 
+December 5, 2022, the Plan's enrollment population for its delegates is: 1,295,154.  
+ 2 of 29  II. EXECUTIVE SUMMARY 
+ 
+This report presents the audit findings of the Department of Health Care Services (DHCS) medical audit for the period July 1, 2021 through January 31, 2023. The audit was conducted from February  27, 2023 through March  10, 2023.  The audit  consisted  of 
+document review, verification studies, and interviews with Plan personnel and a delegate entity.  
+ 
+An Exit Conference with the Plan was held on October 18, 2023. The Plan was allowed 15 calendar  days  from the date of the Exit Conference to provide supplemental  
+information addressing the draft audit report findings. On November 2, 2023, the Plan 
+submitted a response after the Exit Conference.  
+ 
+The audit  evaluated six categories  of performance:  Utilization  Management  (UM),  Case 
+Management and Coordination of Care, Access and Availability of Care, Members' Rights, Quality Management, and Administrative and Organizational Capaci ty. 
+ 
+The prior DHCS medical audit report issued on February 3, 2022, (audit period July 1, 2019 through June 30, 2021) identified deficiencies incorporated into a Corrective Action Plan (CAP). The prior year CAP was open as of October 9, 2023. The Plan is working  with Managed Care  Quality  and Monitoring Division  (MCQMD) to implement  the 
+CAP and correct the deficiencies identified in the DHCS audit report.  
+ 
+The summary  of findings  follows:  
+ 
+Category 1 – Utilization  Management  
+ 
+The Plan is required to ensure that a Plan or contracting physician is available 24 hours 
+a day to authorize Medically Necessary post -stabilization care and coordinate the 
+transfer of stabilized members in an emergency department. The Plan did not ensure that medical necessity decisions for post -stabilization services were made by qualified 
+medical personnel.  
+ 
+The Plan is required to ensure that the UM program includes an established specialty referral system to track and monitor referrals requiring prior authorization through the  
+Plan.  The Plan did not have a system  to track  and monitor  specialty  referrals  requiring 
+prior authorization through the Plan.  
+ 
+The Plan is required to include within  the UM program  mechanisms  to detect  both under 
+and over -utilization of health care services. The Plan did not have a mechanism to 
+detect under and over -utilization of health care services.  
+ 
+The Plan is required to obtain member's  written  consent  when a representative acting 
+on behalf of a member files an appeal with the Plan either verbally or in writing. The Plan did not ensure that it obtained members' written consent for authorized representation to file appeals on their behalf.  
+ 3 of 29  The Plan shall ensure that their delegates comply with all applicable state and federal laws and regulations,  and contract  requirements . The Plan did not ensure that one of its 
+delegated entities (Delegated Entity A), complied with all UM and prior authorization requirements.  
+ 
+The Plan shall collect  and review  their subcontractors'  ownership and control  disclosure 
+information. The Plan did not collect and review ownership and control disclosure 
+information for Delegated Entity B.  
+ 
+The Plan is required to alert the contract manager within three business days upon discovery that a subcontractor is out of compliance with the subcontractor ownership and control  disclosure requirem ents.  The Plan did not notify  the contract  manager  within 
+three business days that Delegated Entity B was out of compliance with the ownership and control disclosure requirements.  
+ 
+Category 2 – Case  Management  and Coordination of Care  (COC)  
+ 
+The Plan is required to complete an Initial Health Assessment  (IHA) for new members 
+within 120 calendar days of enrollment. The Plan did not ensure the completion of an IHA for new members within 120 days of enrollment.  
+ 
+The Plan is required to ensure their network pr oviders provide verbal or written 
+anticipatory  guidance for Lead Exposure to the parents  or guardians  of a child member. 
+The Plan did not ensure anticipatory guidance was provided to parents or guardians of age-appropriate members.  
+ 
+The Plan is required to ensure the provision of a Blood Lead Screening (BLS) test to 
+members at ages one and two. The Plan did not ensure the provision of BLS tests to child members  at ages  one and two and did not document  the reason for not performing 
+a BLS test in the child's medical record.  
+ 
+Category 3 – Access and Availability  of Care  
+ 
+Review of the Plan's  Access and Availability  of Care  yielded no findings.  
+ 
+Category 4 – Member's Rights  
+ 
+The Plan is required to ensure that every grievance submitted is reported to an appropriate  level i.e., Quality  of Care  (QOC) versus  Quality  of Service  (QOS). The Plan 
+did not properly classify QOC or Quality of Service (QOS) grievances.  
+ 
+The Plan is required to ensure that all grievances related to medical QOC issues must be immediately submitted to the Plan's Medical Director for action. The Plan did not 
+ensure that QOC  grievances  were  immediately  submitted  to the Plan's  Medical  Director 
+for action.  
+ 4 of 29  The Plan is required to resolve and notify  the member  of the grievance resolution in 
+writing within the required timeframe. The Plan did not resolve the members' QOC grievances within 30 days of receipt of the grievance.  
+ 
+The Plan is required to provide grievance resolution letters that contain a clear and concise  explanation of the Plan's  decision The Plan did not send grievance resolution 
+letters with clear and concise explanation of the Plan's decisions to members.  
+ 
+The Plan is required to obtain member's  written  consent  when a representative acting 
+on behalf  of a member  files a grievance with the Plan either  verbally  or in writing.  The 
+Plan did not ensure that members' written consent was obtained for authorized representation when a grievance was filed on a member's behalf.  
+ 
+Category 5 – Quality  Management  
+ 
+The Plan is required to conduct  training for all network  providers  within  ten working  days 
+after the Plan places  a newly  contracted network  provider on active  status.  The Plan did 
+not train newly  contracted providers  within  ten working  days  after being placed  on active 
+status.  
+ 
+Category 6 – Administrative and Organizational  Capacity  
+ 
+Review of test work  was isolated to systems relating to Fraud,  Waste,  and Abuse  and 
+yielded no findings.  
+ 5 of 29  III. SCOPE/AUDIT PROCEDURES  
+ 
+SCOPE  
+ 
+The DHCS, Contract and Enrollment Review Division conducted this audit to ascertain medical  services provided to Plan members  complied with federal  and state  laws,  Medi - 
+Cal regulations and guidelines, and the state Two- Plan contract.  
+ 
+PROCEDURE  
+ 
+The audit  period was July 1, 2021  through January  31, 2023.  The audit  was conducted 
+from February 27, 2023 through March 10, 2023. The audit included a review of the Plan's policies for providing services, the procedures used to implement the policies, and verification studies to determine that policies were implemented and effective.  
+Documents  were  reviewed and interviews  were  conducted with Plan representatives 
+and a delegated entity.  
+ 
+The following verification  studies  were  conducted:  
+ 
+Category 1 – Utiliz ation Management  
+ 
+Prior Authorization Requests (PA): 25 medical PA were reviewed for timeliness, consistent  application of criteria, appropriateness  of review,  and communication of 
+results to members and providers.  
+ 
+Appeal  Process: 26 medical  appeal  requests  were  reviewed  for appropriate and timely 
+adjudication.  
+ 
+Delegation of UM: 7 PA requests  from Delegated Entity  A were  reviewed for appropriate 
+and timely adjudication.  
+ 
+Category 2 – Case  Management  and Coordination of Care  
+ 
+California  Children's  Services (CCS):  12 medical  records  were  reviewed for evidence of 
+coordination of care between the Plan and CCS providers.  
+ 
+IHA: 22 medical  records  were  reviewed  to confirm  completion of IHAs  and 30 were 
+reviewed for completion of BLS tests.  
+ 
+COC:  10 medical  records  were  reviewed  to evaluate timeliness  and appropriate 
+determination of the COC request.  
+ 
+Behavioral  Health  Treatment:  20 member  files were  reviewed  to confirm  coordination of 
+care and fulfillment of behavioral health requirements.  
+ 6 of 29  Category 3 – Access and Availability  of Care  
+ 
+Emergency  Service  and Family  Planning  Claims:  15 emergency  service  claims  and 15 
+family planning claims were reviewed for appropriate and timely adjudication.  
+ 
+Non-Emergency  Medical  Transportation (NEMT):  15 records  were  reviewed to confirm 
+compliance with NEMT requirements.  
+ 
+Non-Medical  Transportation (NMT): 15 records  were  reviewed  to confirm  compliance 
+with NMT requirements.  
+ 
+Category 4 – Member's Rights  
+ 
+Grievance Procedures: 25 quality of care and 20 quality of service grievance cases 
+were reviewed for timely resolution, appropriate response to complainant, and submission  to the appropriate level for review.  30 exempt  grievances  and 20 inquiry 
+calls were reviewed f or proper classification and routing to the appropriate level for 
+review.  
+ 
+Confidentiality  Rights:  15 cases  were  reviewed for reporting of privacy  incidents  to 
+DHCS Program Contract Manager, DHCS Privacy Officer, and DHCS Information Security Officer withi n the required timeframes.  
+ 
+Category 5 – Quality  Management  
+ 
+Quality  Improvement  (QI) System:  18 potential  quality  incident  files were  reviewed for 
+proper decision- making and effective actions taken to address needed quality 
+improvements.  
+ 
+Provider  Training:  20 new provider  training records  were  reviewed  for timeliness.  
+ 
+Category 6 – Administrative and Organizational  Capacity  
+ 
+Fraud and Abuse Reporting:  17 cases  were  reviewed for proper  reporting of suspected 
+Fraud, Waste, and Abuse (FWA) to DHCS within the required time frame.  
+ 
+A description of the findings  for each category  is contained in the following  report.  
+ 7 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+CATEGORY 1 - UTILIZATION  MANAGEMENT  
+ 
+1.1 UTILIZATION  MANAGEMENT  PROGRAM 
+REFERRAL TRACKING SYSTEM  
+ 
+1.1.1  Medical  Director  Oversight  of Post -Stabilization  Authorizations  
+ 
+The Plan shall maintain a full-time physician  as medical  director  pursuant  to 22 Code of 
+California Regulations (CCR) Section 53857 whose responsibilities shall include ensuring that medical  decisions  are rendered by qualified medical  personnel.  (Contract, 
+Exhibit A, Attachment 1 (6)(A))  
+ 
+The Plan is financially  responsible  for post-stabilizat ion care services obtained within  or 
+outside the Plan's  network.  The Plan must  give the treating physician the opportunity  to 
+consult with a Plan physician and the treating physician may continue with care of the patient until a Plan physician is reached or one of the criteria of 42 Code of Federal Regulations (CFR) section 422.133(c)(3) is met. (Contract, Exhibit A, Attachment 8  (13)(I)) 
+ 
+The Plan shall ensure  that a Plan or contracting physician is available  24 hours  a day to 
+authorize Medically Necessary post -stabilization care and coordinate the transfer of 
+stabilized members in an emergency department, if necessary. (Contract, Exhibit A, Attachment 9 (7)(C))  
+ 
+Finding:  The Plan did not ensure  that medical  necessity  decisio ns for post-stabilization 
+services were made by qualified medical personnel.  
+ 
+Plan Policy MMUM -002 Referral Request Management (effective date 9/28/2022), 
+stated a peer reviewer means a physician, pharmacist, or non- physician doctoral level 
+behavioral practitioner bearing a valid unrestricted California license and who is qualified and competent to evaluate the specific clinical issue involved in the referral/review determination. Only qualified health care professional can make decisions  based on medical  necessity. Non-clinical staff do not interpret  clinical records. 
+While the Plan had a process in place to ensure that medical necessity decisions for post-stabilization services were made by qualified medical personnel, the Plan did not 
+operationalize their written process and did not provide documentation to ensure that post-stabilization service decisions were made by qualified medical personnel.  
+ 8 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+During the interview, the Plan stated they used licensed vocational nurses (LVN) after hours  and on weekends  for post-stabilization  authorization approvals.  If the LVN denies 
+services; the LVN will refer the case to the Medical Director for review.  
+ 
+However,  the Plan could  not produce documentation that post-stabilization services 
+determinations were made by qualified medical personnel.  
+ 
+The lack of physician involvement  in post-stabilization  care decisions  may lead to 
+inappropriate patient care.  
+ 
+Recommendation:  Revise  and implement  policies  and procedures  to track  and monitor 
+that post-stabilization services determinations  are made by qualified  medical  personnel.  
+ 
+1.1.2  Referral  Tracking 
+ 
+The Plan is required to ensure that the UM program includes established specialty referral system to track and monitor referrals including those that require prior authorization through the Plan.  The system  shall include  authorized,  denied,  deferred, 
+or modified referrals, and the timeliness of the referrals. ( Contract, Exhibit A, 
+Attac hment 5 (1)(F) ) 
+ 
+Plan Policy MMUM -002, Referral Request Management (effective date 12/15/2022), 
+stated the Plan maintains  current  processes  and guidelines  for reviewing  requests  for 
+authorization and making UM determinations for health care services requiring authorization.  
+ 
+Finding:  The Plan did not track  and monitor  specialty  referrals  requiring prior 
+authorization through the Plan.  
+ 
+Plan policy MMUM -002 stated the Plan maintains current processes and guidelines for 
+reviewing requests for authorization and making UM determination, as well as subsequent  referral  tracking.  While  the Plan had a process  in place  to ensure  review  of 
+all incoming prior authorization requests, t he Plan did not operationalize their written 
+process for  specialty referral  tracking, monitoring, or for  documenting contract  required 
+metrics such as authorized, denied, deferred, or modified referrals.  
+ 
+In addition,  the Plan UM committee  minutes  did not document  any referral  tracking  or 
+monitoring of metrics.  
+ 
+During  the interview,  the Plan stated that they did not track  or monitor  specialty  referrals 
+but are in the process  of developing that function in the UM system.  Therefore,  the Plan 
+ 9 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+did not track  and monitor  specialty  referrals  requiring prior authorization through the 
+Plan.  
+ 
+If the Plan does  not track  and monitor  specialty  referrals  requiring prior authorizations,  it 
+may result in delay in medically necessary services.  Ultimately the lack of capabilities 
+to track and monitor specialty care referrals may lead to substandard medical care and member harm.  
+ 
+Recommendation:  Revise  and implement  policies  and procedures  and effectuate 
+systems and processes to track an d monitor specialty referrals requiring prior 
+authorizations.  
+ 
+1.1.3  Under  and Over -Utilization  
+ 
+The Plan shall include  within  the UM program  mechanisms  to detect  both under - and 
+over-utilization of health care services. (Contract, Exhibit A, Attachment 5 (4))  
+ 
+Plan policy MMUM 061 Over/Under Utilization Monitoring, Detection and Correction (effective date 9/28/2022), stated the UM department monitors over - and under - 
+utilizati on for selected activities using developed UM measures to identify potential 
+patterns  and trends.  The activities  identify  and monitor  inappropriate utilization  and/or 
+care provided in an inappropriate setting to assure that these are not indicative of barriers to accessibility  for routine health care services and that care is not delayed or 
+withheld for any reason.  
+ 
+Finding:  The Plan did not have a mechanism  to detect  under - and over-utilization  of 
+health care services.  
+ 
+Although the Plan policy stated the UM department  monitors over - and under -utilization 
+for selected activities using developed UM measures to identify potential patterns and trends;  the Plan did not have a mechanism  to detect  under  and over-utilization  of health 
+care services.  
+ 
+During the interviews, the Plan stated that they do not have systems in place to gather 
+data and develop under - and over-utilization  reports.  In addition,  a review  of UM, Quality 
+Improvement, Compliance and Quality Committee, and Board of Governors meeting minutes demonstrated a lack of discussion and documentation regarding under - and 
+over-utilization of medical services.  
+ 10 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+If utilization  of services  and procedures  by the Plan is not monitored,  the Plan cannot 
+ensure that delivered servic es are medically necessary, provided in accordance with 
+evidence- based clinical practice guidelines, and in a cost -effective manner.  
+ 
+Recommendation: Develop and implement processes to detect under and over - 
+utilization  of health care services.  Integrate reports  on under - and over utilization  to UM, 
+Quality Improvement, Compliance and Quality Committees to inform quality monitoring and improvement activities.  
+ 
+1.3 PRIOR AUTHORIZATION APPEAL  PROCESS  
+ 
+1.3.1  Written  Consent  for Appeals  
+ 
+A member,  or a provider or an authorized representative acting on behalf of a member 
+and with the member's  written  consent,  may file an appeal  with the Plan either  orally  or 
+in writing. (Contract Exhibit A, Attachment 14 (1)(A))  
+ 
+If state law permits and with the written consent of the enrollee, a provider or an 
+authorized representative may request  an appeal  or file a grievance on behalf  of an 
+enrollee. (42 CFR section 438.402(c)(1)(ii))  
+ 
+Plan Policy AG -007, Appeals Process for Members (effective date 6/21/2022), stated 
+that if anyone other than the member files an appeal or grievance, the Appeals and Grievances  Department  will require that an Authorized Representative (Agent)  form be 
+completed, in addition to a written statement appointing an individual as a 
+representative or other documents appointing the Individual as the member's representative under applicable state law in order to accept the appeal.  
+ 
+Finding:  The Plan did not ensure that it obtained members'  written  consent  for 
+authorized representation to file appeals on their behalf.  
+ 
+Plan Policy AG -007 stated that if anyone other than the member files an appeal or 
+grievance,  the Appeals  and Grievances  Department  will require that an Authorized 
+Representative form be completed,  in addition to a written  statement  appointing an 
+individual as a representative. However, the Plan did not obtain members' written consent when purportedly authorized representatives filed appeals on their behalf.  
+ 
+The ver ification study revealed the Plan processed three appeals that required an 
+Authorization of Representation (AOR). All three of the appeals  were  lodged by family 
+members without an AOR. Furthermore, the appeal notification letters were mailed to 
+ 11 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+the member's  home and not to the authorized representative's  mailing  address  
+ 
+During  the interview,  the Plan stated these errors  were  attributed due to lack of staff 
+training and oversight of its appeal process.  
+ 
+When the Plan does not obtain written member consent for appeals filed by representatives  on member's  behalf,  the Plan is out of compliance with requirements 
+pertaining to member appeals.  
+ 
+Recommendation: Revise and implement procedures to ensure the Plan obtains a member's  written consent  for authorized representation  when an appeal  is filed by a 
+representative on behalf of a member.  
+ 12 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+1.5 DELEGATION OF UTILIZATION  MANAGEMENT  
+ 
+1.5.1  Delegation of Utilization  Management  
+ 
+The Plans are responsible for ensuring that their delegates comply with all applicable 
+state  and federal  laws and regulations,  and contract  requirements . (All Plan Letter  (APL) 
+17-004, (superseded by APL 23- 006 effective 3- 28-23), APL 17- 006, and APL 19- 009) 
+ 
+The Plan and any entity  with which  it contracts  for services  that include utilization review 
+or UM functions shall comply with Health and Safety Code (H&S) section 1367.01. In addition, the Plan is required to have written policies and procedures establishing the process by which it prospectiv ely, retrospectively, or concurrently reviews and 
+approves, modifies, delays, or denies, based in whole or in part on medical necessity, requests by providers of health care services for Plan members. These policies and procedures shall ensure that decisions based on the medical necessity of proposed health care services are consistent with criteria or guidelines that are supported by clinical principles and processes. (H&S section 1367.01(a) and (b))  
+ 
+Responses regarding decisions to deny, delay, or modify  health care services  
+requested by providers prior to, retrospectively, or concurrent with the provision of  
+health care services to enrollees shall be communicated to the enrollee in writing, and to providers initially by telephone or facsimile, except wit h regard to decisions rendered 
+retrospectively, and then in writing, and shall include a clear and concise explanation of the reasons for the Plan's decision, a description of the criteria or guidelines used, and the clinical reasons for the decisions regarding medical necessity. Any written communication to a physician or other health care provider of a denial, delay, or modification of a request shall include the name and telephone number of the health care professional responsible for the denial, delay, or modification. The telephone number provided shall be a direct number or an extension, to allow the physician or health care provider easily to contact the professional responsible for the denial, delay, or modification.  Responses  shall also include information as to how the enrollee may file 
+a grievance with the plan pursuant to Section 1368, and in the case of Medi -Cal 
+enrollees, shall explain how to request an administrative hearing and aid paid pending under Sections 51014.1 and 51014.2 of  Title 22 of the California Code of Regulations. 
+(H&S section 1367.01(h))  
+ 
+The Plan is required to maintain a system  to ensure accountability  for delegated quality 
+improvement activities, that at a minimum: 1) Evaluates subcontractor's ability to perform the delegated activities including an initial review to assure that subcontractor has the administrative capacity, task experience, and budgetary resources to fulfill its  
+ 13 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+responsibilities 2) Ensures subcontractor meets standards set forth by the Plan and DHCS, and 3) Includes the continuous monitoring, evaluation, and approval of delegated functions.  (Contract,  Exhibit  A, Attachment  4 (6)(B)(1)(2)(3))  and Attachment 
+5 (5))  
+ 
+Plan policy EPO -001, Clinical Monitoring of Delegated Functions (effective date 
+5/16/2022)(superseded Plan policy CA -001) states that the Plan remains accountable 
+for and has appropriate structures and mechanisms to oversee delegated activities even if it delegates al l or part of these activities. At a minimum, the Plan includes the 
+continuous monitoring and evaluation of delegated functions. In addition, the Plan retains  the right,  based on quality  issues  to approve,  suspend,  and terminate  delegated 
+entities.  
+ 
+Finding:  The Plan did not ensure that one of its delegated entities  (Delegated  Entity  A), 
+complied with all UM and prior authorization requirements.  
+ 
+DHCS requested service data for all 317,456 Plan members assigned to Delegated Entity  A, to determine compliance  with UM requirements.  In a written  response,  the Plan 
+acknowledged that although Delegated Entity A was given the responsibility to carry out utilization management (UM) functions, this delegate lacked a prior authorization system from July 1, 2 021 through October 30, 2022. As a result, routine services 
+requested by members and providers did not go through a PA process to review and approve, modify, delay or deny requests for services based on medical necessity from July 1, 2021 through October  30, 2022.  Additionally,  Delegated Entity  A did not have the 
+required written policies and procedures establishing its process for reviewing requests for services based on medical necessity nor did it have policies and procedures to ensure that its decisions  were  consistent  with criteria  or guidelines  that are supported by 
+clinical principles and processes.  
+ 
+As noted in the prior year audit  finding 1.5.1,  the Plan explained that Delegated Entity  A 
+utilized an online electronic consultation system for review of medically indicated services including specialty referral, service authorization requests, and care coordination between a Primary Care Provider (PCP) and a Specialist. During the current audit period, the Plan stated that from October 31, 2022, the Plan's delegate established a process  for providers  to request PAs  related to specialty  referrals  through 
+its online electronic consultation system. A verification study reviewed data from November  1, 2022 through January  31, 2023,  to analyze the effec t of recent  PA system 
+changes  and for overall  contract  compliance  for PA requirements.  In a verification  study 
+for the 90- day study period from November 1, 2022 to January 31, 2023, Delegated 
+Entity A was able to produce only 7 PAs for review; within this universe of 7 cases, Delegated Entity A demonstrated inconsistent use of criteria for medical necessity  
+ 14 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+determination and non-compliance with written  provider  notification  requirements.  
+ 
+• Delegated Entity A utilized two guidelines for PA  medical necessity 
+determination:  the delegated specialty  internal  medical  criteria  and the Expected 
+Practices (EP) medical criteria. Delegated Entity A used the more stringent specialty criteria to deny 3 of 7 PA cases, although, the EP medical criteria w as 
+met. These 3 PA requests were ultimately denied for not meeting the delegate's specialist internal medical criteria.  
+• The Plan showed non -compliance with Contract requirements for provider 
+notifications. For all 7 PA cases, there was no documented written provider notifications  stating whether  the PA was approved or denied,  and did not comply 
+with UM requirements.  
+ 
+In an interview, the Plan stated that they are helping Delegated Entity A on improving their system and are open to feedback. Although the Plan has put in place policies and procedures  to conduct  delegation  oversight,  the oversight  procedures  were  ineffective in 
+detecting Delegated Entity A lack of compliance with UM, Prior Authorization and notification requirements, as well as the delegate's lack of a compliant medical  
+necessity review process.  
+ 
+This is a repeat  of prior  year finding  1.5.1 – Delegation of Utilization  Management.  
+ 
+In the prior year audit, DHCS found the Plan did not ensure that Delegated Entity A complied with UM and PA requirements  including  generating compliant  member  notices 
+with DHCS -approved Notice of Action (NOA) Member Rights attachments. As part of 
+the CAP to address  this particular  finding,  the Plan and Delegated Entity  A implemented 
+the system's member notificat ion. However, the Plan was found to be non- compliant 
+during the audit period and did not ensure that Delegated Entity A complied with all UM and PA requirements.  
+ 
+If the Plan does  not effectively  oversee the compliance of UM systems and processes,  it 
+may i mpact members' ability to receive medically necessary services which could result 
+in adverse health outcomes and member harm.  
+ 
+Recommendation: Revise and implement UM delegation oversight processes to 
+ensure that Delegated Entity  A is compliant  with all UM and PA requirements,  including 
+systems to enable provider notifications and appropriate application of medical necessity criteria in its PA process.  
+ 15 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+1.5.2  Delegate and Subcontractor  Ownership and Control  Information  
+ 
+The Plan may enter into subcontracts with other entities in order to fulfill the obligations 
+of the contract. The Plan is required to maintain policies and procedures, approved by DHCS, to ensure that subcontractors fully comply with all terms and conditions of the contract. In additi on, the Plan is required to evaluate the prospective subcontractor's 
+ability  to perform  the subcontracted services,  shall oversee and remain  responsible and 
+accountable for any functions and responsibilities delegated and shall meet the subcontract requirements as stated in 42 section CFR 438.230(b)(1), (c), 22 CCR sections  53250 and 53867, and All Plan Letter (APL) 17 -004. In addition, subcontractor 
+must agree to comply with all applicable requirements of the DHCS and Medi -Cal 
+Managed Care program. (Contract, Exhibit A, Attachment 6 (14))  
+ 
+The Plan must require each disclosing entity to disclose certain information, including the name,  address,  date of birth,  and social  security  number  of each person or other  tax 
+identification number of each corporation with an ownership or control interest in the disclosing entity. ( 42 CFR section 455.104)  
+ 
+The Plan is ultimately responsible for ensuring that their subcontractors and delegated entities  comply  with all applicable state  and federal  laws and regulations.  Subcontractors 
+are required to provide written disclosure of information on subcontractors' ownership and control. The Plan shall collect and review their subcontractors' ownership and control disclosure information as set forth in 42 CFR section 455.104. The Plan must make the subcontractors' ownership and control disclosure information available, and upon request,  this information is subject to audit by  DHCS.  (APL  17-004, Subcontractual 
+Relationships and Delegation)  
+ 
+Plan policy EPO -001, Clinical Monitoring of Delegated Functions (effective date 
+5/16/2022),  stated the Plan remains  accountable for and has appropriate structures  and 
+mechanisms to oversee delegated activities. In addition, delegate must provide written disclosure of information regarding its ownership and control  in compliance with 42 CFR 
+section 438.608(c)(2). The Plan requests its delegates  to submit an attestation yearly, 
+indicating that delegated activities are not subcontracted to a third- party entity without 
+prior written consent or documentation that relevant ownership and control disclosure information was reviewed and collected.  
+ 
+Finding:  The Plan did not collect  and review  ownership and control  disclosure 
+information for Delegated Entity B.  
+ 
+A review of the Plan's subcontractors' ownership and control disclosure information revealed,  the Plan did not collect  and review  Delegated Entity  B ownership and control  
+ 16 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+disclosure documentation such  as: name,  address,  date of birth,  and social  security 
+number of any person with an ownership or control interest.  
+ 
+During  the interview,  the Plan stated that not reviewing the delegate ownership and 
+control attestation responses was attributed to human error.  
+ 
+This is a repeat  finding from  the prior  years 2021 and 2019;  1.5.3  Oversight  of 
+Network Delegate and Subcontractor Ownership and Control and 1.1.1 Documentat ion of the Plan's Oversight of its Delegates and Subcontractors.  
+ 
+While  the Plan is working on implementing the CAP to correct  the deficiency  identified in 
+the prior medical audit, the CAP remains open and deficiencies persist.  
+ 
+When the Plan does  not collect  and review  ownership and control  disclosure information 
+from its delegates, it cannot ensure that the delegates' owners and individuals with control interest are eligible for program participation.  
+ 
+Recommendation:  Revise  and implement  policies  and procedures  to ensure collection 
+and review of delegates' ownership and control disclosure information.  
+ 
+1.5.3  Notification  to Contract  Manager  for the Subcontractor  Ownership and 
+Control Disclosure Requirements 
+ 
+The Plan is required to alert their Managed Care  Operations  Division  (MCOD) contract 
+manager within three business days upon discovery that a subcontractor is out of compliance with the subcontractor ownership and control disclosure requirements, and/or if a disclosure reveals any potential violation(s) of the ownership and control requirements. ( APL 17 -004, Subcontractual Relationships and Delegation)  
+ 
+Plan's policy EPO -001, Clinical Monitoring of Delegated Functions (effective date 
+5/16/2022) , stated the Plan requires the delegate to provide written disclosure of 
+information regarding its ownership and control and shall provide such information to the Plan upon request.  Also,  if the Plan discovers that the delegate is not in compliance 
+with these requirements or that a disclosure reveals any  potential violation(s) of the 
+ownership and control  requirements,  then the Plan shall disclose  such information to its 
+DHCS MCOD contract manager within three business days of such discovery.  
+ 
+Finding:  The Plan did not notify  the contract  manager  within  three business  days  that 
+Delegated Entity B was out of compliance with the ownership and control disclosure requirements.  
+ 17 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+Although the Plan's policy EPO -001 stated the Plan shall disclose to the contract 
+manager within three business days that its delegate is not in compliance with ownership and control  disclosure requirements,  the Plan did not notify  the contract 
+manager of Delegated Entity B being out of compliance.  
+ 
+During  the interview,  the Plan acknowledged  they were  not aware Deleg ated Entity  B 
+was out of compliance with ownership and control disclosure requirements.  
+ 
+Without  reporting ownership and control  disclosure information within  a timely  manner, 
+the Plan cannot ensure providers are in compliance with the Medi -Cal program 
+requirement.  
+ 
+Recommendation: Revise and implement procedures to ensure notification of 
+ownership and control  changes  to the contract  manager  within  three business  days  of 
+discovery.  
+ 18 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+CATEGORY  2 – CASE  MANAGEMENT  AND  COORDINATION  OF CARE  
+ 
+2.1 BASIC CASE MANAGEMENT  
+CALIFORNIA  CHILDREN'S SERVICES (CCS)  
+EARLY INTERVENTION / DEVELOPMENTAL  DISABILITIES 
+INITIAL HEALTH ASSESSMENT (IHA)  
+ 
+2.1.1  Initial  Health Assessment  
+ 
+The Plan shall cover  and ensure the provision  of an IHA (comprehensive history  and 
+physical examination)  in conformance with 22 CCR section 53851(b)(1)  to each new 
+member within 120 days of enrollment. (Contract Exhibit A, Attachment 10 (3))  
+ 
+All new Plan members must have a complete IHA within 120 calendar days of enrollment.  The Plan must  have written  procedures  for requiring healthcare providers  to 
+document  all components  of the IHA, or any applicable IHA exemption,  in the Member's 
+Medical Record (MMR) in a timely manner. Furthermore, the Plan must have written procedures for monitoring IHA completion within the required timeframes. (Medi -Cal 
+Managed Care Division Policy Letter No. 08- 003, operative through December 31, 
+2022; APL 22 -030, operative beginning January 1, 2023; Population Health 
+Management (PHM) Policy Guide, p. 9, operative beginning January 1, 2023)  
+ 
+Plan policy QI -047, Initial Health Assessment (effective date 11/22/2022), stated the 
+Plan network providers shall cover and ensure the provision of complete IHA, either in person or virtually,  to each new member  within  120 calendar  days  following  the date of 
+enrollment or within periodicity timelines established by the American Academy of Pediatrics for ages two and younger whichever is less.  
+ 
+Finding:  The Plan did not ensure the completion of an IHA for new members  within  120 
+days of enrollment.  
+ 
+Plan policy  QI-047, stated the Plan's  providers  must  ensure the completion of an IHA for 
+each new member within 120 calendar days of enrollment. However, the Plan did not ensure completion of an IHA for new members within the required time frame.  
+ 
+The verification  study  revealed that 17 out of 22 medical  records  did not have complete 
+IHAs within 120 days of enrollment for new members.  
+ 
+During  the interview,  the Plan stated that on a monthly  basis  they create a report  of new 
+ 19 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+enrollees who are due for an IHA. These reports are uploaded to the Plan's provider portal  to notify  providers  of new  enrollees  who need an IHA and to conduct outreach to 
+new members for IHA completion. Although the Plan is able to identify the members who need an IHA, it did not ensure members  had an IHA completed within  the required 
+time frame.  
+ 
+If IHAs  are not provided in a timely  manner,  members' health needs  may not be 
+appropriately identified, increasing risk for injury or disease.  
+ 
+Recommendation:  Revise  and implement  procedures  to ensure the completion of IHAs 
+for new members within the required timeframe.  
+ 
+2.1.2  Anticipatory Guidance for Lead Exposure  
+ 
+The Plan is required to comply  with all existing  final Policy  Letters  and APLs  issued by 
+DHCS. (Contract, Exhibit E Attachment 2 (1)(D) 
+ 
+The Plan must  ensure that their network  providers  provide verbal  or written  anticipatory 
+guidance to the parents or guardians of a child member that, at a minimum, includes information that children can be harmed by exposure to lead,  especially  deteriorating or 
+disturbed lead- based paint and the dust from it, and are parti cularly at risk of lead 
+poisoning from the time the child begins to crawl until 72 months of age. This anticipatory guidance must be provided to the parent or guardian at each Periodic Health Assessment (PHA) starting at six months of age and continuing until 72 months of age. ( All Plan Letter 20- 016 Blood Lead Screening of Young Children)  
+ 
+Every  healthcare provider  who performs  a PHA of a child shall provide written  or verbal 
+anticipatory guidance to a parent or guardian of the child with regards to harmful exposure to lead. The anticipatory guidance must be provided at each PHA, starting at six months  of age and continuing until 72 months  of age (17 CCR section 37100 (a)(1))  
+ 
+Plan policy QI -048, Quality Improvement (effective date 12/14/2022) , stated  that the 
+Plan will ensure its network providers provide verbal or written anticipatory guidance to the parents  or guardians  of a child that, at a minimum, includes  information that children 
+can be harmed by exposure to lead, especially deteriorating or di sturbed lead- based 
+paint and the dust from it,  and are particularly at risk of  lead poisoning from the time the 
+child begins to crawl until 72 months of age. This anticipatory guidance must be provided to the parent or guardian at each PHA, starting at six months of age and 
+continuing until 72 months of age.  
+ 
+Finding:  The Plan did not ensure anticipatory  guidance was provided to parents  or 
+ 20 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+guardians  of age-appropriate members.  
+ 
+Plan polic y QI-048, stated the Plan will ensure its network providers provide oral or 
+written  anticipatory  guidance to the parents  or guardians  of child members  starting at six 
+months of age to 72 months of age. However, the Plan did not ensure the provision of verbal or written lead poisoning anticipatory guidance was provided to parents or guardians of age- appropriate members.  
+ 
+The verification study revealed that 26 out of 30 medical records did not have documentation that verbal  or written  anticipatory  guidance was provided to parents  or 
+guardians of child members.  
+ 
+During the interview, the Plan stated they use the IHA audit tool checklist for medical record review to monitor the provision of lead screening. However, the Plan acknowledged the IHA audit  tool did not include a task to monitor  the provision of verbal 
+or written anticipatory guidance to parents/guardians of infant/child.  
+ 
+If lead poisoning anticipatory  guidance is not given to parents  or guardians  in a timely 
+manner, it can result in further  lead exposure and poisoning.  
+ 
+Recommendation:  Revise  and implement  procedures  to ensure the provision  of verbal 
+or written lead poisoning anticipatory guidance to parents or guardians of child members.  
+ 
+2.1.3  Blood Lead Screening (BLS)  Tests 
+ 
+The Plan shall cover and ensure the provision of a BLS test to members at ages one and two. The Plan shall document  and appropriately  follow  up on BLS test results,  make 
+reasonable attempts  to ensure the BLS test is provided, and shall document attempts  to 
+provide the test in the Member's Medical Record (MMR). Documentation shall also be entered into the MMR to indicate test results, or voluntary refusal of these services. (Contract, Exhibit A, Attachment 10 (5)(D))  
+ 
+The Plan must ensure that network providers order or perform  BLS tests on all child 
+members at 12 and 24 months of age, or when the network provider performing a PH A 
+becomes aware that a child member 12 months  to 24 months  of age or a child member 
+24 to 72 months  of age has no documented evidence of having taken a BLS test. The 
+Plan must also ensure that the network provider documents the reasons for not performing the BLS test in the child member's  medical  record.  (All Plan Letter  (APL)  20- 
+016, Blood Lead Screening of Young Children)  
+ 21 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+Plan policy QI -048, Quality Improvement (effective date 12/14/2022) , stated the Plan 
+will ensure its network  providers  order  or perform  BLS tests  on all child members  at 12 
+months and at 24 months of age, and when the network provider becomes aware the child who is 12 to 72 months of  age has no documented evidence of a BLS test  taken.  
+ 
+Finding:  The Plan did not ensure the provision of BLS tests  to child members  at ages 
+one and two and did not document the reason for not performing a BLS test in the child's medical record.  
+ 
+The verification study revealed 20 out of 30 medical records did not have documentation of BLS tests,  or the reason for not performing the BLS tests,  in the child 
+member's medical record.  
+ 
+During the interview, the Plan stated that they create a list of children who missed the BLS test on a monthly basis. The Plan then uploads this member li st to the Plan's 
+provider  portal  to notify  the PCPs  of the members  with missed  BLS.  Although the Plan 
+is able to identify the members  who missed the BLS  test, the Plan did not ensure BLS 
+tests were ultimately performed by the PCP.  
+ 
+If age appropriate BLS tests are not provided in a timely manner, at -risk children may 
+not be identified  and treated,  which  may result  in lead poisoning that can cause adverse 
+learning and behavioral problems.  
+ 
+Recommendation:  Revise  and implement  procedures  to ensure the provision  of BLS 
+tests to child members at ages one and two and document the reason for not performing a BLS test. Implement  systems  to ensure PCPs  are providing the BLS test 
+to children that have not taken the test.  
+ 22 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+CATEGORY 4 – MEMBER'S RIGHTS  
+ 
+4.1 GRIEVANCE SYSTEM  
+ 
+4.1.1  Misclassification of Grievances  
+ 
+The Plan is required to ensure that every grievance submitted is reported to an appropriate  level,  i.e., Quality  of Care  (QOC) versus  quality  of service. (Contract, Exhibit  
+A, Attachment 14 (2)(C))  
+ 
+The Plan shall have in place a system in accordance with 22 CCR Section 53858;28 CCR sections 1300.68 and 1300.68.01; and 42 CFR 438.402- 438.424. The Plan shall 
+follow Grievance and Appeal requirements, and use all notice templates included in APL 17-006 (operative through August  30, 2022)  and APL 21-011 (operative August  31, 
+2022).  (Contract,  Exhibit  A, Attachment  14, Provision  1) 
+ 
+Plan policy AG -008, Grievance Process for Members (effective 6/21/2022) , stated if the 
+Appeal & Grievance (A&G) Department incorrectly classifies a grievance it is considered a misclassification. Upon discovery of the misclassification the A&G Department  will notify  the member  or Authorized Representative in writing  regarding the 
+correction.  
+ 
+Finding: The Plan did not properly  classify QOC  or Quality  of Service  (QOS) 
+grievances.  
+ 
+The verification  study  revealed 6 grievances  were  misclassified as QOS  when they 
+should have been classified  as QOC. The  Plan did not have an effective  system to 
+ensure QOC grievances inaccurately classified as QOS grievances.  
+ 
+During  the interview  the Plan stated these errors  were  attributed to the staff's  lack of 
+training and misunderstanding of the grievance process. The Plan acknowledged systemic problems and opportunities for improvement of their grievance system.  
+Misclassification  of grievances  may lead to missed investigations  that result  in 
+unresolved member complaints, which can potentially lead to member harm.  
+ 
+Recommendation: Revise and implement policies and procedures and relevant 
+systems to ensure proper  classification when  processing and resolving grievances.  
+ 23 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+4.1.2  Quality  of Care  (QOC) Grievances  
+ 
+The Plan shall implement and maintain procedures and the expedited review of grievances  required under  42 CFR 438.402,  438.406,  and 438.408;  28 CCR Sections  
+1300.68 and 1300.68.01;  and 22 CCR Section 53858.  (Contract,  Exhibit  A, Attachment 
+14 (2)). The Plan will ensure the participation of individuals with authority to require corrective  action. Grievances  related to medical  quality  of care issues  shall be referred 
+to the Plan's Medical Director (MD). (Contract, Exhibit A, Attachment 14 (2)(D)) 
+ 
+All grievances related to medical QOC issues must be immediately submitted to the Plan's MD for action. The Plan must ensure the person making the final decision for the proposed resolution of a grievance is a health care professional  with clinical expertise in 
+treating a member's condition or disease on any grievance involving clinical  issues. 
+(APL 17 -006 and APL 21- 011 (operative August 31, 2022), Grievance and Appeal 
+Requirements, Notice and "Your Rights" Templates)  
+ 
+Plan policy AG -001, Appeal and Grievances Oversight and Reporting (effective date 
+6/21/2022),  stated the Plan will ensure the participation of individuals  with authority  to 
+require corrective  action when QOC  issues  are involved.  The appeals  and grievances 
+are screened for medical QOC issues and immediately submitted to Plan's MD for action. Also, all identified potenti al QOC cases are referred to the QI department for 
+evaluation, investigation, resolution and tracking of the issue.  
+ 
+Finding:  The Plan did not ensure  that QOC  grievances  were  immediately  submitted  to 
+the Plan's Medical Director for action.  
+ 
+Although the Plan's  policy  AG-001 stated  the grievances  are screened for medical  QOC 
+issues and immediately submitted to Plan's MD for action, the Plan did not implement this policy.  
+ 
+The verification  study  revealed that 25 out of 25 QOC  grievances  were not reviewed by 
+a Medical Director. The Plan's process was to refer QOC grievances to the QI department for Potential Quality of Care Issues (PQI). This process does not ensure that QOC grievances are referred immediately to the Medical Director for action.  
+ 
+During the interview,  the Plan acknowledged  their PQI process  was allowed  six months 
+to complete the PQI review. Therefore, this current process of six months deprives the members of immediate action and resolution by the Plan's Medical Director.  
+ 
+Failure t o follow contract and legal requirements applicable to QOC grievances leads to 
+a lack of medical  director  action and involvement  in the grievance process.  Substandard  
+ 24 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+and poor quality  of medical  care by providers  might  be missed,  not be adequately 
+investigated and addressed, and lead to medical harm to members.  
+ 
+Recommendation:  Develop a process  to ensure all QOC  grievances  are timely 
+referred to the Medical Director for action and comply with all grievance review requirements.  
+ 
+4.1.3  Timely  Resolution of Quality  of Care  Grievances  
+ 
+The Plan shall ensure  the participation of individuals  with authority  to require corrective 
+action. Grievances related to medical quality of care issues shall be referred to the Plan's MD . (Contract, Exhibit A, Attachment 14(2)(D))  
+ 
+The Plan is required to establish and maintain written procedures for the submittal, processing,  and resolution of all member  grievances  and complaints.  (22 CCR section 
+53858(a))  
+ 
+The Plan's grievance system shal l provide prompt review of grievances by the 
+management  or supervisory  staff responsible  for the service  or operations  which  are the 
+subject of the grievance. Resolved means that the grievance has reached a final conclusion with respect to the enrollee's submitted grievance. (28 CCR section 1300.68(a)(4)(d)(2))  
+ 
+The Plan is required to provide written  resolution to the member  that is dated within  30 
+days of receipt of the grievance. ( APL 17 -006 and APL 21- 011) 
+ 
+In the event  a grievance resolution is not reached within  30 days,  the member  shall be 
+notified in writing by the Plan of the status of the grievance and shall be provided with an estimated completion date of resolution. Such notice shall include a statement notifying the member they may exercise their right to request a fair hearing. (22 CCR section 53858)  
+ 
+Plan policy AG -001, Appeal and Grievances Oversight and Reporting (effective date 
+6/21/2022) stated the Plan will ensure the participation of individuals with authority to 
+require corrective action when quality of care issues are involved. The appeals and grievances  are screened for medical  QOC  issues  and immediately  submitted to Plan's 
+Medical Director for action. Also, all identified potential QOC cases are referred to the QI department for evaluation, investigation, resolution and tracking of the issue.  
+ 
+Finding:  The Plan did not resolve the members' QOC  grievances  within  30 days  of 
+receipt of the grievance.  
+ 25 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+The Plan's current process is to refer all QOC grievances to the QI department for PQI investigation.  The Plan did not resolve the members' QOC  grievances  within  30 days  of 
+receipt.  
+ 
+The verification  study  revealed 23 out of 25 QOC  grievances  were  not resolved within 
+30 days. The following are examples of deficiencies identified:  
+• In 1 QOC grievance, a member suffered a serious injury and experienced unsafe conditions  at a facility,  the Plan closed  the grievance by forwarding to 
+QI for investigation and the member did not receive further communication regarding their grievance.  
+• In another  QOC  grievance,  a member  was given the wrong medicine and was 
+having complications from the medication, the Plan closed the grievance by forwarding to QI for investigation and the member did not receive further communication regarding their grievance.  
+• In 2 QOC grievances, one member experienced a delay in getting an appointment  for surgery  with a urologist  and one member  experienced a delay 
+in getting a specialty referral. The Plan closed the grievances by forwarding to QI for investigation and the members did not receive further communication regarding their grievances.  
+ 
+During the interview, the Plan stated their PQI process was allowed six months to complete the review and would have to revisit their grievance processing system. Therefore,  the Plan is not in compliance with contractual  requirements  of resolving 
+member's QOC grievances within 30 days.  
+ 
+This is a repeat  finding of prior  year finding - 4.1.1 - Grievances Letters.  
+ 
+The Plan's  failure  to adhere to the required timeframes  for resolving grievances  may 
+potentially  lead to delay  in care and treatment of members  and may lead to member 
+harm.  
+ 
+Recommendation: Implement policy and procedure to ensure QOC grievances are 
+resolved within  30 days.  Implement  a system  to monitor  timely  resolution of grievances 
+and incorporate timeliness reporting to UM, Quality Improvement, Compliance and Quality Committees.  
+ 26 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+4.1.4  Grievance Resolution Letters  
+ 
+The Plan is required to develop,  implement,  and maintain a Member  Grievance System 
+in accordance with 28 CCR sections 1300.68, and 1300.68.01 and 22 CCR section  
+53858.  (Contract,  Exhibit  A, Attachment  14 (1)) 
+ 
+The Plan is required to establish and maintain written procedures for the submittal, processing, and resolution of all member grievances and complaints. The Plan's grievance procedure shall at minimum  provide for a description of the action taken by 
+the Plan or provider to investigate and resolve the grievance and the proposed resolution by the Plan or provider. (22 CCR section 53858(a))  
+ 
+The Plan is required to provide subscribers and members with written responses to grievances, with a clear and concise explanation of the reason for the Plan's response. The Plan's  response shall describe the criteria  used and clinical reasons  for its decision 
+including all criteria and clinical reasons related to medical necessity. (H&S section 
+1368(a)(5))  
+ 
+The Plan's  written  resolution letter shall contain a clear  and concise explanation of the 
+Plan's decision. ( APL 17 -006 and APL 21- 011: Grievance and Appeal Requirements  
+and Revised Notice Templates and "Your Rights" Attachments)  
+ 
+Plan policy  AG-008, Grievance Process  for Members  (effective  date 6/21/2022),  stated 
+the written resolution shall contain a clear and concise explanation of the grievance department decision.  
+ 
+Finding:  The Plan did not send grievance resolution letters  with clear  and concise 
+explanation of the Plan's decisions to members.  
+ 
+The verification  study  revealed 23 out of 25 QOC  grievance letters  sent to members  did 
+not contain a clear explanation of the Plan's decision related to their grievance. The letters sent to members did not have a clear and concise explanation with respect to their submitted grievance. In addition, the resolution letters contained a template response that the is sue would be reviewed in the QI department and due to 
+confidentiality, the member would not get any correspondence about further actions.  
+ 
+During the interview, the Plan stated that the resolution letter that was being sent to members stated that their gri evance was referred to QI for further investigation and did 
+not address  the members' concerns  and did not offer a clear  and concise explanation of 
+the Plan's decision. Therefore, the Plan is not in compliance with contractual requirements.  
+ 27 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+This is a repeat  of prior  year finding  - 4.1.4 Resolution Letter  Decisions.  
+ 
+Lack  of a clear  decision  in the resolution  letter, could result  in unnecessary  delay  or 
+denial  in the delivery  of medically  necessary  services for members  and may lead to 
+member harm.  
+ 
+Recommendation:  Develop and implement  policies  and procedures  to ensure that 
+grievance resolution letters include a clear and concise explanation of the Plan's decisions.  
+ 
+4.1.5  Written  Consent  for Grievances  
+ 
+A member,  or a provider  or an authorized representative acting on behalf  of a member 
+and with the member's written consent, may  file a grievance with the Plan either orally 
+or in writing. (Contract Exhibit A, Attachment 14 (1)(A))  
+ 
+If state law permits and with the written consent of t he enrollee, a provider or an 
+authorized representative may request  an appeal  or file a grievance on behalf  of an 
+enrollee. (42 CFR section 438.402(c)(1)(ii))  
+ 
+A grievance may be filed either  verbally  or in writing  by a member,  a provider  acting on 
+behalf of the member, or an authorized representative. (APL 17 -006 and APL 21- 011 
+Grievance and Appeals Requirements, Notice and "Your Rights")  
+ 
+Plan policy AG -008, Grievances Process for Members ( effective date 6/21/2022), 
+stated,  if anyone other  than the member  files a grievance,  the Appeals  and Grievances 
+(A&G) department will  ask for an Appointment of Representative (AOR) form or written 
+statement appointing an individual as a representative or other appropriate papers appointing the individual as the member's representative under applicable state law in 
+order to accept the grievance.  
+ 
+Finding:  The Plan did not ensure  that members'  written  consent  was obtained for 
+authorized representation when a grievance was filed on a member's behal f. 
+ 
+Plan policy AG-008 stated if anyone other than the member files a grievance, the A&G 
+department  will ask for an AOR form or written  statement  appointing an individual as the 
+member's representative. However, the Plan did not obtain member's written consent before filing the grievance on their behalf.  
+ 
+A verification study  revealed the Plan processed 9 out of 25 grievances  that required 
+member's written consent. Six out of 25 grievances were filed by family members  
+ 28 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+without  AOR forms  or written  consent.  In 3 out of 25 grievances  an AOR was obtained 
+however, acknowledgment and resolution letters were mailed to the member's home and not to the authorized representative's mailing address.  
+ 
+During  the interview,  the Plan stated these errors  were attributed to lack of staff training 
+and oversight of its grievance process.  
+ 
+When the Plan does not obtain a member's written consent prior to the filing of a grievance on their behalf,  a member's  PHI may be compromised,  unauthorized decisions 
+may be made concerning health care, and notice of the outcome may not be received.  
+ 
+Recommendation: Implement procedures to ensure the Plan obtains a member's 
+written  consent  for authorized representation  prior to a representative filing a grievance 
+on behalf of the member.  
+ 29 of 29  
+  COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES  OF AUDIT:  February  27, 2023  through  March  10, 2023  
+  
+CATEGORY 5 – QUALITY  MANAGEMENT  
+ 
+5.3 PROVIDER QUALIFICATIONS  
+ 
+5.3.1  Provider  Training  
+ 
+The Plan is required to ensure that all network  providers  receive training  regarding the 
+Medi -Cal Managed Care program in order to operate in full compliance with the 
+Contract and all applicable federal and state statutes and regulations. The Plan is required to conduct training for all network providers within ten working days after the Plan places  a newly  contracted network  provider  on active status.  (Contract,  Exhibit  A, 
+Attachment 7 (5))  
+ 
+Plan policy  PNM  EST-024, Provider  Network  Training (effective  date 4/28/2017),  stated 
+that all new providers are required to complete new provider onboarding training within ten business days of their effective day. Contract and Relationship Management Unit 
+will administer new provider onboarding training to directly contracted providers within ten business days of their active date.  
+ 
+Finding:  The Plan did not train newly  contracted providers  within  ten working  days  after 
+being placed on active status.  
+ 
+The verification  study  revealed that the Plan did not conduct  provider  training within  ten 
+working days for 19 out of 20 newly contracted providers. In addition, during the intervie w, the Plan confirmed the outreach to newly contracted providers was not 
+effective because the Plan did not follow up on providers that failed to attend their scheduled training.  
+ 
+Without providing timely training, the Plan cannot ensure providers operate in full compliance  with Medi -Cal program  requirements.  In addition,  members' might  receive 
+misinformation regarding their rights, available resources, and provider's responsibilities.  
+ 
+Recommendation:  Implement  policies  and procedures  to ensure newly contracted 
+providers receive training within the required timeframes.  
+     
+ 
+DEPARTMENT  OF HEALTH  CARE  SERVICES 
+AUDITS AND INVESTIGATIONS 
+CONTRACT  AND ENROLLMENT  REVIEW  DIVISION 
+RANCHO CUCAMONGA 
+ 
+ 
+REPORT  ON THE MEDICAL  AUDIT  OF 
+ 
+Local  Initiative  Health  Authority  for Los Angeles 
+County dba L.A. Care Health Plan  
+ 
+2023 
+ 
+Contract  Number:   
+03-75799  
+State  Supported Services  
+Audit  Period:  
+ 
+ 
+Date  of Audit:  
+ 
+ 
+Report  Issued:  July 1, 2021 
+Through  
+January  31, 2023  
+ 
+ February  27, 2023 
+Through  
+ March  10, 2023 
+ 
+November 3, 2023  
+  
+ 
+TABLE  OF CONTENTS  
+   
+ 
+I. INTRODUCTION  .............................................................................. 1 
+Il. COMPLIANCE AUDIT  FINDINGS  .................................................... 2 
+I. INTRODUCTION 
+ 
+This report presents the audit results of the Local Initiative Health Authority for Los Angeles  County  dba L.A. Care  Health  Plan (Plan)  compliance and implementation of the 
+State Supported Services Contract No. (03- 75799) with the State of California. The 
+Contract covers abortion services for the Plan.  
+ 
+The audit was conducted from February 27, 2023 through March 10, 2023. The audit covered the period from July 1, 2021 through January  31, 2023.  It consisted of document 
+reviews, a verification study, and interviews with the Plan’s staff.  
+ 
+An Exit Conference with the Plan was held on October 18, 2023.  There were  no 
+deficiencies identified for the audit of the Plan’s State Supported Services.  
+                         
+              
+ 
+  
+1 of 2 
+ COMPLIANCE  AUDIT  FINDINGS  (CAF)   
+PLAN:  Local  Health  Initiative  Authority  for Los Angeles  County  dba L.A. Care  Health 
+Plan 
+AUDIT  PERIOD:  July 1, 2021 through January  31, 2023 
+DATES OF AUDIT:  February  27, 2023 through March  10, 2023  
+ 
+ 
+The Plan is required to provide,  or arrange to provide,  to eligible  members  the following 
+State Supported Services: Current Procedural Terminology Codes 59840 through 59857 and Health Care Financing Administration Common Procedure Codes: X1516, X1518, X7724, X7726 and Z0336. These codes are subject to change upon the Department  of Health  Care  Services  implementation of the Health  Insurance Portability 
+and Accountability Act of 1996 electronic transaction and code sets provisions. (State Supported Services Contract, Exhibit A)  
+ 
+Plan’s policy CLM -029, Abortion Services (review date 6/28/2022), stated abortion 
+services are covered by the Plan as a physician service.  For outpatient  services,  no 
+medical justification or prior authorization is required. Non- emergency inpatient 
+hospitalization for the performance of abortion services requires authorization under the same criteria as other medical procedures.  
+ 
+The Plan provided information on covered services to members  through their Member 
+Handbook. The information stated that abortion services are available to members without a referral or prior authorization, members have a right to services in a timely manner, and members may self -refer to any certified family planning provider.  
+ 
+The verification study revealed the Plan appropriately processed abortion claims for payment  and did not demonstrate any deficiencies  related to State  Supported Services.  
+ 
+Based on the review  of the Plan’s  documents,  there were  no deficiencies  noted for the 
+audit period.  
+ 
+RECOMMENDATION:  None 
+              
+ 
+  
+2 of 2 STATE SUPPORTED SERVICES  

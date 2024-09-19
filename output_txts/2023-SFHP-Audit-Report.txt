@@ -1,0 +1,1210 @@
+       
+CONTRAC T AND ENROLLMENT REVIEW – SAN FRANCISCO  
+AUDITS AND INVESTIGATIONS 
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+San Francisco Health Authority dba  
+San Francisco Health Plan  
+ 
+2023 
+ 
+ 
+Contract Number:  
+  
+04-35400  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ March 1, 2022  
+    Through 
+February 28, 2023 
+ 
+March 6, 2023  
+    Through 
+March 17, 2023  
+ 
+July 17, 2023 
+   
+    
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ II. EXECUTIVE SUMMARY  ................................................................. 2 
+ III. SCOPE/AUDIT PROCEDURES  ...................................................... 6 
+ IV. COMPLIANCE AUDIT FINDINGS 
+ Category 1 – Utilization Management  .............................................. 8 
+ Category 2 – Case Management and Coordination of Care .......... 22 
+ Category 3 – Access and Availability of Care ................................ 26 
+ Category 5 – Quality Management  ................................................ 32 
+    
+1 of 40 I. INTRODUCTION  
+  In 1994, the San Francisco City and County created the San Francisco Health Authority (SFHA) under the authority granted by the Welfare and Institutions Code Section 14087.36. The SFHA was established as a separate public entity to operate programs involving health care services, including the authority to contract with the State of California to serve as a health plan for Medi -Cal members.  
+ SFHA received a Knox -Keene Health Care Service Plan license in 1996. On 
+January 1, 1997, the State of California entered into a Contract with the SFHA to provide medical Managed Care services to eligible Medi -Cal members as the local 
+initiative under the name San Francisco Health Plan (Plan).  
+ The Plan contracts with 17 medical entities to provide or arrange comprehensiv e health 
+care services. The Plan delegates a number of functions to these entities.  
+ As of February 1, 2023, the Plan served 190,787 members through the following 
+programs: Medi -Cal 190,764 and Healthy Workers 11,691.   
+2 of 40 II. EXECUTIVE SUMMARY  
+  This report presents the audit findings of the Department of Health Care Services (DHCS) medical audit for the period of March 1, 2022 through February 28, 2023. The 
+audit was conducted from March 6, 2023 through March 17, 2023. The audit consisted 
+of document review, verification studies, and interviews with Plan representatives.  
+ An Exit Conference with the Plan was held on June 20, 2023. The Plan was allowed 15 
+calendar days from the date of the Exit Conference to provide supplemental information addres sing the draft audit report findings. The Plan submitted a response after the Exit 
+Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+  
+The audit evaluated six categories of performance: Utilization Management (U M), Case 
+Management and Coordination of Care, Access and Availability of Care, Member’s Rights, Quality Improvement (QI), and Administrative and Organizational Capacity.  
+ The prior DHCS medical audit for the period of March 1, 2021 through  
+February 28, 2022 , was issued on August 4, 2022. This audit examined documentation 
+for compliance and to determine to what extent the Plan has implemented their Corrective Action Plan  (CAP) .  
+ Findings denoted as repeat findings are uncorrected deficiencies substantially similar to those identified in the previous audit.   The summary of the findings by category follows:  
+ Category 1 –  Utilization Management  
+ Category 1 includes procedures and requirements for the Plan’s UM program, including delegation of UM, prior authorization review, and the appeal process.  
+ The Plan must provide members with a written Notice of Action (NOA) for adverse benefit determinations and Notice of Appeal Resolution (NAR)  for appeals decisions . 
+The Plan must send the NOA and NAR “You r Rights” attachment to members in 
+accordance with All Plan Letter ( APL) 21-011.  For adverse benefit determinations and 
+upheld appeals, the Plan did not send the updated NOA and NAR “Your Rights” 
+attachments to members.  
+ The Plan is required to ensure that a member, provider or authorized representatives acting on behalf of a member and with the member’s written consent, may file an appeal with the Plan either verbally  or in writing. The Plan did not ensure written consent  was 
+received from members prior to appeal resolution when the provider filed standard appeals on behalf of the member.  
+  
+3 of 40 The Plan is required to report to DHCS any changes in the status of the Medical Director within ten calendar days.  The Plan did not report to DHCS all changes in status 
+of the Medical Director , such as when Medical Director s left the position or when new 
+staff covered or were hired for the position, within ten calendar days . 
+ The Plan must ensure its  UM delegate meets standards set forth by the Plan and 
+DHCS. For adverse benefit determinations based on medical necessity, the Plan must 
+provide member s a written NOA, which must contain a reference to specific criteria that 
+support the decision and the explicit clinical reason for the decision. The Plan did not ensure the delegate included a reference to the specific criteria and guideline used to 
+support the decision and the clinical reason for the decision, including the explicit 
+reason why the member’s  condition did not meet the criteria, in NOA letters.  
+ The Plan must ensure its UM delegate meets standards set forth by the Plan and DHCS. The Plan is required to maintain a full -time physician as a Medical Director 
+whose responsibilities must include ens uring that medical decisions are rendered by 
+qualified medical personnel. The Plan did not ensure that its  UM delegate’s medical 
+decisions were rendered by qualified medical personnel.   The Plan must ensure its UM delegate meets standards set forth by the Plan and DHCS. The Plan must ensure that there is a set of written criteria or guidelines for 
+utilization  review that is based on sound medical evidence, is consistently applied, 
+regularly reviewed, and updated.  The Plan did not ensure that the delegate’s written 
+criteria and guidelines used for utilization review were  consistently applied.  
+ 
+The Plan is requi red to collect and review its subcontractors’ ownership and control 
+disclosure information. The Plan did not collect and review its UM delegates’ ownership and control disclosure information.  
+ Category 2 –  Case Management and Coordination of Care 
+ Category 2 includes requirements to m ail a DHCS approved Health Information Form/ 
+Member Evaluation Tool ( HIF/MET ) to each newly enrolled member as part of the 
+Plan’s welcome packet  and provide an Initial Health Assessment  (IHA) to each new 
+member . 
+ The Pl an is required to, at a minimum, m ail a DHCS approved HIF/MET to each newly 
+enrolled member as part of the Plan’s welcome packet and include a postage paid envelope for  a response. The Plan did not ensure that HIF/METs were mailed to newly 
+enrolled members.  
+ The Plan is required to cover and ensure the provision of an IHA to new members within 120 calendar days of enrollment. An IHA consists of a comprehensive history and physical ex amination, preventive services, and an Individual Health Education 
+Behavioral Assessment (IHEBA). The Plan did not ensure the provision of a complete IHA to each new member.   
+4 of 40 Category 3 –  Access and Availability of Care  
+ Category 3 includes requirements to provide Non- Emergency Medical Transportation 
+(NEMT) and Non- Medical Transportation (NMT) for members.  
+ The Plan is required to use a DHCS -approved Physician Certification Statement (PCS) 
+that include s, at a  minimum, the following components: documentation of specific 
+physical and medical limitations that preclude the member’s ability to reasonably ambulate without assistance or be transported by public or private vehicles , dates of 
+service needed maybe for a  maximum of 12 months , mode of transportation needed, 
+and PCS of medical necessity. The Plan did not collect all required information on PCS forms for NEMT requests.  
+ The Plan must provide NMT services necessary for members to obtain medically necessary Medi -Cal services, including those not covered under the Contract. The Plan 
+did not provide NMT services necessary for members to obtain medically necessary Medi -Cal services, including those not covered under the Contract.  
+ The Plan must conduct monitoring activities no less than quarterly  for NEMT and NMT 
+providers . The Plan did not conduct  monitoring activities at least quarterly for 
+transportation providers . 
+ The Plan must inform members that the transportation provider must arrive within 15 minutes of their scheduled NEMT or NMT appointment. The Plan did not inform members that transportation providers  must arrive within 15 minutes of their scheduled 
+NEMT or NMT appointment.  
+ Category 4 –  Member’s Rights  
+ Category 4 includes requirements to establish and maintain a grievance system, the handling of Protected Health Information (PHI), and requirements for the Plan’s Cultural and Linguistic Services Program.  
+ There were no findings noted for this category during the audit period.  
+ Category 5 –  Quality Management  
+ Category 5 includes procedures and requirements to monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by providers.  
+ The Plan is required to monitor, evaluate, and take effective action to address any 
+needed improvements in the quality of care delivered by providers.  The Plan did not 
+evaluate Potential Quality Issues ( PQIs) and did not take effective action to address 
+needed i mprovements for PQIs.  
+  
+5 of 40 The Plan must allow DHCS to audit, inspect, monitor , and evaluate the quality, 
+appropriateness, and timeliness of services  provided under the C ontract , and all 
+records, facilities, and electronic systems maintained by the Plan and subcontractors 
+pertaining to these services at any time. Upon request, the Plan must furnish any record, or copy of it, to DHCS . The Plan did not allow DHCS to inspect and audit all of 
+the Plan’s records and documents, and the Plan did not furnish requested records to DHCS that were needed to evaluate the quality of services  provided.  
+ Category 6 –  Administrative and Organizational  Capacity 
+ Category 6 includes a review of the Plan’s administrative and management 
+arrangements or procedures, as well as a mandatory compliance plan, which are designed to guard against fraud and abuse.  
+ There were no findings noted for this category during the audit period.  
+  
+6 of 40 III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ This audit was conducted by the DHCS Contract and Enrollment Review Division  to 
+ascertain that the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the state Contract.  
+ 
+PROCEDURE  
+ The audit  was conducted from March 6, 2023 through March 17, 2023. The audit 
+included a review of the Plan’s policies for providing services, the procedures used to 
+implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ Service Requests: A total of 29 medical service requests were reviewed for timeliness, 
+consistent application of criteria, and appropriate review. Of the 29 cases, two were 
+retrospective requests, 23 were prior authorization requests, and four were concurrent 
+review requests.  
+ Appeal Requests : A total of ten prior authorization appeals were reviewed for 
+appropriate and timely adjudication.  
+ Delegated Authorization Requests: A total of 25 medical service requests from one delegate were reviewed for timeliness, consistent application of criteria, and appropriate adjudication. Of the 25 cases, two were retrospective requests, 21 were prior authorization requests, and two were concurrent review requests.  
+ Category 2 – Case Management and Coordination of Care 
+ Health Risk Assessment ( HRA) requirements: Ten files involving S eniors and Persons 
+with Disability  were reviewed to confirm coordination of care and fulfillment of HRA 
+requirements.  
+ IHA: 12 medical records were reviewed for evidence of coordination of care and 
+fulfillment of IHA req uirements.  
+ Complex Case Management : Five medical records were reviewed to confirm  
+coordination of care.  
+  
+7 of 40 Behavioral Health Treatment : Ten member  files were reviewed to confirm coordination 
+of care and fulfillment of behavioral health requirement s. 
+ Category 3 –  Access and Availability of Care  
+ Claims: 20 emergency services and 20 family planning claims were reviewed for appropriate and timely adjudication.  
+ NMT: 20 claims were reviewed for timeliness and appropriate adjudication.  
+ NEMT: 16  claims  were reviewed for timeliness and appropriate adjudication. Contracted 
+NEMT providers were reviewed to confirm Medi -Cal enrollment  requirements . 
+ Category 4 –  Member’s Rights  
+ Grievances : 50 standard grievances, 14 expedited grievances and eight  exempt 
+grievances, were reviewed for timely resolution, response to complainant, and submission to the appropriate level for review. The 50 standard grievance cases 
+included 25 quality of service and 25  quality of care grievances . 
+ Confidentiality Rights: Five  Health Insurance Portability and Accountability Act/PHI 
+breach and security incidents were reviewed for processing and timeliness requirements.  
+ Category 5 –  Quality Management  
+ PQI: 16 PQI cases were reviewed for appropriate evaluation and effective action taken 
+to address needed improvements.  
+ Provider Training: 34 new provider training records were reviewed for the timeliness of 
+Medi -Cal Managed Care Program training 
+ Category 6 –  Administrative and Organizational Capacity 
+ Fraud and Abuse: Seven fraud and abuse cases were reviewed for appropriate 
+reporting and processing.  
+ A description of the findings for each category is contained in the following report.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+8 of 40   
+CATEGORY 1 - UTILIZATION MANAGEMENT  
+  
+1.2  
+PRIOR AUTHORIZATION REVIEW  REQUIREMENTS 
+ 1.2.1 Notice of Action “Your  Rights” Attachment  
+ The Plan must comply with all existing Policy Letters and APLs issued by DHCS. (Contra ct A24, Exhibit E, Attachment 2(1)(D)) 
+ Adverse benefit determinations include denial or limited authorization of a requested service. The Plan must provide members with written notice of an adverse benefit determination using the appropriate DHCS standardized NOA template and the DHCS standardized NOA “Your Rights” template. DHCS updated the Knox -Keene NOA “Your 
+Rights” attachment template with additional information on deemed exhaustion (exceptions when a member can file a State Fair Hearing prior to completion of internal 
+appeal process), Aid Paid Pending (continuation of treatment), and new contact information for California Department of Social Services (CDSS) and Department of Managed Health Care (DMHC). Knox -Keene licensed Plans must use the Knox -Keene 
+“Your Rights” attachment template attached to this APL. Plans are not permitted to make changes to NOA or “Your Rights” templates without prior review and approval from DHCS, except to insert information specific to the member as required. The implementation date of the templates was February 28, 2022. (APL 21 -011, Grievance 
+and Appeal Requirements, Notice and “Your Rights” Templates)  
+ Plan Policy , CO-01 Utilization Management Notice of Action Letters  (approved 7/29/22) , 
+stated that NOA letters for denials, partial denials, and deferrals  must contain the “Your 
+Rights” attachment enclosure with the following information: description of appeal rights, explanation of appeal process, and description of expedited appeal process. In addition, the Plan must inform members of the right and method of obtaining a State Fair Hearing 
+and DMHC Independent Medical Review.  
+ Finding:  The Plan did not send updated NOA “Your Rights” Attachments to members 
+for adverse benefit determinations in accordance with APL 21- 011. 
+ A verification study demonstrated that in six of 22 adverse benefit determinations resolved after the Plan’s 3/18/22 implementation date, the Plan did not include an updated NOA “Your Rights” attachment with written NOA letters sent to members. In all six samples, the Knox -Keene NOA “Your Rights” attachment did not contain required 
+information on deemed exhaustion, Aid Paid Pending, and updated contact information for CDSS.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+9 of 40  In interviews and written statements, the Plan stated that it incorporated the new NOA “Your Rights” attachments into the NOA decision letter templates on 3/18/22. In September 2022, the Plan revised and separated outpatient NOA decision letter templates from inpatient templates. At this time, the Plan incorporated outdated NOA 
+“Your Rights” attachments i nto the outpatient templates due to staff error. The Plan’s 
+explanation was consistent with the verification study findings. The Plan acknowledged that during quarterly internal audits of previously resolved cases, the Plan did not verify that the NOA “Your Rights” attachment contained updated content that aligned with the APL.  
+ When the Plan does not update information required by DHCS, such as NOA “Your Rights” templates, members may not receive updated information necessary to exercise their rights.  
+ Recommendation:  Develop and implement procedures to ensure that the Plan sends 
+updated NOA “Your Rights” attachments with required information to members in accordance with APL 21- 011. 
+     
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+10 of 40   
+1.3  
+PRIOR AUTHORIZATION APPEAL PROCESS  
+ 1.3.1 Notice of Appeal Resolution “Your Rights” Attachment   The Plan must follow appeal requirements and use all notice templates included in APL17 -006. (Contrac t A24, Exhibit A, Attachment 14(1))  
+ The Plan must provide members with a written NAR. For appeals upholding the original adverse benefit determination, the NAR must also include the NAR “Your Rights” attachment. DHCS updated the Knox -Keene NAR “Your Rights” attachment template 
+with additional information on Aid Paid Pending (continuation of treatment) and new contact information for CDSS and DMHC. Knox -Keene licensed Plans must use the 
+Knox -Keene NAR “Your Rights” template attached to this APL. Plans are not permitted 
+to make any changes to t he NAR “Your Rights” templates without prior review and 
+approval from DHCS, except to insert information specific to the member as required. The implementation date of the templates was February 28, 2022.  (APL 21 -011, 
+Grievance and Appeal Requirements, Not ice and “Your Rights” Templates, which 
+superseded APL 17- 006) 
+ Plan Policy , QI-17 Member Appeals  (approved 7/29/22) , stated that the Plan sends 
+NAR “Your Rights” attachment to members for upheld and overturned decisions. The Plan informs members of no- cost external review in the “Your Rights” document.  
+ Finding:  The Plan did not send updated NAR “Your Rights” Attachments to members 
+for upheld appeal decisions in accordance with APL 21- 011. 
+ A verification study of prior authorization appeals samples revealed that in six of six upheld samples, the Plan did not include an updated NAR “Your Rights” attachment with written NAR letters sent to members. The Plan’s Knox -Keene NAR “Your Rights” 
+attachment did not contain required information on Aid Paid Pendi ng and updated 
+contact information for CDSS.  
+ In a written statement, the Plan acknowledged it inadvertently did not implement the updated NAR “Your Rights” templates from APL 21- 011 due to staff error. During the 
+audit period, the Plan did not conduct int ernal audits of previously resolved appeals 
+cases to ensure compliance with regulations.  
+ When the Plan does not update information required by DHCS, such as NAR “Your Rights” templates, members may not receive updated information necessary to exercise their rights.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+11 of 40  Recommendation: Develop and implement procedures to ensure that the Plan sends 
+updated NAR “Your Rights” attachments with required information to members in accordance with APL 21- 011.  
+ 1.3.2 Written Consent for Appeals   The Plan must ensure that the following requirement is met through the grievance and appeal system:  a  member or a provider or authorized representative acting on behalf of 
+a member and with the member’s written consent, may file an appeal with the Plan either verbally  or in writing. ( Contract A24, Exhibit A, Attachment 14(1)(A) ) 
+ In accordance with federal and state law, appeals may be filed either verbally  or in 
+writing by a member, a provider acting on behalf of the member, or an authorized representativ e. Appeals filed by the provider on behalf of the member require written 
+consent from the member. Plans must comply with this requirement in accordance with DHCS Contract and federal regulations. ( APL 21 -011, Grievance and Appeal 
+Requirements, Notice and “ Your Rights” Templates ) 
+ If state law permits and with the written consent of the member, a provider or an authorized representative may request an appeal on behalf of the member. Code of 
+Federal Regulations ( CFR) , Title 42, section 438.402(c)(1)(ii) ) 
+ The Plan submitted two versions of Policy , QI-17 Member Appeals . The version dated 
+7/29/22 was in effect during the audit period. The undated draft version resulted from a prior year finding and was revised to reflect a new process but had not yet been implemented.  
+ Plan Policy , QI-17 Member Appeals  (approved 7/29/22) , stated  that an appeal filed by 
+the provider on behalf of a member requires written consent from the member. Except for expedited appeals, when an appeal is filed without member’s written c onsent, the 
+Plan sends a signature form to the member to obtain consent. The Plan does not dismiss or delay the appeal if a written consent form is not received from the member. If the provider submitted an appeal on the member’s behalf, a copy of the resolution is sent to the provider.  
+ Plan Draft Policy , QI-17 Member Appeals  (no approval date) , stated that appeals filed 
+by the provider or third party on behalf of a member require the member’s consent to begin processing. If the member is present on the phone when the provider submits the appeal, the Plan obtains the member’s verbal consent to pr oceed with appeal filing. If 
+the member is not present at the time the provider submits the appeal, the Plan attempts to contact the member three times to obtain verbal consent. If the member  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+12 of 40  refuses to provide verbal consent, the case is closed. If the member verbally consents, the Plan processes the appeal and sends a consent form to the member. Until the member returns the completed consent form, all communications and resolution letters will be sent to the member only. The provider only receives com munications once the 
+member returns the completed consent form. If the Plan is unable to reach the member, the Plan sends the consent form. If the consent form is not received within 30 calendar days of appeal submission, the Plan notifies the member and provider that the case was withdrawn.  
+ Finding:   The Plan did not ensure that members’ written consent was received prior to 
+closing cases when providers filed appeals on behalf of members.   A verification study of ten prior authorization member appeals showed that in two of two 
+standard appeals where a provider filed an appeal on the member’s behalf, the Plan did not receive written member consent prior to appeal resolution. In both cases, the Plan obtained verbal cons ent from the member and then mailed a written consent form with 
+the appeal acknowledgement letter. The Plan did not call or remind the members to return the consent forms prior to appeal resolution. Both cases were processed and resolved without signed mem ber consent on file, and the Plan sent resolution letters to 
+the members and providers.  
+ 
+This is a repeat finding of prior year’s finding 1.3.2 –  Written Consent for Appeals.  
+ In the CAP to the prior audit finding 1.3.2, the Plan developed a new process, created a 
+new member consent form specific to provider filings, and revised Policy QI -17. During 
+interviews, the Plan acknowledged it did not implement the new process and did not finaliz e the new consent form and draft policy during the audit period because the Plan 
+was waiting for approval from DMHC .  
+ When the Plan does not ensure written member consent is received for standard appeals filed by providers on members’ behalf, the Plan is out of compliance with federal regulations and DHCS contractual obligations for member appeals.  
+ Recommendation:   Implement policies and procedures to ensure the Plan receives 
+written member consent for standard appeals prior to appeal resolution when a pr ovider 
+files on behalf of a member.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+13 of 40   
+1.4  
+MEDICAL DIRECTOR AND MEDICAL DECISIONS 
+ 1.4.1 Medical Director Changes  
+ The Plan is required to report to DHCS any changes in the status of the Medical Director within ten calendar days. (Contra ct A24, Exhibit A, Attachment 1(7))  
+ Plan Policy , CO-22 Authorization Requests  (approved 10/11/22) , stated that the Chief 
+Medical Officer has responsibility for oversight of all UM  functions and must have a 
+medical degree from an accredited program, board certification, and a valid unrestricted license to practice medicine in California.  
+ Plan Policy , QI-15 Quality Improvement Program  (approved 5/10/21) , stated that the 
+Chief Medical Officer leads the QI  Committee, approves the QI Program Evaluation, 
+and is involved in the development of the QI Program Description and Work Plan.  
+ Finding:   The Plan did not report to DHCS all changes in the status of the Medical 
+Director within ten calendar days . 
+ During interviews, the Plan explained the numerous changes in the Medical Director, also known as the Chief Medical Officer (CMO), position during the audit period. In April 2022, the former CMO went on medical leave and subsequently resigned. The first Interim CMO, a recently hired physician who worked for the Plan, took over the duties of the CMO position temporarily from April to June 2022. The Plan hired a second Interim CMO who served in the position from June 2022 to August 2022, and then she resigned. Afterwards, the first Interim CMO covered the CMO position from August 2022,  until the remainder of the audit period, and he was subsequently promoted to 
+CMO.  
+ Based on email records from the Plan and DHCS, the Plan sent notification to DHCS about the change in CMO position in August 2022,  but did not send notifications for two 
+changes in the position in April 2022,  and June 2022. The Plan acknow ledged that  it did 
+not notify DHCS of all CMO changes due to an oversight. The Plan did not maintain a 
+policy or written procedure for changes in the CMO.  
+ When the Plan does not inform DHCS of changes in the CMO position , the Plan does 
+not meet contractual obligations and important information may not be relayed to the 
+new CMO  regarding Medi -Cal updates and program changes.  
+ Recommendation:   Develop and implement procedures to ensure that the Plan informs 
+DHCS of changes in Medical Director ’s status within ten calendar days.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+14 of 40   
+1.5  
+DELEGATION OF UTILIZATION MANAGEMENT  
+ 
+1.5.1 Criteria and Explicit Clinical Reason in Notice of Action  
+ 
+The Plan must maintain a system to ensure accountability for delegated UM activities that, at a minimum, ensures the delegate meets standards set forth by the Plan and DHCS. (Contract A 24, Exhibit A, Attachment 4(6) (B)) 
+ 
+The Plan must provide members with written notice through a NOA for adverse benefit determinations, which include denial or limited authorization of a requested service. For adverse benefit determinations based in whole or in part on medical necessity, the written NOA must contain all the following:  1. A description of the criteria or guidelines 
+used, including a reference to the specific regulation or authorization procedure that 
+supports the decision.  2. The clinical reasons for the decision; the Plan must explicitly 
+state how the member’s condition does not meet the criteria or guidelines. ( APL 21 -011, 
+Grievance and Appeal Requirements, Notice and “Your Rights” Templates ) 
+ 
+Plan Policy , DO-02 Oversight of Delegated Functions  (reviewed 9/29/2021, ) stated that 
+the Plan ensures delegated functions comply with DHCS contract and applicable regulations through an annual audit and monthly and quarterly monitoring activities. For the annual audit of the delegate, the Plan uses an audit tool that incorporates DHCS requirements.  
+ 
+The Delegation Agreement between the delegate and the Plan (dated 11/6/2019) , 
+stated the delegate will perform all delegated functions in compliance with DHCS requirements and all state and federal laws. Exhibit H -1 of the agreement stated the 
+delegate’s written notification for denials must include all of the following :  1. The 
+specific reason for the denial. 2. A reference to the benefit provision, guideline, protocol, or criterion on which the denial decision is based.  
+ 
+Delegate Policy , Utilization Management Program Manual  (approved 2/13/2023) , stated 
+the delegate must include all of the following elements in the NOA letters:  1. Description and reference to the criteria, guidelines, benefit provision, policy/procedure, or protocol on which the denial decision is based, including specific reference to the name of the criteria and source. 2. Clinical reason for the decision with a clear and 
+concise explanation of the reason for the decision.  
+ 
+Finding:  The Plan did not ensure the delegate included reference to the specific criteria 
+and guideline used to support the decision and the clinical reason for the decision, 
+including explicit reason why the member’s condition did not meet criteria, in NOA letters fo r adverse benefit determinations based on medical necessity.   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+15 of 40  A verif ication study revealed that in five of eight  adverse benefit determinations based 
+on medical necessity, the delegate did not cite criteria or guidelines used to make the decision and did not explicitly state how the member’s condition did not meet criteria 
+within the NOA letter. Examples of deficient samples include:  
+ • In one sample with a modify decision, the delegate denied a powered seat elevation system for a partially paralyzed member. The decision- maker’s denial was based on 
+an assessment from an external specialty reviewer. The NOA stated the specialty reviewer determined that powered seat elevation will not help with transfers. The NOA did not reference any criteria,  DHCS Provider Manual language, guidelines, or 
+policies used by the external reviewer to make the decision, and the NOA did not provide an explicit reason why the member’s physical limitations did not meet criteria for powered seat elevation.  During an int erview, the delegate stated it was not aware 
+that criteria should be used and cited when cases were sent for external review by a specialist.  
+ 
+• In another sample with a modify decision, the delegate denied the latter portion of a hospital stay for a member with medical and mental health conditions. For the denial, the NOA stated that clinical notes showed the member was medically stable and awaiting transfer to a mental health facility. The NOA did not reference any clinical criteria or guidelines used to determine if the member was medically stable, and the NOA did not provide an explicit reason why the member’s acute brain disorder, heart and thyroid conditions, and withdrawal symptoms from substance overdose no longer met criteria for inpatient stay.  Durin g an interview, the physician 
+decision- maker stated the denial decision was based on a hospital provider’s 
+medical record note that the member was medically stable. The delegate acknowledged it did not use its inpatient criteria set to determine if the mem ber’s 
+medical conditions were in fact stable enough to be released from the hospital.  
+ 
+• In another sample, a physician decision- maker denied medical treatment for a blood 
+disorder based on clinical criteria; however, the decision -maker did not document a 
+rationale of why the member did not meet criteria. The NOA incorrectly stated the 
+out-of-network request was denied due to availability within the Plan’s network. The 
+NOA did not reference the criteria used by the decision -maker, and the NOA did not 
+provide an explicit clinical reason for why the member’s blood disorder did not meet 
+criteria for treatment. In a written response, the delegate stated the criteria and 
+clinical reason for denial were not included in the NOA due to staff error.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+16 of 40  
+In four  of the five deficient samples, the physician decision- maker did not document the 
+use of any criteria or guidelines to support  the medical necessity decisions. During an 
+interview, the delegate stated the N urse Manager reviewed all NOA letters prior to 
+mailing and ensured they contained all required components, such as reference to criteria and the clinical reason for denial ; how ever, the verification study confirmed that 
+this process was not in effect.  
+ During the 2022 annual delegation audit,  the Plan reviewed a sample of the delegate’s 
+denials, which were mostly denied due to being out -of-network and were not medical 
+necessity denials. The Plan did not explain how it ensured compliance with regulations 
+for adverse benefit determinations based on medical necessity.  
+ When the delegate does not reference criteria and does not explain why the member’s condition does not meet criteri a, providers may not receive enough clinical information 
+to make treatment plan decisions and members may not receive medically necessary services.  
+ Recommendation:  Revise and implement procedures to ensure the delegate includes 
+all required information in NOA letters for adverse benefit determinations based on 
+medical necessity in accordance with APL 21- 011. 
+ 1.5.2 Ownership and Control Disclosure Review  
+ 
+The Plan is required to comply with CFR, Title 42, Section  455.104. ( Contract A24, 
+Exhibit A, Attachment 1(2)(B) )  
+ 
+The Plan must require each disclosing entity to disclose certain information, including the name, address, date of birth, and social security number of each person or other tax identification number of each corporation with an ownership or control interest in the disclosing entity. ( CFR,  Title 42,  Section 455.104)  
+ The Plan is required to collect and review their subcontractors’ ownership and control disclosure information as set forth in CFR , Title 42,  Section 455.104. The Plan must 
+make the subcontractors’ ownership and control disclosure information available, and 
+upon request, this information is subject to audit by DHCS. ( APL 17-004, 
+Subcontractual Relationships and Delegation)  
+ Plan p olicy, CR-02 Enrollment of Organizational Providers (reviewed 10/11/22) , stated 
+“Providers that apply as a partnership, corporation, governmental entity, or nonprofit organization must disclose ownership or control information.”  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+17 of 40  Plan draft policy , Screening of Sub- Contractors and UM Delegates –  Desktop 
+Procedure (updated 12/27/22) , described the step- by-step procedures of collecting and 
+reviewing ownership and disclosure forms submitted by sub- contractors and UM 
+delegates.  
+ Finding:  The Plan did not  collect and review ownership and control disclosure 
+information for their UM delegates.  
+ 
+This is a repeat finding of the prior years’ finding 1.5.2 –  Ownership and Control 
+Disclosure Review . 
+ 
+As part of a corrective action for  the prior years’ finding, t he Plan revised its ownership 
+disclosure form in order to eliminate confusion among its delegates and created a Credentialing Desktop Procedure (DTP) that outlined its process for monitoring and 
+oversight of the process. The Plan implemented the DTP in Dec ember 2022,  and sent 
+the revised disclosure form to delegates on 1/13/23 with a completion date of 1/31/23. A 
+review  demonstrated that five of seven disclosure forms were not completed by the 
+delegates as of the end of the audit period.  
+ 
+In interviews and written responses, the Plan stated that it had difficulties  collecting the 
+disclosure forms from the delegates. One of the entities raised concerns regarding the confidentiality of the ownership information disclosed.  
+ 
+When the Plan does not collect and review ownership and control disclosure information of its UM delegates, it  cannot ensure compliance with disclosure requirements . 
+ 
+Recommendation:  Develop and i mplement policies and procedures to ensure review 
+and completion of delegates’ ownership and control disclosure information.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+18 of 40  1.5.3 Qualified Medical Personnel  
+ The Plan must maintain a system to ensure accountability for delegated UM activities that, at a minimum, ensures the delegate meets standards set forth by the Plan and DHCS. (Contract A24, Exhibit A, Attachment 4(6) (B)) 
+ The Plan is required to maintain a full- time physician as Medical Director whose 
+responsibilities must include ensuring that medical decisions are rendered by qualified medical personnel. (Contra ct A24, Exhibit A, Attachment 1(6)(A))  
+ Plan Policy , DO-02 Oversight of Delegated Functions  (reviewed 9/29/2021) , stated that 
+the Plan ensures delegated functions comply with DHCS contract and applicable regulations through an annual audit and monthly and quarterly monitoring activities. For the annual audit of the delegate, the Plan us es an audit tool that incorporates DHCS 
+requirements.  
+ The Delegation Agreement between the delegate and the Plan (dated 11/6/2019) , 
+stated the delegate will perform all delegated functions in compliance with DHCS requirements and all state and federal laws. Exhibit H- 1 of the agreement stated the 
+delegate is responsible for the following component: Qualified licensed health professionals assess the clinical information used to support UM decisions.  
+ Delegate Policy , Utilization Management Program Manual  (approved 2/13/2023) , stated 
+that non- clinical staff or nurses evaluate concurrent reviews of hospital stays for medical 
+necessity, based on the member’s diagnosis, treatment plan, progress, and discharge 
+plan. Certain non- clinical staff, who are trained to perform reviews using a vendor -based 
+criteria set, can make a decision to approve inpatient stay requests. For cases that are complex and/or require clinical judgement, non- clinical staff will refer the cases to nurse 
+or physician decision- makers for review. When members are admitted to out -of-network 
+hospitals, non- clinical staff perform daily concurrent review and monitor the course of 
+medical care until the member is stable to be transferred to an in- network facility.  
+ Finding:  The Plan did not ensure that its UM delegate’s medical decisions were 
+rendered by qualified medical personnel.   The delegate allowed unqualified non- clinical st aff to perform medical necessity 
+evaluations for concurrent review requests of acute inpatient (hospital) admissions, approve hospitals stays, and determine whether a member is stable enough to transfer to an in- network facility, without clinician review a nd approval.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+19 of 40  A verification study demonstrated that in one concurrent review request involving 
+approval of inpatient days, the delegate allowed non- clinical staff to make medical 
+necessity decisions. In this sample, an out -of-network hospital requested coverage for 
+an emergency  admission. Non- clinical staff approved the admission based on the 
+submitted diagnoses and determined the member did not need to be transferred to an in-network hospital. Non- clinical staff approved a total of six hospital days wit hout 
+review from the nurse manager or physician decision- maker. Although non- clinical staff 
+documented limited summaries of the medical records, they did not document whether the member’s acute brain disorder, heart and thyroid conditions, and withdrawal symptoms from substance overdose met inpatient criteria.   Non-clinical staff did not have the licensure, such as vocational/registered nurse or 
+physician licensure, clinical expertise, or education to perform medical necessity 
+evaluations.  
+ In an interview and in written statements, the delegate acknowledged that it allowed non-clinical staff to approve emergency  admissions to the hospital based on certain 
+diagnosis codes. For the initial seven days of the hospital stay, non- clinical staff we re 
+allowed to independently review clinical records and approve days according to a 
+vendor -based inpatient criteria set, and these approvals did not require nurse or 
+physician decision- maker review s. In addition, the delegate stated non- clinical staff 
+made decisions on whether a member could be transferred to an in- network hospital.  
+ In an interview, the Plan acknowledged that for the annual delegation audit, the Plan does not select samples of approved decisions and instead focuses on denials. During the 2022 annual audit of the delegate, the Plan did not review policies and procedures for qualified UM staff because it was a limited scope audit, and the Plan did not review samples of hospital stays.  
+ When non- clinical staff determine medical necessity and approve hospital days, staff 
+may approve acute inpatient care that is not medically appropriate  which may result in 
+members experiencing hospital -acquired complications.  
+ Recommendation: Revise and implement procedures to ensure that its UM delegate’s medi cal decisions are rendered by qualified medical personnel.  
+ 1.5.4 Consistent  Application of Criteria  
+ The Plan must maintain a system to ensure accountability for delegated UM activities that, at a minimum, ensures the delegate meets standards set forth by the Plan and DHCS. (Contra ct A24, Exhibit A, Attachment 4 (6)(B))  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+20 of 40  The Plan must ensure that its pri or authorization, concurrent review, and retrospective 
+review procedures meet the following minimum requirement: There is a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regul arly reviewed, and updated. (Contra ct A24, Exhibit A, 
+Attachment 5(2)(D))  
+ Plan Policy , DO-02 Oversight of Delegated Functions  (reviewed 9/29/2021) , stated that 
+the Plan ensures delegated functions comply with DHCS contract and applicable regulations through an annual audit and monthly and quarterly monitoring activities. For the annual audit of the delegate, the Plan uses an audit tool that incorporates DHCS requirements.  
+ The Delegation Agreement between the delegate and the Plan (dated 11/6/2019) , 
+stated the delegate will perform all delegated functions in compliance with DHCS requirements and all state and federal laws. Exhibit H -1 of the agreement , stated the 
+delegate must use written criteria based on sound clinical evidence to make utilization decisions, specify procedures for appropriately applying criteria, and at least annually evaluate the consistency with which health care professionals apply criteria in decision-making.  
+ Delegate Policy , Utilization Management Program Manual  (approved 2/13/2023) , stated 
+that criteria are used to assist UM staff in determining medical necessity. The QI  team 
+conducts annual I nter-Rater Reliability (IRR) testing to evaluate the consistency of 
+criteria application by clinical and non- clinical decision -makers through a review of a 
+random selection of denial cases. A passing score is 90 percent  or higher.  
+ Finding:   The Plan did not ensure that the delegate’ s written criteria and guidelines 
+used for utilization review were  consistently applied.  
+ The delegate did not have an effective process to ensure consistent application of criteria. The delegate’s annual IRR testing process did not include a clinical revi ew by 
+clinicians to ensure that medical necessity criteria were consistently applied by nurse and physician decision -makers.  
+ A verification study of 25 clinical service requests revealed that in five samples, the delegate inconsistently applied criteria.  
+ • In four adverse benefit determinations (denials and modify decisions) based on 
+medical necessity, the physician decision- maker did not document the use of any 
+criteria or guidelines to support the decisions.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+21 of 40  
+• In one adverse benefit determination due to out -of-network status, the delegate 
+inappropriately denied care that was medically necessary. The delegate denied the request because care was available within the delegate’s network; however, the physician decision- maker did not consider the urgency of the member ’s symptoms 
+or document the use of clinical criteria. The member had a corroded eye prosthesis, which caused an infection requiring antibiotic treatment. The delegate denied an out -
+of-network request for a custom prosthesis and determined that a six week  wait for 
+in-network care was appropriate. In a written response, the delegate acknowledged 
+the member’s symptoms were overlooked and the denial decision was not appropriate.  
+ 
+During interviews and in written statements, the delegate acknowledged that it did not use clinical criteria  sets, such as the vendor -based criteria, to make the medical 
+necessity decisions for many of the deficient samples.  
+ The delegate’s 2022 IRR results demonstrated that non- clinical quality staff reviewed 
+previously resolved deni al cases and verified whether medical criteria were applied 
+correctly. The non- clinical staff did not have the licensure, expertise, education, and 
+clinical experience to assess clinical information and determine whether medical criteria were applied appropriately.  
+ In an interview, the delegate explained that non- clinical staff conducted IRR testing to 
+reduce bias because they were not involved in UM decision- making. The delegate 
+acknowledged it did not maintain other methods of ensuring consistent application of clinical criteria, such as internal audits or vendor -based criteria testing and assessment.  
+ In a written response, the Plan stated that it reviews the delegate’s IRR results every three years during full -scope audits and annually verifies that the delegate completed 
+IRR testing through annual delegate reports. The Plan did not explain how it reviewed the delegate’s IRR process to ensure that it was effective.  
+ When the delegate does not evaluate for the consistent and appropriate use of clinical criteria, UM decisions may be inconsistent and may lead to inappropriate denial of 
+medically necessary services for members.  
+ Recommendation:   Revise and implement procedures to ensure that the delegate’s set 
+of written criteria and guidelines are consistent ly applied.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+22 of 40   
+CATEGORY 2 – C ASE MANAGEMENT AND COORDINATION OF CARE 
+  
+2.1  
+BASIC CASE MANAGEMENT  AND INITIAL HEALTH ASSESSMENT  
+ 2.1.1 Health Information Form/Member Evaluation Tool Documentation  The Plan is required to use data from a HIF/MET to help identify newly enrolled members who may need expedited services. The Plan is required to, at a minimum, mail a DHCS approved HIF/MET to each newly enrolled member as part of the Plan’s 
+welcome packet and include a postage paid envelope for response. (Contract A24, Exhibit A, Attachment 10(8)(B))  
+ Plan Policy , CARE- 02 Health Information Forms and Health Risk Assessments 
+(approved 02/13/2023) , stated the Plan mails a DHCS approved HIF/MET to all new 
+memb ers, who are three years old or older, as a part of the Plan’s welcome packet and 
+includes a postage paid envelope for response.  
+ Finding: The Plan did not ensure that HIF/METs were mailed to newly enrolled 
+members.  
+ A verification study revealed that for seven of ten newly enrolled members, the Plan did 
+not mail HIF/METs to the members.  
+ The Plan's policy stated that it would send the HIF/METs to members three years and 
+older , however, the Contract requires the Plan to send the HIF/METs to all newly 
+enrolled members.  
+ In an interview, the Plan stated that it  did not mail the HIF/MET s to all newly enrolled 
+members. The Plan’s definition of a newly enrolled member did not include members who re- enrolled in the Plan after a break in eligibility.  
+ This is a repeat finding of the prior year’s finding 2.1.1 - Health Information Form 
+(HIF)/Member Evaluation Tool (MET) Documentation.  
+ As part of the corrective action for the prior year’s finding, the Plan stated it would update its definition of a newly enrolled member and send the HIF/METs separately  
+from the  welcome packet. The Plan stated it would sen d the welcome packet to each 
+household and the HIF/MET to each individual member.  However, the verification study 
+showed that this process has not been implemented.  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+23 of 40  
+When the Plan does not mail the HIF/MET,  delivery of necessary services to members 
+may be delayed.  
+ 
+Recommendation: Revise  and implement policies and procedures to mail HIF/MET to 
+all newly enrolled members.  
+ 
+2.1.2 Provision of Initial Health Assessment  
+ 
+The Plan is required to cover and ensure the provision of an IHA (complete history and physical examination) in conformance with Califor nia Code of Regulations ( CCR) , Title 
+22, section 53851(b)(1) to each new member within 120 calendar days of enrollment.  
+ 
+An IHA consists of a comprehensive history and physical examination, preventive 
+services and an IHEBA using an age appropriate DHCS approved tool that enables a provider  of primary care services to comprehensively assess the member’s current 
+acute, chronic and preventive health needs and identify those members whose health needs require coordination with appropriate community resources and other agencies for services not covered under this Contract. The Plan is responsible for assuring that arrangements are made for follow -up services that reflect the findings or risk factors 
+discovered during the IHA and IHEBA. The Plan shall ensure that Primary Care Providers  (PCP) use the DHCS standardized Staying Healthy Assessment (SHA) tools, 
+or alternative approved tools that comply with DHCS approval criteria for the IHEBA.  
+ 
+The Plan is required to ensure that the latest edition of the Guide to Clinical Preventive Services published by the U.S. Preventive Services Task Force (USPSTF) is used to determine the provision of clinical preventive services to asymptomatic, healthy adult members [age 21 or older]. All preventive services identified as USPSTF “A” and “B” 
+recommendations must be provided. The Plan is required to make reasonable attempts to contact a member and schedule an IHA. All attempts shall be documented. Documented attempts that demonstrate Plan’ s unsuccessful efforts to contact a 
+member and schedule an IHA shall be considered evidence in meeting this requirement. (Contract A24, Exhibit A, Attachment 10(3) and (6); MMCD Policy Letter 
+08-003, Initial Comprehensive He alth Assessment ). 
+ 
+Effective January 1, 2023, the IHEBA/SHA will no longer be required components of the 
+IHA. (APL 22 -030 Initial Health Appointment ) 
+ 
+Plan Policy , HE-02 Initial Health Assessment (IHA) and Initial Health Education 
+Behavioral Assessment (IHEBA) (revised 06/17/2021) , stated that the Plan ensured 
+providers completed  an IHA for each member within 120 days after the effective date of 
+enrollment. An IHA c onsists of a history and physical exam and an IHEBA. An IHEBA 
+may be conducted using the SHA , or other DHCS -approved assessment tool.  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+24 of 40  Plan Policy , HE-03 Preventive Health Care  Guidelines  (revised 12/15/2022), stated that 
+the PCPs use the g uide published by the USPSTF to determine the provision of clinical 
+preventive services , ensure all preventive services identified as USPSTF “A” and “B” 
+recommendations are provided, and record preventive health activities in the member’s medical record.  
+ Finding: The Plan did not ensure the provision of a complete IHA to each new member.  
+ A verification study revealed in three of  five pediatric member  (ages ten months to four 
+and a half  years old) samples  with services provided prior to 1/1/23, the Plan did not 
+ensure the provider completed all of the required components of an IHA. Review of the medical records showed the following deficiencies :  
+ • One sample did not have any medical records available.  
+ • Two samples  did not have a complete IHA within 120 days.  
+ 
+o In one sample, there was  no documentation that IHEBA/SHA was conducted.  
+ 
+o In the other sample, there was  no documentation of IHEBA/SHA, complete 
+history and physical exam , immunizations  and blood lead screening.  
+ 
+A verification study revealed in seven of seven adult member  samples  with services 
+provided prior to 1/1/23, the Plan did not ensure the provider completed all of the 
+required components of an IHA. Review of the medical records showed the following  
+deficiencies : 
+ • Seven samples  did not have an IHA completed within 120 days  
+ 
+o In seven samples, there was no documentation of IHEBA/SHA . 
+ 
+o In three samples , there was no documentation of necessary immunizations.  
+ 
+o In four samples , there was no documentation that all applicable preventive 
+services identified as USPSTF “A” and “B” recommendations were offered to members who qualified based on condition and age, or that the status of services was recorded. For example, in all four samples , the pro vider did not document 
+screening for unhealthy drug use in adults age 18 years or older. The USPSTF recommends screening by asking questions about unhealthy drug use in adults age 18 years or older.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+25 of 40  This is a repeat finding of the prior years’  audit finding 2.1.4 -  Provision of IHA.  
+ As part of the corrective action to the prior year’s finding, the Plan stated it would hire an additional staff member dedicated to IHA , develop a method to identify members by 
+assigned provider who have not complied with the IHA timeframe , remind specific 
+population during outreach calls, develop outreach letters to providers, train PCPs  on 
+IHA documentation,  and r eview trend analysis.  
+ In an interview, t he Plan stated it is in the process of hiring an IHA specialist and have 
+not implemented the algorithm to identify members who have not completed an IHA. The Plan stated that it is testing methodology  to improve detect ion of  IHA completion . 
+However, t he Plan did not provide evidence that all corrective actions and new 
+processes  were implemented.  
+ When the Plan does not ensure the provision of a complete IHA, members may not receive important behavioral and medical health screenings that can help identify and prevent illnesses.  
+ Recommendation: Implement policies and procedures to ensure the provision of a 
+complete IHA to each new member.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+26 of 40   
+CATEGORY 3 – ACCESS AND AVAILABILITY OF CARE 
+  
+3.8  
+NON- EMERGENCY MEDICAL TRANSPORTATION 
+NON- MEDICALTRANSPORTATION 
+ 3.8.1 Physician Certification Statement Form – Required Information 
+ The Plan is required to provide appointment scheduling assistance and necessary transportation, including NEMT and NMT, to and from medical appointments for medically necessary covered services that the Plan is responsible for providi ng 
+pursuant to this Contract. (Contrac t A24, Exhibit A, Attachment 10(5)(F))  
+ The Plan is required to use a DHCS -approved PCS form to determine the appropriate 
+level of service for members. All NEMT PCS forms must include, at a minimum, the following components: documentation of specific physical and medical limitations that preclude the member’s ability to reasonably ambulate without assistance or be transported by public or private vehicles, dates of service needed maybe for a maximum of 12 months, mode of transportation needed, and PCS of medical necessity. The Plan must have a mechanism to capture and submit data from the PCS form to DHCS. Once the member’s treating physician prescribes the form of transportation, the Plan cannot modify the authorization. The Plan must have a process in place to impose corrective 
+action on their network providers if non- compliance with this APL is identified through 
+any monitoring or oversight activities . (APL 22 -008, Non-Emergency Medical  and Non-
+Medical Transportation Services a nd Related Travel Expenses ) 
+ Plan policy , CO-28 Transportation Services and Authorization Requirements (reviewed 
+10/20/22) , stated the PCS form would include the functional limitations justification, 
+dates of service needed, mode of transportation needed, and a certification statement 
+that the prescribing provider entered their name and signed the statement certifying that medical necessity was used to determine the type of transportation they indicated.  
+ Plan Desktop Procedures – PCS form Follow up  stated if the Prior Authorization Team 
+has documented two attempts to get missing information from both the NEMT vendor 
+and ordering provider but has not received information needed, then the Prior 
+Authorization Coordinator  will email the Plan’s Provider Network Operations C oordinator 
+to have them outreach to both the vendor and ordering provider to obtain the information.   
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+27 of 40  Finding:  The Plan did not collect all required information on PCS forms for NEMT 
+requests.  
+ A verification study revealed that six of 16 NEMT requests did not include all required 
+information in the PCS form.  
+ • Two requests  did not have function limitations justification.  
+ 
+• Two requests did not have end dates of service.  
+ • Two requests  had end dates that exceeded 12 months . 
+ Case notes show that the Plan documented the information was incorrect or missing, however, the Plan di d not document any attempts to reach out, update or collect the 
+missing information while it was processing the requests, or after the request was approved.  
+ In an interview, the Plan stated that it would make multiple attempts to contact the 
+transportation provider and obtain the completed forms. However, the Plan will not delay authorization of services if an updated PCS form has been requested, but not received.   
+ Four of six NEMT requests with missing or incorrect information on PCS forms w ere 
+from the same transportation provider.  In an interview, the Plan confirmed that it did not 
+impose provider education, monitoring or corrective actions.  
+ When the Plan does not gather all required PCS form  components , the Plan cannot 
+ensure that it complies with DHCS requirements to provide justification for medically necessary services.  
+ Recommendation:  Implement policies and procedures to ensure collection of all 
+required information on the Plan’s PCS form for NEMT requests.  
+ 3.8.2 Provision of Non -Medical Transportation Services   
+ The Plan is required to provide appointment scheduling assistance and necessary transportation, including NEMT and NMT, to and from medical appointments for medically necessary covered services that the Pl an is responsible for providing 
+pursuant to this Contract. (Contrac t A24, Exhibit A, Attachment 10(5)(F))  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+28 of 40  The Plan must provide NMT services necessary for members to obtain medically necessary Medi -Cal services, including those not covered under the Contract. At a 
+minimum, the Plan must provide round trip transportation by passenger car, taxicab, public or private conveyance (private vehicle) and mileage reimbursement for medically necessary covered services, picking up drug prescriptions that cannot be mailed directly to the member or picking up medical supplies and equipment. The Plan must provide NMT in a form and manner that is accessible, in terms of physical and geographic accessibility, for the member and consistent with applicable state and federal disability rights laws. ( APL 22 -008, Non-Emergency Medical  and Non- Medical Transportation 
+Services a nd Related Travel Expenses ) 
+ The 2022 Member Handbook stated that the Plan allows members to use a car, taxi, 
+bus, or other public/private way of getting to medical appointment for Medi -Cal-covered 
+services. The Plan will cover the lowest cost of NMT  type that meets the member’s 
+needs. Sometimes, the Plan can give reimbursement for rides in a private vehicle that the member arranges but it must be approved by Plan before the ride. To request a ride 
+for services, the member can call the Plan’s customer service line at least five  business 
+days before the appointment or as soon as possible if it’s an urgent appointment.  
+ Plan Policy , CS-12 Non- Medical Transportation (reviewed 10/20/2022) , stated that 
+members are eligible for round- trip NMT at no cost to the member when traveling to or 
+from a Medi -Cal covered service, whether provided by the Plan or carved- out, including 
+picking up prescription drugs, medical supplies, prosthetics, orthotic s, and other 
+equipment. The member should contact the Plan’s  Customer Service at least ten 
+business days prior to the appointment, or as soon as possible for an urgent appointment, to arrange for NMT.  
+ Finding:  The Plan did not provide urgent NMT services necessary for members to 
+obtain medically necessary Medi -Cal services, including those not covered under the 
+Contract.  
+ A verification study revealed that the Plan denied five of 16 urgent NMT requests . The 
+Plan stated that requests received less than ten business days from the appointment 
+date were considered urgent requests. Examples include:  
+ • Member called Customer Service on 8/22/22 to request NMT for an appointment on 8/26/22. Customer Service representative called member on 8/24/22 and informed member  the request was denied because it was submitted 4 days before the 
+appointment.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+29 of 40  
+• Member called Customer Service on 9/9/22 to request NMT for an appointment on 9/12/22. Customer Service Representative informed the member it requires ten  days 
+in advanced t o request the service. Customer Service Representative offered to 
+submit the request anyway but there was no guarantee. Customer Service Representative called member back the same day to inform them the NMT request was denied due to insufficient time to fu lfill the request . 
+ The Plan’s M ember Handbook and its policy have conflicting information on the 
+deadline for NMT requests. The Member Handbook states that the member should 
+contact the Plan at least five business days prior to the appointment whereas the Plan’s 
+policy stated the member should contact the Plan at least ten business days prior to the 
+appointment.  
+ In an interview, the Plan stated that the ten business day requirement is to ensure that 
+members can receive the taxi vouchers or public transportation passes in the mail prior to their appointment. The decision to approve or deny the NMT request is not based on the member’s eligibility or medical needs but solely on whether the Plan is able to mail the transportation vouchers to the member before their appointment time or if one of the two taxi companies the Plan works with is able to accommodate the member.   
+ When the Plan does not ensure members receive urgent NMT service when needed, it 
+may cause members to miss appointments or result in delays receiving the necessary medical services.  
+ Recommendation:  Revise and implement policies  and member informing materials  to 
+ensure urgent NMT service s are provided to member s for medical ly necessary covered 
+services.  
+ 3.8.3 Monitoring Activities for NEMT and NMT services  
+ The Plan is required to provide appointment scheduling assistance and necessary transportation, including NEMT and NMT, to and from medical appointments for 
+medically necessary covered services that the Plan is responsible for providing 
+pursuant to this Contract. (Contract A24, Exhibit A, Attachment 10(5)(F))  
+ The Plan must conduct monitoring activities no less than quarterly  for NEMT and NMT 
+providers . Monitoring activities may include, but are not limited to, verification of the 
+following items:  
+ • Enrollment status of NEMT and NMT providers.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+30 of 40  
+• The NEMT provider is providing door -to-door assistance for members receiving 
+NEMT services.  
+ 
+• NEMT and NMT providers are consistently arriving within 15 minutes of scheduled time for appointments.  
+ • No show rates for NEMT and NMT providers; (APL 22 -008, Non-Emergency Medical  
+and Non- Medical Transportation Services a nd Relat ed Travel Expenses ) 
+ Plan Policy , CS-12 Non- Medical Transportation (reviewed 10/20/2022) , stated that in 
+instances when the Plan schedules NMT services for members, member services will inform members that they must arrive 15 minutes in advance to their scheduled appointment. If the NMT provider does not arrive at the scheduled pick -up time, t he 
+Plan will provide alternate NMT or the member will be allowed to schedule alternate out -
+of-network NMT services. The Plan does not contract  with any NMT provider s or 
+brokers.  
+ Plan Policy , CO-28 Transportation (reviewed 11/1/22) , stated members are informed 
+that their drop off will be within 15 minutes of their scheduled appointment. If an NEMT provider is late or does not arrive at the scheduled pick -up time, the Plan will authorize 
+urgent NEMT to ensure the member does not miss their appointment. The N EMT 
+providers  must enroll in the Medi -Cal Program prior to joining the Plan’s network. The 
+Plan does not offer provisional contract status pending the DHCS enrollment process 
+outcome.  
+ Finding:  The Plan did not conduct  monitoring activities at least quarterly for 
+transportation services.  
+ In an interview, the Plan stated it does not have a mechanis m to monitor late or missed 
+appointments and door -to-door assistance for members receiving NEMT services. The 
+Plan relied on the grievance system to track timeliness and performance of the transportation services. The Plan did not conduct any  transportatio n specific monitoring 
+or audits during the audit period.  
+ When the P lan does not monitor  its transportation system, it cannot ensure members 
+receive the assistance and necessary transportation for medically necessary services.   Recommendation:  Develop and  implement policies and procedures to ensure 
+monitoring activities for NEMT and NMT services.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+31 of 40  3.8.4 Transportation Wait Times  The Plan is required to provide appointment scheduling assistance and necessary transportation, including NEMT and NMT, to and from medical appointments for medically necessary covered services that the Plan is responsible for providing 
+pursuant to this Contract. (Contract A24, Exhibit A, Attachment 10(5) (F)) 
+ The Plan must inform members that they  must arrive within 15 minutes of their 
+scheduled NEMT or NMT appointment.  If the  transportation provider does not arrive at 
+the scheduled pick -up time, the Plan  must provide alternate transportation or allow the 
+member to schedule alternate out -of-network services. In addition, the Plan must 
+monitor whether NEMT and NMT providers are consistently ar riving within 15 minutes of 
+scheduled time for appointments . (APL 22 -008, Non-Emergency Medical and Non-
+Medical Transportation Services and Related Travel Expenses)  
+ Plan Policy , CS-12 Non- Medical Transportation (reviewed 10/20/2022) , and Plan Policy , 
+CO-28 Transportation (r eviewed 11/1/22) , stated that member services will inform 
+members that they must arrive 15 minutes in advance to their scheduled appointment.  
+ Finding:  The Plan did not inform members that they must  arrive within 15 minutes of 
+their scheduled NEMT or NMT appointment.  
+ In an interview, the Plan stated that they have not communicated  the 15 minutes 
+requirement to the members as described in the policy.    When the Plan does not inform members  of the wait time for their transportation 
+services, it may cause members to miss appointments or result in delays receiving necessary medical services.  
+ Recommendation:  Revise and i mplement policies and procedures to inform members  
+that they must arrive withi n 15 minutes of their scheduled NEMT or NMT appointment . 
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+32 of 40   
+CATEGORY 5 – QUALITY MANAGEMENT  
+  
+5.1  
+QUALITY IMPROVEMENT SYSTEM  
+ 5.1.1 Evaluation of Potential Quality Issues  
+ 
+The Plan is required to monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers. ( Contract A24, 
+Exhibit A, Attachment 4(1 )) 
+ 
+Two versions of Plan Policy , QI-18 Potential Quality Issues , were in effect during the 
+audit period.  
+ 
+Plan Policy , QI-18 Potential Quality Issues (approved 10/28/20) , stated a PQI was an 
+identified adverse variation from expected clinical standard of care requiring further investigation. The Quality Review (QR) Nurse and physician decision- maker jointly 
+review case information and additional information submitted upon follow -up. Cases 
+where the individual provider or facility refuses to comply with requests are escalated to the CMO for next steps. The Plan documents investigation outcomes and the severity level. PQI inv estigations are closed within 60 days of  the referral date.  
+ 
+Plan Policy , QI-18 Potential Quality Issues (revised 1/25/23) , stated that the QR Nurse 
+must request pertinent medical records within seven days of PQI referral and will send 
+reminder emails to the provider. If the Plan does not receive medical records within 30 days of the request, the QR Nurse will forward the concern to the CMO or designee for assistance. The CMO may contact the provider, and further action may be necessary including, but not limited to, termination from the provider network. The QR Nurse must complete case review within 20 days of receipt of all medical records that were requested. The physician decision -maker reviews the case and assigns an initial 
+severity level ranging from zero to three. For a level of zero, the Plan closes the case. 
+For a level of one, the QR Nurse sends a letter of concern to the provider with no response required. For levels two  and three, the QR Nurse sends a letter of concern to 
+the provider with a response required in 14 days. Based on the provider’s response, the physician decision- maker may close the case or present the case to the Physician 
+Advisory/Peer Review/Credentialing Committee (PAC) for peer review. The physician decision- maker will review all additional information and determine the final severity 
+level with final approval by the PAC. If the provider fails to submit additional information needed by the PAC, a follow -up letter is sent with a reminder of contractual 
+requirements to adhere to Plan policies and procedures. PQI cases should be resolved within 180 days of receipt.  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+33 of 40  Finding:   The Plan did not evaluate PQIs to determine if actions to address quality of 
+care issues were necessary .  
+ A verification study of 16 PQI samples revealed the Plan performed inadequate evaluations of PQIs with the following deficiencies:  
+ In 12 of 16 samples, the Plan evaluated PQIs in an untimely manner.  
+ o In two samples, untimely investigations led to delayed initial evaluation of quality issues by the physician decision- maker , who assigned a severity level 125 and 337 
+days after case opening.   
+ 
+o In six samples, with untimely investigations, the physician decision- maker assigned 
+an initial severity level of three and referred these significant quality issues to the 
+PAC for final review.  
+ 
+o In two of six samples, the PAC assigned a final severity level 139 and 322 days after case opening.  
+ 
+o In four of six samples, the PAC had not yet conducted a final evaluation by the end of the audit period, and the time from case opening to the end of the audit 
+period ranged from 200 to 339 days.  
+ 
+o In four samples with ongoing untimely investigations, quality issues had not been initially evaluated by the physician decision- maker by the conclusion of the audit 
+period. The time from case opening to the end of  the audit period ranged from 208 to 
+294 days.  
+ 
+In five of 16 samples, the Plan’s evaluation of PQIs were incomplete. The Plan evaluated the quality issues, ranging in severity from two to three , without obtaining 
+provider responses, the involved entity’s procedures, or necessary information about the incidents.  
+ o In two samples, the involved hospital responded to the PQI inquiry and medical record request by stating its contract with the Plan does not require sharing of requested information. Even after the CMO escalated the issue to the hospital and 
+clarified that the contract does require cooperation with quality procedures, the hospital did not submit a response to the PQI inquiry questions. The physician decision- maker evaluated the PQIs, involving an inappropriate hospital discharge 
+plan and a preventable severe allergic reaction, without provider responses or information on the hospital’s procedures.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+34 of 40  
+o In another sample, a member passed away from cancer prior to receiving a needed palliative care appoi ntment from a provider . For the PQI investigation, the Plan used 
+the provider ’s response from the associated grievance and did not submit PQI 
+inquiry questions to investigate the potential causes of the issue, such as inadequate coordination between oncology and palliative care, inappropriate triage of palliative care referrals, and lack of home health palliative care referral. The physician decision- maker evaluated the case without having information on the root cause of 
+the quality issue.  
+ 
+o In another sample involving a blood transfusion error by nursing staff, the Plan did not have an established contact person at a hospital to submit PQI inquiry questions to. Although the case was escalated to the Plan’s P rovider Relations Team, the Plan 
+did not follow up on the appropriate contact person. The physician decision- maker 
+assigned an initial severity level without a response from the hospital. In a written 
+statement, the Plan acknowledged that the submitted medical records were not sufficient to evaluate the quality issue.  
+ 
+o In another sample that was pending evaluation by the physicia n decision- maker, a 
+pediatric member was burned due to a hospital device. The hospital ’s response to 
+the associated grievance stated the device was no longer being used and the hospital  could not share results of its internal investigations with the Plan. The 
+hospital  did not provide basic quality investigation information, such as the name of 
+the device. The Plan did not send PQI inquiry questions to the hospital  or escalate 
+the case for non- compliance with the Plan’s contract.  
+ 
+During interviews, the Plan stated staff conducted lengthy PQI investigations and did 
+not follow up on missing medical records and provider responses due to staff turnover, staff allocation to other areas of need, lack of training, ineffective PQI tracking system, PQI case backlog, and an unfeasible PQI resolution timeframe. The Plan acknowledged that some providers and contracted hospitals did not respond to PQI inquiry questions. The Plan did not enforce corrective actions or contract changes when hospitals and providers  were non- compliant with sharing information for quality investigations.  
+ This is a repeat finding of prior year’s finding 5.1.1 - Evaluation of PQIs.  
+ As a CAP for the prior year’s finding 5.1.1, the Plan created a PQI oversight workgroup on 8/4/22, revised Policy QI -18, and implemented most of the new PQI procedures from 
+the revised policy on 12/8/22. The Plan acknowledged it did not implement the new 180-day resolution timeframe during the audit period due to pending approval from DMHC.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+35 of 40  One PQI verification study sample was opened after the final CAP implementation date of 12/8/22 but was not yet fully investigated or evaluated by the end of the aud it period, 
+and the time from case opening to the end of the audit period was 94 days. The Plan acknowledged that PQI investigations were delayed in December 2022,  due to staff 
+allocation to other areas.  
+ When the Plan does not investigate and evaluate qual ity issues in a complete and 
+timely manner, the Plan may not ensure that effective action has been taken promptly to address quality issues, which may result in further incidents with potential adverse outcomes.  
+ Recommendation: Revise and implement  procedures to ensure the Plan performs 
+timely and complete evaluations of PQIs  to det ermine if actions are needed to address 
+quality of care issues.  
+ 5.1.2 Effective Action for PQIs  
+ The Plan is required to monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers. ( Contract A24, 
+Exhibit A, Attachment 4(1 )) 
+ Two versions of Plan Policy , QI-18 Potential Quality Issues , were in effect during the 
+audit period.  
+ Plan Policy , QI-18 Potential Quality Issues (approved 10/28/20) , stated that after 
+investigation of the PQI, the decision to issue a CAP will be made by the physician decision- maker and/or the PAC. PQI investigations are closed within 60 days of referral 
+date.  
+ Plan Policy , QI-18 Potential Quality Issues (revised 1/25/23) , stated that PQIs with a 
+severity level of three may be referred to the PAC for recommendation of next steps, 
+except when there is an unlikely impact on the future care of members. Examples of recommendations by the PAC include development of a CAP by the provider (such as education, training, trend analysis, or monitoring), counseling, focused review of cases, oversight by a supervising provider, change in participation in Plan network, and review for suspension or termination of credentialed status. Grounds for recommending a CAP include failure to provide professional services of acceptable quality, failure to follow Plan QI policies, failure to treat members, failure to adhere to Plan contract, etc. A CAP 
+consists of goals, deliverables, timeframes, follow -up, and evaluation as recommended 
+by the PAC. For systems issues involving facilities that are level one or greater, the Plan 
+will refer the case to the facility’s quality committee and will request acknowledgement  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+36 of 40  that actions have been taken to prevent similar systems issues. The Plan will review systems issues upon re- contracting of the facility. If the CMO or PAC determine that the 
+facility places members at risk of adverse health outcomes, they may recommend the contract with this facility be suspended or terminated. PQI cases should be resolved within 180 days of receipt.  
+ Finding:   The Plan did not take effective action to address needed i mprovements for 
+PQIs.  
+ The Plan did not ensure that corrective actions were implemented in a timely manner for 
+significant quality issues.  
+ A verification study revealed that in five of six PQI samples with a severity level of three, the Plan did not issue or ensure corrective actions were implemented promptly  to 
+address the quality issues.  
+ • In two samples, the Plan made decisions to not issue corrective actions for 
+significant quality issues.  
+ 
+o In one sample, a member experienced permanent hearing loss due to a delay in care by a provider, and the same provider did not explain all possible side effects to the member prior to performing hearing aid surgery. The PAC assigned a final 
+severity level of three, based on external specialist peer review, because the provider did not meet acceptable standards of medical care. The PAC recommended to send a letter of concern to the provider without a CAP. By the end of the audit period, the Plan had not yet informed the provider of the 
+significant quality issue despite more than 82 days elapsing after the PAC’s recommendation.  
+  During interviews, the Plan explained that the involved provider did not see many Plan members and the PAC believed this unique situation was unlikely to be repeated by the provider; therefore, the PAC did not recommend a CAP. However, the Plan did not consider issuing corrective actions such as monitoring or provider education to prevent similar incidents from happening in the future, since a CAP does not need to involve severe punishment or sanctions of a provider.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+37 of 40  
+o In another sample, a member passed away from cancer prior to receiving a needed palliative care appointment from a pr ovider . The PAC assigned a final 
+severity level of three due to a systems issue that prevented the member from 
+receiving the appointment. The PAC recommended further investigation of the root cause of the quality issue through a meeting with the provider  in lieu of a 
+CAP. However , the Plan acknowledged that the provider meeting had not been 
+scheduled yet by the end of the audit period, despite more than 82 days elapsing after the PAC’s recommendation.  The Plan did not ensure that the provider  took 
+necessary actions to improve palliative care referrals and appointment scheduling to prevent future incidents.  
+ 
+• In three samples, the Plan did not issue corrective actions for significant quality 
+issues in a timely manner.  
+ 
+o In all three samples, the physician decision- maker assigned an initial severity 
+level of three; however, the PAC had not completed a final evaluation of the 
+significant quality issues and had not made recommendations for next steps by the conclusion of the audit period. The significant quality issues included a preventable procedural complication that caused adverse health effects, an inappropriate hospital discharge plan, and a preventable severe allergic reaction. The time from case opening to the end of the audit period ranged from 205 to 339 days, and the Plan did not ensure involved entities took  actions to address 
+causes of PQIs during that time.  
+ 
+During interviews, the Plan stated that the new PQI process described in revised Policy QI-18 was implemented on 12/8/22; however, the new 180- day PQI resolution 
+timeframe was not implemented due to pending DMHC approval . The Plan 
+acknowledged it did not i ssue any CAPs for PQIs during the audit period. The Plan 
+stated that the PAC determines the need for corrective actions during scheduled PAC meetings, and it prefers to take a collaborative approach with involved entities rather than issue CAPs. However, t he verification study did not demonstrate that the Plan took 
+effective action in a timely manner to address needed improvements through collaborative meetings, a formal CAP, or ensuring involved entities monitored or corrected issues. In addition, Plan staff responsible for communicating quality issues with providers and managing next steps for PAC recommendations were allocated to other areas of need.  
+ When the Plan does not enforce corrective actions for significant quality issues, the Plan cannot ensure root causes of incidents have been fixed, which may result in further incidents with potential adverse outcomes.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+38 of 40  Recommendation: Revise and implement  procedures to ensure the Plan takes 
+effective action needed to address significant quality issues in a timely manner .  
+ 5.1.3 Audit  of Plan’s Records and Documents 
+ Pursuant to CFR , Title, section 438.3(h), DHCS may, at any time, inspect and audit any 
+of the Plan’s, or its subcontractors’, records or documents. The right to audit exists for ten years from the final date of the contract period or from the date of completion of any 
+audit, whichever i s later. (CFR,  Title 42, section 438.3(h) and Contract A24, Exhibit E, 
+Attachment 2(19))  
+ The Plan must allow DHCS to audit, inspect, monitor , or otherwise evaluate the quality, 
+appropriateness, and timeliness of services performed under this C ontract, and to 
+inspect, evaluate, and audit any and all premises, books, records, equipment, facilities, contracts, computers, or other electronic systems maintained by the Plan and subcontractors pertaining to these services at any time. Upon request, through the end of the records retention period, the Plan must furnish any record, or copy of it, to DHCS at the Plan’s sole expense. (Contract A24, Exhibit E, Attachment 2(20))  
+ In the event DHCS finds the Plan non- compliant with any provisions of this Contract, 
+applic able statutes or regulations, DHCS may impose sanctions provided in Welfare 
+and Institutions Code (WIC), Section 14304 and CCR , Title 22,  Section 53872. 
+(Contract A24, Exhibit E, Attachment 2(16)(A))  
+ 
+When a Plan fails to meet contractual obligations or to comply with applicable state and federal laws and regulations, there is good cause to impose administrative and/or monetary sanctions in accordance with WIC section 14197.7(e), and DHCS may take any one or a combination of the following enforcement actions: CAP, monetary sanctions, administrative sanctions and/or contract termination. ( APL 22 -015, 
+Enforcement Actions: Administrative and Monetary Sanctions , superseded by APL 23-
+012 Enforcement Actions: Administrative and Monetary Sanctions ) 
+ Neither the proceedings nor the records of organized committees of medical, … or of a peer review body, as defined in Section 805 of the Business and Professions Code, having the responsibility of evaluation and impr ovement of the quality of care rendered 
+in the hospital, or for that peer review body, or medical review … shall be subject to 
+discovery. ( California Evidence Code Section 1157)  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+39 of 40  Plan Policy , QI-11 Physician Advisory, Peer Review, and Credentialing Commi ttee 
+(approved 5/25/22) , stated that the PAC performed peer review and made 
+recommendations for further action for identified quality of care concerns in a closed session. The PAC performed credentialing of practitioners for participation in the Plan’s network in a closed session by reviewing the following information: delegated 
+credentialing activities; open accusations with the Medical Board of California; terminations and ineligibility as deemed by DHCS and the Office of Inspector General; Facility Site Review (FSR) and Medical Record Review (MRR) reports; and practitioners’ quality of care with evidence from member grievances, quality metrics, and access.  
+ Finding: The Plan did not allow DHCS to inspect and audit all of t he Plan’s records and 
+documents, and the Plan did not furnish requested records to DHCS that were needed to evaluate quality of services.  
+ The Plan did not submit complete PAC records for its peer review and credentialing proceedings to the DHCS  audit team . 
+During the interview, the Plan explained the PAC performed credentialing for networks that were not delegated and conducted peer review of significant quality issues for all networks. For the audit, DHCS requested electronic files of all meeting minutes,  
+attachments, and packets for the PAC meetings. Although the Plan submitted PAC meeting minutes with limited information to DHCS, the Plan did not submit associated packets. The PAC packets contained complete peer review discussions and detailed practitioner information for credentialing and re- credentialing discussions, including 
+credentialing activity and monitoring reports, FSR/MRR reports, delegate credentialing reports, National Provider Identifier or medical license numbers of practitioners undergoing  credentialing review, summary of practitioners’ concerning incidents, 
+practitioner responses, associated grievance summaries, malpractice lawsuits, Medical Board of California alerts and decisions, and ineligibility and suspensions/terminations.  
+ During t he interview and in written responses, the Plan stated the packets contained 
+sensitive information on how committee members opined during peer review, and the Plan did not submit PAC packets to DHCS to maintain confidentiality. The Plan stated that Evidenc e Code Section 1157 prevented the Plan from allowing peer review records 
+to leave its possession. Despite multiple requests, the Plan did not furnish the requested electronic files and instead recommended a video viewing session to temporarily see files. D uring the 2021 and 2022 DHCS audits, the Plan did provide 
+electronic files to DHCS of  all packets for PAC meetings, which the Plan claimed was 
+due to an error.  
+  
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:  San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES  OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+40 of 40  DHCS’s legal expert determined that Evidence Code Section 1157 applies only in litigation proceedings involving discovery, and the Plan cannot withhold records of peer review proceedings from DHCS auditors based on Section 1157.  
+ When the Plan does not furnish all documents to DHCS for an audit, it does not meet contractual obligations and the audit team  may not be able to completely evaluate the 
+Plan’s processes and outcomes for credentialing, quality of care issues, and peer review.  
+ Recommendation:   Develop procedures to ensure that the Plan allows DHCS to 
+inspect and audit all of the Plan’s records , documents , and that the Plan furnishes all 
+requested records to DHCS.  
+       
+CONTRACT AND ENROLLMENT REVIEW – SAN FRANCISCO  
+AUDITS AND INVESTIGATIONS 
+DEPARTMENT OF HEALTH CARE SERVICES  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+San Francisco Health Authority dba  
+San Francisco Health Plan  
+ 
+2023 
+ 
+Contract Number:   
+  
+03-75800/ 22- 20464  
+State Supported Services  
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ March 1, 2022  
+    Through 
+February 28, 2023 
+ 
+March 6, 2023  
+    Through 
+March 17, 2023  
+ 
+July 17, 2023 
+ 
+   
+    
+TABLE OF CONTENTS 
+    I. INTRODUCTION ............................................................................. 1 
+ Il. COMPLIANCE AUDIT FINDINGS ................................................... 2 
+   
+1 of 2 I. INTRODUCTION  
+  This report presents the audit findings of San Francisco Health Authority dba San Francisco Health Plan (Plan) State Supported Services contract No. 03- 75800 and No.22-
+20464. The State Supported Services Contract covers contracted abortion services with the Plan.  
+ The audit was conducted from March 6, 2023 through March 17, 2023. The audit period 
+was March 1, 2022 through February 28, 2023 and consisted of document review of 
+materials supplied by the Plan and interviews conducted onsite.  
+ An Exit Conference with the Plan was held on June 20, 2023. The Plan was allowed 15 
+calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the Exit Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+   
+  COMPLIANCE AUDIT FINDINGS (CAF)  
+ 
+PLAN:   San Francisco Health Authority dba San Francisco Health Plan  
+ 
+AUDIT PERIOD:  Marc h 1, 2022 through February 28, 2023  
+DATES OF AUDIT:  March 6, 2023 through March 17, 2023  
+ 
+2 of 2   
+STATE SUPPORTED SERVICES  
+ 
+FINDING (S): No deficiencies were identified in this audit.  
+  
+RECOMMENDATION(S):  N/A 
+   

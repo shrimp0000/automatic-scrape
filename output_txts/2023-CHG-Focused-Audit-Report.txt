@@ -1,0 +1,126 @@
+1 
+DHCS AUDITS AND INVESTIGATIONS 
+CONTRA
+CT AND ENROLLMENT REVIEW DIVISION 
+REPORT O N TH E FOCUSED AU DIT OF 
+COMMUNITY H EALTH GROUP P ARTNERSHIP 
+PLAN 20 23 
+Contract N umber: 0 9-86155 
+Audit Period: June 1, 2022 – May 31, 2023 
+Dates of
+ Audit: July 10, 2023 – July 21, 2023 
+Report Issued: August 30, 2024
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 3  
+II. EXECUTIVE SUMMARY ...................................................................................... 5 
+III. SCOPE/AUDIT PROCEDURES ...........................................................................6  
+IV. COMPLIANCE AUDIT FINDINGS Performance Area: Transportation ...............................................................7   
+Category 3 – Access and Availability of Care  
+  
+3 
+ 
+I. INTRODUCTION  
+Background  
+In accordance with California Welfare and Institutions Code section 14456,  the 
+Department of Health Care Services (DHCS) may conduct additional reviews outside the annual medical audit when DHCS determines there is good cause.  
+DHCS directed Contract and Enrollment Review Division to conduct focused audits of all contracting Medi -Cal Managed Care Plans ( Plans) to evaluate  current performance in 
+Behavioral Health and Transportation services.  
+These focused audits differ from DHCS’  regular annual medical audits in scope and 
+depth. The annual medical audits  evaluate the Plan ’s organizational structures, policies 
+and procedures, and systems for compliance with contractual requirements. The focused audits examine d the operational issues that may hinder appropriate and timely member 
+access to medically necessary care. The f ocused audit engagement formally commence d 
+in January 2023 through December 2023. 
+For the  Behavioral Health  section, the focused audit evaluated the Plan’s monitoring 
+activities of specific ar eas such as Specialty Mental Health Services (SMHS), Non -
+Specialty Mental Health Services (NSMHS), and Substance Use Disorder Services (SUDS). 
+The focused audit also review ed potential issues that may contribute to the lack of 
+member access  and oversight for SMHS, NSMHS, and SUDS.  
+The focused audit conducted  a more in -depth look at current Plan  operations/practices 
+for executing the delivery of transportation services. The audit examined  potential 
+causes for the systemic issues surrounding the Non-Emergency Medical Transportation  
+(NEMT)  and Non-Medical Transportation  (NMT)  benefit, specifically when  
+transportation is delegated to a transportation broker.  
+Incorporated in 1982, Community Health Group Partnership Plan (Plan) first contracted with DHCS in 1986, to provide services to Medi -Cal members. In 2005, the Plan obtained 
+a Knox -Keene license from the California Department of Managed Health Care to servi ce 
+Medi -Cal members.  
+The Plan currently contracts with DHCS to provide services to Medi -Cal beneficiaries 
+under the Geographic Managed Care program in San Diego County. During the audit period, the Plan provided health care services through contracts with community clinics, medical groups, and individual physicians. The Plan also provided pharmacy services 
+through a contract with Pharmacy Benefits Manager, MedImpact Healthcare Systems, Inc. 
+4 
+ 
+ As of May 2023, the Plan served 353,598 members with Medi -Cal coverage.  
+  
+5 
+ 
+II. EXECUTIVE SUMMARY 
+ This report presents the audit findings of DHCS’ focused audit for the period of June 1, 2022, through May 31, 2023. The audit was conducted from July 10, 2023, through July 21, 2023. The audit consisted of document review, surveys, verification studies, and interviews and file reviews with Plan representatives.  
+An Exit Conference with the Plan was held on June 28, 2024. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the E xit 
+Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+The focused audit evaluated the areas of performance for Behavioral Health and Transportation services.  
+The summary of findings by performance area follows:  
+Performance Area: Behavioral Health 
+Category 2 –  Case Management and Coordination of Care : 
+• Specialty Mental Health Services  
+• Non-Specialty Mental Health Services  
+• Substance Use Disorder Services  Category 3 – Access and Availability of Care  
+There were no findings noted for this category during the audit period.  
+Performance Area: Transportation  
+Category 3 –  Access and Availability of Care  
+• Non-Emergency Medical Transportation  
+• Non-Medical Transportation  
+The Plan can provide telephone authorization for NEMT requests when a member requires a Plan -covered medically necessary service of an urgent nature, and a Physician 
+Certification Statement (PCS) form could not have reasonably been submitted beforehand. Th e member’s provider must submit a PCS form post -service for the 
+telephone authorization to be valid. The Plan did not allow for telephone authorization for NEMT requests when a member required a covered medically necessary service of an urgent nature, and a PCS form could not have reasonably been submitted beforehand.  
+6 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+This focused audit was conducted by the DHCS, Contract and Enrollment Review Division to ascertain that the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+On November 3, 2022, DHCS informed Plan s that it will be conducting focused audits to 
+assess performance in certain identified high -risk areas. The focused audit was 
+concurrently scheduled with the annual medical audit of Plan s. The audit scope 
+encompasse d the following sections:  
+• Behavioral Health  – SMHS, NSMHS, and SUDS 
+• Transportation – NEMT and NMT services  
+The audit was conducted from July  10, 2023, through July  21, 2023.  The audit included a 
+review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification st udies of the implementation and effectiveness of the 
+policies. Documents were reviewe d and interviews were conducted with Plan 
+administrators and staff. 
+The following verification studies were conducted:  
+Category 2 –  Case Management and Coordination of Care  
+SMHS: Ten cases were reviewed to evaluate whether there was member care coordination between the Plan and the county MHP, as well as compliance with All Plan Letters (APL) requirements.  NSMHS: Ten samples were reviewed to evaluate compliance with APL requirements.  SUDS: Five samples were reviewed to evaluate compliance with APL requirements.  
+Category 3 –  Access and Availability of Care  
+NEMT: Ten samples were reviewed to evaluate compliance with APL requirements.  NMT: Ten samples were reviewed to evaluate compliance with APL requirements.  A description of the findings for each category is contained in the following report .
+7 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Transportation – NEMT and NMT  
+Category 3 –  Access and Availability of Care  
+ 
+3.1 Telephone Authorization  
+The Plan can provide telephone authorization for NEMT requests when a member requires a covered medically necessary service of an urgent nature and for which a PCS form could not have reasonably been submitted beforehand. The member’s provider must submit a PCS form post -service for the telephone authorization to be valid. ( APL 
+22-008 Non -Emergency Medical and Non-Medical Transportation Services and Related 
+Travel Expenses ) 
+Plan policy, 6059 Non -Emergency Medical Transportation & Non-Medical Transportation 
+(revised 02/13/2023), states that the Plan provides telephone authorization for NEMT requests when a member requires a Plan -covered medically necessary service of an 
+urgent nature, and a PCS form could not have reasonably been submitted beforehand. The member’s provider must submit a PCS form post -service for the telephone 
+authorization to be valid.  
+Finding:  The Plan failed to allow for telephone authorization of NEMT requests when a 
+member required a covered medically necessary service of an urgent nature, and a PCS form could not have reasonably been submitted beforehand.  Although Plan policy 6059, states that the Plan provides telephone authorization for NEMT requests when a member requires a Plan -covered medically necessary service of 
+an urgent nature, the Plan did not follow this policy and procedure.  
+The Plan’s statement and process for authorizing NEMT requests that are urgent in nature, do not adhere to the Plan’s policies and procedures. During the interview, the Plan stated that members are advised to seek ambulance services, or call 9-1 -1, for 
+urgent or emergency transportation services, as no authorization would be necessary. 
+Additionally, if the Plan is unable to secure a completed PCS form for an urgent request for NEMT, the Plan would not provide the transportation. The Plan required a PCS form  
+to provide the transportation service.  
+In a written statement, the Plan acknowledged that the interview statement regarding processing urgent transportation request in situations where a PCS form could not be 
+8 
+ 
+secured beforehand was incorrect and clarified that the policy 6059 regarding telephone authorization for urgent NEMT requests is accurate. Furthermore, the Plan stated that they will update the process to allow urgent NEMT requests to be authorized withou t 
+submission of the PCS form first.  
+Without the ability to authorize urgent NEMT, members may experience delays in accessing care resulting in adverse impact on members’ health.  Recommendation: Implement policies and procedures to allow for telephone 
+authorization of NEMT requests when a member requires a covered medically necessary service of an urgent nature and for which a PCS form could not have reasonably been submitted beforehand.  

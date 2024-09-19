@@ -1,0 +1,1316 @@
+       
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+SAN FRANCISCO  SECTION 
+  
+REPORT ON THE MEDICAL AUDIT OF  
+San Mateo  Health  Commission dba  
+Health Plan of San Mateo  
+ 
+2023 
+ 
+Contract Number:  
+  
+08-85213  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ July 1, 2022  
+    Through 
+June 30, 2023  
+ 
+July 31, 2023 
+    Through 
+August 10 , 2023  
+ January 22, 2024 
+ 
+  
+   
+TABLE OF CONTENTS  
+    I. INTRODUCTION ............................................................................. 1 
+ II. EXECUTIVE SUMMARY  ................................................................. 2 
+ III. SCOPE/AUDIT PROCEDURES  ...................................................... 7 
+ IV. COMPLIANCE AUDIT FINDINGS 
+ Category 1 – Utilization Management  .............................................. 9 
+ Category 2 – Case Management and Coordination of Care .......... 16 
+ Category 3 – Access and Availability of Care ................................ 28 
+ Category 4 – Member’s Rights  ...................................................... 34 
+ Category 5 – Quality Management  ................................................ 37 
+ Category 6 – Administrative and Organizational Capacity  ............. 44 
+  
+1 of 45 I. INTRODUCTION  
+  The California Legislature authorized the Board of Supervisors of San Mateo County to establish a county commission for negotiating an exclusive Contract for the provision of 
+Medi -Cal services in San Mateo County in 1983. San Mateo County Board of 
+Supervisors created the San Mateo Health Commission (SMHC) in June of 1986, as a local, independent public  entity.  
+ In 1987, the SMHC founded the Health Plan of San Mateo (Plan) to provide county residents with access to a network of providers and a benefits program that promotes preventive care.  
+ The SMHC is the governing board for the Plan. Board members are appointed by the San Mateo County Board of Supervisors. The Plan received its Knox -Keene license as 
+a full -service plan on July 31, 1998.  
+ Senate Bill 849 (Chapter 47, Statutes of 2018) authorized Department of Health Care Services (DHCS)  to es tablish a dental integration program in San Mateo County to 
+include Medi -Cal dental services as a covered benefit under the Plan. The integration of 
+the dental benefit into the Plan took effect on January 1, 2022. All Medi -Cal members 
+enrolled in San Mateo County now receive dental care through the Plan in addition to 
+their medical services.  
+ The Plan’s provider network includes independent providers practicing as individuals, small and large group practices, community clinics, and the San Mateo Medical Center, which operates multiple clinic sites.  
+ As of June 30, 2023 , the Plan had 177,828 members of which,  143,611 (80.76 percent) 
+were Medi -Cal, 23,129  (13.01 percent) were Access and Care for Everyone Program, 
+8,517 (4.79 percent) were Cal MediConnect, 1,357 (0.76 percent) were Whole Child 
+Model Program, and 1,214 (0.68 percent) were HealthWorx.  Out of the Plan’s 177,828 
+members, 8,944 (5.03 percent) were Seniors and Persons with Disabilities  (SPD).  
+     
+2 of 45 II. EXECUTIVE SUMMARY  
+  This report presents the audit findings of the DHCS medical audit for the period of  
+July 1, 2022 through June 30, 2023.  The audit was conducted from July 31, 2023 
+through August 10 , 2023.  The audit consisted of document review, verification studies, 
+and interviews with Plan personnel.   
+ An Exit Conference was held on December 18, 2023. The Plan was allowed 15  
+calendar days  from the date of the Exit Conference to provide sup plemental information 
+addressing the draft audit report findings. The Plan submitted a response after the Exit Conference.  The results of the evaluation of the Plan’s response are reflected in this 
+report.  
+ The audit evaluated six categories of performance: Utilization Management (UM), Case Management and Coordination of Care, Access and Availability of Care, Member’s Rights, Quality Management, and Administrative and Organizational Capacity.  
+ The prior DHCS medical audit for the period of August 1, 2021 through June 30, 2022, was issued on December 14, 2022. This audit examined documentation for Contract compliance and assessed implementation of the Plan’s 2022 Corrective Action Plan (CAP).  
+ Findings denoted as repeat findings are uncorrected deficiencies substantially similar to those identified in the previous audit.  
+ The summary of findings by category follows:  
+ Category 1 –  Utilization Management   
+ Category 1 includes review of the Plan’s UM program, prior authorization process, and the appeals process.  
+ The Plan is required to give members  timely and adequate notice of adverse benefit 
+determinations in writing using the Notice of Action (NOA) template, which includes 
+denial of services. The Plan did not send NOA letters to members for denials of  
+retrospective and concurrent authorization requests.  
+ In accordance with federal and state law, appeals may be filed either verbally or in writing by a member, a provider acting on behalf of the member, or an authorized representative. Appeals filed by the provider on behalf of the member require written consent from the member.  The Plan did not ensure that members’ written consent was 
+received when providers filed appeals on members’ behalf.  
+  
+3 of 45  If the Plan denies a request for expedited resolution of an appeal, the Plan is required to process  the appeal within  the established timeframe for standard resolutions. When the 
+Plan extends the appeals timeframes  but not at the request of the member, the Plan is 
+required to give the member  a written notice within two calendar days  of the reason for 
+the decision to extend the timeframe and inform the member  of the right to file a 
+grievance if they  disagree with that decision . The Plan did not provide information in the 
+written notice about the member 's rights to file a grievance if they disagree with the 
+Plan’s decision to change or extend the timeframe for expedited appeals.  
+ The Plan is required to follow the expedited appeals process when it determines , or the 
+provider indicates that taking the time for a standard resolution could seriously jeopardize the m ember’s life, physical or mental health, or ability to attain, maintain, or 
+regain maximum function.  The Plan improperly downgraded the expedited appeal 
+request  involving  an imminent threat to the member’s health.  
+ Category 2 –  Case Management and Coordination of Care 
+ Category 2 covers requirements to provide coordination of care for various services, 
+including  the following: California Children’s Services (CCS), Early 
+Intervention/ Developmental Disabilities,  Initial Health Appointment  (IHA), Behavioral 
+Health Treatment  (BHT), and Continuity of Care (COC).  
+ The Plan is required to ensure that, once eligibility for the CCS program is established 
+for a member, the Plan will continue to provide all medically necessary covered services 
+that are unrelated to the CCS -eligible condition . The Plan  is required to monitor and 
+ensure the coordination of services and joint case management between its primary care providers, the CCS specialty providers, other providers, and the local CCS 
+program.  The Plan did not ensure care coordinat ion for members with CCS conditions 
+and developmental disabilities.  
+ The Plan is required to execute a Memorandum of Understanding (MOU) with the local 
+regional center for the coordination of services for members with developmental disabilities.  The MOU between the Plan and the regional center specified that they will 
+meet semi -annually to discuss operational, administrative, and policy issues, and will 
+meet annually to develop a work plan to monitor the effectiveness of the MOU. The Plan did not execute the MOU with the regional center. During the audit period, the Plan had only one joint meeting with the regional center and did not develop a work plan to monitor the effectiveness of the MOU.  
+ The Plan is required to make repeated attempts, if necessary, to contact a member and 
+schedule an IHA. The Plan is required to make at least three documented attempts that 
+demonstrate the Plan’s unsuccessful efforts to contact a m ember and schedule an IHA.  
+The Plan did not conduct  and document  reasonable and/or sufficient  attempts  to 
+schedule an IHA for members.  
+  
+4 of 45  The Plan is required to ensure that their network providers (physicians, nurse 
+practitioners, and physician’s assistants) who perform P eriodic Health Assessments 
+(PHA) on child mem bers between the ages of six months to six years (72 months) 
+comply with current federal and state laws, and industry guidelines for health care 
+providers issued by the Childhood Lead Poisoning Prevention Branch (CLPPB) . The 
+Plan is required to make reasonable attempts to ensure the blood lead screen test is provided and is required to document attempts to provide the test in the member’s medical record.  The Plan did not make or  ensure that blood lead screening attempts 
+were conducted for members  up to six years old.  
+ BHT services are required to be provided, observed, and directed under a Plan-
+approved behavioral treatment plan. The behavioral treatment plan is required to be 
+person- centered and based on individualized, measurable goals and objectives over a 
+specific timeline for the specific member being treated.  The Plan did not ensure 
+members’ BHT treatment plans met all the required criteria . 
+ The Plan is required to provide medically necessary BHT services as stated in the 
+member’s treatment plan and continuation of BHT services under COC with the 
+member’s BHT provider. The Plan did not ensure the provision of BHT services to 
+members in accordance with their approved BHT treatment plans.  
+ The Plan is required to begin process ing non-urgent COC requests within five working 
+days following the receipt of the request. Additionally, each COC request is required to be completed within the following timeframes  from the date the Plan received the 
+request: 30 calendar days for non -urgent requests; 15 calendar days if the member’s 
+medical condition requires more immediate attention, such as upcoming appointments or other pressing care needs; or as soon as possible, but no longer  than three calendar 
+days for urgent requests.  The Plan did not ensure members’ COC requests were 
+completed within the required timeframes . 
+ Category 3 –  Access and Availability of Care  
+ Category 3 covers requirements regarding access to care,  Non-Emergency Medical 
+Transportation (NEMT) , and Non-Medical Transportation (NMT) for members.  
+ The Plan is required to establish acceptable accessibility standards in accordance with California Code of R egulations (CCR) , Title 28 , section 1300.67.2. The Plan shall 
+communicate, enforce, and monitor network providers’ compliance with these requirement s. In accordance with CCR, T itle 28, section 1300.67.2.2, dental providers 
+are required to offer the first available appointment within the following standards:  
+1) urgent appointments within 72 hours; 2) non- urgent appointments within 36 working 
+days; and 3) preventive dental care appointments within 40 working days . The Plan is 
+required to ensure that members are offered appointments for covered health care 
+services within a time period appropriate for their condition.  The Plan did not monitor 
+timely access for appointments with dental providers.  
+5 of 45  Timeframes for appointments may be shortened or extended as clinically appropriate by a qualified health care professional. If the timeframe is extended, it is required to be 
+documented within the member’s medical record that a longer timeframe will not have a detrimental impact on the member’s health.  The Plan did not ensure whether providers 
+documented in the medical record that extended appointment timeframes would not be detrimental to members’ health.  
+ The Plan is required to apply utilization review c ontrols for NEMT  services which are 
+subject to prior authorization. The member is required to have an approved Physician 
+Certification Statement (PCS) form authorizing NEMT services.  The Plan did not 
+consistently require prior authorizations for NEMT services and use PCS forms  to 
+determine the appropriate level of services.  
+ The Plan is required to note in their Member Services Guide the notification timeframe 
+requirements for transportation requests and have a direct line to the Plan’s 
+transportation liaison for providers and members to call, request, and schedule urgent and non- urgent NEMT and receive status updates on their NEMT rides.  The Plan did 
+not have a direct line to  the Plan’s transportation liaison for members a nd providers.  
+ Category 4 –  Member’s Rights  
+ Category 4 covers requirements to protect member’s rights by properly handling grievances.  
+ 
+Member s, or a p rovider or authorized representative acting on behalf of a member and 
+with the member’s written consent, may file a grievance with the Plan either orally or in writing.  The Plan did not obtain member written consent for grievances filed on behalf of 
+a member.  
+ The Plan is required to provide fully translated member information, including but not limited to the member services guide, member  information, welcome packets, marketing 
+information and form letters . The Plan did not ensure that all grievance and appeals 
+letters were correctly translated into  members’ threshold language . 
+ Category 5 –  Quality Management  
+ Category 5 covers requirements to maintain an effective Quality Improvement System (QIS), including delegation of quality improvement (such as credentialing) and provider training.  
+ The Plan is required to monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers rendering services on its behalf, in any setting. The Plan did not evaluate or  take timely effective action in 
+its Potential Quality Issue (PQI)  process to address needed improvements in the quality 
+of care delivered by providers.  
+6 of 45  The Plan is  required to have each subcontractor disclose information, including the tax 
+identification number of each corporat ion; the name, address, date of birth, and social 
+security number of managing employees and each person with an ownership or control 
+interest in the disclosing entity. The Plan did not ensure that Kaiser Foundation Health Plan, Inc., Lucile Packard Children’s Hospital Medical Group, San Mateo Medical Center, Stanford Hospitals and Clinics, Univer sity Healthcare Alliance, Sutter Health, 
+Dignity Health Medical Foundation, Magellan Health, Inc. , and University of California, 
+San Francisco submitted complete ownership and control disclosure information.  
+ The Plan may enter into subcontracts with other  entities in order to fulfill the obligations 
+of the Contract. The Plan delegated provider training to its subcontractors but  did not 
+specify provider training responsibilities in its written agreements with Sutter Health, Dignity Health Medical Foundation, University Healthcare Alliance, Magellan Health, Inc., Stanford Hospital and Clinics, San Mateo Medical Center, University of California, San Francisco, and Lucile Packard Children’s Hospital Medical Group.   Category 6 –  Administrative and Organizational Capacity 
+ Category 6 covers requirements to implement and maintain a compliance program to guard against fraud and abuse.  
+ The Plan is required to conduct, complete, and report to DHCS, the results of a 
+preliminary investigation of the suspected fraud or abuse within ten working days of the date the Plan first becomes aware of  such activity.  The Plan did not complete and report 
+to DHCS the results o f preliminary investigations of suspected fraud and abuse 
+incidents within ten working days.     
+7 of 45 III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ This audit was conducted by the DHCS to ascertain that the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and 
+guidelines, and the State Contract.  
+ 
+PROCEDURE  
+ The audit was conducted from July 31, 2023 through August 10 , 2023. The audit 
+included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies to determine that policies were implemented and effective. Documents were reviewed and interviews were conducted with the Plan’s administrators  and staff.  
+ The following verification studies were cond ucted:  
+ Category 1 – Utilization Management  
+ Prior Authorization Requests:  26 prior authorization requests, including nine SPD 
+members and two dental service cases, were reviewed for timeliness, consistent 
+application of criteria, and appropriate review.  
+ Appeals Procedures:  14 prior authorization appeals, including two  SPD members and 
+one dental service case, were reviewed for appropriate and timely adjudication.  
+ Category 2 – Case Management and Coordination of Care 
+ CCS: 15 cases, including cases for three SPD members , were reviewed to confirm care 
+coordination for members with CCS conditions and developmental disabilities.  
+ IHA: 20 cases , including cases for  11 SPD members , were reviewed to confirm the 
+performance and completeness of assessment.  
+ BHT: 15 BHT case files were reviewed to confirm the performance of services and 
+complete case file elements.  
+ COC:  15 cases , including six dental cases , were reviewed for  timely processing of 
+members ’ COC requests . 
+ Category 3 – Access and Availability of Care  
+ NEMT:  20 records, including records for 13 SPD members,  were reviewed to confirm 
+compliance with the NEMT requirements.  
+8 of 45  NMT:  15 records , including records for nine SPD members,  were reviewed to confirm 
+compliance with NMT requirements.  
+ Category 4 –  Member’s Rights  
+ Grievance Procedures:  70 grievances ; includ ing 49 standard, one expedited, ten 
+exempt, and ten discrimination grievances were reviewed for timely resolution, 
+response to complaint, and submission to the appropriate level for review. 20 standard and four discrimination grievances were reviewed for SPD members.  Three standard 
+and one discrimination grievance were reviewed for dental services.  
+ Category 5 –  Quality Management  
+ Potential Quality of Care Issues:  Six records were reviewed for appropriate reporting, 
+timely evaluation, and proper resolution.  
+ New Provider Training:  Ten new provider training records were reviewed for timely 
+Medi -Cal Managed Care program training.  
+ Category 6 –  Administrative and Organizational Capacity 
+ Fraud and Abuse:  Ten fraud and abuse cases were reviewed for appropriate reporting 
+and processing.  
+ 
+ A description of the findings for each category is contained in the following report :
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+9 of 45   
+CATEGORY 1 - UTILIZATION MANAGEMENT  
+  
+1.2  
+PRIOR AUTHORIZATION REVIEW  REQUIREMENTS 
+ 1.2.1 Notice of Action Letters to Members 
+ The Plan ’s Contract , defined in Exhibit E, Attachment 1, Definitions , a NOA as  the 
+notification of an adverse benefit determination that is sent by the Plan to a m ember in 
+accordance with the notice and timing requirements set forth in Code of Federal Regulations ( CFR), Title 42, section 438.404 . (Contract Exhibit E, Attachment 1)  
+ The Plan is required to give  members  timely and adequate notice of an adverse benefit 
+determination in writing.  (CFR, Title 42, section 438.404)  
+ The Plan is required to approve, modify,  or deny a provider’s prospective or concurrent 
+request for health care services for a member within the shortest applicable timeframe that is appropriate for the member’s condition. Decisions to approve, modify, or deny requests are required to be communicated to the member within two business days 
+using the appropriate NOA template. In cases where the review is retrospective, the Plan is required to communicate its decision to the member who received services, or to 
+the member’s designee, within 30 days of the receipt of information that is reasonably necessary to make the retro -authorization determination.  The Plan is required to provide 
+members with written notice of an adverse benefit determination using the appropriate DHCS developed, standardized NOA template and the NOA “Your Rights” template, 
+which includes denials of services. ( All Plan Letter  (APL)  21-011 Grievance and Appeal 
+Requirements, Notice and “Your Rights” Templates)  
+ Plan policy , UM.009 Title: Retrospective Review of Authorizations  (revised 7/9/2022) , 
+stated that a retrospective request will be reviewed to determine if the service was medic ally necessary using the clinical information submitted by the provider. The 
+decision is required to be communicated to the member who received the services, or 
+the member’s designee, within 30 days of the receipt of information that is reasonably necessar y to make the determination and is required to be communicated to the 
+provider in a manner that is consistent with current regulations.  
+ Finding: The Plan did not send NOA letters to members in denials of retrospective and 
+concurrent authorization requests . 
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+10 of 45  A verification study of 26 authorization requests included one concurrent and three retrospective request denials. No NOA denial letter was sent to a member in the one case that involved a denial of a concurrent authorization review. No NOA denial letter was sent in the two  of the three cases that involved a denial of a retrospective 
+authorization.  
+ Although, the above policy and procedure UM.009 required  communications to the 
+member regarding retrospective review decisions, there was  no specific language as to 
+the requirement of a NOA denial letter to the member for a retrospective denial. Further, there was no Plan policy and procedure specific to communications, including NOA 
+letters, to members in a concurrent review denial. The Plan also indicated during the interview that its practice was not to notify members of concurrent or retrospective 
+denials through NOA member denial letters. The Plan’s approac h to retrospective and 
+concurrent denials, as to NOA letters, was  inconsistent to APL 21 -011 and CFR, Title 
+42, section 438.404.  
+ To optimize a member’s quality of care, a member should be aware of any denials of authorizations of previously provided health care services. Such denials may alert the member to having received unnecessary health care services and/or having experienced potential health care fraud.  
+ Recommendation:  Develop and implement a policy and procedure to ensure NOA 
+denial letters are provided to members in all denials of requested health care services, 
+whether they are prospective, concurrent,  or retrospective.  
+    
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+11 of 45   
+1.3  
+PRIOR AUTHORIZATION APPEAL PROCESS  
+ 1.3.1  Written Consent from Member for Appeals Filed by Provider  
+ 
+In accordance with federal and state law, appeals may be filed either verbally or in writing by a member, a provider acting on behalf of the member, or an authorized representative. Appeals filed by the provider on behalf of the member require written consent from the member . (Contract, Exhibit A, Attachment 14(5)(A); CFR, Title 42, 
+section 438.402(c)(1)(ii)); and APL 21- 011 Grievance and Appeals Requirements, 
+Notice and “Your Rights” Templates)  
+ Plan desktop procedure,  GA-DP.008  Monitoring of Written Consent  (effective 5/1/2023) , 
+stated that upon receipt of a provider filed appeal, the Plan will contact the member to 
+attempt to obtain written consent  or process member’s oral consent to file the appeals 
+themselves. If unable to obtain either, the Plan will alert the Grievance and Appeals 
+Coordinator with a copy to the supervisor, so that the coordinator can begin outreach to 
+obtain written consent. On a weekly basis a report will be generated and reviewed by the supervisor for all appeals filed by providers,  awaiting member consent . The 
+supervisor  will follow up with individual staff if their cases are due within the next five  
+days to ensure written consent is secured or if not, the case needs to be dismissed.   
+ Finding: The Plan did not ensure that members’ written consent was received when 
+providers filed appeals on the members’ behalf.   
+ In a verification study of 14 appeals, five were filed by a provider. The Plan did not obtain written member consent in four of  the five cases.  
+ As a CAP to the 2022 audit finding, 1.3.1 Written Consent from the member for a ppeals 
+filed by a p rovider, a new desk top procedure, GA-DP008 Monitoring of Written Consent , 
+has been instituted effective May 2023. During the interview , the Plan confirmed that the 
+new procedure was not in effect for the majority of the audit period, which included the 
+four cases found non- compliant in the verification studies.  
+ This is a repeat finding of the prior year finding 2022 - 1.3.1 Written Consent from 
+the Member for Appeals Filed by a Provider  
+ Written consent to a provider -initiated  appeal furnishes members with necessary 
+information about their medical care needs. Without this written consent, members are 
+not able to provide input  into their own healthcare decisions.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+12 of 45  Recommendations: Fully implement policies and procedures to ensure the Plan 
+obtains written member consent for appeals filed by a provider on behalf of a member.  
+ 1.3.2 Timeframe Change Letters in Expedited Appeals  
+ 
+If the Plan denies a request for expedited resolution of an appeal, the Plan is required to 
+transfer the appeal to the timeframe for standard resolution in accordance with CFR,  
+section 438.408(b)(2)  and follow the requirements in section 438.408(c)(2) . (CFR , Title 
+42, section 438.410).  
+ When the Plan extends the appeals timeframes not at the request of the member, the Plan is required to complete the following:  
+ 
+(i) Make reasonable efforts to give the member  prompt oral notice of the delay.  
+ 
+(ii) Within two calendar days gi ve the member  written notice of the reason for the 
+decision to extend the timeframe and inform the member  of the right to file a 
+grievance if they  disagree with that decision.   
+ 
+(iii) Resolve the appeal as expeditiously as the member 's health condition requires 
+and no later than the date the extension expires.  
+ 
+(CFR, Title 42, section 438.408 (c)(2))  
+ The Plan is required to follow the expedited appeal process when it determines or the provider indicates that taking the time for a standard resolution could seriously 
+jeopardize the m ember’s life, physical or mental health, ability to attain, maintain, or  
+regain maximum function.  (Contract,  Exhibit A,  Attachment 14, paragraph 6)  
+ Plan policy , GA.08:  Member Appeals Procedure for Medi -Cal, HealthWorx and Ace 
+(revised 5/1/2023) , stated that if the request for an expedited appeal is denied,  the 
+Grievance and Appeal Intake Specialist and/or C oordinator will i mmediately verbally 
+notify the member or member’s representative that the Plan has denied the request for 
+an expedited appeal and provide notice of the m ember’s rights.  
+ Finding: The Plan did not provide information in the written notice about the member's 
+rights to file a grievance if they disagree with the Plan's decision to deny the request for an expedited appeal.  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+13 of 45  In the verification study , there were six  cases  with downgrade decisions of expedited 
+appeal requests, with each expedited appeal request downgraded to a standard appeal. 
+There was a timeframe change letter sent to the member in each of these six cases explaining the decision to downgrade the expedited appeal to a standard appeal, but in 
+each of these six  timeframe change letters there was no information provided of the 
+member’s right to file a grievance if they disagree with the downgrade decision as required by CFR, Title 42, section 438.408 (c)(2)(ii ). The timeframe change letter only 
+mentioned the availability of an Independent Medical Review and a State Fair Hearing, which appears in reference to what happens if the standard appeal is unsuccessful, rather than the member’s rights, as to filing a gri evance due to the downgrade of the 
+expedited appeal s request.  
+ Subsequent to the Exit Conference, the Plan stated that it uses the DHCS  issued Notice 
+of Resolution ( NAR)  template. However, the finding is regarding the lack of information 
+about member’s right to file a grievance in the timeframe change letter and n ot in the 
+NAR.  
+ An expedited appeal downgrade decision may seriously jeopardize the member’s life, physical or mental health, or ability to attai n, maintain, or regain maximum function in 
+that potentially medically necessary services are not being provided in a timely manner.  
+ The member is entitled to receive a written notification of how to file a grievance to 
+prevent an adverse health outcome fr om an expedited appeal downgrade decision.  
+ Recommendation: Revise  and implement  a policy and procedure to ensure that 
+members are given a clear and unambiguous  written notice of the member’s right to file 
+a grievance if the member disagrees with the expedited appeals request downgrade 
+decision.  
+ 1.3.3 Expedited Appeal Requests  
+ The Plan is required to follow the expedited appeals process when it determines or the provider indicates that taking the time for a standard resolution could seriously jeopardize the m ember’s life, physical or mental health, or ability to attain, maintain, or 
+regain maximum function.  (Contract,  Exhibit A,  Attachment 14, paragraph 6)  
+ Plan policy , GA.08:  Member Appeals Procedure for Medi -Cal, HealthWorx and Ace 
+(revised 5/1/2023) , state d that an expedited appeal involves “a serious and imminent 
+threat to the member’s health…” The policy also stated  requests for an e xpedited 
+appeal will be immediately reviewed by a Grievance and Appeal s Coordinator and 
+forwarded to the clinical review nurse or a Medical Director, who will approve or deny 
+the request for the expedited appeal within 72 hours of the Plan’s receipt of the request.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+14 of 45  Finding: An expedited appeal request was downgraded despite the provider submitting 
+evidence that a delay in receiving treatment could seriously jeopardize the member’s 
+health.  
+ In one case in the verification study, a prior authorization was requested for an 
+immobilized lipase cartridge (a device form of digestive enzymes that is attached to the 
+feeding tube to allow for proper digestion of the feeding tube liquid nutrition) by the pharmacy provider, ordered by the lung transplant surgeon for a 14 -year-old member. 
+The member had undergone a lung transplant for cystic fibrosis. Cystic fibrosis is a genetically based lung damaging condition, that also causes serious digestive problems due to insufficient digestive enzymes, which was why the immobilized lipase cartridge was requested by the provider. Notably, the pharmacy initially went through the Medi -
+Cal Rx vendor for prior authorization, which denied the request due to the immobilized 
+lipase cartridge being considered D urable Medical Equipment (DME) since it was a 
+cartridge (device) of medication.   With the d enial of the prior authorization from the Medi -Cal Rx vendor, the pharmacy 
+provider submitted a prior authorization to the Plan. The Plan denied the prior 
+authorization because of its belief that this was a pharmacy medication despite the prior 
+authorization explaining otherwise. An expedited appeal was initiated, including all the 
+necessary documentation of the urgent nature of this medication cartridge. This included a letter from  the transplant surgery provider regarding the significant medical 
+necessity of this requested treatment, and with the documentation of the reason for denial by the Medi -Cal Rx vendor ( immobilized lipase cartridge is DME, not a pharmacy 
+medication).  
+ Exce rpts from the l ung transplant surgeon’s  letter provided to the Plan, with the request 
+for an expedited appeal, support the urgency of the appeal:   
+ 
+“This is where [ immobilized lipase cartridge]  is so important for  [Member  Name] . 
+[Member  Name]  has a feeding tube. [ Immobilized lipase ] is a cartridge that can be 
+attached to the end of a feeding tube. The cartridge mimics the function of pancreatic fat -digesting enzymes (lipase), so that as feeding formula passes the 
+cartridge, fat molecules are broken down into components that are easier for the body to absorb.  
+ As… the patient’s provider, it is my goal to promote an overall state of wellness for 
+[Member  Name] . If [Member ] becomes underweight and malnourished, this can lead 
+to hospitalizations. Ac cording to [Medical Article],  adequate nutrition is directly 
+associated with lung function. [ Member  Name]  already has low vitamin D levels due 
+to lack of absorption of nutrients.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+15 of 45  I would like to ask for your consideration in covering [ immobilized lipase cartridge]  … 
+to help [Member  Name]  continue to fight the effects/symptoms of cystic fibrosis and, 
+in doing so, to prevent hospital re- admissions. Please contact me if any additional 
+information is required to ensure the prompt approval of this medication.”  
+ 
+The above excerpt, particularly the last paragraph, from the ordering lung transplant surgeon (available before the downgrade decision) supports the need for approval of the expedited appeal request. This provider indicates that the requested treatment [immobilized lipase cartridge]  will help the member fight the effects of their serious 
+disease, cystic fibrosis, and help prevent hospital re- admissions, which strongly 
+supports that a delay in receiving this treatment could seriously jeo pardize the 
+member’s health.  
+ 
+This expedited appeals request was denied due to a determination of a lack of urgency by the clinical review nurse and was converted to a standard appeal. A M edical Director 
+was not consulted in the decision to downgrade this  expedited appeal request that 
+involved complex medical matters. Ultimately the denial was overturned on appeal by the Medical Director, who adjudicated the standard appeal . However, the appeal was 
+decided at approximately 30- days when it should have been decided within 72- hours.  
+ 
+During the interview, the Plan indicated that the clinical review nurse is independently responsible for decisions on whether an expedited appeal is accepted. The Plan further reported that a Medical Director is not automatically involved in this decision- making 
+process , even in complex medical matters.  
+ 
+There was a serious delay that certainl y risked patient harm in not addressing this 
+appeal on an expedited basis as requested by the providers. The provided medical records with the expedited appeal request had clear documentation of the urgent necessity of this medication cartridge.  
+ 
+In a written response, the Plan stated the clinical review nurse’s decision was based on the most recent clinical documentation indicating the member has not been off their medication. However, this referenced medical record is regarding the member’s anti -
+rejection medication for their lung transplant and is unrelated to the expedited appeals 
+issue regarding the digestive enzyme cartridge.  
+ 
+Expedited appeal requests, that are improperly reviewed, risk potential serious member harm.  
+ 
+Recommendation: Revise a nd implement policies and procedures to ensure effective 
+oversight for the review of expedited appeal requests, including M edical Director 
+involvement  in all expedited appeal request decisions that involve complex medical 
+matters.   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+16 of 45   
+CATEGORY 2 – CASE MANAGEMENT AND COORDINATION OF CARE 
+  
+2.1  
+CALIFO RNIA CHILDREN’S SERVICES  
+EARLY INTERVENTION / DEVELOPMENTAL  DISABILITIES 
+INITIAL HEALTH ASSESSMENT  
+ 2.1.1 Coordination of Care with Providers and the Regional Center  
+ The Plan is required to ensure that, once eligibility for the CCS program is established 
+for a member, the Plan will continue to provide all medically necessary covered services 
+that are unrelated to the CCS -eligible condition and is required to monitor and ensure 
+the coordination of services and joint case management between its primary care providers, the CCS specialty providers,  other  providers, and the local CCS program. 
+(Contract, Exhibit A, Attachment 11 (A)(5))  
+ The Plan is required to provide all screening, preventive, medically necessary, and 
+therapeutic covered services to members with developmental disabilities. The Plan is required to refer members with developmental disabilities to a regional center for the 
+developmentally disabled for evaluation and for access to those non- medical services 
+provided through the regional centers.  (Contract, Exhibit A, Attachment 11 (B))  
+ For children enrolled in a Medi -Cal managed care plan and CCS in Whole Child Model  
+counties, the case management, care coordination, provider referral, and service authorization administrative functions of the CCS program is  then required to be the 
+responsibility of the Medi -Cal managed care health plan. (Health and Safety Code 
+(HSC) , Division 106, Article 5, section 123850 (b)(1))  
+ The Plan is required to provide screening, diagnostic, and treatment services in 
+accordance with APL 19 -010: requirements for coverage of Early and Periodic 
+Screening, Diagnostic, and Treatment  (EPSDT)  services for Medi -Cal members under 
+the age of 21, or any superseding APL. (APL  21- 005, California Children’s Services , 
+Whole Child Model Program ) 
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+17 of 45  The Plan is r equired to provide members with appropriate referrals for diagnosis and 
+treatment without delay . The Plan is required to ensure the provision of comprehensive 
+medical case management services, including coordination of care for all medically necessary EPSDT services delivered both within and outside the Plan’s provider network. The Plan is also responsible for the coordinat ion of carved- out and linked 
+services and referral to appropriate community resources and other agencies .  
+(APL 19 -010, Requirements for Coverage of Early And Periodic Screening, Diagnostic, 
+And Treatment Services For Requirements For Coverage Of Early And Periodic 
+Screening, Diagnostic, And Treatment Services For Medi -Cal Members Under The Age 
+Of 21 ) 
+ The Plan policy , CCS- 01, Whole Child Model Case Management (revised 5/18/ 2023),  
+stated that  the Plan contracted the San Mateo County CCS unit to provide complex 
+case management to Plan members who qualify for the CCS program. C omplex case 
+management is used interchangeably with care coordination.  The CCS unit will identify 
+whether members are already connected to b ehavioral health services. They will also 
+coordinate with the regional center to assist CCS -eligible children and youth with 
+developmental disabilities and their families in understanding and accessing services.   Finding:  The Plan did not ensure care coord ination for members with CCS conditions 
+and developmental disabilities.  
+ In a verification study, two  of 15 cases showed the Plan did not coordinate care 
+between CCS and other agencies.  
+ 
+• One CCS member was diagnosed with seizures, ataxia (balance and coordination difficulties), and developmental delays , as well as  had ongoing 
+disruptive behavioral issues. CCS staff provided the family with the phone number for the regional center but did not provide further assistance or outreach 
+attempts to the family regarding regional center services. Additionally, CCS staff did not complete a referral or discuss this member with the regional center staff or behavioral health services staff. In a written response , the Plan stated that 
+there had been no specific care coordination between Plan staff and the regional center for this member.  
+ 
+• Another CCS member was diagnosed with cerebral palsy , seizures, vision loss, 
+and developmental delays, as well as  had a history of self -injuring  behavior. 
+While an initial contact attempt was made by the Plan staff to the regional center, no follow -up communication or coordination of care occurred with the r egional 
+center to ensure care coordination.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+18 of 45  
+In an interview, the Plan stated there had been staffing shortages during the second half of the audit period. Additionally, some of the staff responsible for making member referrals and coordinating with the regional center, were out of the office for various reasons. In a written response, the Plan stated that there were no CCS  related meeting 
+minutes between the Plan and the regional center  during the audit period.  
+ When the Plan does not ensure care coordination with the regional center  for CCS 
+members, they  may not receive individualized services and treatments to maintain or 
+improve emotional, behavioral, and physical health conditions.   Recommendation:  Implement policies and procedures to ensure coordination of care 
+of CCS members needing services from other programs , agencies, and providers.   
+ 2.1.2 Execution of the M emorandum of U nderstanding with the Regional Center  
+ The Plan is required to execute an MOU with the local regional center for the 
+coordination of services for members with developmental disabilities.  (Contract, Exhibit 
+A, Attachment 11 (D )) 
+ The MOU between the Plan and regional center should serve as the primary document  
+for ensuring coordination of medically necessary services for members accessing services through both systems.  (APL18 -009, Memorandum of Understanding 
+Requirements for Medi -Cal Managed Care Health Plans and Regional Centers ) 
+ The Plan’s MOU with the r egional center (dated 5/26/ 2010),  stated the Plan’s liaison will 
+meet with the regional center at least semi -annually to ensure ongoing communication 
+to resolve operational and administrative problems, and to identify policy issues needing resolution at the management le vel. The Plan and the regional center will meet  
+annually, and as necessary, to develop a work plan that will monitor the effectiveness of the MOU and the regional center interface.  
+ The Plan policy , PEDS- 01, Pediatric Care Coordination (revised 5/19/ 2023), stated that  
+the Plan and regional center leadership teams will meet at minimum twice yearly or as 
+frequently as deemed necessary to meet the clinical needs of identified members.  
+ Finding:  The Plan did not execute the MOU when it did not regularly meet to develop a 
+work plan and discuss administrative and policy issues with the regional center.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+19 of 45  In an interview, the Plan confirmed that only one meeting had been conducted between the Plan and the regional center regarding early interventions for developmental disabilities members during the audit period. The Plan explained that staffing shortages and the p andemic had impacted having regular meetings with the regional center. T he 
+Plan referenced the regional center’s strategic plan for improving quality metrics. 
+However, this document did not include a work plan between the regional center and the Plan.   When the Plan does not ensure regular meetings and development of a work plan with the regional center in accordance with the MOU, members with developmental 
+disabilities may experience a lack of care coordination to address physical , behavioral, 
+and emotional  health needs .  
+ Recommendation:  Revise and i mplement  policies and procedures to ensure t he MOU 
+with the regional center is executed.  
+ 2.1.3 Initial Health Appointment  Scheduling Attempts 
+ The Plan is required to make repeated attempts, if necessary, to contact a member and 
+schedule an IHA. The Plan is required to make at least three documented attempts that 
+demonstrate the Plan’s unsuccessful efforts to contact a m ember and schedule an IHA. 
+Contact methods required include at least one telephone and one mail notification. The 
+Plan is required to document all attem pts to perform an IHA at subsequent office visit(s) 
+until all components of the IHA are completed.  (Contract, Exhibit A, Attachment 10 
+(3)(E))  
+ The IHA occurs during a member’s encounter with a provider within the primary care medical setting. During the IHA, the p rovider assesses and manages the acute, chronic, 
+and preventative health needs of the m ember. (APL 22 -030, Initial Health Appointment)  
+ The Plan policy , QI.107 Initial Health Appointment (IHA ) (revised 2/27/2023), stated that 
+there are specific instances when a member’s IHA can be waived.  This includes  when 
+the member’s primary care provider has made two diligent attempts to contact the 
+member to schedule the IHA, including a phone call and a written attempt, and has 
+documented all attempts in the member’s medical record.  Plan staff will monitor  for 
+compliance with IHA components every three years through site and medical record 
+reviews, a nd focused review audits as needed. The Plan  will review IHA timeliness 
+overall performance and by provider  on a quarterly basis utilizing claims and encounter 
+data.  
+ Finding: The Plan did not conduct  and document  reasonable and/or sufficient  attempts  
+to schedule an IHA for members . 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+20 of 45  A verification study showed that seven of 20 cases did not have documentation of reasonable attempts to schedule an IHA.   
+ The Plan did not submit documentation of member outreach attempts from the 
+members’ providers for the requested verification study cases. In an interview, the Plan stated that network providers have different ways of documenting member  outreach 
+attempts , but tracking mostly depends upon the provider and may be documented in t he 
+member’s medical records, separate report, or spreadsheet.  However, the Plan’s IHA 
+Provider Training Guide stated that primary care providers are required to make at least three attempts and document them in the medical record to demonstrate that unsucc essful efforts were made to contact a member to schedule an IHA, including one 
+written contact and one telephone contact.  
+ The Plan submitted supplemental documentation of outreach attempts from their own member outreach vendor for the verification study cases. Some cases did not contain documentation of reasonable attempts such as one attempt, or no phone call to a member. Plan policy QI.107  did not include the process and documentation for Plan-
+initiated outreach attempts . Additionally , the welcome letter sent to members did not 
+specifically discuss an IHA but referenced a Health Risk Assessment which is a different type of assessment.  
+ If the Plan does not ensure that reasonable outreach attempts  are made, members may 
+miss opportunities to schedule an IHA which can result in poor health outcomes from delays in medical care, or a lack of identification of health risks, treatment, and referrals.  
+ Recommendation: Revise and implement policies and procedures to conduct and 
+document  reasonable attempts to schedule an IHA , as well as monitor the process to 
+ensure that sufficient attempts are made for all members.  
+ 2.1.4 Blood Lead Screening Member Outreach Attempts for  Pediatric Members  
+ The Plan is required to cover and ensure the provision of a blood lead screening test to 
+members at ages one and two in accordance with CCR , Title 17,  Division 1 , Chapter 9, 
+commencing with section 37000. The Plan is required to document and appropriately 
+follow up on blood lead screening test results. The Plan is required to make reasonable 
+attempts to ensure the blood lead screen test is provided and is required to document 
+attempts to provide the test in the member’s medical r ecord. Documentation is required 
+to be entered into member’s medical record to indicate the receipt of blood lead screen 
+testing and test results, or of voluntary refusal of these services.  (Contract, Exhibit A, 
+Attachment 10 (D)(1)(2))   
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+21 of 45  The Plan is req uired to ensure that their network providers (physicians, nurse 
+practitioners, and physician’s assistants) who perform PHA on child members between the ages of six months to six years (72 months) comply with current federal and state laws, and industry guidelines for health care providers issued by the CLPPB, including 
+any future updates or amendments to these laws and guidelines. (APL 20 -016, Blood 
+Lead Screening of Young Children)  
+ The Plan policy , HS.xx1 Blood Lead Screening of Young Children (revised 6/20/2019), 
+stated that  the Plan will ensure its contracted network adheres to federal and state 
+requirements regarding performance of assessments on children between the ages of six months to six years (72 months), including guidelines issued by  the California 
+Department of Public Health’s  CLPPB. It also stated the Plan monitors provider 
+adherence to contractual requirements, including blood lead level s. Blood lead level  is 
+defined as a blood lead level test.  
+ Finding:  The Plan did not ensure that blood lead screening attempts were conducted 
+for members  up to six years old.  
+ A verification study of 20 cases  included four pediatric members under six years of age.  
+Three of four  cases  did not contain documentation of reasonable attempts to ensure 
+these members received blood lead screening.   In a written narrative, the Plan stated that there were no medical records or documentation of any outreach attempts  from their network providers  for the three 
+verification study cases .  
+ In an interview, the Plan stated it did not have specific policies and procedures for blood 
+lead level screening of pediatric members.  Subsequent to  the Exit Conference, t he Plan 
+submitted supplemental documentation of blood lead level screening policies for pediatric members . However, the policy did not specifically address conducting and 
+documenting blood lead level  outreach attempts.  
+ Blood lead screenings for pediatric members may help prevent and tr eat any physical, 
+mental, or behavioral health conditions from an elevated blood lead level. When the Plan does not ensure blood lead screening attempts are conducted and documented in the member’s medical record, members may not receive timely information about blood 
+lead screening or the opportunity to schedule a blood lead screening test.  
+ Recommendation:  Revise and implement  policies and procedures to ensure that blood 
+lead screening attempts are conducted and documented for pediatric members.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+22 of 45   
+2.3  
+BEHAVIORAL HEALTH TREATMENT  
+ 2.3.1 Behavioral Health Treatment Plan Criteria   
+ BHT services are required to be based upon a treatment plan that is reviewed no less 
+than every six months by a qualified autism service provider as defined by HSC,  section 
+1374.73(c)(3)  and by the  California Medicaid state plan.  (Contract, Exhibit A, 
+Attachment 10 (G)(3))  
+ BHT services are required to be provided, observed, and directed under a Plan-
+approved behavioral treatment plan. The behavioral treatment plan is required to be 
+person- centered and based on individualized, measurable goals and objectives over a 
+specific t imeline for the specific member being treated. The approved behavioral 
+treatment plan is required to also meet the following criteria,  includ ing but not limited to, 
+the member’s current level of need, mastery criteria [the objective goal] , date of 
+introduc tion, estimated date of mastery, report goal status , crisis plan , and exit plan 
+criteria . (APL 23- 010, Responsibilities for Behavioral Health Treatment Coverage for 
+Members under the Age of 21)  
+ The Delegation Agreement between the Plan and its behavioral health delegate, Magellan Health, Inc. (Magellan) , (effective 12/1/ 2022) stated that the delegate is 
+required to meet the requirements of the behavioral treatment plan as defined by APL  
+15-025 (Superseded by APL 23 -010). Magellan’s key responsibilities included  the 
+development and oversight of the BHT provider network and the development and oversight of the behavioral treatment plan, in conjunction with the BHT provider.  
+ Finding:  The Plan did not ensure members’ behavioral treatment p lans contained all 
+the required criteria . 
+ A verification study showed that in seven of 15 cases:  
+ 
+• Four cases did not have an estimated date of mastery for goals included in their behavioral treatment plans. In a written response, the plan stated that for some of 
+the cases, they referenced an anticipated discharge date. However , an 
+anticipated discharge date is a discharge from BHT services while an estimated 
+date of mastery for goals may have different timeframes  for each goal . These are 
+two different behavioral treatment plan criteria . 
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+23 of 45  
+• Two cases did not have a crisis plan included in the initial behavioral treatment plans. In a written response, the Plan stated that in one case , the member had 
+not engaged in behavior that presented as harm to self or others . The Plan 
+acknowledged it was  clinical best practice to include a crisis plan. However, 
+inclusion of a crisis plan is a required criteria under APL 23- 010.  
+ 
+• One case did not have a crisis plan included in the six -month behavioral 
+treatment plan. The behavioral treatment plan stated that the member engaged 
+in aggressive behavior towards others, but a crisis plan was not included.  
+ 
+A review of the Plan policy titled,  PEDS- 02, Behavioral Health Treatment  (revised 
+7/19/ 2022), stated that the provision of BHT services was the responsibility of Magellan,  
+while the Plan would provide monitoring and oversight through monthly and quarterly reports, meetings, and an annual audit. However, the Plan’s policy did not have any information about ensuring that behavioral treatment plans contained all required criteria . 
+ In an interview, the Plan stated that it has an annual compliance audit of  Magellan. A 
+review of the 2022 Magellan audit report showed that behavioral treatment plan 
+information was not included in the report. The Plan could not provide sufficient details 
+about behavioral treatment plan criteria  for specific verification study cases during the 
+interview, and stated they would have to follow up with the Magellan for more 
+information.  
+ In a written response, the Plan stated that Magellan has a template that is given to BHT 
+providers for the treatment plan criteria, which  was reviewed during each prior 
+authorization request since the treatment plan is submitted information. However, a review of the verification study cases showed that some behavioral treatment plan 
+criteria , such as an estimated date of mastery and a crisis plan, were not included in this 
+template.  
+ When the Plan does not ensure behavioral treatment plans contain all the required criteria , members may not receive individualized treatment to maintain or improve their 
+health conditions.  
+ Recommendation:  Develop and implement  policies and procedures to ensure 
+behavioral treatment plans contain all the required criteria , including but not limited to, 
+an estimated date of mastery for goals and a crisis plan.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+24 of 45  2.3.2 Provision of B ehavioral Health Treatment  Services  
+ For members under 21 years of age diagnosed with autism spectrum disorder, or for members under three years of age with a rule out or provisional diagnosis, the Plan is 
+required to cover medically necessary BHT services in accordance with HSC sections 
+1374.72 and 1374.73, CCR, Title 28, section 1300.74.72 , APL 15 -019, and APL 15- 025, 
+to the extent that they are consistent with the California’s Medicaid s tate plan. APLs 
+superseding APL 15 -019 and APL 15- 025 that clarify the delivery of BHT services are 
+required to be incorporated herein by this reference and become part of this Contract as 
+of their effective date. The Plan is required to provide medically necessary BHT services 
+as stated in the member’s treatment plan and/or continuation of BHT services under COC with the member’s BHT provider . (Contract, Exhibit A, Attachment 10 (G)(1))  
+ For members under the age of 21, and consistent with APL 19 -010 or any superseding 
+APL, the Plan is required to provide and cover, or arrange, as appropriate, all medically necessary EPSDT services, including BHT services, when they are covered under Medicaid, regardless of whether California’s Medicaid state plan cov ers such services 
+for adults. BHT services are required to be provided and supervised in accordance with 
+a Plan  approved behavioral treatment plan that is developed by a BHT service provider 
+who meets the requirements in California’s Medicaid state plan.  (APL 23 -010, 
+Responsibilities for Behavioral Health Treatment Coverage for Members under the Age of 21)  
+ Plan policy titled , PEDS- 02, Behavioral Health Treatment (revised 7/19/ 2022), stated 
+that the provision of BHT services is the responsibility of Magella n. BHT services 
+include , but is not limited to,  behavioral interventions, comprehensive behavioral 
+treatment, parent/guardian training, and self-management . 
+ The Delegation Agreement between the Plan and Magellan (effective 12/1/ 2022) stated, 
+that Magellan is required to meet the requirements of the BHT plan as defined by A PL 
+15- 025 (Superseded by APL 23 -010). Key responsibilities include development and 
+oversight of the BHT provider network along with development and oversight of the BHT plan, in conjunction with the BHT provider.  
+ Finding:  The Plan did not ensure the provision of BHT services to members in 
+accordance with their approved behavioral treatment plans.   
+ In a verification study, four  of 15 cases did not receive BHT services as authorized in 
+their behavioral treatment p lan. 
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+25 of 45  
+• One member had an approved behavioral treatment plan with ten  hours  a week 
+of direct, one- to-one services authorized, but received l ess than four  hours a 
+week for a six -month treatment cycle.    
+ 
+• A second member had an approved behavioral treatment plan with 30 hours a 
+week of BHT services authorized but only received 15 hours a week for part of a  
+six-month treatment cycle.   
+ 
+• A third member had an approved behavioral treatment plan with five  hours a week 
+of direct one- to-one services, six  hours a month supervision, and three hours a 
+month for family education but only received less than four  hours of direct one- to-
+one services, less than four  hours of supervision a month, and less than one hour 
+a month of family education for part of a six-month treatment cycle.    
+ 
+• A fourth  member had a recommendation in the behavioral treatment plan of 15 
+hours a week for direct one- to-one services, 12 hours a month supervision, and 
+six hours of caregiver training. However, due to staffing shortages, the member did not receive direct care services.  Instead, only parent/caregiver training was 
+provided for part of a six -month treatment cycle.  The Plan stated that while 
+parent training is a foundation to help a household, it is not a replacement for working one- to-one directly with a member to provide BHT services.  
+ 
+In an interview, the Plan stated there has been ongoing challenges due to BHT provider staffing shortages which were caused by multiple factors . In a written response, the 
+Plan stated that high costs of livi ng, worker resignations, increased telehealth usage, 
+and company mergers had impacted BHT providers’ staffing levels. The Plan further stated that while Magellan occasionally notifies the Plan of BHT provider shortages, the 
+Plan does not have a specific process that requires Magellan to inform the Plan whenever there are BHT provider shortages. The Plan also does not have a process to address BHT provider shortages impacting delivery of BHT services to members.  The 
+Plan’s  policy stated that the Plan will monitor access to BHT services for members but 
+did not specifically address monitoring and oversight of BHT provider shortages from Magellan.  
+ When the Plan does not ensure the provision of BHT services, members may not 
+receive medically necessary care to maintain or improve behavioral and emotional 
+health conditions.  
+ Recommendation:  Revise and implement policies, procedures , and processes to 
+address factors disrupting provision of BHT services, including adequate network capacity,  and staffing levels of BHT service providers so members can receive their 
+approved BHT services.   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+26 of 45   
+2.4  
+CONTINUITY OF CARE  
+ 2.4.1 Continuity of C are Request Completion within Required Timeframes 
+ If the Plan’s network is unable to provide necessary medical services covered under the 
+Contract to a particular member, the Plan is required to adequately and timely cover 
+these services out of network for the member, for as long as the entity is unable to provide them.  (Contract, Exhibit A, Attachment 9 (16)(A)(B))  
+ The Plan is required to  begin process ing non-urgent requests within five working days 
+following the receipt of the COC request. Additionally, each COC request is required to be completed within the following timeframes  from the date the Plan received the 
+request: 30 calendar days for non -urgent requests; 15 calendar days if the member’s 
+medical condition requires more immediate attention, such as upcoming appointments or other pressing care needs; or as soon as possible, but no longer than three calendar days for urgent requests. (APL 22 -032, Continuity of Care for Medi -Cal Beneficiaries 
+Who Newly Enroll in Medi -Cal Managed Care from Medi -Cal Fee- For Service, and for 
+Medi -Cal Members Who Transition into a New Medi -Cal Managed Care Health Plan on 
+or After January 1, 2023).  
+  
+Plan policy , PS-05 Provider Terminations and Continuity of Care (revised 4/6/2023), 
+stated that upon receiving a COC request from a member, their authorized 
+representative, provider,  or a utilization management nurse reviews the request within 
+two business days to determine the level of urgency. The timeframes for request are 
+decided by levels of urgency which include: 30 calendar days for routine requests, 15 calendar days f or urgent requests, and three  calendar days if there is risk of harm to the 
+member. A COC request is considered completed when the Plan notifies the member within seven  calendar days of the decision that the request has been approved, denied, 
+or cancelled.  
+ Finding: The Plan did not ensure members’ COC requests were completed within the 
+required timeframes . 
+ In a verification study of 15 COC requests, six  cases were not completed within the 
+required timeframes. The requests’ completion times were delayed between 27 to 108 
+days.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+27 of 45  In an interview the Plan explained that delays in timely COC completion were due to providers not responding to COC requests from the Plan. In a written response, the 
+Plan stated there were no COC request monitoring or tracking reports for the audit period. A review of the Plan’s policies and procedures showed that there was no process for monitoring of timely completion of COC requests for members.  
+ Subsequent to the E xit Conference, the Plan submitted a written response that included 
+details about a recently implemented process to address this finding through a series of 
+reports  and training. However, these processes did not ensure COC timeframe 
+requirements were met for members with COC requests during the audit period.  
+ When the Plan does not ensure C OC requests are completed in a timely manner, 
+members may experience poor health outcomes due to a delay in receiving c ontinuous 
+medical care to maintain or improve physical and mental health conditions.  
+ Recommendation:  Develop and implement  policies and procedures to ensure C OC 
+requests for members are completed within required timeframes.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+28 of 45   
+CATEGORY 3 – ACCESS AND AVAILABILITY OF CARE 
+  
+3.1  
+APPOINTMENT PROCEDURES AND MONITORING WAITING TIMES 
+ 3.1.1 Timely Appointment  Standard for Dental Providers  
+ The Plan is required to establish acceptable accessibility standards in accordance with CCR, T itle 28, section 1300.67.2. The Plan shall communicate, enforce, and monitor 
+network providers’ compliance with these requirements.  (Contract, Exhibit A, 
+Attachme nt 9 (3))  
+ The Plan is required to implement and maintain procedures for members to obtain appointments for routine care and urgent care appointments. The Plan is required to ensure that members are offered appointments for covered health care services within a time period appropriate for their condition. In accordance with CCR , Title 28, s ection 
+1300.67.2.2, dental providers are required to offer the first available appointment within the following standards: 1) urgent appointments within 72 hours; 2) non- urgent 
+appointments within 36 working days; and 3) preventive dental care appointments within 40 working days  (Contract, Exhibit A, Attachment 9 (3)(I))  
+ Plan policy, PS06 -01 Timely Access and Network Adequacy  (revised 5/17/2023), stated 
+that the Plan measures adherence to timely access standards using the Department of Managed Health Care’s (DMHC) Provider Appointment Availability Survey (PAAS) and the DHCS quarterly timely access survey.  The policy also stated the Plan will conduct a 
+timely access survey on an annual basis, using the DMHC survey tool to determine appointment availability and calculate the rate of compliance and non- compliance 
+across provider types and networks. The surveyor will contact primary care providers, 
+specialist s, psychiatrist s, non- physician mental health providers and ancillary service 
+providers.  
+ Finding:  The Plan did not monitor timely access for appointment s with  dental providers.  
+ In an interview, the Plan stated that dental providers are not included in the PAAS wait time monitoring survey. In a written response, the Plan explained that they monitor 
+dental timely access through grievance data and the survey results performed by DHCS through the quarterly timely access survey. Review of the Quarterly Timely Access 
+Monitor ing Report show ed that dental providers are included in the survey to measure 
+preventive dental care only for the member’s first in -person appointment. However, the 
+Plan d id not include monitoring of timely access  for urgent and non- urgent dental 
+appointments.   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+29 of 45  If the Plan does not monitor timely access for appointments with dental providers,  
+members may experience delays in care to prevent and treat oral health conditions.  
+ Recommendation:  Develop and implement policies and procedures to ensure 
+monitoring of timely access for appointments with dental providers.   
+ 3.1.2 Monitoring Extended Appointment Timeframes 
+ The Plan is required to establish acceptable accessibility standards in accordance with CCR, Title 28, s ection 1300.67.2. The Plan is required to communicate, enforce, and 
+monitor network providers’ compliance with these requirements.  (Contract, Exhibit A, 
+Attachment 9 (3))  
+ Timeframes for appointments may be shortened or extended as clinically appropriate by a qualified health care professional. If the timeframe is extended, it is required to be documented within the member’s medical record that a longer timeframe will not have a detrimental impact on the member’s health.  (Contract, Exhibit A, Attachment 9 (3)(A)(3))  
+ Plan policy, PS06 -01 Timely Access and Network Adequacy  (revised 5/17/2023), stated 
+that the applicable wait time for a  particular appointment may be extended if the 
+referring or treating licensed health care provider, or the health professional providing triage or screening services, as applicable, acting within the scope of his or her practice and consistent with profess ionally recognized standards of practice, has determined 
+and noted in the relevant record that a longer waiting time will not have a detrimental impact on the health of the member. To monitor and address extended wait times for appointments, the Plan conducts reviews of the DMHC PAAS results, member complaint data,  and DHCS quarterly timely access survey results to identify and follow 
+up with providers that warrant potential corrective action.  
+ Finding: The Plan did not monitor whether providers documented in the medical record 
+that extended appointment timeframes would not be detrimental to members’ health.  
+ In an interview and written response,  the Plan stated it review s the DMHC PAAS data 
+results each year to identify providers extending standard wait times for appointments.  In addition, the Plan stated it reviews the timely access appointments during Facility Site Review (FSR). A section of the FSR evaluated  whether appointments are scheduled 
+according to patients ’ stated clinical needs within the timeliness standards established 
+for Plan members. However, neither data review nor FSR included a process which monitors whether providers documented in the medical record that extended 
+appointment timeframes would not be detrimental to members’ health.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+30 of 45  If the Plan does not monitor providers’ extending appointment timeframes, there may be delays in members’ access to care resulting in poor health outcomes.  
+ Recommendation: Revise and implement policies and procedures  to monitor whether 
+providers are documenting in the medical record that an extended appointment 
+timeframe will not have a detrimental impact on the member’s health.   
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+31 of 45   
+3.8  
+NON- EMERGENCY MEDICAL TRANSPORTATION  
+NON- MEDICALTRANSPORTATION 
+ 3.8.1 Non-Emergency Medical Transportation Prior Authorization  
+ The Plan is required to apply utilization review controls for NEMT  services, including 
+prior authorization. (Contract , Exhibit A, Attachment 10 (D)(2)(h))  
+ NEMT services are subject to prior authorization. M ember s are required to have an 
+approved PCS form authorizing NEMT by the provider. For Plan covered services requiri ng recurring appointments, the Plan is required to provide authorization for NEMT 
+for the duration of the recurring appointments, not to exceed 12 months. A member or provider is not required to obtain prior authorization for NEMT services if the member is  
+being transferred from an emergency room to an inpatient setting, or from an acute care hospital, immediately following an inpatient stay at the acute level of care, to a skilled nursing facility, an intermediate care facility or imbedded psychiatric unit s, free standing 
+psychiatric inpatient hospitals, psychiatric health facilities, or any other appropriate inpatient acute psychiatric facilities. (APL 22 -008 Non- Emergency Medical and Non-
+Medical Transportation Services and Travel Related Expenses)  
+ Plan policy, UM.013 Non- Emergency Medical Transport (revised 1/23/2023), stated  that 
+NEMT services are subject to prior authorization not exceeding 12 months and covering the duration of recurring appointments. The policy also stated  prior authorization is not 
+required for NEMT transfers from an acute care hospital immediately follow ing an 
+inpatient stay at the acute level of care, to a skilled nursing facility, an intermediate care facility, an imbedded psychiatric unit, a free standing psychiatric inpatient hospital, a psychiatric health facility, or any other appropriate inpatient acute psychiatric facility. PCS forms are required to be completed before NEMT will be provided.  The Integrated 
+Care Management  (ICM) team is responsible for coordinating the NEMT service request 
+based on medical necessity and level of service need.  
+ Findi ng: The Plan did not  consistently  require prior authorizations for NEMT services 
+and did not  use PCS forms  to determine the appropriate level of services.  
+ In a verification study  of NEMT services , five of 20 cases  did not have prior 
+authorizations and PCS forms. The five cases  involved members who were either 
+transported to a dialysis facility or from a skilled nursing facility , and none met the 
+criteria for prior authorization exceptions .  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+32 of 45  In an interview, the Plan stated that the ICM team will assess the member’s needs if 
+there is no PCS form  or when there’s a delay . The ICM team will then determine the 
+appropriate mode of transportation and arrange the trip.  The Plan did not specify if a 
+PCS form is created through this process. Although the Plan has an established 
+process with ICM when there is no PCS form , the Plan did not have any  documentation  
+to provide for these five cases  when it was requested.  The Plan stated in a written 
+response that the five cases did not require coordination with the Plan’s ICM team for 
+the identified dates of service, which is inconsistent with the Plan’s policies and procedures.  The Plan did not follow its  own policy and procedure to hav e both a prior 
+authorization and a PCS form for applicable NEMT services . The Plan did not provide 
+requested documentation from previously authorized or approved transportation 
+services related to these cases.  
+ If the Plan does not require the prior authorization and PCS form , it cannot ensure that 
+members receive the appropriate level of transportation for the members’ needs.  
+ Recommendation: Implement policies and procedures to ensure prior authorizations 
+and PCS forms are required for applic able NEMT services.  
+ 3.8.2 Transportation Liaison  The Plan is required to comply with all Policy Letters and APLs  issued by DHCS. 
+(Contract, Exhibit E, Attachment 2 (D))  
+ The Plan is required to note in their Member Services Guide the notification timeframe requirements for transportation requests and have a direct line to the Plan’s transportation liaison for providers and members to call, request, and schedule urgent and non- urgent NEMT and receive status updates on their NEMT rides. (APL 22 -008 
+Non-Emergency Medical and Non -Medical Transportation Services and Travel Related 
+Expenses)  
+ Plan policy, UM.013 Non- Emergency Medical Transport (revised 1/23/2023), stated  
+members have direct lines of com munication with the ICM  team and providers have 
+direct lines of communication with Provider Services Network Liaisons for the requesting, arranging,  and status updates of urgent and non- urgent NEMT rides.  
+ Finding:  The Plan did not have a direct line to t he Plan’s transportation liaison for 
+members and providers.  
+ The Plan’s Member Handbook does not mention any methods of contact for the 
+transportation liaison, and instead instructs members to contact Member Services for 
+non-urgent NEMT related inquires.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+33 of 45  During the interview, the Plan stated that there is no direct way for members and providers to contact the t ransportation liaison. The current t ransportation liaison started 
+working for the Plan in May 2023 and is still in training. The Plan’s process is to forward members with transportation related requests and inquir ies to Member Services.  
+ If members and providers cannot contact the t ransportation liaison, members and 
+providers may not receive adequate assistance with their transportation requests or inquiries.  
+ Recommendation:  Revise  and implement policies and procedures to ensure that 
+members and providers have a direct line to call  the transportation liaison.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+34 of 45   
+CATEGORY 4 – MEMBER’S RIGHTS 
+  
+4.1  
+GRIEVANCE SYSTEM  
+ 4.1.1 Grievance Written Consent  
+ The grievance and a ppeal requirements  in the Contract  allow member s, a provider , or 
+authorized representative acting on behalf of a member and with the member’s written consent,  to file a grievance with the Plan either orally or in writing. ( Contract, Exhibit A, 
+Attachment 14 (1)(A))  
+  If state law permits and with the written consent  of the member, a provider or an 
+authorized representative may request an appeal or file a grievance, or request a state fair hearing, on behalf of a member. (CFR, Title 42, section 438.402 (C)(1)( ii)) 
+ Plan policy, GA.10 Overview of Member Complaints Process for Medi -Cal, HealthWorx, 
+and ACE  (revised 5/31/2023), stated that a member may appoint any individual, (such 
+as his or her prescribing physician or other physician, family member, friend, or attorney) to act as his or her appointed representative. If a complaint is filed on behalf of a member, the member is required to provide verbal confirmation (consent) of his or her desire to appoint the person filing the complaint as his or her representative.  If verbal 
+consent cannot be obtained on the date the complaint is filed, g rievance and a ppeal  
+staff makes at least one attempt to obtain verbal consent within the first business day after the grievance is filed. Grievance and a ppeal  staff must make at least three 
+attempts over a 30- day period to obtain verbal consent.  
+ Finding:  The Plan did not obtain member written consent for grievances filed on behalf 
+of a member.  
+ In a verification study of 49 standard case grievances, seven cases had an authorized 
+representat ive; however, all seven cases were resolved without a written consent 
+obtained from the member for grievances filed on behalf of a member.  
+ In an interview, the Plan stated that they obtain written consent if an appeal  is filed on 
+behalf of a member, but  no written consent  is obtained for grievances. In a written 
+response, the Plan explained that they require member’s verbal consent for grievances filed on behalf of a member.   
+ If written consent is not obtained from members, members risk not being informed and involved in decisions about their care.   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+35 of 45  Recommendation: Revise  and implement policies and procedures to obtain member 
+written consent for grievances filed on behalf of a member.   
+ 4.1.2 Translation of Grievance and Appeals Notices 
+ The Plan is required to provide fully translated member information, including but not limited to the member services guide, member information, welcome packets, marketing 
+information and form letters including NOA letters and grievance and appeal 
+acknowledgement and resolution letters. The Plan is required to provide translated written informing materials to all monolingual or limited English proficient members that speak the identified threshold or concentration standard languages. (Contract, Exhibit A, Attachment 9 (13)(C)(2))  
+ Federal and state law, the DHCS C ontract, and APL 21 -004 (Standards for Determining 
+Threshold Languages, Nondiscrimination Requirements, And Language Assistance Services)  require the Plan to fully translate and provide written member information in a 
+member’s required language, including all grievance and appeals notices. (APL 21 -011 
+Grievance and Appeal Requirements, Notice And “Your Rights” Templates)  
+ Plan’s desktop procedure, Overview of Translation and Interpretation Services for 
+Members  (revised 12/13/2021), stated that all letters sent to members with a preferred 
+language other than English are required to be translated. The assigned g rievance and 
+appeal  staff can request a letter to be translated and forward the request to the Plan’s 
+translation vendor. The g rievance and a ppeal  staff is responsible for sending the 
+translated version of the letter to the Plan’s administrative services department for printing and maili ng. 
+ Plan policy , PH.205 Translation Procedures  (revised 6/30/2022), stated that for all 
+documents that require translation, the source document is given to the Plan’s translation vendor for translation. The translated document is then reviewed and edited by a second qualified translator to confirm cul tural appropriateness for target audience, 
+tone, and clinical terminology. An affidavit to attest to quality assurance and review process is included with the returned translated documents.  
+ Finding: The Plan did not ensure that all grievance and appeals letters were correctly 
+translated into members’ threshold language.  
+ A verification study of 49 standard grievances, ten discrimination grievances , and 17 
+appeal cases , revealed the following:  
+ 
+• 20 letters  sent to members  included non- discrimination notices and/or language 
+assistance taglines with unintelligible text.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+36 of 45  
+• 11 letters sent to members included non- discrimination notices translated in a 
+language which was not the member’s threshold language.  Parts of the letters 
+were incorrectly translated into another language.   
+The letters sent to members were dated from October 2022 through May 2023. In an interview, the Plan confirmed that the non- discrimination notices and language 
+assistance taglines with unintelligible tex ts and/or i ncorrect threshold language were 
+mailed to members.  
+ In a written response, the Plan stated that it is still working to determine how many letters were affected, and how long the issue was present before the corrections were implemented.  
+ Subsequent to the E xit Conference, the Plan submitted written statement that  its system 
+vendor did a root cause analysis to determine why the attachments of their letters were displaying character text errors when translated into some non- English languages . The 
+Plan also  claimed that the issues have been corrected and submitted sample grievance 
+resolution letters , including the non- discrimination notice and the language assistance 
+taglines . However, the Plan did not provide any evidence that it has a proces s for 
+ensuring translated letters are correctly translated and do not contain unintelligible text.  
+ When the Plan does not correctly translate non- discrimination notices and language 
+assistance taglines in member s’ threshold languages, members may not be fully 
+informed of their rights.   
+ Recommendation: Revise and implement policies and procedures to ensure that all 
+grievance and appeals letters are correctly translated into members’ threshold 
+language,  including non-discrimination notice s and language assistance taglines . 
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+37 of 45   
+CATEGORY 5 – QUALITY MANAGEMENT  
+ 
+ 
+5.1  
+QUALITY IMPROVEMENT SYSTEM  
+ 5.1.1 Quality Improvement System  
+ The Plan is required to implement an effective QIS in accordance with regulatory standards  set forth in CCR, Title 28, section 1300.70 and CFR, Title 42, section 
+438.330. The Plan is required to monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers rendering services on its behalf, in any setting. The Plan is required to be accountable for the quality of all covered services regardless of the number of contracting and subcontracting layers between the Plan and the provider. (Contract , Exhibit A, 
+Attachment 4, 1. General Requirement)  
+ The Plan’s quality assurance (QA) program’s  intent and regulatory  purpose is the 
+following: providers are required to direct the QA program and document that the quality of care provided is being reviewed, that problems are being identified, that effective action is taken to improve care where deficiencies are identified, and that follow -up is 
+planned where indicated. (CCR, Title 28, section 1300.70)  
+ Plan policy , QI.103 Review and Handling of Quality of Care Complaints and Concerns 
+(revised 5/3/2023) , stated the Plan is to provide a systematic method for the 
+identification, reporting, and processing of a PQI to determine opportunities for improvement in the provision of care and services to Plan members, and to direct appropriate actions for improvement based upon outcome, risk, frequency, and severity.  
+A quality issue  is defined as a confirmed deviation from expected provider performance, 
+clinical care, or outcome of care, which has been determined through the PQI process to be inconsistent with professionally recognized standards of care.  The policy also 
+included the Case Leveling Grid, which discussed the Plan’s scoring for both provider and system PQI matters.  
+ The Plan’s Quality Improvement (QI) Program Description 2023,  includes a PQI 
+program that identifies deviations from expected provider performance or clinical care, as well as issues with the outcome of care. This is accomplished through the systematic evaluation of a variety of sources, such as grievances, utilization, medical/dental record, and facility site reviews. PQIs can also be referred by Plan staff and providers. The reporting and processing of PQIs determines opportunities for improvement in the provision of care and services to Plan members. Appropriate actions for improvement will be take n based on PQI outcomes.   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+38 of 45  Finding:  The Plan did not adequately evaluate and/or take timely action in its PQI 
+process to address needed improvements in the quality of care delivered by providers.   A review of six PQI cases found:  
+ 
+• In one case, the Plan did not timely resolve a serious PQI quality of care system issue at a large medical group provider. It took over nine and a half months to resolve this serious PQI matter involving a seven- month delay in a member 
+receiving a primary care provider appointment visit. There was at least one gap of approximately four months in the PQI process, with no documented Plan PQI activities. In the interview, the Plan pointed to a number of factors for the delay in 
+PQI resolution, including the medical group provider’s compliance officer having left their position during the PQI process. However, this does not explain the long delay in PQI scoring and full CAP implementation, since this large medical group provider would have other administrative s taff to work with in any CAP.  
+ 
+• In a second case, the Plan incorrectly determined that a PQI involved only a system issue when in fact it was a provider issue. This PQI involved a member who claimed that their provider had called and told them that they needed to drop their prior grievances against the provider, or the provider would file a complaint against the member. The provider admitted to having contacted the member, telling the member the grievances against them were not accurate and legitimate, and having asked that the grievances be withdrawn by the member. The provider denied having told the member that the provider would file a complaint against the member. The Medical Director reviewing this PQI indicated 
+in the PQI determination decision that members have the right to file a complaint about the care they received from a provider, without any adverse consequences to how they are treated, identifying this PQI as a “qualit y of care concern”. This 
+Medical Director recommended the provider should be educated on grievance 
+and PQI processes, which was the Plan’s corrective action. There were no system issues identified by the Medical Director.  
+ 
+The Medical Director’s PQI determination identified only a provider quality of care 
+concern, and no system concerns, but the Medical Director’s PQI leveling score of 
+P0/S1 incorrectly indicated otherwise. The P0 part of the score means the provider’s involvement was considered appropriate. The S1 part of the score means that the system had a problem in that there was a potential for or an actual minor adverse outcome to the member. If a Plan does not timely resolve serious PQI matters, members may continue to receive inadequate health care services, including those that 
+involve serious quality of care issues.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+39 of 45  Any attempt by a provider to silence a member's grievance rights involves potential quality of care issues as to the provider. A provider should receive the proper scoring of a PQI that involves quality of care provider concerns.  
+ Recommendation: Revise and implement policies and procedures to ensure all PQI reviews receive proper PQI evaluation and ensure timely and effective action to address 
+needed improvements in the quality of care delivered by providers.  
+      
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+40 of 45   
+5.2  
+DELEGATION OF QUALITY IMPROVEMENT ACTIVITIES  
+ 5.2.1 Ownership and Control Disclosure  
+ The Plan is required to comply with CFR, Title 42, section 455.104, Disclosure by 
+Medicaid providers and fiscal agents: Information on ownership and control.  The Plan is 
+required to have each subcontractor disclose certain information, including the name, 
+address, date of birth, and social security number of each person or other tax identification number of each corporation with an ownership or control interest in the disclosing entity. The Plan is also required  to have its  subcontractors disclose the name, 
+address, date of birth, and social security number of any managing employee of all subcontractors. (Cont ract, Exhibit A, Attachment 1(2)(B)) 
+ The Plan is required to comply with the ownership and control disclosure requirements as set forth in CFR, Title 42, section 455.104  by collecting information on whether their 
+subcontractors are persons with ownership,  control interest, or managing employees. 
+(APL 23 -006 Delegation and Subcontractor Network Certification)  
+ Plan policy, CP.030 Oversight Responsibilities for Medi -Cal Delegates ( effective: 
+8/1/2022), stated  that the Plan will obtain written disclosure of information on 
+subcontractor ownership and control. The Plan will collect, review, and track subcontractor ownership and control disclosure information as specified in CFR , Title 
+42, section 455.104.  
+ Finding:  The Plan did not ensure that its subcontractors submitted complete ownership 
+and control disclosure information.  
+ The Plan collected disclosure forms for six of nine subcontractors delegated for 
+credentialing.  Disclosure forms from Kaiser Foundation Health Plan, Inc., Lucile 
+Packard Children’s Hospital Medical Group, San Mateo Medical Center, Stanford Hospital and Clinics, University Healthcare Alliance, and Sutter Health were collected.  
+The Plan did not collect disclosure forms  from Dignity Health  Medical Foundation, 
+Magellan Health, Inc.,  and University of California, San Francisco.  A review of the six 
+provided disclosure forms revealed the following deficiencies:  
+ 
+• Disclosure forms  from Kaiser Foundation Health Plan, Inc, Lucile Packard 
+Children’s  Hospital Medical Group, Stanford Hospital and Clinics, and University 
+Healthcare Alliance did not contain the tax identification number of the 
+subcontractor . 
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+41 of 45  
+• Disclosure forms  from Kaiser Foundation Health Plan, Lucile Packard Children’s 
+Hospital Medica l Group, Stanford Hospital and Clinics, University Healthcare 
+Alliance, and Sutter Health did not contain the address, social security number, 
+and date of birth of the individuals with ownership or control interest, and managing employees.  
+ In the interview, the Plan stated that obtaining the required information for individuals 
+with ownership and control interest from subcontractors has been a long- standing point 
+of discussion between the Plan and its subcontractors. The Plan’s own review of the Ownership and Control Disclosure information from its subcontractors has identified 
+several instances of non- compliance.   
+ The Plan stated that it has an Ownership and Control Disclosure Tracker to monitor the subcontractors’ compliance. A Contract Approval Form was  developed as part of the 
+2022 CAP, which has a checkbox indicating if the subcontractor needs to update their ownership and control disclosure information. Only o ne subcontractor has utilized the 
+Contract Approval Form since its implementation.   This is a repeat finding of the prior year  findings 2019,  2021,  and 2022 –  5.2.1 
+Ownership and Control Disclosure Reviews  When the Plan does not collect and review the required ownership and control disclosure information from all subcontractors, it cannot ensure that subcontractors are 
+in compliance  with the ownership and control disclosure requirements and have no 
+potential conflicts of interest.  
+ Recommendation:  Implement policies and procedures to ensure complete collection of 
+all subcontractors’ owner ship and control disclosure information.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+42 of 45   
+5.3  
+PROVIDER QUALIFICATIONS  
+ 5.3.1 Delegation of Provider Training  The Plan may enter into subcontracts with other entities in order to fulfill the obligations of the Contract. The Plan is required to maintain policies and procedures, approved by DHCS, to ensure that subcontractors fully comply with all terms and conditions of this Contract. The Plan is required to evaluate the prospective subcontractor’s ability to perform the request ed services, oversee , and remain responsible and accountable for 
+any functions and responsibilities delegated to meet subcontracting requirements in 
+CFR, Title 42, section 438.230(b)(1). (Contract, Exhibit A, Attachment 6(13))  
+ All contracts or written arrangements between the Plan and subcontractor are required 
+to meet the following requirements:  
+ 
+• The delegated activities or obligations, and related reporting responsibilities specified in the contract or written agreement.  
+ 
+• The subcontractor agrees to perform the delegated activities and reporting responsibilities specified in compliance with the Plan’s contract obligations.  
+(CFR, Title 42, section 438.230(c)(1)(i) -(iii)) 
+ Plan policy , PS 01 -03 Provider Training (revised 5/16/2022), stated the Plan will provide 
+Medi -Cal program overview new provider training materials to delegated credentialing 
+provider groups to incorporate into their new provider onboarding process and conduct the training within the required t imeframe of providing the training within ten working 
+days and completion within 30 calendar days of becoming an active provider with the group.  
+ Plan policy , CP.023 Pre -Delegation Review  (revised 5/26/2022), stated  the delegation 
+agreement will be reviewed to ensure it contains the following provisions:   
+• Delineates the duties and responsibilities of both the Plan and the proposed delegate.  
+ 
+• Outlines the services to be performed by the delegate, including reporting responsibilities that are required to occur at least quarterly . 
+ 
+• Specifies that performance of the delegate is monitored on an ongoing basis by the Plan, and that the Plan retains the right to audit the delegate with adequate notice.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+43 of 45  
+• States that delegates are required to comply with all applicable Medicare and 
+Medi -Cal laws and regulations and National Committee for Quality Assurance 
+accreditation standards, as applicable, and any guidance or instructions from  the 
+Centers for Medicare & Medicaid Services , DHCS, or DMHC that pertains to the 
+function(s) being delegated.  
+ 
+Finding:  The Plan did not specify provider training responsibilities in its written 
+agreements with subcontractors.  
+ The written delegation agreements for eight of nine subcontractors did not include language on provider training as a responsibility.  The eight subcontractors that did not 
+include provider training language are Sutter Health, Dignity Health Medical Foundation, University Healthcare Alliance, Magellan Health, Inc., Stanford Hospital and Clinics, San Mateo Med ical Center, University of California, San Francisco, and Lucile Packard 
+Children’s Hospital Medical Group. In the interview, the Plan stated that seven agreements are pending due to disagreements with the subcontractors about including specific provider t raining language in the C ontract.   
+ The Plan stated that it is in the process of working with subcontractors to execute the amendments to include new provider training language and applicable reporting requirements.  
+ This is a repeat finding of  the prior year findings 2021 and 2022 -  5.3.1 Delegation 
+of Provider Training.  
+ Without identifying specific  provider training responsibilities in the written agreements, 
+the Plan cannot ensure its subcontractors will fulfill this delegated obligation as 
+contractually required.  
+ Recommendation:  Revise and implement delegated agreements to include and 
+specify all delegated provider training activities and responsibilities of the 
+subcontractors.  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+44 of 45   
+CATEGORY 6 – ADMINISTRATIVE AND ORGANIZATIONAL CAPACITY 
+  
+6.2  
+FRAUD AND ABUSE 
+ 6.2.1 Fraud and Abuse Reporting 
+ The Plan is required to conduct, complete, and report to DHCS, the results of a preliminary investigation of the suspected fraud and/or abuse within ten working days of the date the Plan first becomes aware of such activity . (Contract, Exhibit E, Attachment 
+2 (27)(B)(7))  
+ Plan policy , CP.016 Investigating and Reporting Fraud, Waste, Abuse and Neglect  
+(revised 4/27/2022) , stated the Compliance Department staff gathers information 
+regarding the case. Investigations for all cases begin as quickly as possible, but no later than ten business days after the date, the potential noncompliance or F raud, Waste, 
+and Abuse (FWA) is identified or reported.  
+ Plan policy , CP-DP.002 Fraud, Waste, and Abuse Incident Investigation and Reporting  
+(revised 9/6/2019) , stated the compliance staff file all suspected FWA cases to DHCS 
+using the MC609 reporting template. Reports are made no later than ten working days after the Plan is first aware of FWA activity. The Chief Compliance Officer is responsible for overseeing the Plan’s Compliance Program, including the FWA Program. The Compliance Manager is delegated day -to-day operational oversight of the FWA 
+program.  
+ Finding:  The Plan did not complete and report to DHCS the results of preliminary 
+inves tigations of suspected fraud and abuse incidents within ten working days.  
+ In a verification study of ten cases of suspected FWA incidents, three suspected incidents were not reported to DHCS within ten working days after the Plan became aware or notified of suspected incidents. These suspected incidents exceeded the 
+reporting timeframe by six to 66 days.   In an interview, the Plan stated that they waited until the actual evidence was obtained before they started the investigation. In a written response, the Plan explained that the cases were filed late due to compliance staff difficulties in organization and prioritization while FWA responsibilities were expanded and redistributed among four internal auditors.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  San Mateo Health Commission dba Health Plan of San Mateo 
+ 
+AUDIT PERIOD:  July 1, 2022 through June 30, 2023 DATES  OF AUDIT:  July 31, 2023 through August 10 , 2023 
+ 
+45 of 45  If the Plan does not complete and report suspected fraud and abuse incidents timely, it could delay  detection, prevention and mitigation of further FWA incidents.   
+  
+Recommendation:  Implement policies and procedures to ensure all suspected 
+incidents of fraud and abuse are investigated and reported within the required 
+timeframe.  
+ 

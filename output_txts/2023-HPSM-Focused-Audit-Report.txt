@@ -1,0 +1,519 @@
+1 
+DHCS AUDITS AN D INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+REPORT O N TH E FOCUSED AU DIT OF SAN 
+MATEO CO MMISSION D BA HEALTH PLAN O F 
+SAN MATEO 2023 
+Contract N umber: 08- 085213 
+Audit Period: July 1, 2022 – June 3 0, 2023 
+Dates of A udit: July 31 , 2023 – August 11 , 2023 
+Report I ssued: Augus t 30, 2024 
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 3  
+II. EXECUTIVE SUMMARY ...................................................................................... 5 
+III. SCOPE/AUDIT PROCEDURES .......................................................................... 8 
+IV. COMPLIANCE AUDIT FINDINGS Performance Area: Behavioral Health  ..................................................... 9  
+Category 2 – Case Management and Coordination of Care  
+Performance Area: Transportation .............................................................23  
+Category 3 – Access and Availability of Care  
+  
+3 
+ 
+I. INTRODUCTION  
+Background  
+In accordance with California Welfare and Institutions Code section 14456,  the 
+Department of Health Care Services (DHCS) may conduct additional reviews outside the annual medical audit when DHCS determines there is good cause.  
+DHCS directed Contract and Enrollment Review Division to conduct focused audits of all contracting Medi -Cal Managed Care Plans ( Plans) to evaluate  current performance in 
+Behavioral Health and Transportation services.  
+These focused audits differ from DHCS’  regular annual medical audits in scope and 
+depth. The annual medical audits  evaluate the Plan ’s organizational structures, policies 
+and procedures, and systems for compliance with contractual requirements. The focused audits examine d the operational issues that may hinder appropriate and timely member 
+access to medically necessary care. The f ocused audit engagement formally commence d 
+in January 2023 through December 2023. 
+For the  Behavioral Health  section, the focused audit evaluated the Plan’s monitoring 
+activities of specific ar eas such as Specialty Mental Health Services (SMHS), Non -
+Specialty Mental Health Services (NSMHS), and Substance Use Disorder Services (SUDS). 
+The focused audit also review ed potential issues that may contribute to the lack of 
+member access  and oversight for SMHS, NSMHS, and SUDS.  
+The focused audit conducted  a more in -depth look at current Plan  operations/practices 
+for executing the delivery of transportation services. The audit examined  potential 
+causes for the systemic issues surrounding the Non-Emergency Medical Transportation  
+(NEMT)  and Non-Medical Transportation  (NMT)  benefit, specifically when the 
+transportation is delegated to a transportation broker.  
+The California Legislature authorized the San Mateo County Board of Supervisors to establish a county commission for negotiating an exclusive contract for the provision of Medi -Cal services in San Mateo County in 1983. The San Mateo County Board of 
+Supervi sors created the San Mateo Health Commission (SMHC) in June of 1986, as a 
+local, independent public entity. In 1987, the SMHC founded the Health Plan of San Mateo (Plan) to provide San Mateo County residents with access to a network of providers and a benefits program that promotes preventive care.  
+4 
+ 
+The SMHC is the governing board for the Plan. Board members are appointed by the San Mateo County Board of Supervisors. The Plan received its Knox -Keene license as a 
+full-service plan on July 31, 1998.  
+Senate Bill 849 (Chapter 47, Statutes of 2018) authorized DHCS to establish a dental integration program in San Mateo County to include Medi -Cal dental services as a 
+covered benefit under the Plan. The integration of the dental benefit into the Plan took effect on January 1, 2022. All Medi -Cal members enrolled in San Mateo County now 
+receive dental care through the Plan in addition to their medical services.  
+The Plan’s provider network includes independent providers practicing as individuals, small and large group practices, community clinics, and the San Mateo Medical Center, which operates multiple clinic sites. During the audit period, the Plan delegated NMT services to American Logistics Company, LLC, a transportation broker.  
+As of June 30, 2023, the Plan served 177,828 members through the following programs: 143,611 (80.76 percent) Medi -Cal; 23,129 (13.01 percent) Access and Care for Everyone 
+Program; 8,517 (4.79 percent) Cal MediConnect; 1,357 (0.76 percent) Whole Child Model  
+Program; and 1,214 (0.68 percent) HealthWorx.  
+Out of the Plan’s 177,828 members, 8,944 (5.03 percent) were Seniors and Persons with Disabilities.  
+  
+5 
+ 
+II. EXECUTIVE SUMMARY 
+ This report presents the audit findings of DHCS’ focused audit for the period of July 1, 2022, through June 30, 2023. The audit was conducted from July 31, 2023, through August 11, 2023. The audit consisted of document review, surveys, verification studies, 
+and interviews and file reviews with Plan representatives.  An Exit Conference with the Plan was held on June 27, 2024. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the E xit 
+Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+The focused audit evaluated the areas of performance for Behavioral Health and Transportation services.  
+The summary of findings by performance area follows:  
+Performance Area: Behavioral Health 
+Category 2 –  Case Management and Coordination of Care : 
+• Specialty Mental Health Services  
+• Non-Specialty Mental Health Services  
+• Substance Use Disorder Services  Category 3 – Access and Availability of Care  
+The Plan is responsible for appropriate management of its members’ mental and physical health care, including mental health services, both within and outside the Plan’s provider network.  The Plan is required to coordinate care with the county Mental Health 
+Plan (MHP) for its’ members’ mental and physical health care. The Plan did not ensure the provision of coordination of care to deliver mental health care services to its members.  
+The Plan is required to coordinate with MHPs to facilitate care transitions and guide referrals for members receiving NSMHS to transition to SMHS providers and vice versa, ensuring that the referral loop is closed, and the new provider accepts the care of the member. The Plan did not coordinate with the MHP to facilitate care transitions and guide referrals for members receiving NMSHS to transition to SMHS providers and vice versa. The Plan also did not ensure that the referral loops were closed, and that n ew 
+providers had accepted the care of members.   
+6 
+ 
+The Memorandum of Understanding (MOU) between the Plan and the county MHP must address policies and procedures for the management of members’ care for both the Plan and the MHP, including but not limited to the timely exchange of medical information. The P lan did not follow the agreed -upon written policies and procedures in 
+its MOU for the timely exchange of medical information with the MHP.  The Plan is required to arrange for member referrals to the county department responsible for substance use treatment, or other community resources when services are not available through counties for members identified as requiring alcohol or Substance Us e Disorder (SUD) treatment services. The Plan is required to make good 
+faith efforts to confirm whether members receive referred treatments and document when and where treatments were received, and any next steps following treatment. If a member does not r eceive referred treatments, the Plan must follow up with the member 
+to understand barriers and adjust the referrals if warranted. The Plan did not make good faith efforts to confirm whether members received referred treatments for SUD and did not document when and where treatments were received, and any next steps following treatment. The Plan also did not follow up with members who did not receive referred treatments to understand barriers and make subsequent adjustments to referrals.  
+The Plan is required to provide SABIRT ( commonly known as Screening, Assessment, 
+Brief Intervention, and Referral to Treatment)  services for members 11 years of age and 
+older. The Plan is required to ensure that Primary Care Providers (PCPs) maintain 
+documentation of SABIRT services provided to members. The Plan did not ensure members received SABIRT services and the Plan did not ensure PCPs maintained documentation of SABIRT services.   The Plan is required to ensure that members receive mental health screenings conducted by network PCPs. The Plan did not ensure that members received mental health screenings conducted by network PCPs.  
+Performance Area: Transportation  
+Category 3 –  Access and Availability of Care  
+• Non-Emergency Medical Transportation  
+• Non-Medical Transportation  
+The Plan is required to have processes in place to ensure door -to-door assistance is 
+provided for all members receiving NEMT services. The Plan did not ensure door-to -
+door assistance is provided for all members receiving NEMT services.   
+7 
+ 
+The Plan is responsible for ensuring that its network providers comply with all applicable state and federal laws and regulations, contract requirements, and other DHCS guidance, including All Plan Letters (APLs) and Policy Letters. The Plan must conduct monitoring activities no less than quarterly and have a process in place to impose 
+corrective action on network providers if non-compliance is identified through monitoring or oversight activities. The Plan did not monitor NEMT network providers. The Plan d id not conduct monitoring activities for door -to-door assistance to members 
+and did not monitor the no-show rates of network NEMT providers.  
+The Plan is required to have a direct line to the Plan’s transportation liaison for providers and members to call, request, and schedule urgent and non -urgent NEMT and receive 
+status updates on NEMT rides. The transportation liaison must ensure authorizati ons are 
+being processed during and after business hours. The Plan did not have a direct line to the transportation liaison and the transportation liaison did not process authorizations after business hours.  
+The Plan is required to provide NEMT services when the member's medical and physical condition is such that transport by ordinary means of public or private conveyance is medically contraindicated and transportation is required for the purpose of obtaining needed medical care. The Plan did not ensure its delegate, Modivcare Solutions, provided the appropriate NEMT modality prescribed in the PCS forms for members’ medically necessary NEMT services.  
+ 
+ 
+8 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+This focused audit was conducted by the DHCS Contract and Enrollment Review Division to ascertain the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+On November 3, 2022, DHCS informed Plans that it would conduct focused audits to assess the performance in certain identified high -risk areas. The focused audit was 
+concurrently scheduled with the annual medical audit. The audit scope encompassed the follo wing sections:  
+• Behavioral Health - SMHS, NSMHS, and SUDS 
+• Transportation – NEMT and NMT services  
+The audit was conducted from July 31, 2023, through August 11, 2023. The audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+The following verification studies were conducted:  
+Category 2 –  Case Management and Coordination of Care  
+SMHS: Five cases were reviewed to evaluate care coordination with the county MHP and compliance with APL requirements.  
+NSMHS: Five cases were reviewed to evaluate compliance with APL requirements.  SMHS and NSMHS: Five cases for members with both services were reviewed to evaluate compliance with APL requirements.  SUDS: Five cases were reviewed to evaluate compliance with APL requirements.  
+Category 3 –  Access and Availability of Care  
+NEMT: Five cases were reviewed to evaluate compliance with APL requirements.  NMT: Five cases were reviewed to evaluate compliance with APL requirements.  A description of the findings for each category is contained in the following report.  
+9 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Behavioral Health – SMHS, NSMHS, and 
+SUDS 
+Category 2 – Case  Management  and Coordination of Care  
+ 
+2.1 Case Management and Care Coordination  
+The Plan shall comply with all existing final Policy Letters and APLs issued by DHCS. 
+(Contract, Exhibit E, Attachment 2(1)(D) ) 
+The Plan is required to coordinate care with the county MHP. The Plan is responsible for the appropriate management of a member’s mental and physical health care, which includes, but is not limited to, medication reconciliation and coordination of all medi cally necessary, contractually required Medi -Cal covered services, including mental 
+health services, both within and outside the Plan’s provider network. (APL 22-006 Medi-Cal Managed Care Health Plan Responsibilities for NSMHS)  
+During the audit period, the Plan used the 2004 version of the MOU and an Addendum to the MOU effective January 4, 2021 (2021 MOU Addendum).  The Plan’s 2021 MOU 
+Addendum  states that the Plan retains management and responsibility of mental health 
+services. The county MHP and the Plan are responsible for coordinating the transition of care for members transitioning between SMHS and mild to moderate mental health services.  
+Plan policy, HS -05 Medi -Cal Mental Health and Substance use Disorder Services, Referral 
+and Coordination of Services  (revised September 7, 2022),  states that the Plan is 
+responsible for coordinating care for members who need or receive treatment for SUD or Serious Mental Illness (SMI) even when the SUD and SMI services are carved out to the MHP. The Plan provides medical case management. Appropriate  management of a 
+member’s mental and physical health care, including, but not limited to, the coordination of all medically necessary services, including mental health services, both within and 
+outside the Plan’s provider network. If the PCP, member, family, Plan staff, or MHP staff identifies a need for additional coordination of medical and behavioral health services, they can contact Plan Care Coordination for care coordination assistance. The Plan will coordinate care with the MHP including regular Interdisciplinary Team (IDT) meetings. If a member is receiving mental health care, and they are receiving concurr ent services or 
+have a change in their qualifying SMHS or NSMHS, the Plan will coordinate with providers and the MHP to ensure member choice. The Plan and MHP will facilitate care transitions 
+10 
+ 
+and guide referrals for members receiving NSMHS to transition to a SMHS provider and 
+vice versa.  
+Plan policy, CC-01 Care Coordination (revised November 21, 2022), states the goal is to optimize health care delivery by working collaboratively across agencies including San Mateo County Behavioral Health and Recovery Services (BHRS), as well as with the PCP and the member to monitor and ensure coordination of services with ap propriate 
+referrals to specialists, programs and community resources. Coordination of care will be 
+performed in compliance with state requirements, federal mandates, and the establish ed 
+MOU between the Plan and BHRS. The Plan Care Coordination staff will identify whether members are already connected to BHRS. For those members with BHRS providers, the Plan Care Coordination unit staff will work with the identified BHRS provider and share care plans as appropriate. The member’s assigned care coordinator is responsible for updating the member’s care management records to reflect the most accurate care coordination assignment or request. Care coordination services provided by the Plan are led by the assigned care coordinator with participation of the member, their authorized representative, and members of the Interdisciplinary Care Team. Individualized care plans are developed with input from the member or authorized representative that include prioritized member goals and preferences, the ability to self-direct care, and the ability to opt out of the individualized care process.  Finding: The Plan did not ensure the provision of coordination of care to deliver mental 
+health care services to its members.  
+The Plan did not follow the MOU or its policies and procedures.  
+A verification study of five SMHS cases, five SMHS and NSMHS cases, and five SUD cases revealed no documentation of care coordination throughout the time the 
+members were receiving mental health services.  During file review, the Plan stated that 
+information was readily available through the members’ profiles in the county’s electronic health record system.  The Plan  did not provide the DHCS with the requested 
+documentation substantiating care coordination.  
+During the interview, the Plan stated all members can ask for support from the Plan’s Integrated Care Management (ICM) Team or the Care Coordination Team by calling and asking for help. The MHP knew about this option if coordination was needed.  
+In the DHCS Survey , the Plan stated its ICM team provides care coordination support for 
+members. The ICM team has access to the MHP’s electronic records systems and can search care and care team details as needed. IDTs are held as needed and the Plan’s 
+11 
+ 
+Enhanced Care Management  providers coordinated care for members with specialty 
+mental health and SUD issues.  Since there was no documentation of care coordination provided in the verification study, Care Coordinator Assignments for members from that verification study were requested and reviewed . Furthermore, in an effort to verify the Plan’s care coordination, 
+an additional verification study was conducted where a larger sample size was used.  
+Documentation showed five out of nine SMHS cases had no care coordinator assigned; seven out of ten SMHS and NSMHS cases had no care coordinator assigned; and eight out of t en SUD cases had no care coordinator assigned.  
+Care plans for members who were assigned care coordinators were requested and reviewed. Although nine cases (four SMHS, three SMHS and NSMHS, and two SUD) had care coordinator assignments, the Plan only provided care plans for three SMHS cases and one SUD case:  
+• One SMHS care plan stated the Plan was unable to reach the member and instructed the member to call the Plan back.  
+• One SMHS care plan stated the Plan was unable to identify the member’s health concern and instructed the member to call the Plan back.  
+• One SMHS care plan included a single PCP visit as the concern.  
+• One SUD care plan had four concerns: hypertension, difficulty accessing the mental health benefit, lack of adequate housing, and frequent Emergency Room visits.  
+There were no dates provided for when the care plans were developed and no dates for Plan follow ups with the members.  Members may not receive medically necessary care if the Plan does not coordinate care with the county MHP.  
+Recommendation: Implement policies and procedures to ensure the provision of 
+coordination of care to deliver mental health care services to its members.  
+ 
+2.2 Coordination of Non-Specialty Mental Health Services  and Specialty  
+Mental Health Services 
+The Plan is required to coordinate with MHPs to facilitate care transitions and guide referrals for members receiving NSMHS to transition to a SMHS provider and vice versa, ensuring that the referral loop is closed, and the new provider accepts the care of the member. ( APL 22 -005 No Wrong Door for Mental Health Services Policy ) 
+12 
+ 
+During the audit period, the Plan used the 2004 version of its MOU with the MHP and a 
+2021 MOU Addendum. The MOU  does not have specific information regarding care 
+coordination or case management for members receiving concurrent services.  The Plan’s 
+2021 MOU Addendum  states the Plan and the MHP are responsible for coordinating the 
+transition of care for members transitioning between mild to moderate mental health services to SMHS and vice versa.  
+Plan policy,  HS-05: Medi-Cal Mental Health and Substance use Disorder Services Referral 
+and Coordination of Services (revised September 7, 2022),  states the Plan will provide 
+medical case management for a member’s mental and physical health care including, but not limited to, coordination of all medically necessary Medi -Cal covered mental 
+health services. If a member is receiving mental health care,  and they are receiving 
+concurrent services or have a change in their qualifying SMHS or NSMHS, the Plan will coordinate with providers and the MHP to ensure member choice. The Plan and MHP will facilitate care transitions and guide referrals for members receiving NSMHS to transition to a SMHS provider and vice versa.  
+Plan policy, CC-01 Care Coordination (revised November 21, 2022), states the goal is to optimize health care delivery by working collaboratively across agencies including San Mateo County BHRS, as well as with the PCP and the member to monitor and ensure coordination of services with appropri ate referrals to specialists, programs, and 
+community resources. The Plan Care Coordination staff will identify whether members are already connected to BHRS. For those members with BHRS providers, the Plan Care Coordination unit staff will work with the identified BHRS provider and share care plans as appropriate. Routine screening and selection are performed to identify those members who would benefit from coordination of services and those transitioning from one care setting to another. In addition, information from Plan claims, utilization, and pharmacy data sources, as well as input from the MHP, provides further identification of members. Coordination of care will be performed in compliance with state requirements, federal mandates, and the established MOU between the Plan and BHRS.  
+Finding: The Plan did not coordinate with the MHP to facilitate care transitions and 
+guide referrals for members receiving NSMHS to transition to a SMHS provider and vice versa. The Plan did not ensure that the referral loop was closed, and that the new provider ac cepted the care of the member.  
+Although the MOU and the Plan’s policies HS -05 and CC-01 state that the Plan will 
+coordinate with the MHP to facilitate care transitions and guide referrals, the Plan did not follow the MOU or its policies and procedures.  
+13 
+ 
+In a verification study of five cases of members who received concurrent services, where members received both SMHS and NSMHS concurrently, there was no documentation of care coordination between the Plan and the MHP to facilitate care transitions and guide referrals for members.  There were three care coordinator assignments for the 
+concurrent samples but no care plans for concurrent samples.  The review demonstrated 
+there was a lack of care coordination and documentation for members receiving concurrent services.  
+During the interview, the Plan stated it met weekly with the county Access Call Center. The Plan stated it had joint operations meetings twice a year and coordination between the Plan and the MHP was conducted on a daily basis as needed. The Plan stated th at it 
+has a multi -disciplinary team that meets for complex cases or significant medical issues 
+to address the behavioral health issues.  In response to the DHCS Survey , the Plan  stated its Behavioral Health Director has 
+weekly meetings with the county Access Call center manager, as well as joint operating meetings twice a year and ad hoc meetings. The Plan also receives quarterly access call center reports from the Access Call Cen ter. However, there was no evidence to support 
+that weekly meetings occurred between the Plan’s Behavioral Health Director and the Access Call Center Manager.  
+If the Plan does not coordinate with the MHPs to facilitate care transitions and guide referrals for members with concurrent mental health services, then members may be missing opportunities for access to additional needed health care.  
+Recommendation : Implement policies and procedures to ensure the Plan coordinates 
+with the MHPs to facilitate care transitions and guide referrals for members receiving both NSMHS and SMHS concurrently.  
+ 
+2.3 Information Exchange with the Mental Health Plan  
+The MOU between the Plan and the MHP must address policies and procedures for the management of members care for both the Plan and the MHP including, but not limited to screening, assessment and referral, medical necessity determination, care coordination,  and exchange of medical information. (APL 18-015  Memorandum of 
+Understanding Requirements for Medi -Cal Managed Care Plans ) 
+The Plan and the MHP are required to have policies and procedures that ensure timely sharing of information including a description of the agreed upon roles and 
+14 
+ 
+responsibilities for sharing protected health information for the purposes of medical and behavioral health care coordination pursuant to California Code of Regulations, Title 9, section 1810.370 (a)(3), and in compliance with the Health Insurance Portabil ity and 
+Accountability Act as well as other state and federal privacy laws. Such information may include, but is not limited to, beneficiary demographic information, diagnosis, treatment plan, medications prescribed, laboratory results, referrals and disch arges to and from 
+inpatient and crisis services and known changes in condition that may adversely impact the member’s health and/or welfare. (Attachment 2 to APL 18 -015 MOU Requirements 
+for Medi -Cal Managed Care Plans MCP and County MHP )                      
+During the audit period, the Plan used the 2004 version of the MOU with the MHP and a 2021 MOU Addendum. The MOU states that the Plan and the MHP will share information in accordance with federal and state regulations regarding confidentiality.  When the Plan provider is aware that the member is receiving services through the MHP, the Plan provider will share with the MHP information regarding the member’s mental health condition and current medications prescribed by the MHP provider . 
+Similarly, the MHP will share relevant information with the Plan provider.  
+The 2021 MOU Addendum states that the regular clinical collaboration meetings of the 
+Plan’s Medical Director and the MHP’s Medical Director, or its designees, shall include review of referral, care coordination, and information exchange protocols and processes , 
+as necessary. The section for Information Exchange states that the Plan and the MHP will share data for the purposes of program planning, care coordination, program evaluation, and aggregate reporting. The MHP will regularly submit data to the Plan. The MHP will allow the Plan to access programs deemed necessary for the timely sharing of information required by the operations described in the MOU. The Plan will develop a user application to allow easy access to Data Warehouse information by identified users. 
+The Plan will allow access to the user application by identified staff of the Plan and the MHP, as necessary for timely sharing of information required by the operations described in the MOU. The Plan will be responsible for auditing access to the user application to ensure the appropriateness of staff access, and the MHP will participate in the auditing process.  
+Plan policy,  HS-05: Medi-Cal Mental Health and Substance use Disorder Services Referral 
+and Coordination of Services (revised September 7, 2022),  describes the general 
+requirements and procedures for ensuring that members receive referrals and coordinated care for medical, mental, and SUD services.   
+15 
+ 
+Finding : The Plan did not follow the agreed- upon written policies and procedures in its 
+MOU for the timely exchange of medical information with the county MHP.  
+Although the MOU states that the Plan will exchange information with the MHP, the Plan did not follow the MOU. Plan policy HS -05 does not include requirements or 
+procedures for information exchange with the MHP for the purpose of care coordination.  
+A verification study of five SMHS cases revealed none of the five cases had documentation demonstrating that the Plan provided or obtained medical information regarding members receiving SMHS from the MHP.  None of the SMHS cases reviewed 
+contained documentation from the MHP. Similarly, none of the SMHS cases reviewed contained initial mental health screenings or screening tools, referral forms, health history, treatment plans, or progress notes. Five of five SMHS cases had a care 
+coordination assignment, bu t only three cases had care plans.  All three care plans 
+demonstrated only that the Plan was unable to reach the members and identify their health concerns without containing any further care plan information. The other two samples contained no care plan at all.  In addition, there was no documentation that the Plan staff used their access to the county MHP’s system for the purpose of information exchange for members receiving SMHS.  
+During the interview, the Plan demonstrated a knowledge gap for who had access to the county MHP’s system; the Plan stated 10 Plan staff had access while a written statement stated 25 Plan staff had access. The Plan did not provide any documentation of auditing access to the county MHP system.  In a written statement, the Plan stated that PCPs provide mental health or SUD screenings. The Plan would not hold these records. PCPs are responsible for keeping their own records. The Access Call Center is the primary clearing house for Plan members to be screened and linked to the appropriate system of care. For the mental health screening, the Access Call Center does not currently save a copy of a populated DHCS screening tool in the county MHP system, but it is working to add the DHCS tool to the syste m.  
+If the Plan does not exchange medical information with the county MHP for the members they are providing care for, then members may suffer from the lack of coordination of care and may not obtain the necessary services they need.  
+16 
+ 
+Recommendation: Revise and implement policies and procedures to ensure the Plan 
+follows agreed upon written policies and procedures in the MOU for the exchange of medical information with the MHP.  
+ 
+2.4 Confirmation of Referred Treatments for Substance Use Disorder 
+For members identified as requiring alcohol or SUD treatment services, the Plan is required to arrange referrals to the county department responsible for substance use treatment, or other community resources when services are not available through counties . If treatment slots are not available in the county alcohol and SUD treatment 
+programs within the Plan’s service area, the Plan must pursue placement outside the area. The Plan is required to make good faith efforts to confirm whether members receive refe rred treatments and document when and where treatments are received, and 
+any next steps following treatment. (APL 21 -014 Alcohol and Drug Screening, 
+Assessment, Brief Interventions and Referral to Treatment)  
+Plan policy,  HS-05 Medi -Cal Mental Health and Substance use Disorder Services Referral 
+and Coordination of Services  (revised September 7, 2022),  states that the Plan is 
+responsible for coordinating care for members who also need or receive treatment for SUD even when the SUD services are carved out to the MHP. The Plan’s Care Coordination and Member Services staff are responsible for directing memb ers requesting SUDS or 
+members identified as needing SUDS to the county Access Call Center. When members are directed to substance use services, Member Services staff will document this in the Plan’s system. The Plan will monitor access to substance abuse services through the Referral, Access and Coordination, and Continuity of Care procedures and discuss any trends or concerns at internal meetings .  
+Finding : The Plan did not make good faith efforts to confirm whether members received 
+referred treatments for SUD and document when and where treatments were received, and any next steps following treatment.  Although Plan policy HS-05 states that the Plan will monitor access to substance abuse 
+services, the Plan did not follow its policies and procedures.  
+A verification study of five SUD cases revealed none of the cases had documentation showing that the Plan made any effort to confirm whether the members received the referred treatments.  
+During the interview, the Plan stated SABIRT metrics are monitored monthly. The Plan compiled reports that showed the SABIRT rate of screening (69.23%) that occurred over the provider network. The DHCS requested documentation for the monitoring that 
+17 
+ 
+occurred during the audit period. The Plan submitted a SABIRT Monitoring Report that included the rate of SABIRT at network provider offices, care gaps that included members with missing SABIRT dates, and scorecard examples that listed the rates of various  pay for performance measures; however, there was no documentation 
+submitted to verify that members received referred treatments.  In response to the DHCS Survey, the Plan stated it ensured that PCPs conducted 
+required alcohol and drug screening, assessment, brief interventions, and referrals to treatment by monitoring PCPs’ performances in quality metrics for alcohol and drug screenings through monthly refreshes of internal and provider -facing data reports. The 
+Plan incentivized the performance of Substance Misuse Screenings and Follow-Up and Tobacco Use Screening and Cessati on Interventions through its Pay -for-Performance 
+program. PC Ps were supported with best practice and technical reference materials to 
+facilitate appropriate screening, intervention, referral, and reporting.  If the Plan does not make an effort to confirm whether members received referred treatments, then members may miss out on required treatment services to which they are entitled.  
+Recommendation : Revise and implement policies and procedures to ensure the Plan 
+makes a good faith effort to confirm whether members received referred treatments, and document when and where treatments are received, and any next steps following treatment.   
+ 
+2.5 Follow Up for Referred Substance Use Disorder Treatments 
+For members identified as requiring alcohol or SUD treatment services, the Plan is 
+required to arrange for member referrals to the county department responsible for substance use treatment, or other community resources when services are not available throug h the counties. If treatment slots are not available in the county alcohol and SUD 
+treatment programs within the Plan’s service area, the Plan will pursue placement outside the area. If a member does not receive referred treatments, the Plan must follow up with the member to understand barriers and make adjustments to the referrals if 
+warranted. The Plan should also attempt to connect with the provider to whom the member was referred to facilitate a warm hand off for necessary treatment. (APL 21-014 Alcohol and Drug Screening, Assessment, Brief Interventions and Referral to Treatment)  
+Plan policy,  HS-05 Medi -Cal Mental Health and Substance use Disorder Services Referral 
+and Coordination of Services  (revised September 7, 2022), states that the Plan is 
+responsible for coordinating care for members who also need or receive treatment for 
+18 
+ 
+SUD even when the services are carved out to the MHP. The Plan’s Care Coordination and Member Services staff are responsible for directing members requesting SUDS or 
+members identified as needing SUDs to the county Access Call Center. When members are directed to substance use services, Member Services staff will document this in the Plan’s system. The Plan will monitor access to substance abuse services through th e 
+Referral, Access and Coordination, and Continuity of Care procedures and discuss any trends or concerns at internal meetings.  
+Finding: The Plan did not follow up with members who did not receive referred 
+treatments to understand barriers and make subsequent adjustments to the referrals.  
+Although Plan policy HS-05 states that the Plan will monitor access to substance abuse 
+services, the Plan did not follow its policies and procedures.  
+A verification study of five SUD cases revealed none of the cases had documentation that the Plan followed up with the members who did not receive referred treatments to understand barriers and make subsequent adjustments to the referrals previously provid ed in all five cases.  
+During the interview, the Plan stated SABIRT metrics were monitored monthly. The Plan compiled reports that showed the SABIRT rate of screening (69.23%) that occurred over the provider network. The DHCS requested documentation for the monitoring that occur red during the audit period. The Plan submitted a SABIRT Monitoring Report that 
+included the rate of SABIRT at network provider offices, care gaps that included members with missing SABIRT dates and scorecard examples that listed the rates of various pay f or performance measures; however, there was no documentation 
+submitted to verify that the Plan tried to  understand barriers or made subsequent 
+adjustments to referrals to ensure  members received referred treatments.  
+In response to the DHCS Survey, the Plan stated it ensured that PCPs conducted required alcohol and drug screenings, assessments, brief interventions, and referrals to treatment by monitoring the PCPs’ performance in quality metrics for alcohol and drug screenings through monthly refreshes of internal and provider -facing data reports. The 
+Plan incentivized the performance of Substance Misuse Screenings and Follow-Up and Tobacco Use Screenings and Cessati on Interventions through its Pay -for-Performance 
+progr am. PCPs were supported with best practice and technical reference materials to 
+facilitate appropriate screening, intervention, referral, and reporting.  If the Plan does not follow up with members who did not receive referred treatments, then members may miss opportunities to improve their health.  
+19 
+ 
+Recommendation: Revise and implement policies and procedures to ensure the Plan 
+awareness of members who did not receive referred treatments to understand barriers and make subsequent adjustment to referrals as well as follow up with members who do not receive referred t reatments.  
+ 
+2.6 Screening, Assessment, Brief Intervention, and Referral Treatment 
+Services  
+The Plan is required to provide SABIRT services for members 11 years of age and older, including pregnant members. The Plan is required to ensure that PCPs maintain documentation of SABIRT services provided to members. Appropriate referral for additional e valuation and treatment, including medications for addiction treatment, 
+must be offered to members whose brief assessment demonstrates probable alcohol use disorder (AUD) or SUD. (APL 21-014 Alcohol and Drug Screening, Assessment, Brief Interventions and Referral to Treatment)  
+Plan policy  HS-05 Medi -Cal Mental Health and Substance use Disorder Services Referral 
+and Coordination of Services  (revised September 7, 2022) states that the Plan will ensure 
+providers offer and document Alcohol Misuse Screening and Counseling (AMSC) through site reviews and medical record review audits. The Provider Services Network Team in coordination with the Medic al Director(s) review provider- member network 
+reports on AMSC. These reports are trended to identify non -compliance. Indications of 
+non-compliance may result in provider communication, coaching, and/or corrective action. The Plan’s contracted PCPs are resp onsible for screening members for mental 
+health service needs and referring members out to the Plan network or the Access Call Center to connect to the county MHP and Medi -Cal Organized Delivery system for 
+substance use treatment, screenings, assessments, brief interventions, and referrals to treatment for AUD services, and document alcohol misuse screening services.  
+Finding: The Plan did not ensure that members received SABIRT services, and the Plan 
+did not ensure PCPs maintained documentation of SABIRT services provided to members.   
+Although Plan policy HS -05 states that the Plan will ensure that providers offer and 
+document AMSC, the Plan did not follow its policies and procedures.  A verification study of five SUD cases revealed no documentation for the entire SABIRT 
+process, including no documentation of assessments or brief interventions being provided for these members.  
+During the interview, the Plan stated SABIRT metrics were monitored monthly. The Plan compiled reports that showed the SABIRT rate of screening (69.23%) that occurred over 
+20 
+ 
+the provider network.  DHCS requested documentation for the monitoring that occurred during the audit period. The Plan submitted a SABIRT Monitoring Report that included the rate of SABIRT at network provider offices, care gaps for members with missing SABIRT dates, and scorecard examples that listed the rates of various pay for performance measures. However, the SABIRT Monitoring Report did not verify PCP documentation of SABIRT services.  In response to the DHCS Survey , the Plan stated it ensured PCPs conducted the required 
+alcohol and drug SABIRT by monitoring PCP performance in quality metrics for alcohol and drug screenings through monthly internal and provider -facing data reports. The Plan 
+incentivized performance of Substance Misuse Screenings and Follow -Up and Tobacco 
+Use Screenings and Cessation  Interventions through its Pay -for-Performance program. 
+PCPs were supported with best practice and technical reference materials to facilitate  
+appropriate screening, intervention, referral, and reporting.  
+In an effort to verify PCP documentation of SABIRT services, DHCS requested the Medical Record Review (MRR) tools used by the Site Review Nurses as well as copies of MRR audit results and any Corrective Action Plans (CAPs) that were issued during the audit period as a result of the Facility Site Review (FSR) and MRR reviews. The Plan only 
+provided two FSRs, one MRR, and one CAP. After multiple requests, the Plan did not submit any additional MRR results.  
+If the Plan does not ensure documentation of SABIRT services, members may be at risk for not receiving the assistance they need and may suffer adverse health effects as a result.  
+Recommendation: Revise and implement policies and procedures to ensure members 
+receive SABIRT services, and PCPs maintain documentation of SABIRT provided to members.   
+ 
+2.7 Mental Health Screening 
+Each Plan is obligated to ensure that a mental health screening of members is conducted by network PCPs. Members with positive screening results may be further assessed either by the PCP or by referral to a network mental health provider. (APL 22 -006 Medi -Cal 
+Managed Care Health Plan Responsibilities for Non-Specialty Mental Health Services)  
+The MOU states that the Plan’s providers will identify and refer members who may need SMHS to the MHP. In its 2021 MOU Addendum, the section for Screening, Assessment and Referral states that the Plan’s medical providers will identify and refer members to 
+the MHP using evidence -based screening instruments. When such screening indicates 
+21 
+ 
+that the Plan’s members may need mental health services, the Plan’s providers can refer members directly to the MHP for further assessment by using a referral form provided by the Plan.  
+Plan policy,  HS-05 Medi -Cal Mental Health and Substance use Disorder Services Referral 
+and Coordination of Services  (revised September 7, 2023), states that the Plan’s contracted 
+PCPs are responsible for the following: (1) screening members for mental health service needs, and if they cannot perform the mental health assessment, they must refer the member to the appropriate provider and ensure that there is a referral to the appropriate delivery system for mental health services, either in the Plan’s provider network or the MHP’s network; and (2) based upon screening results, PCPs will either provide mental health services within their scope of practice or, if the needs go beyond their scope of practice, refer members out to the Plan network or the Access Ca ll Center to connect to 
+the MHP.  
+Finding : The Plan did not ensure that members received mental health screenings 
+conducted by network PCPs.  
+Although Plan policy HS-05 states that the Plan’s PCPs are responsible for screening 
+members for mental health service needs, the Plan did not  follow the policies and 
+procedures.   
+A verification study of five SMHS, five NSMHS, and five SMHS and NSMHS cases revealed no documentation of mental health screenings conducted by the network PCPs. Instead, the Plan provided a written statement in which the Plan explained that if a PCP provi des 
+a mental health or SUD screening, the Plan will not hold these records. PCPs are responsible for keeping their own records. The Access Call Center is the primary clearing house for Plan members to be screened and linked to the appropriate system of care. For SUD issues, the Access Call Center utilizes brief American Society of Addiction Medicine questions to route the member to the correct SUDS. The Plan does not have access to SUD screening records due to Title 42, Code of Federal Regulations privacy r egulations. 
+For the mental health screening, the Access Call Center does not save a copy of the populated screening tool in their system currently, but they are working to add the DHCS tool to their system.  
+During the file review interview, the Plan stated that a screening does not have to occur at the Plan for a member to receive the services. If a member self-refers, the Plan does not have a record of the screening because the member made the choice to acce ss the 
+service themselves.  
+22 
+ 
+If the Plan does not ensure that members receive mental health screenings conducted by network PCPs then members may miss opportunities for receiving needed health care services.  
+Recommendation : Revise and implement policies and procedures to ensure a mental 
+health screening is conducted.  
+  
+23 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Transportation – NEMT and NMT  
+Category 3 –  Access and Availability of Care  
+ 
+3.1 Door -to-Door Assistance 
+The Plan is required to have processes in place to ensure door -to-door assistance is 
+provided for all members receiving NEMT services. ( APL 22 -008 Non -Emergency Medical 
+and Non-Medical Transportation Services and Related Travel Expenses ) 
+Plan policy,  UM.013 NEMT  (revised January 23, 2023), describes general procedures for 
+NEMT services.  Finding: The Plan did not have a process in place to ensure that door -to-door 
+assistance was provided for all members receiving NEMT services.  
+Plan policy  UM.013 does not include information regarding the Plan’s process to ensure 
+door -to-door assistance is provided for all members receiving NEMT services.  
+A verification study of five NEMT cases revealed door -to-door assistance was not 
+documented by the NEMT provider. The PCS form did not identify member requests for door -to-door assistance.  
+During the interview, the Plan stated it reviewed grievance reports for performance issues. The Plan stated it verified door -to-door service was provided based on the mode 
+of transportation that was requested; the member would be assisted if a gurney or a wheelchair was requested .  
+In response to the DHCS Survey, the Plan answered yes to monitoring for door -to-door 
+assistance and stated that door -to-door assistance is a standard service for all NEMT 
+modes of transportation.  In a written statement, the Plan acknowledged there were no audits conducted by the Plan for NEMT services during the audit period. The Plan’s Compliance Department has implemented a plan for regular monitoring and internal auditing of transportation services. The Plan did not indicate when regular monitoring will begin. 
+If the Plan does not have a process in place to ensure door -to-door assistance is 
+provided, then members who require the assistance are at risk of sustaining an injury and causing harm to themselves.  
+24 
+ 
+Recommendation: Develop and implement policies and procedures to ensure door-to -
+door assistance is provided for all members receiving NEMT services.  
+ 
+3.2 Monitoring of Door -to-Door Assistance  
+The Plan must ensure that their network providers and subcontractors, including transportation brokers, comply with all applicable state and federal laws and regulations, contract requirements, and other DHCS guidance, including APLs and Policy Letters. Th e 
+Plan must conduct monitoring activities no less than quarterly. Monitoring activities include, but are not limited to, verification that the NEMT provider is providing door -to-
+door assistance for members receiving NEMT services. (APL 22-008 Non -Emergency  
+Medical and Non-Medical Transportation Services and Related Travel Expenses)  
+The Plan’s policy, UM.013 NEMT  (revised January 23, 2023), states that the Plan will 
+conduct quarterly oversight and monitoring to ensure NEMT providers are meeting all requirements in policy and related APLs, and imposes corrective action if non -
+compliance is identified.  Finding: The Plan did not conduct monitoring activities for door -to-door assistance 
+provided to members receiving NEMT services.  
+Although Plan policy UM.013 states that the Plan will conduct oversight and monitoring 
+of NEMT providers, the Plan did not follow its policies and procedures.  
+A verification study of five NEMT cases revealed door -to-door assistance was not 
+documented by the NEMT providers.  
+During the interview, the Plan stated they review grievance reports for performance issues. The Plan stated they verify door -to-door service is provided based on the mode 
+of transportation that is requested; the member will be assisted if a gurney or a wheelchair is requested .  
+In response to the DHCS Survey, the Plan answered yes to monitoring for door -to-door 
+assistance and stated that door -to-door assistance is a standard service for all NEMT 
+modes of transportation.  In a written statement, the Plan acknowledged no audits were conducted by the Plan for NEMT services during the audit period. The Plan’s Compliance Department has implemented a plan for regular monitoring and internal auditing of transportation services. T he Plan did not indicate when regular monitoring will begin.   
+If the Plan does not monitor the provision of door -to door assistance to members 
+receiving NEMT services, then members who require such assistance are at risk of 
+25 
+ 
+sustaining injury and causing harm to themselves. In addition, the lack of monitoring of network transportation providers may result in missed quality improvement opportunities.  
+Recommendation : Develop and implement policies and procedures to ensure 
+monitoring activities for the provision of door -to-door assistance to members receiving 
+NEMT services.   
+3.3 Transportation Liaison  
+The Plan is required to have a direct line to the Plan’s transportation liaison for providers and members to call, request, and schedule urgent and non -urgent NEMT t and receive 
+status updates on NEMT rides. The transportation liaison must ensure authorizations are being processed during and after business hours. (APL 22-008 Non -Emergency Medical 
+and Non-Medical Transportation Services and Related Travel Expenses ) 
+Plan policy, UM.013 NEMT  (revised January 23, 2023), states that the (ICM Team provides 
+decision support for medical necessity as well as the appropriate level of NEMT transport and arranging the transport with NEMT providers when necessary. Members have direct lines of communica tion with the ICM Team and providers have direct lines of 
+communication with Provider Service Network Liaisons for requesting, arranging and status updates of urgent and non -urgent NEMT rides.  
+Finding:  The Plan did not have a direct line to the transportation liaison and the 
+transportation liaison did not process authorizations after business hours.  
+The Plan’s policy and procedures, member handbook, provider manual, and website did not include information on the Plan’s transportation liaison.  During the interview, the Plan stated the transportation manager was made the liaison effective May 31, 2023. There was no direct telephone number for the transportation 
+liaison; instead, members had to call the Member Services Customer Support Call Center to schedule NEMT. Authorizations were processed by the Plan’s Utilization Management (UM) Depar tment and were only processed during normal working hours.  
+If the Plan does not have a transportation liaison accessible to members through a direct line, and/or if a transportation liaison is not able to process authorizations after business hours, then members may be subject to unnecessary delays in obtaining transportation services.  
+26 
+ 
+Recommendation : Revise and implement policies and procedures to ensure there is a 
+direct line to the transportation liaison and authorizations are processed after business hours.  
+ 
+3.4 Monitoring of Network Transportation Providers 
+The Plan must ensure that their network providers and subcontractors, including transportation brokers, comply with all applicable state and federal laws and regulations, contract requirements, and other DHCS guidance, including APLs and Policy Letters. Th e 
+Plan is required to conduct monitoring activities no less than quarterly and have a process in place to impose corrective action on their network providers if non-compliance is identified through monitoring or oversight activities. (APL 22-008 Non -
+Emergency Medical and Non-Medical Transportation Services and Related Travel Expenses ) 
+Plan policy, UM.013 NEMT  (revised January 23, 2023), states that the Plan will conduct 
+quarterly oversight and monitoring to ensure NEMT providers are meeting all requirements in this policy and related APLs, and imposes corrective action if non -
+compliance is identified.  Finding: The Plan did not monitor their NEMT network providers.  
+Although Plan policy UM.013 requires that the Plan conduct oversight and monitoring of 
+NEMT providers, the Plan did not follow the policies and procedures.    
+During the interview, the Plan stated they monitor grievances for issues or concerns related to on -time performance of their NEMT providers.  The Plan utilized their Provider 
+Grievance Subcommittee to report on trending grievances for all Plan providers, including NEMT providers each quarter.  
+In response to the DHCS Survey, the Plan stated that they monitored NEMT services through authorizations and claims reports in addition to regular reviews of grievance reports. Provider Services followed up with NEMT providers and service providers as need ed to address any issues or concerns.  
+In written statements, the Plan stated NEMT providers are contracted directly with the Plan. The NEMT providers are incorporated as part of the Plan’s general network where they are captured in any oversight and monitoring activities that may be done by UM , 
+Grievance and Appeals, Claims, ICM, Quality of Care, Credentialing, and Provider Services as well as being subject to AD -HOC audits.  
+27 
+ 
+The Plan’s Medical Service Agreements do not require transportation network providers to submit performance reports. Also, in a written statement, the Plan acknowledged that it does not currently have an existing process that requires NEMT providers to sub mit 
+trip logs. The Plan’s NEMT data universe is a combination of UM and claims data.  Without adequate monitoring of its NEMT providers, the Plan cannot ensure NEMT providers are in compliance with all applicable state and federal laws and regulations, contract requirements, and APLs and Policy Letters which can potentially result in members receiving unsafe transportation services. In addition, the lack of monitoring of network transportation providers may result in missed quality improvement opportunities.  
+Recommendation: Revise and implement policies and procedures to monitor network 
+transportation providers to ensure network providers are complying with all applicable requirements.  
+ 
+3.5 Monitoring of Network Transportation Provider’s No -Show Rates  
+The Plan must ensure that their network providers and subcontractors, including transportation brokers, comply with all applicable state and federal laws and regulations, contract requirements, and other DHCS guidance, including APLs and Policy Letters. Th e 
+Plan must conduct monitoring activities no less than quarterly. Monitoring activities may include, but are not limited to, verification of the no show rates for NEMT and NMT  
+providers. (APL 22 -008 Non -Emergency Medical and Non-Medical Transportation Serv ices 
+and Related Travel Expenses)  
+Plan policy UM.013 NEMT  (revised January 23, 2023), requires that the Plan conduct 
+quarterly oversight and monitoring to ensure NEMT providers are meeting all requirements in this policy and related APLs, and will impose corrective actions if non -
+compliance is identified.  Finding: The Plan did not monitor the no-show rates of network NEMT. providers.  
+Although Plan policy UM.013 states that the Plan will conduct oversight and monitoring 
+of NEMT providers, the Plan did not follow the policies and procedures.  
+During the interview, the Plan stated it monitored grievances for issues or concerns related to on -time performance of their NEMT providers.  The Plan utilized its Provider 
+Grievance Subcommittee to report on trending grievances for all Plan providers, including NEMT providers each quarter.  
+28 
+ 
+In response to the DHCS Survey , the Plan stated it monitored NEMT services through 
+authorizations and claims reports in addition to regular reviews of grievance reports. Provider Services followed up with NEMT providers and service providers as needed to address any issues or concerns.  In written statements, the Plan stated NEMT providers are contracted directly with the Plan. The NEMT providers are incorporated as part of the Plan’s general network where they are captured in any oversight and monitoring activities that may be done by UM , 
+Grievance and Appeals, Claims, ICM, Quality of Care, Credentialing, and Provider Services as well as being subject to AD -HOC audits.  
+In another written statement, the Plan stated its NEMT universe data was comprised of a combination of UM and Claims data. Therefore, the NEMT data did not contain provider or member “no-show” or cancelled trips.  
+The Plan’s Medical Service Agreements do not require transportation network providers to submit performance reports. In a written statement, the Plan acknowledged it does not currently have an existing process that requires NEMT providers to submit trip lo gs.  
+Without adequate monitoring of network transportation providers’ no -show rates, 
+members’ may have their health put at risk if they are forced to delay or miss their appointments. In addition, there may be missed quality improvement opportunities.  
+Recommendation: Revise and implement policies and procedures to monitor no-show 
+rates of network NEMT providers.    
+3.6 Ambulatory Door -to-Door  
+The Plan must provide NEMT services when the member's medical and physical condition is such that transport by ordinary means of public or private conveyance is medically contraindicated and transportation is required for the purpose of obtaining needed me dical care. 
+The Plan or its transportation brokers must arrange or provide the modality of transportation prescribed in the PCS form and cannot triage the member’s need to assess for the most appropriate level of NEMT service. The Plan is required to provide NEMT for members who cannot reasonably ambulate or are unable to stand or walk 
+without assistance, including those using a walker or crutches. Transportation brokers cannot downgrade the member’s level of care from NEMT to NMT, including ambulatory door -to-door ser vices. (APL 22 -008 Non -Emergency Medical and Non-
+Medical Transportation Services and Related Travel Expenses )  
+29 
+ 
+Plan policy, MS.04 -013 CA 216 Non -Medical Transportation (revised January 1, 2023), 
+states the Plan contracts with American Logistics to administer the NMT benefit for the Plan’s members. American Logistics call center will ask the member questions to determine the appropriateness of the ride and the type of rid e that will be provided. The 
+call center will ask if the member needs door-to -door or curb -to-curb service and if the 
+member has a way to communicate with the driver. Standing orders are only allowed if 
+the standing order is pre -authorized by the Plan staff. The Plan staff will send the 
+standing order information to American Logistics and will include whether the ride is door -to-door or curb -to-curb. American Logistics screens each ride request to 
+determine the type of ride that the member wants. This policy states door -to-door 
+means the member needs assistance from the driver to get in and/or out of the vehicle and/or assistance getting into a building. Door -to-door will also be used for members 
+that do not need assistance from the driver but do not have a mobile phone that can 
+receive a driver’s messages. These rides will be scheduled with non -Uber driver arranged 
+by American Logistics.  
+The Delegation Agreement between the Plan and American Logistics for NMT services states American Logistics will determine the need for door -to-door versus curb -to-curb 
+transportation by asking the member what level of service the member needs and if the member has a smart cell phone that can receive ride status notifications. For door -to-
+door service, the member needs assistance from the driver to get in and/or out of the 
+vehicle and/or assistance getting into a building, or the member requires a specializ ed 
+vehicle such as a wheelchair van. The member must be able to ambulate without assistance from the driver. Door -to-door will also be used for members that do not 
+need assistance from the driver but do not have a smart cell phone that can receive a driver ’s messages.  American Logistics will utilize their contracted transportation 
+provider network for trips determined to be ambulatory door-to -door. The member 
+must be able to ambulate without the driver’s assistance if a member requires a vehicle that can accommodate a wheelchair. For the Plan’s ambulatory door -to-door members, 
+American Logistics will directly dispatch to their provider network drivers via a Global Positioning System (GPS) based driver app. The Plan will pay American Logistics $11.25 per one -way trip fee for door-to -door and $2.55 for per mile fee.  
+Finding:  The Plan did not ensure its delegate, American Logistics, provided the 
+appropriate level of service for members requiring ambulatory door-to -door service.  
+In the DHCS questionnaire, the Plan stated American Logistics screens for appropriateness of ride request to include determining type of service member wants (curb -to-curb or door -to-door). American Logistics provides door -to-door or curb -to-
+30 
+ 
+curb service based on member’s request. The Plan is required to provide NEMT to members needing ambulatory assistance. The Plan incorrectly allows for the delegate to schedule ambulatory door -to-door services as NMT.  
+American Logistics submits a monthly Service Performance report that breaks down the service level (door -to-door or curb -to-curb) and service type (Car Service -ALC or Car 
+Service -Uber) of each trip. For the month of April 2023, there were 1,832 door -to-door 
+trips provided, 16 trips were serviced by “Car Service-Uber” and 1,816 were serviced by “Car Service -ALC”. 
+When the delegate does not provide the required NEMT modality for door -to-door 
+assistance, members may not receive the appropriate level of care, which may result in adverse impacts on the member’s health.  
+Recommendation: Revise and implement policies and procedures to ensure its 
+delegate provides the appropriate NEMT modality for members requiring ambulatory door -to-door assistance.  

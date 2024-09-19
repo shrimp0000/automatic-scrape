@@ -1,0 +1,1115 @@
+     
+ 
+ 
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS 
+CONTRACT AND ENROLLMENT REVIEW DIVISION 
+SAN FRANCISCO SECTION 
+ 
+REPORT ON THE MEDICAL AUDIT OF  
+ 
+KP Cal, LLC  
+Kaiser Permanente GMC  
+  
+2023  
+   
+ 
+ 
+Contract Number:    
+07-65849 Sacramento  
+09-86159 San Diego  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ November 1, 202 2 
+    through 
+October 31, 2023  
+ 
+ October 3 0, 2023  
+    through 
+November 09 , 2023  
+ March 18, 2024  
+     
+  
+TABLE OF CONTENTS  
+  I. INTRODUCTION ................................................................... 1 
+ II. EXECUTIVE SUMMARY  ...................................................... 2 
+ III. SCOPE/AUDIT PROCEDURES  ............................................ 5 
+ IV. COMPLIANCE AUDIT FINDINGS 
+ Category 1 – Utilization Management  ................................... 8 
+ Category 3 – Access &  Availability of Care ......................... 23 
+ Category 4 – Member’s Rights  ............................................ 25 
+ Category 5 – Quality Management  ...................................... 28 
+ Category 6 – Administra tive & O rganizational Capacity  ...... 34
+1 of 34  
+I. INTRODUCTION  
+  Kaiser Foundation Health Plan, Inc. (KFHP) obtained its Knox -Keene license in 
+November 1977,  and contracted with the Department of Health Care Services  (DHCS)  
+in 1994 as a Geographic Managed Care (GMC) plan to provide health care services to Medi -Cal members in the GMC counties of Sacramento and San Diego.  
+ In 2005,  KP Cal, LLC (Plan)  was created and licensed as a Knox -Keene Plan to hold 
+Kaiser's GMC Contracts . DHCS then transferred the GMC Contracts  to the Plan. At that 
+time, the Plan and KFHP entered into a management and administrative services 
+agreement to delegate administrative and operational functions such as quality  
+improvement, grievances, and appeals to KFHP. These two entities also entered into a health services agreement to provide health care services to Plan  members through 
+KFHP’s network of providers and medical centers.  KFHP offers a comprehensive health 
+care delivery system including physicians, medical centers, hospitals, laboratories, and pharmacies.  
+ KFHP divides its operations into Northern California and Southern California regions with corresponding responsibilit ies for the Sacramento and San Diego GMC Contracts. 
+The Sacramento GMC service area includes Sacramento County  and members in 
+Amador, El Dorado, and Placer C ounties who were either previously enrolled or family -
+linked with Kaiser . The San Diego GMC service area includes San Diego County . 
+ As of October 31, 2023 , KFHP’s total direct GMC Contract membership was 
+approximately 211,047. Medi -Cal membership composition was 141,468 for 
+Sacramento GMC and 69,579 for San Diego GMC.   
+   
+2 of 34  
+II. EXECUTIVE SUMMARY  
+  This report presents the audit findings of the DHCS medi cal audit for the period of 
+Nove mber 1,  2022, through October 31, 2023 . The audit  was conducted from October 
+30, 2023, through November 9 , 2023 . The audit consisted of document review s, 
+verification studies, and interviews with Plan representatives.  
+ An Exit Conference with the Plan was held on February 22, 2024. The Plan was allowed 
+to provide supplemental information addressing the draft audit report findings. The Plan  
+submitted a response after the Exit Conference. The results of our evaluation of the Plan’s response are reflected in this report.  
+ 
+The audit evaluated six  categories of performance: U tilization Management  (UM) , Case 
+Management and Coordination of Care, Access and Availability of Care, Member ’s 
+Rights, Quality Management, and Administrative and Organizational Capacity.   
+ 
+The prior DHCS medical audit (for  the period of Nov ember 1, 2021, through  
+October 31, 2022) was issued on March 21, 2023 . This audit examined documentation 
+for contractual compliance and to determine to what extent the Plan has implemented 
+their Corrective Action Plan ( CAP). 
+ 
+This is a combined report for both the Sacramento GMC Contract and San Diego GMC 
+Contract. Common findings and recommendations are reported under Sacramento and 
+San Diego GMC . Unique findings and recommendations are specified as either 
+Sacramento GMC or San Diego GMC.  
+ 
+The summary of the findings by category follows:  
+  
+Category 1 – Utilization Management  
+ 
+Sacramento and San Diego GMC:  The Plan is required to directly refer adult members 
+or authorize referrals to a transplant program that meets DHCS criteria for an evaluation within 72 hours of a member’s specialist identifying the member as a potential candidate for the Major Organ Transplant (MOT). The Plan did not directly refer adult members to 
+a transplant program for an evaluation within 72 hours of the member’s specialist identifying the member as a potential candidate for the MOT.   
+ 
+Sacramento and San Diego GMC:  The Plan must utilize evaluation criteria and 
+standards to approve, modify, defer, or deny services. The Plan is required to have a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated. The Plan did not utilize written criteria that was based on sound medical evidence for denials.  
+ 
+San Diego GMC:  The Plan must provide or arrange for members all medically 
+3 of 34 necessary covered services. The Plan must ensure that services provided are sufficient in amount, duration, or scope to reasonably achieve the purpose for which the covered services are furnished. The Plan did not provide medically necessary covered services to members in a sufficient amount to reasonably achieve their  purpose through the UM 
+program.  
+ 
+Sacramento GMC:  For an appeal involving a prior medical necessity denial and any 
+appeal involving clinical issues, the final decision- maker must be a health care 
+professional with clinical expertise in treating a member’s  condition or disease. The Plan 
+did not ensure that health care professionals with clinical expertise in treating a condition rendered final decisions for appeals involving a prior medical necessity denial and appeals involving clinical issues.  
+ 
+Sacramento and San Diego GMC:  The Plan is accountable for all functions and 
+responsibilities, including UM, that are delegated. The Plan must render a decision for routine prior authorizations no longer than 14 calendar days from the receipt of the request . The decision may be deferred,  and the time limit extended an additional 14 
+calendar days when certain conditions are met. The Plan did not ensure its d elegate 
+American Specialty Health Plans of California (ASH)  rendered decisions for routine prior 
+author ization requests with timeframe extensions within 28 calendar days.   
+  Category 3 – Access and Availability of Care  
+ 
+San Diego GMC:  The Plan is required to directly pay qualified family planning providers 
+a fixed add- on amount for specified family planning services listed in All Plan Letter 
+(APL) 20-013, using Proposition 56 appropriated funds.  The Plan did not pay  add-on 
+payments for specified family planning claims in accordance with APL 22- 011. 
+ 
+San Diego GMC:  The Plan shall not improperly deny, adjust, or contest a claim.  The 
+Plan’s claim system applied unrelated diagnosis codes,  which caused certain claims to 
+be denied. The Plan improperly denied family planning services claims.  
+  Category 4 – Member’s Rights  
+ 
+Sacramento GMC : The Plan must provide or arrange for members all medically 
+necessary covered services. The Plan did not provide medically necessary covered 
+services to members  for requests that originated from grievances.   
+  Category 5 – Quality Management  
+ 
+Sacramento and San Diego GMC:  The Plan is required to monitor, evaluate, and take 
+effective action to address any needed improvements in the quality of care delivered by all providers. The Plan must be accountable for the quality of all covered services . The 
+4 of 34 Plan did not evaluate and take effective action to address needed improvements in quality of care and access  to services; the Plan was not accountable for the evaluation 
+and resolution of issues related to the quality of covered services.  
+  Category 6 – Administrative and Organizational Capacity 
+ 
+Sacramento GMC:  The Plan is required to maintain all records and documents for a 
+minimum of ten years from the final date of the Contract period or from the date of completion of any audit, whichever is later. The Plan did not ensure all Medi -Cal-related 
+records and documents were maintained for the required ten- year retention timeframe.  
+  
+5 of 34  
+III. SCOPE/AUDIT PROCEDURES  
+  
+SCOPE  
+ This audit was conducted by  DHCS to ascertain that the medical services provided to 
+Plan members comply with federal and state laws, Medi -Cal regulations and guidelines, 
+and the state Contracts.  
+ 
+PROCEDURE  
+ The audit  was conducted from October 30 , 2023, through November 9 , 2023 . The audit 
+included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiveness of the policies. Documents were reviewed and interviews were conducted w ith Plan 
+administrators , staff, and delegate ASH.   
+ The following verification studies were conducted:  
+ Category 1 – Utilization Management  
+ MOT Referrals: Five ( three Sacramento GMC and two San Diego GMC) referrals to 
+transplant programs were reviewed for timeliness  and compliance with APL 21- 015.  
+ Prior Authorization Requests: 42 (22 Sacramento GMC and 20 San Diego GMC)  
+medical prior authorization requests  were  reviewed for timeliness, consistent application 
+of cri teria, and appropriate review.   
+ Appeal Procedures: Ten (n ine Sacramento GMC  and one San Diego GMC) prior 
+authorization appeals  were reviewed for appropriate and timely adjudication.  
+ Delegated Authorization Requests : 22 (9 Sacramento GMC and 13 San Diego GMC)  
+chiropractic and acupuncture authorization requests  from a delegate were reviewed for 
+timeliness, consistent application of criteria, and appropriate adjudication.  
+  Category 2 – Case Management and Coordination of Care 
+ Initial Health Appointment  (IHA): 14 (7 Sacramento GMC and 7 San Diego GMC) 
+medical records  were reviewed for evidence of coordination of care and fulfillment of 
+IHA requirements.  
+ Complex Case Management: Eight  (five Sacramento GMC and three San Diego GMC) 
+medical records were reviewed to confirm coordination of care.  
+ 
+6 of 34 Behavi oral Health Treatment: Six (three Sacramento GMC and three San Diego GMC) 
+medical records were reviewed to confirm coordination of care and fulfillment of behavioral health treatment requirements.  
+  Category 3 –  Access and Availability of Care  
+ Claims: 20 (10 Sacramento GMC and 10 San Diego GMC) emergency service claims  
+and 20 (10 Sacramento GMC and 10 San Diego GMC)  family planning claims were 
+reviewed for appropriate and timely adjudication.  
+ Non-Medical Transportation (NMT) : 30 (15 Sacramento GMC and 15 San Diego GMC) 
+NMT records were reviewed for appropriate adjudication. Contracted NMT providers were reviewed for Medi -Cal enrollment requirements.  
+ Non-Emergency Medical Transportation (NEMT) : 40 (20 Sacrament o GMC and 20 San 
+Diego GMC) NEMT records were reviewed for appropriate adjudication.  Contracted 
+NEMT providers were reviewed for Medi -Cal enrollment requirements.  
+  Category 4 –  Member’s Rights  
+ Sacramento GMC Grievances: 38 grievances, including 29 standard grievances, 3 
+expedited grievances , and 6 exempt grievances, were reviewed for timely resolution, 
+response to complainant, and submission to the appr opriate level for review. The 29 
+standard grievance cases included 14  quality of service (non- clinical)  and 15 quality of 
+care (clinical)  grievances.  Eleven  inquiries were also reviewed.  
+ San Diego GMC Grievances:  42 grievances, including 2 8 standard grievances, 3  
+expedited grievances and 11 exempt grievances, were reviewed for timely resolut ion, 
+response to complainant, and submission to the appropriate level for review. The 2 8 
+standard grievance cases included 14  quality of service (non- clinical)  and 14 quality of 
+care (clinical) grievances.  Eleven  inquiries were also reviewed.  
+ Confidentiality Rights: 15 (13 Sacrament o GMC and 2  San Diego GMC) Health 
+Insurance Portability and Accountability Act  /Protected Health Information breach and 
+security incidents were reviewed for processing and timeliness requirements.  
+  Category 5 –  Quality Management  
+ Potential Quality Issues (PQI):  Ten (five Sacramento GMC and f ive San Diego GMC)  
+PQIs  were reviewed for appropriate evaluation and effective action taken to address 
+needed improvements .
+ 
+ 
+ Category 6 –  Administrative and Organizational Capacity 
+7 of 34  Fraud and Abuse: 15  (11 Sacramento GMC and 4 San Diego GMC) fraud and abuse 
+cases were reviewed for appropriate reporting and processing.    
+  A description of the findings for each category is contained in the following report .
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   KP Cal, LLC – Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022, through October 31, 2023  
+DATES OF AUDIT:  October 30 , 2023, through November 9, 2023  
+ 
+8 of 34  CATEGORY 1 - UTILIZATION MANAGEMENT  
+ 
+1.1 UTILIZATION MANAGEMENT PROGRAM  
+ Sacramento GMC  
+ 1.1.1 Referral to Transplant Program within 72 Hours  
+ The Plan must comply with all existing Policy Letters and APLs issued by DHCS. (Contract A20, Exhibit E, Attachment 2(1)(D))  
+ Plans must directly refer adult members or authorize referrals to a transplant program that meets DHCS criteria for an evaluation within 72 hours of a member’s primary care provider or specialist identifying the member as a potential candidate for the MOT and receiving all the necessary information to make a referral or authorization. Plans can then authorize the request for the MOT after the transplant program confirms the MOT candidacy of the member. ( APL 21-015, Benefit Standardization and Mandatory 
+Managed Care Enrollment Provisions of the California Advancing and Innovating Medi -
+Cal Initiative, Attachment 2 Major Organ Transplant Requirements)  
+ Plan policy , Medi -Cal Blood and Marrow and Major Organ Transplants (effective 
+12/02/2021) , stated the Plan must provide referrals to transplant programs for 
+evaluation that have certain accreditations and are DHCS -designated Center of 
+Excellence transplant programs for the organ type. The Plan must authorize a referral 
+for transplant evaluation to a DHCS -approved transplant program in accordance with 
+the timeframes stipulated in Health and Safety Code (HSC), section 1367.01 and the 
+DHCS Contract. Pursuant to HSC, section 1367.01(h)(1), decisions for standard 
+authorization requests for transplant program referrals must be made within five 
+business days of when the Plan has the information needed to come to a decision. Pursuant to HSC, section 1367.01(h)(2), decisions for expedited authorization requests 
+must be made within 72 hours when the Plan has the information needed to come to a decision.  
+ Finding:  The Plan did not directly refer adult members to a transplant program for an 
+evaluation within 72 hours of the member’s specialist identifying the member as a potential candidate for the MOT . 
+ A verification study of MOT referrals demonstrated that in three of three cases, the Plan did not directly refer the adult member to a transplant program for evaluation within 72 hours of the member’s specialist identifying them as potential candidates for MOT. Plan 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+9 of 34 providers  followed a lengthy MOT referral process that included the following steps:  1) 
+Plan providers completed extensive medical assessments  and tests to determ ine 
+candidacy for MOT prior to referral to the Transplant Committee. 2) The Transplant Committee review ed and approv ed the referral . 3) Transplant N urse Coordinators 
+entered the referral request in the Plan’s system . 4) The Authorization Department 
+confirmed insurance coverage and processed the referral before sending it to the transplant progr am. Review of verification study records showed the following:  
+• In one case involving a member  with liver failure, the Plan providers  did not send the 
+referral to the transplant program until 46 days after the member’s liver specialist identified the member as a potential candidate for liver transplant. A significant delay occurred in the referral because the Transplant Committee did not approve the referral request until the member completed additional lung imaging and heart function tests . 
+• In two other cases  involving two different members with  leukemia (blood cancer) , 
+referrals were delayed after confirmation of Medi -Cal insurance c overage.  The 
+members acquired Medi -Cal insurance after the specialists identified the members 
+as potential candidates for bone marrow transplant and the Transplant Committees approved the referral requests . 
+o For one member, the referral request was delayed because after confirmation of Medi -Cal Plan insurance coverage, six days elapsed before a T ransplant 
+Coordinator entered a new referral request in the system. Overall, the Plan 
+providers  sent the referral to  the transplant program nine days after it 
+confirmed Medi -Cal Plan insurance coverage.  
+o For the other member, the referral request was delayed because the 
+Authorization Department processed the referral six days after it was entered 
+in the Plan’s system.  Overall, the Plan providers  sent the referral to the 
+transplant program six  days after insurance coverage was confirmed,  and a 
+new referral request was entered in the system. The member passed away due to worsening of their clinical condition before they could receive an 
+evaluation by the transplant program.  
+During interviews, the Plan stated it did not manage the transplant referral process because the Plan providers were responsible  for referring members to transplant 
+programs. The Plan did not implement a process for monitoring timeliness of referrals to 
+transplant programs and did not provide oversight to ensure that members received referrals within 72 hours of the specialist identifying the member as a candidate.  
+ Based on the verification study, the P lan providers  used a comprehensive checklist to 
+track completion of medical tests. During interviews, the Plan providers  stated that the 
+majority of medical tests were completed before the Transplant Committee approved 
+the referral. DHCS does not require Plans to complete extensive medical assessments to confirm transplant candidacy  before referring the member to a transplant program, 
+because transplant programs can rec ommend additional medical tests after they 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+10 of 34 evaluate and triage the member’s organ failure and candidacy for transplant. The Plan’s process delayed referral of potential candidates identified by specialists to the transplant program.  
+ The Plan’s MOT policy was not compliant with APL 21- 015, because the Plan did not 
+require all members to be referred within 72 hours of being identified as a potential MOT candidate. There was no evidence the Plan expedited all transplant program referral requests, and the veri fication study confirmed that a referral request  was in the Plan’s 
+system for six days before being processed.  
+ When Plan providers  enforce a lengthy medical assessment and transplant referral 
+process without Plan oversight, members may experience delays in evaluations by the 
+transplant program, which can lead to significant adverse outcomes.  
+ Recommendation:  Revise policies and develop procedures to ensure the Plan directly 
+refers adult members to a transplant program for an evaluation w ithin 72 hours of the 
+member’s specialist identifying the member as a potential candidate.  
+  San Diego GMC  
+ 
+1.1.1 Referral to Transplant Program within 72 Hours  
+ The Plan must comply with all existing Policy Letters and APLs issued by DHCS. (Contract A 17, Exhibit E, Attachment 2(1)(D))  
+ Plans must directly refer adult members or authorize referrals to a transplant program that meets DHCS criteria for an evaluation within 72 hours of a member’s primary care provider or specialist identifying the member as a potential candidate for the MOT and receiving all the necessary information to make a referral or authorization. Plans can then authorize the request for the MOT after the transplant program confirms the MOT candidacy of the member. ( APL 21-015 Benefit Standardization and Mandatory 
+Managed Care Enrollment Provisions of the California Advancing and Innovating Medi -
+Cal Initiative, Attachment 2 Major Organ Transplant Requirements)  
+ Plan policy , SC.HPHO.060 Medi- Cal Blood and Marrow and Major Organ Transplants  
+(effective 05/13/2022) , stated t he Plan must provide referrals to transplant programs for 
+evaluation that have certain accreditations and are DHCS -designated Center of 
+Excellence transplant programs for the organ type. The Plan must authorize a referral 
+for transplant evaluation to a DHC S-approved transplant program in accordance with 
+the timeframes stipulated in HSC , section 1367.01 and the DHCS C ontract. Pursuant to 
+HSC, section 1367.01(h)(1), decisions for standard authorization requests for transplant 
+program referrals must be made within five business days of when the Plan has the 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+11 of 34 information needed to come to a decision. Pursuant to HSC , section 1367.01(h)(2), 
+decisions for expedited authorization requests must be made within 72 hours when the Plan has the information needed to come to a decision.  
+ Finding:  The Plan did not directly refer adult members to a transplant program for an 
+evaluation within 72 hours of the member’s specialist identifying the member as a potential candidate for the MOT . 
+ A verification study of  MOT referrals demonstrated that in two of two cases, the Plan did 
+not directly refer the adult member to a transplant program for evaluation within 72 hours of the member’s specialist identifying them as potential candidates for MOT. Plan providers  followed a lengthy MOT referral process that included the following steps:  1) 
+Plan providers completed extensive medical assessments and tests to determine candidacy for MOT prior to referral to the Transplant Committee. 2) The Transplant Committee review ed and approv ed the referral . 3) Transplant N urse Coordinators 
+entered the referral request in the Plan’s system . 4) The Authorization Department 
+confirmed insurance coverage and processed the referral before sending it to the transplant program. Review of verif ication study records showed the following:  
+ • In one case involving a member with lung failure, the Plan providers did not send the 
+referral to the transplant program until five  days after the member’s specialist 
+identified the member as a potential candidate for lung transplant. The specialist ordered multiple medical and imaging tests at the time the member was considered 
+a potential candidate. The Plan providers did not enter the referral request into its 
+system until after the test s were  completed and the Transplant Committee approved 
+the request, which caused a delay in the referral.  
+• In another case involving a member with lymphoma (lymph node cancer), the Plan 
+providers  did not send the referral to the transplant program until eight  days after the 
+member’s specialist identified the member as a potential candidate for bone marrow transplant. The specialist ordered multiple medical  and imaging tests at the time the 
+member was c onsidered a potential candidate. The Plan providers did not enter the 
+referral request into its system until after completion of the test s, review by a 
+Transplant Committee, and coordination of the transplant with the transplant program, which caused a del ay in the referral.  
+During interviews, the Plan stated it did not manage the transplant referral process because the Plan providers was responsible for referring members to transplant programs. The Plan did not implement a process for monitoring timeliness  of referrals to 
+transplant programs and did not provide oversight to ensure that members received referrals within 72 hours of the specialist identifying the member as a candidate.  
+During interviews, the Plan providers confirmed the majority of medical tests were 
+completed before the Transplant Committee approved the referral. DHCS does not require Plans to complete extensive medical assessments  to confirm transplant 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+12 of 34 candidacy before referring the member to a transplant program, because transplant 
+programs can recommend additional medical tests after they evaluate and triage the member’s organ failure and candidacy for transplant. The Plan’s process delayed referral of potential candi dates identified by specialists to the transplant program.  
+ The Plan’s MOT policy was not compliant with APL 21- 015, because the Plan did not 
+require all members to be referred within 72 hours of being identified as a potential MOT candidate. There was no evidence the Plan expedited all transplant program referral requests.  
+ When Plan providers enforce a lengthy medical assessment and transplant referral process without Plan oversight, members may experience delays in evaluations by the transplant program, which can lead to significant adverse outcomes.  
+ Recommendation:  Revise policies and develop procedures to ensure the Plan directly 
+refers adult members to a transplant program for an evaluation within 72 hours of the member’s specialist identifying the member as a potential candidate.  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+13 of 34 1.2 PRIOR AUTHORIZATION REVIEW REQUIREMENTS 
+ Sacramento GMC   
+ 1.2.1 Use of Evidence- Based Written Criteria  
+ The Plan must utilize evaluation criteria and standards to approve, modify, defer, or deny services. (Contract A 20, Exhibit A , Attachment 5 (1)(D))  
+ The Plan must ensure that its prior authorization, concurrent review , and retrospective 
+review procedures meet the following minimum requirements: There is a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated. Reasons  for decisions are clearly 
+documented.  (Contract A20, Exhibit A , Attachment 5 (2)(D and E )) 
+ Plan policy , 1.0 Prior Authorization and UM Criteria ( effective 07/ 01/2023) , stated that 
+both the Medical Group (Plan providers)  and the Plan are expected to use UM criteria 
+as a basis for scientific and consistent decision- making in conjunction with clinical 
+judgement and case- specific consideration. The Plan providers develop or adopt 
+objective, measurable UM criteria that are based on reasonable medical evidence and are consistent with clinical practice guidelines. Plan providers ensure that UM criteria for determining medical appropriateness are clearly documented. If clinical criteria or guidelines do not exist, expert opinion is used  to deny services.  
+ Finding:  The Plan did not utilize written criteria that was based on sound medical 
+evidence.   
+ A verification study of prior  authorization requests  demonstrated that in 6  of 17 adverse 
+benefit determinations based on medical necessity, the decision- maker did not use or 
+apply  evidence- based criteria for the denial decision. Examples of deficient samples 
+include:  
+• In one sample, a provider requested a weighted blanket for a child with a mental 
+health disorder and anxiety symptoms. In a note, t he physician decision- maker 
+stated the blanket will not ameliorate (improve or make tolerable) , maintain, 
+sustain,  or support the member’s  current health condition based on DHCS’ Early 
+and Periodic Screening, Diagnostic, and Treatment (EPSDT) guidelines. However, the decision -maker did not document what evidence, research studies, 
+specialty guidelines, or written clinical criteria were used to determine that the item would not ameliorate the member’s condition. For example, the decision -
+maker did not document application of a published research study which reviewed the effects of weighted blankets on anxiety symptoms in children.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+14 of 34 • In three oth er samples, the provider requested a safety enclosure bed for 
+children with autism and behavioral issues. In a note, t he physician decision-
+maker stated the safety enclosure bed will not ameliorate, maintain, sustain,  or 
+support the member’s current health condition based on EPSDT guidelines. 
+However, the decision -maker did not document what evidence, research studies, 
+specialty guidelines, or written clinical criteria were used to determine that the item would not ameliorate the member’s condition. For example, the decision -
+maker did not document application of published DHCS Provider Manual clinical criteria for safety enclosure beds.  
+ The verification study showed that physician decision- makers did not consistently use 
+written criteria, evidence- based standards, or research studies for denial decisions.  
+ When the Plan does not use evidence- based criteria for UM decisions , members may 
+not receive medically necessary services based on clinical evidence and providers may not receive evidence- based information to guide future treatment.  
+ Recommendation: Revise the Plan’s policy and implement procedures to ensure that decision- makers utilize  written criteria based on sound medical evidence.   
+  
+San Diego GMC   
+ 1.2.1 Use of Evidence- Based Written Criteria  
+ The Plan must utilize evaluation criteria and standards to approve, modify, defer, or deny services. (Contract A 17, Exhibit A , Attachment 5 (1)(D))  
+ The Plan must ensure that its prior authorization, concurrent review , and retrospective 
+review procedures meet the following minimum requirements: There is a set of written criteria or guidelines for utilization review that is based on sound medical evidence, is consistently applied, regularly reviewed, and updated.  Reasons for decisions are clearly 
+documented.  (Contract A 17, Exhibit A , Attachment 5 (2)(D and E )) 
+ Plan policy , SC.RUM.011 Utilization Management Criteria and Guidelines ( revised 
+06/26/2023 ), stated that the Plan develops or adopts objective, measurable UM 
+criteria/guidelines based on the needs of individual patients and characteristics of the local delivery system that are valid and reliable and based on clinical evidence or a consensus of health care professionals. The Plan ensures that criteria for determining medical necessity are clearly documented. When no appropriate UM criteria or research  
+summaries  exist, physician reviewers will select appropriate clinical references from 
+government agencies, medical societies, and other medical authoritative publications 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+15 of 34 and must document the exact resources used if denying or modifying a request for services.  
+ Finding:  The Plan did not utilize written criteria that was based on sound medical 
+evidence.   
+ A verification study of prior authorization requests demonstrated that in one adverse benefit determination based on medical necessity , the decision- maker did not use or 
+apply evidence- based criteria for the denial decision.  
+ In the sample, a provider requested a suction device to treat a child’s pectus excavatum (a chest wall deformity  in which the breast bone sinks into the chest with a caved- in 
+appearance). In a note, the physician decision- maker stated the device will not 
+ameliorat e (improve or make tolerable)  the underlying condition based on DHCS’ 
+EPSDT guidelines. However, the decision- maker did not document what evidence, 
+research studies, specialty guidelines, or written clinical criteria were used to determine that the item wo uld not ameliorate the member’s condition. For example, the decision-
+maker did not document application of published research studies that assessed the 
+effect of the device on pectus excavatum.  
+ The verification study showed that a physician decision- maker did not use evidence-
+based standards for a denial  in which published criteria were not available.  During the 
+interview, the Plan stated the deficient sample should have been approved based on the expert opinion of the requesting specialist provider and t hat a literature review of 
+research was not needed, which was not compliant with contractual requirements for evidence- based review.  
+ When the Plan does not use evidence- based criteria for UM decisions , members may 
+not receive medically necessary services based on clinical evidence and providers may not receive evidence- based information needed for future care.  
+ Recommendation: Implement Plan policies and procedures to ensure decision- makers 
+utilize written criteria based on sound medical evidence.  
+  San Diego GMC  
+ 1.2.2 Provision of Medically Necessary Services through Utilization Management Program  
+ The Plan must implement a UM program that ensures appropriate processes are used to review and approve the provision of m edically necessary covered services. (Contract 
+A17, Exhibit A, Attachment 5(1) ) 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+16 of 34  The Plan must provide or arrange for members all m edically necessary covered 
+services, including all covered services that are reasonable and necessary to protect life, prevent illness or disability, alleviate severe pain through the diagnosis or treatment of disease, achieve age- appropriate growth and develo pment, and attain, maintain, or 
+regain functional capacity. The Plan must ensure that services provided are sufficient in amount, duration, or scope to reasonably achieve the purpose for which the covered services are furnished. The Plan may place appropriate limits on a service on the basis of criteria such as medical necessity, or for utilization control, provided the services furnished can reasonably be expected to achieve their purpose. (Contract A17, Ex hibit 
+A, Attachment 10(1 and 2))  
+ 
+Plan policy , SC.RUM.016 Utilization Management Denial of Practitioner Requested 
+Services  (revised 05/03/2023) , stated medically necessary services are covered health 
+services that are reasonable and necessary to protect li fe, prevent significant illness or 
+significant disability, or to alleviate severe pain through the diagnosis and treatment of disease, illness, or injury. The Plan uses UM  criteria to assist with determinations of 
+medical necessity.  
+ Finding:  The Plan ’s UM  program  did not provide medically necessary covered services 
+to members in a sufficient amount to reasonably achieve their purpose.   A verification study of prior authorization requests revealed that in 2  of 13 adverse 
+benefit determinations based on medical necessity, the Plan inappropriately denied the requested items and did not provide medically necessary services  to adult members . 
+ In both samples , two different members were receiving three specialized wound covers 
+per week for pyoderma gangrenosum (a condition that causes painful , deep skin 
+ulcers). The provider requested four additional wound covers per week because both 
+members needed to change the covers daily due to excessive drainage from the ski n 
+lesions, and one member had ulcers in multiple locations that required additional covers. The decision -makers  denied both requests and stated the members had already 
+received the standard benefit amount, which continued to meet their medical needs.  Although the decision- makers wrote a g eneric comment  that they reviewed the 
+provider’s request form and E lectronic Medical Record (EMR), the verification study 
+confirmed the Plan did not consider the provider’s medical justification for additional supplies , which was accurately documented in the request form and EMR. Therefore, 
+the Plan did not provide medically necessary items in a sufficient amount that would reasonably achieve the purpose of treatment for skin ulcers.  
+The Plan’s criteria set covered a fi xed quantity of medical supplies per month and did 
+not align with DHCS’ Medi -Cal Provider Manual, which allows a UM request to be 
+submitted for coverage consideration of additional supplies beyond the quantity limit 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+17 of 34 based on medical necessity. In interview s and written statements, the Plan 
+acknowledged that the denials in both deficient samples were clinically inappropriate, and the Plan’s UM program  should have cover ed the additional requested supplies . 
+ When the Plan does not provide covered medically necessary services, member’s health conditions may worsen, which may lead to adverse outcomes.  
+ Recommendation:  Implement policies and procedures to ensure that the Plan’s UM 
+program provides covered medically necessary services to members in a sufficient 
+amount to reasonably achieve their purpose.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+18 of 34 1.3 PRIOR AUTHORIZATION APPEAL PROCESS  
+ 
+Sacramento GMC  
+ 1.3.1 Appeals Decision- Makers  
+ The final decision -maker must be a health care professional with clinical expertise in 
+treating a member’s condition or disease if any of the following apply:  
+1. An appeal of an adverse benefit determination that is based on lack of medical necessity . 
+2. A grievance regarding denial of an expedited resolution of an appeal  
+3. Any grievance or appeal involving clinical issues . 
+(Contract  A20, Exhibit A, Attachment 14( 1) (D) and APL 21-011, Grievance and 
+Appeals Requirements, Notice and “Your Rights” Templates ) 
+ 
+Plan policy , CA.MR.003 California Non -Medicare Grievance and Appeals  (revised 
+08/02/2023), described a two- step process for appeals adjudication involving an initial 
+review a nd input by subject matter experts or relevant departments and then a final 
+decision by a decision- maker. The policy stated decision -making for medical necessity 
+requests and requests involving disputed health care services that are covered benefits requir e licensed physician review for the final determination. Physician review was not 
+required for medical necessity requests fulfilled prior to the decision being rendered through the grievance and appeal process. Non- physicians may review requests that 
+involve benefit determinations, coverage decisions, or a disputed health care service 
+when the service is not a covered benefit.  
+ Finding:  The Plan did not ensure that health care professionals with clinical expertise in 
+treating a condition rendered final decisions for a ppeals of an adverse benefit 
+determination that was  based on lack of medical necessity and appeals involving clinical 
+issues.  
+ A verificatio n study revealed that in two of nine appeals, the final decision- maker for the 
+appeal determination was not a health care professional with expertise in medical treatment.  
+• In one case, a member appealed a denial of replacement supplies for an investigatio nal device for urinary incontinence. Previously, a physician decision-
+maker denied the supplies based on lack of medical necessity because evidence from research literature did not support use of the device. For the appeal, the member explained why the dev ice and replacement supplies were needed based on 
+their clinical condition. In an initial review, a nurse recommended approval of the 
+supplies . However, a physician did not review the case, and a non- clinical staff 
+member was the final decision- maker who a pproved the supplies.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+19 of 34 • In the other case, a member appealed a denial of gloves. Previously, a physician 
+decision- maker denied the gloves based on lack of medical necessity because the 
+member did not meet clinical criteria. For the appeal, the member request ed gloves 
+for incontinence with bowel movements and explained their clinical situation and clinical need. In an initial review, a physician stated that the gloves were not covered 
+for incontinence. However, there was no evidence that the physician conducted a medical necessity review based on the member’s clinical situation or made the final decision for the appeal. A  non-clinical staff member was the final decision -maker 
+who denied the gloves.  
+Both appeals involved clinical issues as well as prior adverse benefit determinations based on lack of medical necessity; however, the Plan did not send the cases to its Appeals Committee for a final decision by physici ans. 
+ The Plan’s policy , CA.MR.003 , and process did not require physician decision -makers 
+to make final decisions for appeals involving clinical issues and appeals involving prior adverse benefit determinations due to lack of medical necessity.  
+ When healt h care professionals with clinical expertise do not render final decisions for 
+clinical appeals, the decisions may not be based on medical necessity and may impact member’s health.  
+ Recommendation:  Revise policies and implement procedures to ensure that health 
+care professionals with clinical expertise in treating a condition render final decisions for appeals of an adverse benefit determination that was  based on lack of medical 
+necessity and a ppeals involving clinical issues.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+20 of 34 1.5 DELEGATION OF UT ILIZATION MANAGEMENT  
+ 
+Sacramento GMC   
+ 1.5.1 Timeliness of UM Decisions for Timeframe Extensions 
+ The Plan is accountable for all functions and responsibilities, including UM, that are delegated. The Plan is required to maintain a system to ensure accountability for 
+delegated activities that at a minimum ensures a delegate meets standards set forth by the Plan and DHCS. ( Contract  A20, Exhibit A, Attachment 4(6)  (A and B)) 
+ The Plan must render a decision for routine prior authorizations no longer than 14 calendar days from the receipt of the request. The decision may be deferred,  and the 
+time limit exte nded an additional 14 calendar days when certain conditions are met. Any 
+decision delayed beyond the time limits is considered a denial and must be immediately processed as such. ( Contract A33, Exhibit A, Attachment 5(3)(I)  and APL 21- 011, 
+Grievance and Appeals Requirements, Notice and “Your Rights” Templates ). 
+ Plan policy, 28.0 Delegation of UM Activities for Delegated Entities  (effective 
+05/01/ 2023 ), stated the Plan ensures the delegate complies  with regulatory 
+requirements  through an annual audit , which includes file reviews. In addition, the Plan 
+monitors semi -annual delegate performance reports, which include number of UM 
+cases and number of denials issued.  
+ The delegation agreement between the Plan and delegate ASH (signed 05/20/2021) , 
+stated the delegate will conduct its UM program in compliance with applicable statutory 
+and regulatory requirements, including contracts between the Plan and DHCS and Medi -Cal APLs . The attachment to the delegation agreement stated the delegate must  
+adhere to the specific timeframes for timeliness and notification of UM decision- making.  
+ Delegate policy, CA UM 2 Revision 7 Medi -Cal-S: Medical Necessity Review -California -
+Medi -Cal (approved 04/20/ 2023) , stated that for routine prior authorization requests, the 
+decision was required to be rendered within 5 working days and no longer than 14 
+calendar days from the receipt of the request. The decision may be deferred,  and the 
+time limit extended an additional 14 calendar days when certain conditions are met.  
+ Finding: The Plan did not ensure its d elegate,  ASH,  rendered decisions for routine prior 
+authorization requests with timeframe extensions within 28 calendar days.  
+ A verification study  of chiropractic s ervice requests revealed that in one of  one routine 
+prior authorization service request where the delegate extended the timeframe, the delegate did not render a decision within 28 calendar days. In the deficient sample, the 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+21 of 34 delegate deferred the decision because it requested additional information from the provider and sent a Notice of Action Delay letter to the member and provider. The delegate rendered the final approval decision 45 calendar days after receipt of the initial 
+request.  
+ During interviews and in written responses, the delegate stated the delayed decision was due to a system programming error. The delegate mistakenly programmed its system to have a deadline of 45 calendar days for Medi -Cal decisions with timeframe 
+extensions , which was meant f or the commercial line of business. The delegate claimed 
+it performed testing to ensure appropriate processes before and after implementation of new system programming; however, the verification study revealed the testing was not effective.  
+ When the delegate does not render timely decisions for prior authorization requests, members and providers may not receive decision outcomes in a timely manner, which may delay delivery of services and contribute to adverse health outcomes.  
+ Recommendation:  Implement policies and procedures to ensure that delegated 
+entities follow DHCS requirements, including timely resolution of routine prior authorization requests with timeframe extensions.  
+ 
+ San Diego GMC   
+ 1.5.1 Timeliness of UM Decisions for Timeframe E xtensions 
+ The Plan is accountable for all functions and responsibilities, including UM, that are delegated. The Plan is required to maintain a system to ensure accountability for 
+delegated activities that at a minimum ensures a delegate meets standards set forth by the Plan and DHCS. ( Contract  A17, Exhibit A, Attachment 4(6)  (A and B)) 
+ The Plan must render a decision for routine prior authorizations no longer than 14 calendar days from the receipt of the request. The decision may be deferred,  and the 
+time limit extended an additional 14 calendar days when certain conditions are met. Any decision delayed beyond the time limits is considered a denial and must be immediately processed as such. ( Contract A30 , Exhibit A, Attachment 5(3)( G) and APL 21-011, 
+Grievance and Appeals Requirements, Notice and “Your Rights” Templates ). 
+ Plan policy, SC.RUM.033 Delegation of UM Activities ( revised 06/19/ 2023) , stated the 
+Plan ensures the delegate complies  with regulatory and contract requirements  through 
+an annual audit , which includes file reviews. In addition, the Plan monitors semi -annual 
+delegate performance reports, which include number of UM cases and number of denials issued.  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+22 of 34  The Delegation Agreement between the Plan and delegate ASH (signed 05/21/2021) , 
+stated the delegate will conduct its UM program in compliance with applicable statutory 
+and regulatory requirements, including contracts between the Plan and DHCS and Medi -Cal APLs . The attachment to the delegation agreement stated the delegate must 
+adhere to the specific timeframes for timeliness and notification of UM decision- making.  
+ Delegate policy, CA UM 2 Revision 7 Medi -Cal-S: Medical Necessity Review -California -
+Medi -Cal (approved 04/20/ 2023) , stated that for routine prior authorization requests, the 
+decision was required to be rendered within 5 working days and no longer than 14 
+calendar days from the receipt of the request. The decision may be deferred,  and the 
+time limit extended an additional 14 calendar days when certain conditions are met.  
+ Finding: The Plan did not ensure its d elegate,  ASH,  rendered decisions for routine prior 
+authorization requests with timeframe extensions within 28 calendar days.  
+ A verification study  of acupuncture and chiropractic service requests revealed that in 
+one of  one routine prior authorization service request where the delegate extended the 
+timeframe, the delegate did not render a decision within 28 calendar days. In the deficient sample, the delegate deferred the decision because it requested additional information from the provider and sent a Notice of Action Delay letter to the member 
+and provider. The delegate did not receive the requested information and rendered the final denial decision 45 calendar days after receipt of the initial request.  
+ During interviews and in written responses, the delegate stated the delayed decision was due to a system programming error. The delegate mistakenly programmed its system to have a deadline of 45 cal endar days for Medi -Cal decisions with timeframe 
+extensions,  which was meant for the commercial line of business. The delegate claimed 
+it performed testing to ensure appropriate processes before and after implementation of new system programming; however, the verification study revealed the testing was not effective.  
+ When the delegate does not render timely decisions for prior authorization requests, members and providers may not receive decision outcomes in a timely manner, which may delay delivery of ser vices and contribute to adverse health outcomes.  
+ Recommendation:  Implement policies and procedures to ensure that delegated 
+entities follow DHCS requirements, including timely resolution of routine prior authorization requests with timeframe extensions.  
+   
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   KP Cal, LLC – Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022, through October 31, 2023  
+DATES OF AUDIT:  October 30 , 2023, through November 9, 2023  
+ 
+23 of 34 CATEGORY 3 – ACCESS AND AVAILABILITY OF CARE 
+ 
+3.6 EMERGENCY SERVICES AND FAMILY PLANNING CLAIMS  
+ 
+San Diego GMC  
+3.6.1 Family Planning Payments 
+The Plan is required to comply with all existing policy letters and APL issued by DHCS.  
+(Contract  A17, Exhibit E, (2)(1)(D)) 
+The Plan is required to directly pay qualified family planning providers a fixed add- on 
+amount for specified family planning services listed in APL 20- 013, using Proposition 56 
+appropriated funds. This payment obligation applies to contracted and non- contracted 
+providers. The uniform dollar add- on amounts for the services listed are in addition to 
+whatever other payments eligible providers would normally receive from the Plan. ( APL 
+22-011, Proposition 56 Directed Payments for Family Planning Services)  
+Plan policy , POL-005 Payments to Providers (updated 0 7/11/2022) , stated that claims 
+adjudication complies with the rules of governing/regulatory bodies such as state and federal law, and other requirements which may be applicable.  
+Finding:  The Plan did not pay  add-on payments for specified family planning claims in 
+accordance with APL 22- 011. 
+A verification study of ten family planning services claims revealed the Plan did not make add- on payments for five claims . These claims involved contracted providers who 
+were paid a bundled rate, a rate under which m ultiple  services may be paid. The Plan 
+denied other  claim  lines because  the services were  paid under the bundled rate.  
+In a written response, the Plan stated it did not make APL add- on payments as the 
+claim  lines were denied. However, the Plan must still make the APL add- on payments 
+as these services were paid under the bundled rate.  
+When the Plan does not pay  applicable add- on payments, this may discourage 
+providers from participating with the Plan and limit members’ access to care.  
+Recommendation:  Revise and implement procedures to pay  add-on payments for 
+applicable specified family planning claims in accordance with APL 22- 011. 
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+24 of 34 San Diego GMC  
+3.6.2 Denial of Family Planning Services Claims 
+The Plan is required to reimburse non- contracting family planning providers for family 
+planning services. The Plan is required to maintain sufficient claims processing, tracking, and payment systems capability to comply with applicable state and federal law, regulations, and contract requirements. (Contract  A17, Exhibit A, 8(5)(D)  and 8(9) ) 
+The Plan shall not improperly deny, adjust, or contest a claim. ( California Code of 
+Regulations ( CCR) , Title 28, section 1300.71(d)(1)).  
+Plan policy , POL-005 Payments to Providers (updated 0 7/11/ 2022) , stated that claims 
+adjudication complies with the rules of governing/regulatory bodies such as state and federal law, and other requirements which may be applicable.  
+Finding:  The Plan improperly denied family planning services claims.  
+A verification study found that in three of  six denied family planning services claims, the 
+Plan improperly denied claims . The Plan’s claim system applied unrelated diagnosis 
+codes to all claim lines,  which caused the entire claim to be denied. The denial  should 
+have only applied to claim lines  with the incorrect diagnosis code. The three claims 
+contained family planning codes that were appropriately billed with correct diagnosis 
+codes  and should have been paid.  
+In a wr itten response, the Plan acknowledged it denied the claims in error. The Plan 
+stated one diagnosis code on each claim was incorrect and resulted in its  claim system 
+to deny the entire claim.  
+If the Plan does not properly process  family planning claims , providers may be 
+discouraged from participating in the Medi -Cal program and members may suffer as a 
+consequence.  
+Recommendation:  Implement policy and revise procedures to ensure family planning 
+service claims are properly adjudicated.  
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   KP Cal, LLC – Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022, through October 31, 2023  
+DATES OF AUDIT:  October 30 , 2023, through November 9, 2023  
+ 
+25 of 34 CATEGORY 4 – MEMBER’S RIGHTS 
+ 
+4.1 GRIEVANCE SYSTEM  
+ Sacramento GMC  
+ 4.1.1 Provision of Medically Necessary Services through the Grievance Program   
+ The Plan must provide or arrange for members all medically necessary covered services, including all covered services that are reasonable and necessary to protect 
+life, prevent illness or disability, alleviate severe pain through the diagnosis or treatment of disease, achieve age- appropriate growth and development, and attain, maintain, or 
+regain functional capacity. When determining medical necessity of covered services for 
+a Medi -Cal member under the age of 21, “medical necessity” is expanded to include the 
+standards set forth in United States Code (USC) , Title 42, section 1396d(r). The Plan 
+must ensure that services provided are sufficient in amount, duration, or scope to reasonably achieve the purpose for which the covered services are furnished. (Contract 
+A20, Exhibit A, Attachment 10(1 and 2)) 
+ For members under the age of 21, Plans are required to provide and cover all medically 
+necessary EPSDT services, defined as any service that meets the standards set forth in USC, Title 42,  section 1396d(r)(5), when the services are determined to be medically 
+necessary to correct or ameliorate defects and physical and mental illnesses or 
+conditions. A service does not need to cure a condition to be covered under EPSDT. The common definition of ameliorate is to make more tolerable or to make better. Services that  maintain or improve the child’s current health condition, or those that can 
+prevent adverse health outcomes are also covered. Services are covered when they prevent a condition from worsening or prevent  development of additional health 
+problems.  Flat or hard limits are not permitted. Plans must apply the definition of 
+medical necessity (necessary to correct or ameliorate defects and physical and mental illnesses/conditions) when determining medical necessity for any member under the age of 21. ( APL 23 -005, Requirements for Coverage of Early and Periodic Screening, 
+Diagnostic, and Treatment Services for Medi -Cal Members Under the Age of 21)  
+ Plan policy , CA.MR.003 California Non- Medicare Grievance and Appeals  (revised 
+08/02/2023) , stated that decision- making for medical necessity requests involving 
+disputed health care services that are covered benefits under the Plan contract require licensed physician review for the final determination. For denials, delays, or modifications of health care services, the written resolution must include the decision rationale including clinical reason and criteria or guidelines used as the basis for the 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+26 of 34 decision. The policy defined medical necessity as a service that is appropriate and required to prevent, diagnose, or treat a condition or clinical symptoms in accordance with generally accepted professional standards of practice in the medical community.  
+ Plan desktop procedure,  Investigation for Non- Medicare Process Levels Standard 
+Operating Procedure (SOP)  (undated) , stated that  non-clinical staff  will gather criteria  
+for medical necessity decisions from a vendor -based criteria set. For the Medi -Cal line 
+of business, if information is not available in the vendor -based criteria set, the non-
+clinical staff should access  criteria from the Plan’s UM criteria sets and clinical libraries.  
+ Finding:  The Plan did not provide medically necessary covered services to members  
+for requests that originated from grievances . 
+ A verification study of clinical grievances revealed that i n 3 of 12 grievances involving 
+member requests for clinical services, the Plan inappropriately denied medically necessary services to members.  In all three samples, the Plan did not provide needed 
+speech therapy to members under the age of 21 when family members requested the services through grievances. For all three medical necessity decisions, decision- makers 
+did not consider and apply EPSDT guidelines, which require provision of services to ameliorate conditions, such as maintenance services and services to prevent conditions from worsening.  
+• In one grievance, the Plan denied speech therapy for a member (age four  years 
+and seven months) who had autism and severe language deficits. The member 
+could not follow commands or speak words, scored at the first percentile (very low compared to peers) on language tests, and required the use of a communication device. The decision- maker stated the member did not have pre-
+linguistic readiness or skills to start in- person speech therapy. The decision-
+maker cited cr iteria that were unrelated to the rationale; the criteria did not define 
+pre-linguistic readiness and did not align with Medi -Cal EPSDT guidelines . In 
+addition, the decision- maker cited the adult definition of medical necessity, which 
+was more restrictive than the EPSDT definition.  
+• In another grievance, the Plan denied a request for an increase in speech therapy from once a week to twice a week for a member (age three years and 
+two months) who had autism and moderate to severe language deficits. The 
+member was previously approved to receive speech therapy twice a week, but the family cancelled some appointments , which caused the provider to decrease 
+therapy to once a week. The decision- maker stated the member did not need 
+speech therapy twice a week because they improved despite appointment cancellations.  However, at the time of the denial decision, the member was at the 
+5
+th and 13th percentiles (low scores compared to peers) for language 
+comprehension and speech tests, respectively, and was not receiving speech therapy from other entities. The severity of the member’s language deficits required additional speech therapy hours per week to maintain and improve the 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+27 of 34 member’s language skills. The decision- maker cited criteria, which did not 
+provide clinical guidance on the number of hours per week and did not align with Medi -Cal EPSDT guidelines. In addition, the decision- maker cited the adult 
+definition of  medical necessity, which was more restrictive than the EPSDT 
+definition.  
+• In another  grievance, the Plan denied speech therapy for a member (age two  
+years  and three months) with suspected autism and severe language deficits. 
+The decision- maker stated the m ember was not ready for structured in- person 
+speech therapy due to poor attention and behavioral issues. At the time of the denial decision, the member scored at the first percentile (very low compared to peers) on language tests and was not receiving speech therapy from other entities. The severity of the member’s language deficits required speech therapy 
+every week to maintain and improve the member’s language skills. The decision-maker cited UM criteria for the commercial line of business and quoted a requirement of reasonable functional progress, which was  more restrictive than 
+Medi -Cal EPSDT guidelines. Although the decision- maker cited an outdated 
+EPSDT APL from 2018, there was no evidence that EPSDT guidelines were considered for the denial decision.  
+ During interviews, the Plan stated that for grievance medical necessity decisions, non-clinical staff selected appropriate clinical criteria most commonly from a vendor -based 
+criteria set and then sent the cases to clinical decision -makers. The Plan’s grievance 
+policy and process did not require decision- makers to review relevant Medi -Cal APLs or 
+to utilize Medi -Cal specific criteria sets that aligned with Medi -Cal guid elines when 
+making medical necessity decisions for grievances.  
+When the Plan does not provide medically necessary services to children according to Medi -Cal EPSDT guidelines,  members may not receive needed care, which may cause 
+developmental and health iss ues to worsen.  
+ Recommendation: Revise policies and procedures to ensure that the Plan provides 
+medically necessary covered services  to members for requests that originated from 
+grievances.   
+  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   KP Cal, LLC – Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022, through October 31, 2023  
+DATES OF AUDIT:  October 30 , 2023, through November 9, 2023  
+ 
+28 of 34 CATEGORY 5 – QUALITY MANAGEMENT  
+ 
+5.1 QUALITY IMPROVEMENT SYSTEM  
+ Sacramento GMC    
+ 5.1.1 Evaluation and Action for Potential Quality Issues 
+ The Plan must implement an effective Q uality Improvement System in accordance with 
+the standards set forth in CCR, Title 28, section 1300.70. The Plan is required to 
+monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers. The Plan must be accountable for the quality of all covered services regardless  of the number of contracting layers between the Plan 
+and the provider. ( Contract  A20, Exhibit A, Attachment 4(1)) 
+ The Quality Assurance (QA) program must be directed by providers and must document 
+that the quality of care provided is being reviewed, that problems are being identified, that effective action is taken to improve care where deficiencies are identified, and that follow- up is planned where indicated. The Plan’s QA program must address service 
+elements, including accessibility, availability, and continuity of care. (CCR, Title 28, 
+section 1300.70)  
+ Plan policy , CA.SCQC.QOC.002 Health Plan Review Department Quality Concerns  
+(effective 01/11/2023) , stated quality complaints referred to the Q uality Department 
+undergo an initial review by a designated nurse. If an issue is clearly not a quality issue, 
+the designated nurse is authorized to conclude the review without referral to the Department manager.  Identified Department issues are directed to the appropriate 
+Department manager for investigation, evaluation, and action. The D epartment 
+manager assesses and documents all staff and systems issues  and contributing factors , 
+including an action plan when indicated. The Quality Director or designee assigns a severity score for the system s issue . For S0 (no system issue), no action is required. 
+For S1 (potential  or minor opportunity to improve system), the Q uality Department will 
+track system issues and will initiate a CAP with a targeted completion date. For S2 (serious or immediate threat/risk to patient safety), the issue is immediately referred to Risk Management f or confirmation and investigation. PQIs are scored and closed within 
+180 days.  
+ Plan policy , CA.QOC.SCQC.003 Peer Review and Evaluation of Licensed Independent 
+Practitioner Performance (effective 0 1/01/2023) , stated the Quality Department directs 
+identified individual practitioner issues to the appropriate Physician Quality Leader for 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+29 of 34 oversight of the peer review process. Practitioners with equivalent or higher -level 
+expertise will conduct peer review. P scores must be assigned as  follows: P0 (care is 
+acceptable), P1 (there is a minor opportunity for improvement), and P2 (there is a significant opportunity for improvement or care was deemed inappropriate). The case  
+must be scored within 180 days from the date the case was received by the Quality 
+Department.  
+ Finding:  The Plan did not evaluate and take effective action to address needed 
+improvements in quality of care and access  to services ; the Plan was not accountable 
+for the evaluation and resolution of issues relating to quality of covered services.  
+ A verification study of five PQIs revealed the following deficiencies with evaluation and taking effective action for quality issues . 
+• In two of five samples, the Plan providers  did not take effective action in a complete 
+and timely manner to address needed changes to improve care and access.  
+o In one sample, the Plan providers  did not issue a CAP in a timely manner 
+due to a major delay in the identification of a significant qualit y issue . A 
+member died of a blood clot in the hospital, and a Q uality Department 
+nurse reviewed the death and determined which quality issues and 
+involved providers required peer review. A physician did not review and 
+document that the nurse’s determination was clinically appropriate. A hospital provider involved in the member’s care was not identified by the nurse and was not reviewed. After physician peer reviewers requested an additional review, the hospital provider underwent peer review one year after the member’s death was initially investigated. The hospital provider 
+was assigned a P2 score for significant deviation from standards of medical care one and a half  years after the initial investigation, and the 
+provider did not complete the CAP until two  years after the initial 
+investigation. Therefore, the Plan providers  did not take effective action in 
+a timely manner to improve the provider’s care for members with blood clots.  
+o In another sample,  the Plan providers  did not document completion of a 
+CAP fo r a significant quality issue. The PQI involved a member with 
+bipolar disorder (a mental health disorder). Due to a therapist strike in 2022, the member’s appointment was cancelled, and the clinic did not reach out to the member until 11 days after the cancellation to assess the member’s mental health needs and offer another appointment. The M ental 
+Health Department manager reviewed the case and stated that a plan for 
+strikes was previously implemented. The Quality Director designee (a nurse) assigned a score of S2 due to potential detrimental impact on the patient’s safety and approved the CAP. Even though the M ental Health 
+Department did not submit evidence that it developed and implemented 
+concrete actions to prevent mental health access issues during future 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+30 of 34 strikes, Risk Management  closed the case. The Plan providers did not 
+confirm completion of the CAP by requesting supporting evidence from the Mental Health Department for the PQI case file and stated the M ental 
+Health Department did not implement the CAP because there were no 
+subsequent strikes.  
+• In five of five samples , the Plan did not directly evaluate and resolve PQIs,  and 
+instead PQIs were  investigated and closed only by its Plan providers . In all five 
+samples, a Plan Medical Director did not review the case at the time of scoring, and the Plan did not evaluate and make assessments on needed improvements . 
+Therefore, the Plan did not monitor and hold accountability for the evaluation and 
+resolution of all PQIs.   
+ 
+During interviews, the Plan providers  confirmed that nurses identified quality issues and 
+determined which providers should be investigated. T he Plan providers  did not require a 
+physician to review, score, or sign off on D epartment review PQIs, in which quality 
+issues involve d unlicensed staff  or systemic issues in  Departments.  
+The Plan stated it conducted oversight for the Plan provider s’ PQI process through 
+annual audits of completed PQI cases. Based on submitted audit reports, the Plan’s Peer Review Oversight Committee, composed mainly of Plan provider  clinical 
+leadership, conducted retrospective audits of small samples of PQI cases.  The Plan did 
+not investigate and resolve all PQIs.  
+When the Plan does not evaluate and take actions for PQIs , quality issues may not be 
+resolved completely or in a timely manner, which may lead to further adverse incidents 
+that could have been prevented.  
+ Recommendation: Revise policies and procedures to ensure that the Plan evaluates 
+and takes effective action to address needed improvements in quality of care and access to services  and ensure that the Plan is accountable for the evaluation and 
+resolution of issues related to quality of covered services.   
+  San Diego GMC  
+ 5.1.1 Evaluation and Action for Potential Quality Issues 
+ The Plan must implement an effective Q uality Improvement System in accordance with 
+the standards set forth in CCR , Title 28, section 1300.70. The Plan is required to 
+monitor, evaluate, and take effective action to address any needed improvements in the quality of care delivered by all providers. The Plan must be accountable for the quality of all covered services regardless of the number of contracting layers between the Plan and the provider. ( Contract  A17, Exhibit A, Attachment 4(1)) 
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+31 of 34 The quality assurance (QA) program must be directed by providers and must document that the quality of care provided is being reviewed, that problems ar e being identified, 
+that effective action is taken to improve care where deficiencies are identified, and that follow- up is planned where indicated. The Plan’s QA program must address service 
+elements, including accessibility, availability, and continuity of care. (CCR,  Title 28, 
+section 1300.70)  
+ Plan policy , CA.SCQC.QOC.002 Health Plan Review Department Quality Concerns  
+(effective 02/15/2023) , stated quality complaints referred to the Q uality Department 
+undergo an initial review by a designated nurse.  If an issue is clearly not a quality issue, 
+the designated nurse is authorized to conclude the review without referral to the Department manager.  Identified Department issues are directed to the appropriate 
+Department manager for investigation, evaluation, and action. The D epartment 
+manager assesses and documents all staff and systems issues  and contributing factors , 
+including an action plan when indicated. The Quality Director or designee  assigns a 
+severity score for the system s issue . For S0 (no system issue), no action is required. 
+For S1 (potential  or minor opportunity to improve system), the Q uality Department will 
+track system issues and will initiate a CAP with a targeted completion date. For S2 (serious or immediate threat/risk to patient safety), the issue is immediately referred to Risk Management for confirmation and investigation. PQIs are scored and closed within 180 days.  
+ Plan policy , CA.QOC.SCQC.003 Peer Review and Evaluation of Licens ed Independent 
+Practitioner Performance (effective 02/1 5/2023) , stated the Quality Department directs 
+identified individual practitioner issues to the appropriate Physician Quality Leader for oversight of the peer review process. Practitioners with equivalent or higher -level 
+expertise will conduct peer review. P scores must be assigned as  follows: P0 (care is 
+acceptable), P1 (there is a minor opportunity for improvement), and P2 (there is a significant opportunity for improvement or care was deemed inappropriate). The case 
+must be scored within 180 days from the date the case was received by the Quality 
+Department.  
+ Finding:  The Plan did not evaluate and take effective action to address  needed 
+improvements in quality of care and access  to services ; the Plan was not accountable 
+for the  evaluation and resolution of issues relating to quality of covered services.  
+ A verification study of five PQIs revealed the following deficiencies with evaluation and taking effective action for quality issues . 
+• In one of five samples, the Plan providers  did not appropriately evaluate a quality 
+issue and as a result, did not take effective action to address needed changes to improve mental health access. In the sample, a non- physician Mental Health 
+Department manager reviewed a member’s complaint about needing a sooner 
+psychiatrist appointment.  The member had anxiety and delusional disorder (mental 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+32 of 34 health disorders) and a psychiatrist prescribed a new medication and requested the member to have follow -up in four  weeks. However, the Mental Health Department 
+cancell ed the member’s scheduled follow- up appointment  and offered an 
+appointment four months later  instead of four  weeks from the prior appointment . At 
+the time of cancellation, the D epartment did not assess the member’s mental health 
+needs or offer a sooner appointment. The delayed appointment contributed to 
+worsened mental health symptoms, which led the member to call the D epartment 
+multiple times until the medication regimen was adjusted.  For the PQI investigation, 
+the assigned nurse did not identify the quali ty issue of the rescheduled appointment 
+or develop appropriate questions. The M ental Health Department manager did not 
+fully investigate and evaluate the rescheduling issue. The Mental Health Department 
+manager developed a CAP that did not address the resc heduling issue and did not 
+improve the process to reschedule appointments that were cancelled by the clinic . 
+The Quality Director designee (nurse) approved the CAP  and assigned a score of 
+S1 (systemic issue with minor opportunity for improvement) . 
+• In five of five samples , the Plan did not directly evaluate and resolve PQIs,  and 
+instead PQIs  were investigated and closed only by its Plan providers . In all  five 
+samples, a Plan Medical Director did not review the case at the time of scoring, and the Plan did not evaluate and make assessments on needed improvements. Therefore, the Plan did not monitor and hold accountability for the evaluation and 
+resolution of all PQIs.   
+ 
+During interviews, the Plan providers  confirmed that nurses identified quality issues and 
+determined which providers should be investigated. The Plan providers  did not maintain 
+a process for a physician to review and document that the nurses’ identification of issues and involved providers was appropriate. In addition, the Plan providers  did not 
+require a physician to review, score, or sign off on the D epartment ’s review of PQIs, in 
+which quality issues involved unlicensed staff or systemic issues in  Departments.  
+The Plan stated it conducted oversight for the Plan providers’ PQI process through 
+annual audits of completed PQI cases. Based on submitted documents , the Plan’s P eer 
+Review Oversight Committee, composed mainly of Plan provider  clinical leadership, 
+conducted retrospective audits of small samples of PQI cases.  The Plan did not 
+investigate and resolve all PQIs.  
+When the Plan does not evaluate and take actions for PQIs, quality issues may not be resolved completely or in a timely manner, which may lead to further adverse incidents that could be prevented.  
+ Recommendation:  Revise policies and procedures to ensure that the Plan evaluates 
+and takes effective action to address  needed improvement s in quality of care and 
+access to services  and ensure that the Plan is accountable for the evaluation and 
+resolution of issues related to quality of covered services.   
+ 
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   KP Cal, LLC – Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022, through October 31, 2023  
+DATES OF AUDIT:  October 30 , 2023, through November 9, 2023  
+ 
+33 of 34 CATEGORY 6 – ADMINISTRATIVE AND ORGANIZATIONAL CAPACITY 
+ 
+6.2 FRAUD AND ABUSE 
+ Sacramento GMC  
+ 6.2.1 Records Retention 
+ The Plan is required to maintain all records and documents for a minimum of ten years 
+from the final date of the Contract period or from the date of completion of any audit, whichever is later. Records  and documents  include, but are not limited to, all physical 
+records originated or prepared pursuant to the performance under the Contract, and any other documentation pertaining to medical and non- medical services rendered to 
+members. Upon request, through the end of the records retention period, the Plan is 
+required to furnish any record, or copy of it, to DHCS at its sole expense. (Contract A20, 
+Exhibit E, Attachment 2(18)(A)(B) and (19) ) 
+ DHCS and their designees may, at any time, inspect and audit any of the Plan’s records or documents where Medi -Cal-related activities or work is conducted. The right to audit 
+exists for ten years from the final date of the Contract period or from the date of completion of any audit, whichever is later. ( Code of Federal Regulations,  Title 42,  
+section 438.3(h))  
+ The Plan’s , Ethics and Compliance Program Description (revised 0 8/23/2023) , stated 
+the Ethics and Compliance Department develops policies that establish compliance expectations and accountabilities throughout the Program. Ethics and compliance policies address expectations around topics including record retention.   The Plan’s,  Code of Conduct: Principles of Responsibility , stated business records 
+information includes electronically stored information and emails. It referenced the business record retention policy for more information.  
+ Plan policy , NATL.EC.005 Business Record Retention: Appendix B (effective 
+06/10/2022) , stated all records relating to or concerning Medi -Cal contracts  and 
+programs should be retained for ten  years or until the completion of a government audit, 
+whichever is later. This requirement applies to a broad range of records that the government may need to evaluate the delivery of services to the beneficiaries of the program.  
+ Plan procedures , E-mail Retention Rules (implemented 2020) , stated:  
+  COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:  KP Cal, LLC –  Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:  November 1, 2022 , through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+ 
+34 of 34 • Emails in your Inbox, Sent Items, and Deleted Items folders are retained for 90 
+days.  
+• Email in folders outside of the Inbox, Sent Items, and Deleted Items folders are retained for four  years.  
+• Calendar entries and tasks are retained for four  years.  
+ Finding:  The Plan did not ensure all Medi -Cal-related records and docum ents were 
+maintained for the required ten year retention timeframe. 
+ A review  of PQI records revealed that in one PQI, the Plan did not maintain e- mail 
+records related to the PQI CAP between the P sychiatry and Q uality Department s for the 
+minimum required r ecord retention timeframe. The Plan did not submit communications 
+related to the CAP, which was issued during the audit period.  Although these records 
+were within the record retention required timeframe, the Plan did not retain them.  
+ In an interview, the Plan stated that the PQI email communication related to the CAP  
+was stored in a shared email inbox and that they were unable to locate the records. The Plan stated that there was a change in how emails were retained. The Plan did not provide information on the Departments  affected or the extent of the lost emails saved 
+in the shared email inbox.  
+ Plan procedures provide instructions to staff on how to maintain their e- mails for up to 
+four years. However, the process relied on staff manually moving email messages to a folder outside the email inbox, sent or deleted folders, which retain records for a 90- day 
+period only.  There were no specific instructions to maintain the e- mails for ten years.  
+The Plan does not have a process to retain e- mails relate d to Medi -Cal services and 
+members for the required ten year retention timeframe.  
+When the Plan does not maintain Medi -Cal-related records and documents for the 
+minimum required retention timeframe,  the Plan cannot demonstrate compliance with 
+contractual r equirements.  
+ Recommendation: Revise and implement procedures to ensure Medi -Cal-related 
+records and documents are maintained for ten  years.  
+ 
+      
+ 
+ 
+DEPARTMENT OF HEALTH CARE SERVICES  
+AUDITS AND INVESTIGATIONS  
+CONTRACT AND ENROLLMENT REVIEW DIVISION  
+SAN FRANCISCO SECTION  
+  
+REPORT ON THE MEDICAL AUDIT OF  
+ 
+KP Cal, LLC  
+Kaiser Permanente GMC  
+ 
+ 
+2023  
+   
+ 
+ 
+Contract Number:    
+07-65850 Sacramento  
+09-86160 San Diego  
+State Supported Services  
+ 
+Audit Period:  
+   
+Dates of Audit:     
+Report Issued:  
+ November 1, 202 2 
+    through 
+October 31, 2023  
+ October 30 , 2023  
+    through 
+November 09, 2023  
+ 
+March 18, 2024  
+ 
+ 
+TABLE OF CONTENTS  
+  I. INTRODUCTION ............................................................................. 1 
+ II. COMPLIANCE AUDIT FINDINGS ................................................... 2 
+   
+ 
+1  
+INTRODUCTION  
+  This report presents the audit findings of KP Cal, LLC  (Plan)  State Supported Services  
+Contract N umber  07-65850 for Sacramento GMC, Contract N umber  09-86160 for San 
+Diego  GMC. The State Supported Services C ontracts cover contracted abortion 
+services.  
+ The audit was conducted from October 30 , 2023 , through November 9 , 2023 . 
+The audit period is from November  1, 2022 , through October 31, 2023 , and consisted of  
+document review of materials supplied by the Plan and interviews  with Plan staff . 
+ Twenty  (ten Sacramento GMC and ten San Diego GMC)  State Supported Services 
+claims were reviewed for appropriate and timely adjudication.  
+    
+ 
+2  
+ COMPLIANCE AUDIT FINDINGS  
+ 
+PLAN:   KP Cal, LLC – Kaiser Permanente Sacramento and San Diego GMC  
+ 
+AUDIT PERIOD:   November 1, 2022, through October 31, 2023  
+DATES  OF AUDIT:  October 30 , 2023 , through November 9, 2023  
+  
+ 
+FINDINGS:  There were no deficiencies identified in the current audit.  
+ 
+RECOMMENDATION:  None  
+ 

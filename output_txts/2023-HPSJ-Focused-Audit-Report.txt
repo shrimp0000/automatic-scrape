@@ -1,0 +1,137 @@
+1 
+DHCS AUDITS AN D INVESTIGATIONS 
+CONTRACT AND EN ROLLMENT REVIEW DIVISION 
+REPORT O N TH E FOCUSED AU DIT OF HEALTH 
+PLAN OF SA N JOAQUIN 2 023 
+Contract N umber: 0 4-35401 
+Audit Period: October 1, 2022 Through J uly 31, 2023 
+Dates of A udit: October 30, 2023 Th rough N ovember 9, 2023  
+Report I ssued: August 30, 2024 
+
+2 
+ 
+TABLE OF CONTENTS  
+ 
+I. INTRODUCTION .................................................................................................. 3  
+II. EXECUTIVE SUMMARY ...................................................................................... 5 
+III. SCOPE/AUDIT PROCEDURES ........................................................................... 6  
+IV. COMPLIANCE AUDIT FINDINGS Performance Area: Transportation ....................................................................... 7 
+Category 3 – Access and Availability of Care  
+  
+3 
+ 
+I. INTRODUCTION  
+Background  
+In accordance with California Welfare and Institutions Code section 14456, the Department of Health Care Services (DHCS) may conduct additional reviews outside the annual medical audit when DHCS determines there is good cause.  DHCS directed the Contract and Enrollment Review Division to conduct focused audits of all contracting Medi-Cal Managed Care Plans (Plans) to evaluate current Plans’ performances in the areas of Behavioral Health and Transportation Services.  
+These focused audits differ from DHCS’ regular annual medical audits in scope and depth. The annual medical audits evaluate the Plan’s organizational structures, policies and procedures, and systems for compliance with contractual requirements. The focused  
+audits examined the operational issues that may hinder appropriate and timely member access to medically necessary care. The focused audit engagement formally commenced in January 2023 through December 2023.                                                                     
+For the Behavioral Health section, the focused audit evaluated the Plan’s monitoring activities of specific areas such as Specialty Mental Health Services (SMHS), Non -
+Specialty Mental Health Services (NSMHS), and Substance Use Disorder Services (SUDS). The focused audit also reviewed potential issues that may contribute to the lack of 
+member access to SMHS, NSMHS, and SUDS.  
+The focused audit conducted a more in -depth look at current Plan operations/practices 
+for executing the delivery of transportation services. The audit examined potential 
+causes for the systemic issues surrounding the Non -Emergency Medical Transportation 
+(NEMT) and Non-Medical Transportation (NMT) services, specifically when 
+transportation is delegated to a transportation broker.  
+Health Plan of San Joaquin (Plan) is a non-profit corporation established in 1996. In 2013, the Plan expanded services to Stanislaus County. Furthermore, in 2024, the Plan will expand through partnership to Alpine and El Dorado Counties. The Plan provides medical managed care services to Medi -Cal members and is licensed in accordance with 
+the provisions of the Knox -Keene Health Care Service Plan Act in San Joaquin and 
+Stanislaus Counties.  The Plan is a Two -Plan model serving as the local initiative in both San Joaquin and 
+Stanislaus Counties pursuant to the California Welfare and Institutions Code section 14087.31. On January 1, 2013, the Plan began to serve as the Stanislaus Local Initiati ve. 
+The Plan is governed by an 11-member Health Commission appointed by the San 
+4 
+ 
+Joaquin County (SJC) Board of Supervisors. It is comprised of two SJC Supervisors, a County Administration Officer, the SJC Director of Health Care Services, Hospital Council representative, community physicians, and local representatives.  
+During the audit period, the Plan delegated behavioral health services to Carelon Behavioral Health (formerly known as Beacon Health Options).  
+As of August 31, 2023, the Plan had 457,053 Medi -Cal members, of which 278,680 were 
+in SJC and 178,373 were in Stanislaus County.  
+  
+5 
+ 
+II. EXECUTIVE SUMMARY 
+ This report presents the audit findings of DHCS’ focused audit for the period of October 1, 2022, through July 31, 2023. The audit was conducted from October 30, 2023, through November 9, 2023. The audit consisted of document review, surveys, verification studies, and interviews and file reviews with Plan representatives.  An Exit Conference with the Plan was held on June 27, 2024. The Plan was allowed 15 calendar days from the date of the Exit Conference to provide supplemental information addressing the draft audit report findings. The Plan submitted a response after the E xit 
+Conference. The results of the evaluation of the Plan’s response are reflected in this report.  
+The focused audit evaluated the areas of performance for Behavioral Health and Transportation services.  
+The summary of findings by performance area follows:  
+Performance Area: Behavioral Health 
+Category 2 –  Case Management and Coordination of Care : 
+• Specialty Mental Health Services  
+• Non-Specialty Mental Health Services  
+• Substance Use Disorder Services  Category 3 – Access and Availability of Care  
+There were no findings noted for this category for the audit period.  
+Performance Area: Transportation  
+Category 3 –  Access and Availability of Care  
+• Non-Emergency Medical Transportation  
+• Non-Medical Transportation  
+The Plan is required to have a process in place to ensure door -to-door assistance is 
+provided for all members receiving NEMT services. The Plan did not have a process in place to ensure that door -to-door assistance is provided for all members receiving 
+NEM T services.  
+The Plan is required to conduct monitoring activities of no -show rates for NEMT 
+providers. The Plan did not monitor its NEMT providers no -show rates.   
+6 
+ 
+III. SCOPE/ AUDIT PROCEDURES  
+ 
+SCOPE  
+This focused audit was conducted by the DHCS, Contract and Enrollment Review Division to ascertain the medical services provided to Plan members complied with federal and state laws, Medi -Cal regulations and guidelines, and the State Contract.  
+PROCEDURE  
+On November 3, 2022, DHCS informed Plans that it would conduct focused audits to assess performance in certain identified high -risk areas. The focused audit was 
+concurrently scheduled with the annual medical audit. The focused audit scope encompassed the f ollowing sections: 
+• Behavioral Health - SMHS, NSMHS, and SUDS 
+• Transportation – NEMT and NMT services  
+The audit was conducted from October 30, 2023, through November 9, 2023. The audit included a review of the Plan’s policies for providing services, the procedures used to implement the policies, and verification studies of the implementation and effectiven ess 
+of the policies. Documents were reviewed and interviews were conducted with Plan administrators and staff.  
+The following verification studies were conducted:  
+Category 2 –  Case Management and Coordination of Care  
+SMHS: Nine samples were reviewed to evaluate care coordination with the county Mental Health Plans, as well as compliance with All Plan Letter (APL) requirements.  NSMHS: Five samples were reviewed to evaluate compliance with APL requirements.  SUDS: Four samples were reviewed to evaluate compliance with APL requirements.  
+Category 3 –  Access and Availability of Care  
+NEMT: 14 samples were reviewed to evaluate compliance with APL requirements.  NMT: Ten samples were reviewed to evaluate compliance with APL requirements.  A description of the findings for each category is contained in the following report.  
+ 
+ 
+7 
+ 
+COMPLIANCE AUDIT FINDINGS  
+Performance Area: Transportation – NEMT and NMT  
+Category 3 –  Access and Availability of Care  
+ 
+3.1 Door -to-Door Assistance 
+The Plan shall comply with all existing final Policy Letters and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+The Plan is required to have a process in place to ensure door -to-door assistance is 
+being provided for all members receiving NEMT services. (APL 22 -008 Non -Emergency 
+Medical and Non -Medical Transportation Services and Related Travel Expenses)  
+Plan policy UM55, Emergency Transportation, Non -Emergency Medical Transportation 
+and Related (revised February 2023) states that the Plan has a process in place to ensure door -to-door assistance is being provided for all members receiving NEMT services.  
+Finding:  The Plan did not have a process in place to ensure that door -to-door 
+assistance is provided for all members receiving NEMT services.  
+The Plan’s policy and procedure, UM55, did not detail the process by which the Plan ensures door -to-door assistance is provided for all members receiving NEMT services.  
+The verification study identified 8 out of 12 Physician Certification Statements in which the members required door-to -door assistance; however, there was no documentation 
+that the door -to-door assistance was rendered to the members.  
+In an interview, the Plan stated that it monitors and oversees its NEMT providers through the grievance system, including ensuring that providers meet the door -to-door 
+assistance requirement. Furthermore, the Plan provided a written statement stating that it maintains oversight of the NEMT providers through the grievance process, coordinating leadership discussions at the Quality Management, Utilization Management, and Provider Service level this year.  
+However, the Plan did not provide supportive evidence of the Plan’s efforts to directly monitor their transportation operations to ensure door -to-door assistance was provided 
+to all members.  
+If the Plan does not have a process in place to ensure that door -to-door assistance is 
+provided for all members receiving NEMT services, it may expose members to potential hazards and risks when being transported.  
+8 
+ 
+Recommendation: Revise and implement policies and procedures to ensure door -to-
+assistance is provided to all members needing NEMT services.  
+ 
+3.2 Monitoring Non -Emergency Medical Transportation Provider No -Show 
+Rates 
+The Plan shall comply with all existing final Policy Letters and APLs issued by DHCS. (Contract, Exhibit E, Attachment 2(1)(D))  
+The Plan is responsible for ensuring that their network providers and subcontractors, comply with all applicable state and federal laws and regulations, contract requirements, and other DHCS guidance, including APLs and Policy Letters. The Plan is required to 
+conduct monitoring activities no less than quarterly. Monitoring activities include verification of no -show rates for NEMT providers. (APL 22 -008 Non -Emergency Medical 
+and Non- Medical Transportation Services and Related Travel Expenses)  
+Plan policy UM55, Emergency Transportation, Non -Emergency Medical Transportation 
+and Related (revised 02/2023), states that the Plan will monitor NEMT providers quarterly for arriving within 15 minutes of scheduled appointments consistently, and no -
+show ra tes.  
+Finding:  The Plan did not monitor NEMT providers no- show rates.  
+The Plan did not demonstrate compliance with conducting monitoring activities of NEMT provider no -show rates. The Plan did not provide evidence showing that it 
+monitors NEMT no-show encounters. Consequently, a verification study could not be conducted sinc e the Plan’s universe for NEMT service trip logs did not contain no -show 
+elements.  
+In an interview, the Plan explained that it monitors and oversees its NEMT providers by identifying issues related to NEMT no -show rates through the Plan’s grievance system.  
+However, the Plan’s grievance reports lacked detail on no -show rates of NEMT 
+providers. The Plan did not provide any other documentation to substantiate its efforts to monitor no show rates for NEMT providers.  
+When the Plan does not monitor and ensure the provision of timely NEMT services, members may experience delays in accessing transportation for medically necessary appointments which may adversely impact members' health.  
+Recommendation: Revise and implement policies and procedures to monitor NEMT 
+including but not limited to no-show rates.  

@@ -1,0 +1,286 @@
+ 
+ 
+ 
+ 
+California Department of Health Care Services                                                                    
+Managed Care Quality and Monitoring Division    
+P.O. Box 997413 | Sacramento , CA | 95899-7413  
+MS 4400  | Phone ( 916) 449-5000  | www. dhcs.ca.gov  State of California   
+Gavin Newsom, Governor  
+California Health and Human Services Agency  
+ 
+June 12, 2024 
+ Erika Oduro  
+Regulatory Affairs Manager                                                                            Via E-mail 
+Inland Empire Health Plan 10801 6
+th Street, Suite 120  
+P.O. Box 1800 Rancho Cucamonga, CA 91729  
+  RE:  Department of Health Care Services Medical Audit     
+ 
+ 
+Dear Ms. Oduro : 
+ The Department of Health Care Services (DHCS), Audits and Investigations Division conducted an on-site Medical Audit of Inland Empire Health Plan, a Managed Care Plan (MCP), from September 18, 2023  through September 29, 2023. The audit covered the 
+period from  August 1, 2022, through July 31, 2023. 
+  
+The items were evaluated, and DHCS accepted the MCP’s submitted Corrective Action 
+Plan (CAP). The CAP is hereby closed. The enclosed documents will serve as DHCS’ final response to the MCP’s CAP. Closure of this CAP does not halt any other processes in place between DHCS and the MCP regarding the d eficiencies in the audit report or 
+elsewhere, nor does it preclude the DHCS from taking additional actions it deems necessary regarding these deficiencies.  
+ Please be advised that in accordance with Health & Safety Code Section 1380(h) and the Public Recor ds Act, the final audit report and final CAP remediation document (final 
+Attachment A) will be made available on the DHCS website and to the public upon request.  
+  
+If you have any questions, please reach out to CAP Compliance personnel.  
+ Sincerely,  
+ 
+  [Signa ture on file]  
+ Lyubov Poonka, Chief  
+Audit Monitoring Unit  
+Process Compliance Section  
+DHCS - Managed Care Quality and Monitoring Division (MCQMD)  
+ Enclosures:  Attachment A (CAP Response Form)  
+ cc:      Stacy Nguyen , Chie f               Via  E-mail 
+Managed Care Monitoring Branch  
+DHCS - Managed Care Quality and Monitoring Division (MCQMD)  
+ Grace McGeough,  Chief Via E-mail  
+Process Compliance Section  
+Managed Care Monitoring Branch  
+DHCS - Managed Care Quality & Monitoring Division (MCQMD)  
+ 
+Diana O’Neal , Lead Analyst                                                              Via E-mail 
+Audit Monitoring Unit  
+Process Compliance Section  
+DHCS - Managed Care Quality & Monitoring Division (MCQMD)  
+ 
+Aldo Flores , Unit Chief                Via  E-mail 
+Managed Care Contract Oversight Branch  
+DHCS – Managed Care Operations Division (MCOD)  
+ Rebeca Cabiedes , Contract Manager                                               Via E-mail  
+Managed Care Contract Oversight Branch  
+DHCS – Managed Care Operations Division (MCOD)  
+ATTACHMENT A  
+Corrective Action Plan  Response Form  
+ 
+Plan: Inland Empire Health Plan           Review Period: 08/01/2022 – 07/31/2023  
+Audit Type: Medical Audit                            On-site Review:  09/18/2023 – 09/29/2023  
+1 
+ 
+ 
+MCPs are required to provide a C orrective Action Plan (C AP) and respond to all documented deficiencies  included in  the medical audit report within 30 calendar 
+days unless an alternative timeframe is indicated in the CAP Request letter.  MCPs are required to submit the CAP in Word format , which will reduce the turnaround 
+time for DHCS to complete its review. According to ADA requirements , the document should be at least 12 pt.  
+ 
+The CAP submission must include a written statement identifying the deficiency and describing the plan of action taken to correct the deficiency, as well as the 
+operational results of that action.  The MCP shall directly address each deficiency component by completing the following columns provided for MCP res ponse: 1. 
+Finding  Number and Summary , 2. Action Taken, 3. Supporting  Documentation, and 4. Completion/Expected Completion Date. The MCP must  include a project 
+timeline with milestones in a separate document for each finding. Supporting documentation should accompany each Action Taken. If supporting documentation 
+is missing, the MCP submission will not be accepted.  For policies and other documentation tha t have been revised, please highlight the new relevant text and 
+include additional details, such as the title of the document, page number, revision date, etc.,  in the column “Supporting Documentation” to assist DHCS in 
+identifying any updates that were made by the plan. Implementing deficiencies requiring short -term corrective action  should be completed within 30 calendar 
+days. For deficiencies that may be reasonably determined to require long-term corrective action for a period longer than 30 days to reme dy or operationalize 
+completely , the MCP is to indicate that it has initiated remedial action and is on the way toward  achieving an acceptable level of compliance. In those instances, the 
+MCP must include the date when full compliance will be completed in addition to the above steps. Policies and procedures submitted during the CAP process must 
+still be sent to the MCP’s Contract Manager for review and approval, as applicable , according to  existing requirements.  
+ Please note that DHCS expects the plan to ta ke swift action to implement improvement interventions as proposed in the CAP; therefore, DHCS 
+encourages all remediation efforts to be in place no later than month 6 of the CAP unless DHCS grants prior approval for an extended implementation 
+effort . 
+ DHCS will communicate closely with the MCP throughout the CAP process and provide technical assistance to confirm that the MCP offers sufficient documentation to correct deficiencies. Depending on the number  and complexity of deficiencies identified, DHCS may require the MCP to provide weekly updates.  
+2 1. Utilization Management 
+Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+1.1.1 Utilization Management Program Updates and Improvements  
+ The Plan did not ensure continuous updates and improvements to the UM program to ensure the provision of medically necessary covered services.  1. Removed Biofeedback training from auto- approval rules effective 
+October 3, 2023  
+ 
+2. Removed Gait Training from auto-
+approval rules effective February 7, 2024.  
+ 
+3. Enhanced retrospective review by conducting focused reviews of auto-authorized services based on 
+all diagnosis submitted.  1.a_1.1.1_UM Prior 
+Auth Approvable List Meeting Minutes 07/11/23  
+ 1.b_1.1.1_UM Subcommittee Agenda 02/14/24 (Pending)  
+ 1.c_1.1.1_UM Subcommittee_Auto Auth Rule Changes (Pending)  
+ 2.a_1.1.1_Blastfax - 
+Prior Auth Requirements for Gait Training   
+3.a_1.1.1_Narrative - 
+Auto-Authorization 
+& Oversight Process  10/3/23  
+        
+2/7/24  
+   
+2/1/24  The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ 
+POLICIES AND PROCEDURES  
+  
+• “Fax Blast - Change to PT Authorization Process to Avoid Potential 
+Overutilization” demonstrates the MCP notified providers that Gait training from auto -approval effective 2/7/24 to prevent 
+overutilization. (2.a_1.1.1_Blastfax - Prior Auth Requirements for Gait 
+Training)  
+ • “UM Subcommittee Agenda from 2/14/24” and “UM Subcommittee Auto Auth Rule Changes PowerPoint” demonstrate the MCP’s implementation of the removal of biofeedback training from auto auth approval rules. (1.1.1_UM Subcommittee Agenda 021424 & 1.1.1 UMSC Presentation Q3 2023 - Automated Authorizations)  
+ OVERSIGHT AND MONITORING  
+ 
+• Policy “MED_UM 4.cc Auto Approve Process & Oversight” has been updated to strengthen retrospective review of auto -autho rized 
+services. ( 3.c_1.1.1_MED_UM 04.cc - Auto Approval Process & 
+Oversight_Redlined)  
+3 Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+ 
+3.b_1.1.1_MED_UM 04.cc - Auto 
+Approval Process & Oversight_Clean  
+ 3.c_1.1.1_MED_UM 04.cc - Auto 
+Approval Process & Oversight_Redlined   
+• UM Quality Assurance Standard Operating Procedure describes the MCP’s process for determining which auto -authorized services will 
+undergo a focused review for appropriateness of the request.  UM Clinical QA Auditor will review the clinical criteria for service in question and based off the clinical indications filter the report for any auto -authorized cases with an unrelated diagnosis.  Those 
+auto-authorized cases with unrelated diagnosis will be 
+automatically selected for focused review.  (1.1.1 UM QA_Auto Auth)  
+ • “QA for Auto Auth Approval Audit” example the MCP process for auditing auto approved services retrospectively is active.  (1.1.1 Retro Review – MBBs)  
+ 
+The corre ctive action plan for finding 1.1.1 is accepted.  
+1.1.2 Mechanisms to 
+Detect Overutilization of Behavioral Health Treatment Services  
+ 
+The Plan’s UM program did not have 
+a mechanism to 1. Updated policies and procedures 
+to memorialize the Plan’s intent to monitor BHT referral and claims data for the purpose of detecting overutilization of such services.  
+ 
+2. Planned to begin monitoring BHT referrals and claims data for 
+overutilization by Quarter 2 2024.  1.a_1.1.2_M ED_UM 
+05.e - Over and 
+Under Utilization Tracking and Reporting_Clean  
+ 
+1.b_1.1.2_MED_UM 05.e - Over and 
+Under Utilization 2/1/24  
+       
+ The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ POLICIES AND PROCEDURES  
+ 
+ 
+• Policy “MED_UM 5.e Over and Under Utilization Tracking and Reporting” was updated to include reporting on a quarterly basis Behavioral Health Department Utilization Reports including 
+Behavioral Health Treatment referral; and claims reports to detect 
+4  
+ 
+  Finding Number 
+and Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+detect over utilization 
+of BHT services.  Tracking and 
+Reporting_Redlined  
+  2.a_1.1.2_Narrative - 
+Monitoring BHT for Overutilization  
+ 2.b_1.1.2 - UM 
+Subcommittee Agenda_ Q2 2024 (Pending)  
+ 2.c_1.1.2 - HICE 
+Report_UMSC Q2 2024 (Pending)   
+5/31/24  overutilization. (1.a_1.1 .2_MED_UM 05.e - Over and Under 
+Utilization Tracking and Reporting_Clean)    
+  
+OVERSIGHT AND MONITORING   
+  
+• Plan submitted the following documents to demonstrate measuring of BHT authorization claims are being monitored for over -utilization 
+and being reported to the appropriate committee:  
+ 
+  
+• “UM Subcommittee Agenda 5/8/24” demonstrates the MCP presented its report on BHT overutilization to the committee. (2.c_1.1.2 - HICE Report_UMSC Q2 2024)   
+ 
+ 
+• The “Health Industry Collaboration Effort (HICE) report summary” 
+demonstrates the MCP is monitoring BHT authorization claims.   The 
+report reviewed over- utilization against the established threshold 
+of 40 hours per week.   (2.c_1.1.2 - HICE Report_UMSC Q2 2024)   
+ 
+The corrective action plan for finding 1.1.2 is ac cepted.  
+5  
+4. Member’s Rights 
+Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+4.1.1 Quality of Care 
+Resolution Letters  
+ The Plan’s QOC grievance resolution letters did not contain 
+an explanation of the Plan’s decision.  3. Updated policies and procedures to ensure that QOC grievance resolution letters provide clear and concise explanation of the Plan’s decision.  
+ 
+4. Implemented an updated QOC resolution letter to omit the taglines related to California Evidence Code Section 1157.  
+ 
+5. Re-trained Team Members to ensure that QOC resolution letters include specific details that explain the Plan’s decision.  
+ 
+6. Continued to perform a daily Quality Assurance (QA) review process to ensu re resolution letters 
+adhere to this new process before these are mailed out to Members.  1.a - 
+4.1.1_MED_GRV 02 - Member 
+Grievance Resolution Process_Clean  
+ 1.b - 
+4.1.1_MED_GRV 02 - Member 
+Grievance Resolution Process_Redlined  
+ 2.a - 
+4.1.1_Grievance QOC Re solution 
+Template  
+ 2.b - 
+4.1.1_Grievance QOC Resolution 
+1/8/24  
+      
+1/8/24  
+            
+1/4/24  
+ 
+ The following documentation supports the MCP’s efforts to correct this 
+finding:  
+ POLICIES AND PROCEDURES  
+ • P&P’s, “Med -GRV 2”, “Member Grievance Resolution System – Medi -
+Cal”, (01/01/24) demonstrates the Plan has updated its policy on grievance resolution system to demonstrate that quality of care (QOC) grievance resolution letters contains clear and concise explanation of the Plan’s decision.  
+  OVERSIGHT AND MONITORING  
+ • Audit Review, “Resolution Letter Quality Review” (12/08/23 – 12/22/23) demonstrates the Plan has daily reviews to verify QOC resolution letters contain a clear and concise explanation of the Plan’s decision, as well as weekly meetings with the Grievance Appeals Leadership Team to evaluate quality scores, any patterns and remediation activities as needed.  
+ 
+• Resolution Letter Template Language, “Grievance QOC Resolution 
+Templates” (01/2024) demonstrates the Plan has developed a matrix 
+6 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+Letter Sample 
+1_Redacted  
+ 2.c - 
+4.1.1_Grievance QOC Resolution Letter Sample 2_Redacted  
+ 2.d - 
+4.1.1_Grievance QOC Resolution Letter Sample 3_Redacted  
+ 3.a - 
+4.1.1_Resolution Letter Training 2023 Redacted  
+ 
+4.a – 
+4.1.1_Resolution Letter QA 
+Process   
+   
+1/8/24  of template language for commonly seen grievance resolutions that 
+Team Members can use to provide clear and concise explanation  of 
+the Plan’s decision.  
+ • Redacted Revised Resolution Letters, (01/16/24) demonstrates the Plan has implemented a QOC grievance resolution letter template which exclude the use of CA Evidence code 1157 and to make certain that a clear and concise explanati on of the Plan’s decision is given to 
+the members.  
+ • Revised Job Aid, “DTR -DHCS Audit Response – GA QOC Resolution 
+Letter QA review” (12/13/23) Revision to Step 5 to include screenshot of resolution letter verbiage. Revision to Background to include, “The resolution letter verbiage is reviewed to confirm QOC grievance resolution letters include the explanation of the Plan’s decision in a clear and concise manner.”  
+  
+TRAINING  
+ 
+• Training, “QOC Resolution Letter Update”, (01/02/24 – 01/04/24) 
+demonstrates the Plan trained its QA Teams staff on the revised process on the importance of documenting dissatisfaction details of 
+the Plan’s investigation and any documentation related to the 
+7  Submitted by: Lourdes Nery  
+Title:  Compliance Officer  
+ Signed by:  [Signature on File]  
+Date: February 7, 2024 Finding Number and 
+Summary  Action Taken  Supporting 
+Documentation  Implementation 
+Date *  
+(*Short -Term, Long -Term) DHCS Comments  
+resolution process in order to provide clear and concise 
+communication to the members.  
+ 
+The corrective action plan for finding 4.1.1 is accepted.  
